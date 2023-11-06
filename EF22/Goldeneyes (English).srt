@@ -958,11 +958,11 @@ GOLDENEYES
 227
 00:11:07,110 --> 00:11:12,199
 ♪ light-filled wonder ♪
-♪ That lets their aura still. ♪
+♪ Lets their aura still. ♪
 
 228
-00:11:13,552 --> 00:11:16,882
-♪ Give me my path, I'll go through them  ♪
+00:11:13,370 --> 00:11:16,882
+♪ Give them my path, I'll go through them  ♪
 
 229
 00:11:16,961 --> 00:11:19,640
@@ -970,7 +970,7 @@ GOLDENEYES
 
 230
 00:11:20,564 --> 00:11:26,058
-♪ Golden Eyes so they can see their last light ♪
+♪ Goldeneyes so they can see their last light ♪
 
 231
 00:11:52,510 --> 00:11:58,963
@@ -1005,7 +1005,7 @@ GOLDENEYES
 
 238
 00:12:28,799 --> 00:12:34,720
-♪ Golden Eyes so they can see their last light. ♪
+♪ Goldeneyes so they can see their last light. ♪
 
 239
 00:12:35,880 --> 00:12:42,960
@@ -1014,7 +1014,7 @@ GOLDENEYES
 
 240
 00:12:43,080 --> 00:12:49,923
-♪ Golden eyes, you'll be forever mine ♪
+♪ Goldeneyes, you'll be forever mine ♪
 
 241
 00:13:36,877 --> 00:13:39,996
@@ -1026,7 +1026,7 @@ GOLDENEYES
 
 243
 00:13:44,000 --> 00:13:50,087
-♪ Golden eyes so they can see their last light. ♪
+♪ Goldeneyes so they can see their last light. ♪
 
 244
 00:13:51,103 --> 00:13:54,545
@@ -1038,7 +1038,7 @@ GOLDENEYES
 
 246
 00:13:58,440 --> 00:14:03,742
-♪ Golden eyes, you'll be forever, ever, ever ♪
+♪ Goldeneyes, you'll be forever, ever, ever ♪
 
 247
 00:14:04,662 --> 00:14:07,654
@@ -1046,7 +1046,7 @@ GOLDENEYES
 
 248
 00:14:08,214 --> 00:14:11,840
-♪ Golden eyes ♪
+♪ Goldeneyes ♪
 
 249
 00:14:11,865 --> 00:14:18,568
@@ -2472,7 +2472,7 @@ Your wish is my command.
 
 578
 00:30:45,800 --> 00:30:49,160
-Golden Eyes, you can't
+Goldeneyes, you can't
 leave so close to the wedding.
 
 579
@@ -4321,7 +4321,7 @@ Over there.
 
 1017
 00:50:40,360 --> 00:50:44,280
-Isn't that the good lady Golden Eyes?
+Isn't that the good lady Goldeneyes?
 
 1018
 00:50:44,400 --> 00:50:46,920
@@ -6160,7 +6160,7 @@ The idiot on the carriage,
 
 1462
 01:10:27,240 --> 01:10:29,400
-he mentioned Lady Golden Eyes.
+he mentioned Lady Goldeneyes.
 
 1463
 01:10:29,520 --> 01:10:30,240
@@ -6168,7 +6168,7 @@ Oh,
 
 1464
 01:10:30,360 --> 01:10:32,440
-the wonderful Lady Golden Eyes.
+the wonderful Lady Goldeneyes.
 
 1465
 01:10:32,560 --> 01:10:34,080
@@ -6675,7 +6675,7 @@ This will be our little secret.
 
 1585
 01:15:51,600 --> 01:15:54,800
-Golden Eyes! Wake up,
+Goldeneyes! Wake up,
 
 1586
 01:15:54,920 --> 01:15:55,040
@@ -6905,7 +6905,7 @@ There's no other way.
 
 1641
 01:17:35,640 --> 01:17:37,160
-I love your golden eyes.
+I love your Goldeneyes.
 
 1642
 01:17:37,280 --> 01:17:38,720
@@ -6981,7 +6981,7 @@ wearing the Tree of Knowledge.
 1659
 01:18:29,880 --> 01:18:33,240
 I wonder what kind of dress
-Lady Golden Eyes is going to wear.
+Lady Goldeneyes is going to wear.
 
 1660
 01:18:33,360 --> 01:18:34,720
@@ -7067,7 +7067,7 @@ and long-time consultant to the house,
 1679
 01:19:26,280 --> 01:19:30,280
 receive the hand of our
-beloved Lady Golden Eyes,
+beloved Lady Goldeneyes,
 
 1680
 01:19:30,400 --> 01:19:32,560
@@ -7075,7 +7075,7 @@ Princess of Fire and Forge.
 
 1681
 01:19:47,040 --> 01:19:49,600
-My dearest Golden Eyes,
+My dearest Goldeneyes,
 
 1682
 01:19:49,720 --> 01:19:54,720
@@ -7196,7 +7196,7 @@ No.
 
 1708
 01:21:10,480 --> 01:21:11,680
-Golden Eyes,
+Goldeneyes,
 
 1709
 01:21:11,800 --> 01:21:13,800
@@ -8809,7 +8809,7 @@ And it's a wedding ring.
 
 2091
 01:37:46,520 --> 01:37:48,160
-Golden eyes and quicksilver.
+Goldeneyes and quicksilver.
 
 2092
 01:37:48,280 --> 01:37:49,040
@@ -11309,7 +11309,7 @@ He can hear us
 
 2681
 02:09:12,960 --> 02:09:14,440
-Golden eyes,
+Goldeneyes,
 
 2682
 02:09:14,560 --> 02:09:15,720
@@ -11325,7 +11325,7 @@ Okay,
 
 2685
 02:09:19,240 --> 02:09:21,840
-now this is my plan Golden eyes
+now this is my plan Goldeneyes
 
 2686
 02:09:21,960 --> 02:09:23,256
@@ -11782,7 +11782,7 @@ I would Oh, shh! I think they are coming
 
 2790
 02:15:17,280 --> 02:15:24,320
-Golden Eyes, I know you are
+Goldeneyes, I know you are
 here Come out and show yourself
 
 2791
@@ -11824,7 +11824,7 @@ But I can hear you perfectly from over here
 
 2800
 02:15:43,960 --> 02:15:45,920
-I want Golden Eyes
+I want Goldeneyes
 
 2801
 02:15:46,040 --> 02:15:50,200
@@ -11852,7 +11852,7 @@ And then we will get him
 
 2807
 02:15:58,560 --> 02:16:00,520
-Golden Eyes is not here
+Goldeneyes is not here
 
 2808
 02:16:00,640 --> 02:16:02,640
