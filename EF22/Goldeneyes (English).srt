@@ -5514,19 +5514,19 @@ And rest in peace.
 
 1302
 01:04:17,640 --> 01:04:21,240
-Finally, we're getting
+Oh finally, we're getting
 out of this damn forest.
 
 1303
-01:04:21,360 --> 01:04:23,120
-I still have no idea where we are,
+01:04:21,304 --> 01:04:23,421
+I still have no idea where we are, but
 
 1304
-01:04:23,240 --> 01:04:25,000
-but where there's a road,
+01:04:23,889 --> 01:04:25,000
+where there's a road,
 
 1305
-01:04:25,120 --> 01:04:26,240
+01:04:25,026 --> 01:04:26,649
 there must be a destination.
 
 1306
@@ -5535,24 +5535,24 @@ This must be one of the old
 roads that the humans built.
 
 1307
-01:04:30,320 --> 01:04:32,000
-What makes you think that?
+01:04:30,256 --> 01:04:32,000
+Hm, what makes you think that?
 
 1308
-01:04:32,120 --> 01:04:34,000
+01:04:32,120 --> 01:04:33,897
 Well, because it's made of concrete.
 
 1309
-01:04:34,120 --> 01:04:36,400
+01:04:34,064 --> 01:04:36,756
 Oh, well, a good thing
 it's not made of abstract.
 
 1310
-01:04:37,480 --> 01:04:38,600
+01:04:37,796 --> 01:04:38,916
 Very funny.
 
 1311
-01:04:39,760 --> 01:04:41,880
+01:04:39,513 --> 01:04:41,633
 Concrete is a sort of man-made rock.
 
 1312
@@ -5566,7004 +5566,6996 @@ Everything that needed
 to last centuries or longer.
 
 1314
-01:04:47,440 --> 01:04:48,440
+01:04:47,384 --> 01:04:48,567
 Like this road here.
 
 1315
-01:04:49,320 --> 01:04:51,800
+01:04:49,613 --> 01:04:52,093
 You're like a walking lexiclopedia.
 
 1316
-01:04:53,880 --> 01:04:55,640
+01:04:53,847 --> 01:04:55,883
 It's encyclopedia.
 
 1317
-01:04:57,920 --> 01:05:00,120
+01:04:58,134 --> 01:05:00,334
 You're so cute when
 you try to talk like me.
 
 1318
-01:05:02,360 --> 01:05:04,600
+01:05:02,939 --> 01:05:04,600
 Don't you think we make a great team?
 
 1319
-01:05:04,720 --> 01:05:07,080
+01:05:04,687 --> 01:05:07,080
 I'm all theory and you're all practice.
 
 1320
-01:05:07,200 --> 01:05:12,760
+01:05:07,448 --> 01:05:12,911
 I think you mean I do all the heavy
-lifting and you won't stop talking.
+lifting and you won't stop talking, huh?
 
 1321
-01:05:12,880 --> 01:05:15,880
+01:05:14,807 --> 01:05:15,969
 I need a break.
 
 1322
-01:05:16,000 --> 01:05:18,440
+01:05:16,158 --> 01:05:18,598
 My back is killing me.
 
 1323
-01:05:19,600 --> 01:05:20,320
-Well,
+01:05:19,600 --> 01:05:21,249
+Well, then
 
 1324
-01:05:20,440 --> 01:05:21,040
-then
-
-1325
-01:05:21,160 --> 01:05:22,680
+01:05:21,493 --> 01:05:23,153
 come over here and
 
-1326
-01:05:23,760 --> 01:05:25,320
+1325
+01:05:23,831 --> 01:05:25,320
 sit down for a moment.
 
-1327
-01:05:25,440 --> 01:05:26,280
+1326
+01:05:25,404 --> 01:05:26,280
 What for?
 
+1327
+01:05:26,400 --> 01:05:27,364
+Just do it, ok?
+
 1328
-01:05:26,400 --> 01:05:27,240
-Just do it.
+01:05:27,654 --> 01:05:28,654
+Okay.
 
 1329
-01:05:27,360 --> 01:05:28,360
-Okay.
-
-1330
-01:05:32,480 --> 01:05:34,120
+01:05:33,916 --> 01:05:34,789
 What?
 
+1330
+01:05:42,319 --> 01:05:43,646
+Oh, that's good!
+
 1331
-01:05:36,200 --> 01:05:37,840
-Oh,
-
-1332
-01:05:42,560 --> 01:05:43,960
-that's good.
-
-1333
-01:05:44,080 --> 01:05:46,080
+01:05:44,242 --> 01:05:45,895
 Please don't stop.
 
-1334
-01:05:46,200 --> 01:05:48,840
+1332
+01:05:45,951 --> 01:05:48,840
 See, I'm not all that useless, am I?
 
+1333
+01:05:48,865 --> 01:05:51,592
+Wow! Your muscles are really tense.
+
+1334
+01:05:54,636 --> 01:05:56,305
+If it hurts, tell me, ok?
+
 1335
-01:05:48,960 --> 01:05:51,320
-Your muscles are really tense.
-
-1336
-01:05:54,280 --> 01:05:56,200
-If it hurts, tell me.
-
-1337
-01:05:56,320 --> 01:05:59,320
+01:05:56,766 --> 01:05:59,596
 I don't think that you can even hurt me.
 
-1338
-01:05:59,440 --> 01:06:01,160
-Sorry.
+1336
+01:05:59,621 --> 01:06:01,160
+Sorry, sorry!
 
-1339
-01:06:01,280 --> 01:06:02,720
+1337
+01:06:01,878 --> 01:06:02,756
 No, no, no.
 
-1340
+1338
 01:06:02,840 --> 01:06:03,840
-Gone.
+Go on.
 
-1341
+1339
 01:06:03,880 --> 01:06:07,200
-It hurts, but it hurts so good.
+It hurts, but it hurts so good!
 
-1342
-01:06:07,320 --> 01:06:08,320
+1340
+01:06:07,510 --> 01:06:08,510
 Okay.
 
-1343
-01:06:10,760 --> 01:06:13,560
+1341
+01:06:12,216 --> 01:06:13,560
 You know what?
 
-1344
-01:06:13,680 --> 01:06:16,560
+1342
+01:06:14,318 --> 01:06:16,560
 I've never felt safer than with you around.
 
-1345
-01:06:16,680 --> 01:06:19,400
+1343
+01:06:17,052 --> 01:06:19,521
 And I usually don't trust people easily.
 
-1346
-01:06:21,280 --> 01:06:22,600
+1344
+01:06:21,416 --> 01:06:22,600
 Really?
 
-1347
-01:06:22,720 --> 01:06:25,320
-But you know so much about the world.
+1345
+01:06:22,799 --> 01:06:25,320
+But you know so much about the world!
 
-1348
-01:06:25,440 --> 01:06:28,320
+1346
+01:06:25,819 --> 01:06:29,020
 I have learned more from you
 than from any other class before.
 
-1349
-01:06:29,320 --> 01:06:33,320
+1347
+01:06:29,508 --> 01:06:33,207
 And at school, you were the only
 one who didn't make fun of me.
 
-1350
-01:06:33,440 --> 01:06:35,440
+1348
+01:06:33,382 --> 01:06:35,190
 That means a lot to me.
 
-1351
-01:06:35,560 --> 01:06:36,960
+1349
+01:06:35,754 --> 01:06:37,055
 Well, you're lucky then.
 
-1352
-01:06:37,080 --> 01:06:39,240
+1350
+01:06:37,080 --> 01:06:39,410
 It seems we are stuck
 with each other for a while.
 
-1353
-01:06:40,240 --> 01:06:42,720
+1351
+01:06:40,736 --> 01:06:42,720
 It could be a lot worse, right?
 
-1354
-01:06:42,840 --> 01:06:43,840
+1352
+01:06:42,872 --> 01:06:43,872
 Yeah, sure could.
 
-1355
-01:06:45,200 --> 01:06:47,360
+1353
+01:06:45,519 --> 01:06:47,197
 By the way, I'm getting hungry.
 
-1356
-01:06:47,480 --> 01:06:50,400
+1354
+01:06:47,456 --> 01:06:50,376
 I could really go for a piece
-of roasted pig right now.
+of roasted pigrat right now.
 
-1357
-01:06:50,520 --> 01:06:52,520
+1355
+01:06:51,161 --> 01:06:52,520
 Is there any left?
 
-1358
-01:06:52,640 --> 01:06:53,840
+1356
+01:06:52,708 --> 01:06:53,840
 Oh, thank you.
 
-1359
-01:06:53,960 --> 01:06:54,840
+1357
+01:06:53,960 --> 01:06:54,935
 Oh, yeah, yeah, sure.
 
-1360
+1358
 01:06:54,960 --> 01:06:56,520
 There should be plenty left.
 
-1361
+1359
 01:06:56,640 --> 01:06:57,640
 It's ra...
 
-1362
-01:06:59,440 --> 01:07:01,960
+1360
+01:06:59,440 --> 01:07:01,747
 Where the hell did my bag go?
 
-1363
-01:07:02,080 --> 01:07:03,440
+1361
+01:07:02,022 --> 01:07:03,440
 Uh, what?
 
-1364
+1362
 01:07:03,560 --> 01:07:06,120
 I could swear I put it right here.
 
-1365
-01:07:06,240 --> 01:07:08,640
+1363
+01:07:07,268 --> 01:07:08,762
 I can still smell it.
 
-1366
-01:07:11,960 --> 01:07:16,240
+1364
+01:07:12,536 --> 01:07:16,360
 Oh, by the way, these are the
 remnants of an old communication system
 
-1367
-01:07:16,360 --> 01:07:19,400
+1365
+01:07:16,385 --> 01:07:19,400
 that was ancient even by human standards.
 
-1368
-01:07:19,520 --> 01:07:20,880
+1366
+01:07:19,472 --> 01:07:20,880
 And it was used to...
 
-1369
-01:07:21,000 --> 01:07:22,120
+1367
+01:07:21,531 --> 01:07:22,559
 People could...
 
-1370
-01:07:25,160 --> 01:07:28,200
+1368
+01:07:27,019 --> 01:07:28,082
 Uh-huh.
 
-1371
+1369
 01:07:28,320 --> 01:07:30,720
 I think I found a thief.
 
-1372
-01:07:30,840 --> 01:07:33,320
+1370
+01:07:31,057 --> 01:07:33,320
 Hey, I know you're in there.
 
-1373
-01:07:33,440 --> 01:07:34,960
-Give us our food back.
+1371
+01:07:33,419 --> 01:07:35,220
+Give us our food back!
 
-1374
+1372
 01:07:36,800 --> 01:07:39,920
 Hey there, open up.
 
-1375
+1373
 01:07:40,040 --> 01:07:44,840
 Whoa, whoa, whoa, whoa! What?
 
-1376
+1374
 01:07:44,960 --> 01:07:46,720
 Okay, you want trouble?
 
-1377
+1375
 01:07:46,840 --> 01:07:48,320
 You can get trouble.
 
-1378
+1376
 01:07:48,440 --> 01:07:52,600
 I am going to puff and puff and shake
 
-1379
+1377
 01:07:52,720 --> 01:07:54,320
 this...
 
-1380
+1378
 01:07:54,440 --> 01:07:56,800
 We give up.
 
-1381
+1379
 01:07:56,920 --> 01:07:57,920
 Here's your food.
 
-1382
+1380
 01:08:01,760 --> 01:08:03,320
 What?
 
-1383
+1381
 01:08:03,440 --> 01:08:05,160
 There's barely half of it left.
 
-1384
+1382
 01:08:05,280 --> 01:08:06,280
 You thieves.
 
-1385
+1383
 01:08:08,240 --> 01:08:10,080
 Have mercy.
 
-1386
+1384
 01:08:10,200 --> 01:08:12,040
 It's hard to get by these days.
 
-1387
+1385
 01:08:12,160 --> 01:08:12,920
 So hard.
 
-1388
+1386
 01:08:13,040 --> 01:08:16,720
 We've been living on
 nothing but grubs today.
 
-1389
+1387
 01:08:16,840 --> 01:08:18,200
 And yesterday.
 
-1390
+1388
 01:08:18,320 --> 01:08:19,800
 And tomorrow.
 
-1391
+1389
 01:08:19,920 --> 01:08:21,056
 Now that didn't make any sense.
 
-1392
+1390
 01:08:21,080 --> 01:08:22,080
 Of course it didn't.
 
-1393
+1391
 01:08:23,200 --> 01:08:25,320
 Then you brought pig rats.
 
-1394
+1392
 01:08:25,440 --> 01:08:30,640
 So tasty.
 
-1395
+1393
 01:08:30,760 --> 01:08:32,480
 So... Stop!
 
-1396
+1394
 01:08:34,520 --> 01:08:36,640
 I think we got the message.
 
-1397
+1395
 01:08:36,760 --> 01:08:39,640
 So you're living in this
 
-1398
+1396
 01:08:39,760 --> 01:08:40,640
 thing?
 
-1399
+1397
 01:08:40,760 --> 01:08:41,360
 Phone booth.
 
-1400
+1398
 01:08:41,480 --> 01:08:42,200
 Whatever.
 
-1401
+1399
 01:08:42,320 --> 01:08:43,640
 Oh, yes, yes, yes.
 
-1402
+1400
 01:08:43,760 --> 01:08:44,840
 Most definitely, yes.
 
-1403
+1401
 01:08:44,960 --> 01:08:46,480
 Always have.
 
-1404
+1402
 01:08:46,600 --> 01:08:48,120
 Always will.
 
-1405
+1403
 01:08:48,240 --> 01:08:50,280
 Then you can tell me where we are, right?
 
-1406
+1404
 01:08:50,400 --> 01:08:51,480
 Of course.
 
-1407
+1405
 01:08:51,600 --> 01:08:52,920
 Why do you even ask?
 
-1408
+1406
 01:08:53,040 --> 01:08:54,560
 It's so obvious.
 
-1409
+1407
 01:08:56,320 --> 01:08:57,800
 Okay,
 
-1410
+1408
 01:08:57,920 --> 01:08:59,480
 then, okay.
 
-1411
+1409
 01:08:59,600 --> 01:09:00,880
 Where are we?
 
-1412
+1410
 01:09:01,000 --> 01:09:03,320
 You are no longer where you came from.
 
-1413
+1411
 01:09:03,440 --> 01:09:05,160
 You're not yet where you're going.
 
-1414
+1412
 01:09:05,280 --> 01:09:08,760
 Right now, you are right here.
 
-1415
+1413
 01:09:08,880 --> 01:09:11,040
 Are you making fun of us?
 
-1416
+1414
 01:09:12,120 --> 01:09:13,000
 Are you?
 
-1417
+1415
 01:09:13,120 --> 01:09:14,120
 No.
 
-1418
+1416
 01:09:14,160 --> 01:09:15,040
 Are you?
 
-1419
+1417
 01:09:15,160 --> 01:09:15,520
 No.
 
-1420
+1418
 01:09:15,640 --> 01:09:16,640
 Are you?
 
-1421
+1419
 01:09:17,680 --> 01:09:18,800
 I don't think we are.
 
-1422
+1420
 01:09:22,240 --> 01:09:23,240
 Now
 
-1423
+1421
 01:09:24,800 --> 01:09:26,400
 listen to me.
 
-1424
+1422
 01:09:26,520 --> 01:09:28,600
 Do you see this guy over there?
 
-1425
+1423
 01:09:29,200 --> 01:09:30,200
 Hi.
 
-1426
+1424
 01:09:30,560 --> 01:09:32,200
 That is Raindancer.
 
-1427
+1425
 01:09:32,320 --> 01:09:34,440
 And he knows how to set things on fire.
 
-1428
+1426
 01:09:37,240 --> 01:09:40,720
 This includes that funny
 chicken shed of yours.
 
-1429
+1427
 01:09:40,840 --> 01:09:41,840
 Phone booth.
 
-1430
+1428
 01:09:42,520 --> 01:09:45,720
 So if you want to see
 the light of another day,
 
-1431
+1429
 01:09:45,840 --> 01:09:47,680
 you better stop playing games with me.
 
-1432
+1430
 01:09:47,800 --> 01:09:49,320
 Do you hear me, Mr.
 
-1433
+1431
 01:09:49,440 --> 01:09:50,440
 Rubber Chicken?
 
-1434
+1432
 01:09:51,240 --> 01:09:52,520
 I'm a rubber chicken.
 
-1435
+1433
 01:09:56,840 --> 01:09:59,480
 I wonder if they taste like one.
 
-1436
+1434
 01:09:59,600 --> 01:10:01,240
 All right, all right.
 
-1437
+1435
 01:10:01,360 --> 01:10:02,440
 You win.
 
-1438
+1436
 01:10:02,560 --> 01:10:03,600
 We lose.
 
-1439
+1437
 01:10:04,840 --> 01:10:06,280
 My neck pipe.
 
-1440
+1438
 01:10:06,400 --> 01:10:07,680
 It's gone.
 
-1441
+1439
 01:10:07,800 --> 01:10:10,520
 One last time.
 
-1442
+1440
 01:10:10,640 --> 01:10:12,200
 Where are we?
 
-1443
+1441
 01:10:12,320 --> 01:10:14,440
 You are on the road to Iron Forge.
 
-1444
+1442
 01:10:14,560 --> 01:10:16,720
 The glorious capital of the Iron Land.
 
-1445
+1443
 01:10:16,840 --> 01:10:21,840
 The city of milk and pancakes.
 
-1446
+1444
 01:10:21,960 --> 01:10:23,640
 Iron Forge.
 
-1447
+1445
 01:10:23,760 --> 01:10:25,680
 Now that makes a lot of sense.
 
-1448
+1446
 01:10:25,800 --> 01:10:27,120
 The idiot on the carriage,
 
-1449
+1447
 01:10:27,240 --> 01:10:29,400
 he mentioned Lady Goldeneyes.
 
-1450
+1448
 01:10:29,520 --> 01:10:30,240
 Oh,
 
-1451
+1449
 01:10:30,360 --> 01:10:32,440
 the wonderful Lady Goldeneyes.
 
-1452
+1450
 01:10:32,560 --> 01:10:34,080
 Princess of Iron Forge.
 
-1453
+1451
 01:10:34,200 --> 01:10:37,000
 Her eyes are so golden.
 
-1454
+1452
 01:10:38,200 --> 01:10:39,040
 So
 
-1455
+1453
 01:10:39,160 --> 01:10:41,400
 That's where they've
 been trying to take us.
 
-1456
+1454
 01:10:41,520 --> 01:10:44,680
 And that must be where
 the other students are.
 
-1457
+1455
 01:10:44,800 --> 01:10:47,200
 We should go immediately back
 to Ferndale and tell everybody.
 
-1458
+1456
 01:10:47,280 --> 01:10:48,000
 No,
 
-1459
+1457
 01:10:48,120 --> 01:10:51,000
 we must go to Iron Forge
 and save the students.
 
-1460
+1458
 01:10:51,120 --> 01:10:52,960
 And how are we supposed to do that?
 
-1461
+1459
 01:10:53,080 --> 01:10:54,600
 With no weapons and no backup?
 
-1462
+1460
 01:10:54,720 --> 01:10:55,880
 No nothing?
 
-1463
+1461
 01:10:56,000 --> 01:10:57,520
 No, no, no, no, no.
 
-1464
+1462
 01:10:57,640 --> 01:11:00,280
 You should definitely not go to Iron Forge.
 
-1465
+1463
 01:11:00,400 --> 01:11:02,240
 Everyone wants the Lady's throne.
 
-1466
+1464
 01:11:02,360 --> 01:11:03,200
 It's not safe.
 
-1467
+1465
 01:11:03,320 --> 01:11:06,560
 She won't last long, that's for sure.
 
-1468
+1466
 01:11:06,680 --> 01:11:09,640
 And how do you think we
 should go back to Ferndale?
 
-1469
+1467
 01:11:09,760 --> 01:11:10,920
 On foot?
 
-1470
+1468
 01:11:11,040 --> 01:11:14,280
 That will take at least a week
 and it's still pretty dangerous.
 
-1471
+1469
 01:11:14,400 --> 01:11:15,840
 Oh, yes.
 
-1472
+1470
 01:11:15,960 --> 01:11:18,040
 The woods are where the snapjaw lives.
 
-1473
+1471
 01:11:18,160 --> 01:11:20,120
 Nasty snapping bites, you creatures.
 
-1474
+1472
 01:11:20,240 --> 01:11:23,160
 But the pig rats are so tasty.
 
-1475
+1473
 01:11:23,280 --> 01:11:24,280
 Birds,
 
-1476
+1474
 01:11:24,800 --> 01:11:26,200
 can you please make up your mind?
 
-1477
+1475
 01:11:26,320 --> 01:11:27,440
 You're not helping.
 
-1478
+1476
 01:11:27,560 --> 01:11:28,040
 Yes.
 
-1479
+1477
 01:11:28,160 --> 01:11:28,440
 No.
 
-1480
+1478
 01:11:28,560 --> 01:11:29,560
 Maybe.
 
-1481
+1479
 01:11:32,160 --> 01:11:33,400
 Rainy,
 
-1482
+1480
 01:11:33,520 --> 01:11:34,520
 hand me the lighter.
 
-1483
+1481
 01:11:35,680 --> 01:11:36,560
 Look,
 
-1484
+1482
 01:11:36,680 --> 01:11:37,560
 look.
 
-1485
+1483
 01:11:37,680 --> 01:11:39,120
 Someone is coming up the road.
 
-1486
+1484
 01:11:39,240 --> 01:11:40,000
 Stranger danger.
 
-1487
+1485
 01:11:40,120 --> 01:11:41,400
 We must hide.
 
-1488
+1486
 01:11:41,520 --> 01:11:44,840
 Should we hide too?
 
-1489
+1487
 01:11:46,400 --> 01:11:47,760
 It's too late.
 
-1490
+1488
 01:11:47,880 --> 01:11:49,480
 We need to disguise.
 
-1491
+1489
 01:11:49,600 --> 01:11:50,840
 Just play along, okay?
 
-1492
+1490
 01:11:52,440 --> 01:12:00,440
 Oh,
 
-1493
+1491
 01:12:06,160 --> 01:12:07,720
 lookie there.
 
-1494
+1492
 01:12:07,840 --> 01:12:10,840
 Isn't there a more
 beautiful sight than the
 
-1495
+1493
 01:12:10,960 --> 01:12:13,680
 flowering of new love
 in the time of spring?
 
-1496
+1494
 01:12:15,520 --> 01:12:19,320
 That was more like a deflowering.
 
-1497
+1495
 01:12:23,560 --> 01:12:25,160
 Oh, hello there.
 
-1498
+1496
 01:12:25,280 --> 01:12:26,640
 Oh, I'm sorry.
 
-1499
+1497
 01:12:26,760 --> 01:12:29,360
 We really didn't expect
 anyone to come by so suddenly.
 
-1500
+1498
 01:12:31,520 --> 01:12:32,800
 Oh, don't mind me.
 
-1501
+1499
 01:12:32,920 --> 01:12:37,840
 I am just a dirty old man
 thinking about the time long ago.
 
-1502
+1500
 01:12:42,720 --> 01:12:43,720
 Well,
 
-1503
+1501
 01:12:46,000 --> 01:12:47,280
 my name is
 
-1504
+1502
 01:12:47,400 --> 01:12:51,440
 Daisy Puff and this is my fiancée.
 
-1505
+1503
 01:12:51,560 --> 01:12:52,720
 It talks a lot.
 
-1506
+1504
 01:12:54,960 --> 01:12:55,960
 I
 
-1507
+1505
 01:12:59,720 --> 01:13:01,480
 Hate you.
 
-1508
+1506
 01:13:01,600 --> 01:13:04,000
 I'm an old man and yeah,
 
-1509
+1507
 01:13:04,120 --> 01:13:05,120
 you know,
 
-1510
+1508
 01:13:05,200 --> 01:13:06,640
 my ears are not so good.
 
-1511
+1509
 01:13:06,760 --> 01:13:07,600
 How are your names?
 
-1512
+1510
 01:13:07,720 --> 01:13:09,000
 Excuse me.
 
-1513
+1511
 01:13:09,120 --> 01:13:11,360
 Daisy Puff it was.
 
-1514
+1512
 01:13:11,480 --> 01:13:14,880
 And my fiancée talks a lot.
 
-1515
+1513
 01:13:15,000 --> 01:13:16,400
 Talks a lot, yeah.
 
-1516
+1514
 01:13:16,920 --> 01:13:20,680
 My name is Amber Leaves and
 Ironforge is my humble home.
 
-1517
+1515
 01:13:20,800 --> 01:13:23,120
 I haven't seen you two around here before.
 
-1518
+1516
 01:13:24,200 --> 01:13:26,080
 We are pleased to make your acquaintance.
 
-1519
+1517
 01:13:26,200 --> 01:13:28,400
 Pleased to make your acquaintance too.
 
-1520
+1518
 01:13:32,040 --> 01:13:35,640
 Oh, well, isn't this a strange coincidence?
 
-1521
+1519
 01:13:35,760 --> 01:13:38,760
 We were just taking a
 break on our way to Ironforge.
 
-1522
+1520
 01:13:39,800 --> 01:13:41,720
 Do you think you could give us a ride?
 
-1523
+1521
 01:13:41,840 --> 01:13:43,280
 Of course I can.
 
-1524
+1522
 01:13:43,400 --> 01:13:48,280
 This is your first time to Ironforge
 and right on time for the big celebration.
 
-1525
+1523
 01:13:48,400 --> 01:13:49,040
 Oh, really?
 
-1526
+1524
 01:13:49,160 --> 01:13:53,080
 Yes, Lady GoldenEyes
 is going to get married.
 
-1527
+1525
 01:13:53,200 --> 01:13:54,680
 After so many years,
 
-1528
+1526
 01:13:54,800 --> 01:13:58,200
 Ironforge is finally getting to
 have a proper royal couple again.
 
-1529
+1527
 01:13:59,200 --> 01:14:01,920
 The entire town is
 throwing a one big party.
 
-1530
+1528
 01:14:02,040 --> 01:14:04,280
 You should definitely go and see it.
 
-1531
+1529
 01:14:04,400 --> 01:14:05,560
 Oh, of course.
 
-1532
+1530
 01:14:05,680 --> 01:14:07,280
 I love weddings.
 
-1533
+1531
 01:14:08,120 --> 01:14:09,120
 But
 
-1534
+1532
 01:14:09,440 --> 01:14:11,600
 when we arrive at Ironforge,
 
-1535
+1533
 01:14:11,720 --> 01:14:13,400
 first thing we do is look for help.
 
-1536
+1534
 01:14:13,520 --> 01:14:14,520
 Okay,
 
-1537
+1535
 01:14:14,560 --> 01:14:16,800
 Uncle Brushy used to have
 some good friends in Ironforge.
 
-1538
+1536
 01:14:16,880 --> 01:14:18,080
 One of them is Longleaf,
 
-1539
+1537
 01:14:18,200 --> 01:14:19,520
 a very nice fellow.
 
-1540
+1538
 01:14:19,640 --> 01:14:20,200
 As far as I know,
 
-1541
+1539
 01:14:20,320 --> 01:14:21,760
 he runs a bakery there.
 
-1542
+1540
 01:14:21,880 --> 01:14:25,480
 We'll find him and then we'll tell the
 Institute and let them handle everything.
 
-1543
+1541
 01:14:25,600 --> 01:14:28,160
 And then we can enjoy the celebration.
 
-1544
+1542
 01:14:28,280 --> 01:14:29,160
 Okay?
 
-1545
+1543
 01:14:29,280 --> 01:14:30,280
 Oh, okay.
 
-1546
+1544
 01:14:31,520 --> 01:14:32,840
 Before we go,
 
-1547
+1545
 01:14:32,960 --> 01:14:35,920
 I have one humble request.
 
-1548
+1546
 01:14:36,040 --> 01:14:40,760
 You see, my horse is thirsty
 and there is a little stream nearby.
 
-1549
+1547
 01:14:40,880 --> 01:14:41,880
 Daisypuff,
 
-1550
+1548
 01:14:41,920 --> 01:14:44,520
 could you help me getting some water?
 
-1551
+1549
 01:14:44,640 --> 01:14:47,960
 And it's just a short
 walk and you talk a lot.
 
-1552
+1550
 01:14:48,080 --> 01:14:52,040
 Maybe you could stay here
 and keep an eye on old Patsy.
 
-1553
+1551
 01:14:52,160 --> 01:14:53,200
 Oh, sure.
 
-1554
+1552
 01:14:53,320 --> 01:14:53,600
 Of course.
 
-1555
+1553
 01:14:53,720 --> 01:14:54,720
 Sure.
 
-1556
+1554
 01:14:54,880 --> 01:14:55,880
 No problem.
 
-1557
+1555
 01:14:59,400 --> 01:15:00,880
 Easy, easy.
 
-1558
+1556
 01:15:01,000 --> 01:15:03,120
 He's going to be back very soon.
 
-1559
+1557
 01:15:03,240 --> 01:15:04,080
 Easy.
 
-1560
+1558
 01:15:04,200 --> 01:15:05,760
 There you go.
 
-1561
+1559
 01:15:05,880 --> 01:15:08,320
 I know who you are, poor tummy.
 
-1562
+1560
 01:15:08,440 --> 01:15:10,720
 Shh.
 
-1563
+1561
 01:15:11,720 --> 01:15:13,600
 Don't worry.
 
-1564
+1562
 01:15:13,720 --> 01:15:14,720
 I'm your friend.
 
-1565
+1563
 01:15:15,720 --> 01:15:17,960
 It seems we both have a
 common enemy and I'm going
 
-1566
+1564
 01:15:18,080 --> 01:15:21,080
 to make you an offer
 that you will appreciate.
 
-1567
+1565
 01:15:21,200 --> 01:15:22,880
 I'm sure it's
 
-1568
+1566
 01:15:24,000 --> 01:15:25,520
 right here in this bag.
 
-1569
+1567
 01:15:26,760 --> 01:15:28,440
 Let's talk about it while we walk and
 
-1570
+1568
 01:15:29,840 --> 01:15:32,480
 no word to the other guy, okay?
 
-1571
+1569
 01:15:32,600 --> 01:15:34,600
 This will be our little secret.
 
-1572
+1570
 01:15:51,600 --> 01:15:54,800
 Goldeneyes! Wake up,
 
-1573
+1571
 01:15:54,920 --> 01:15:55,040
 honey.
 
-1574
+1572
 01:15:55,160 --> 01:15:57,440
 Wake up! Quicksilver?
 
-1575
+1573
 01:15:57,560 --> 01:15:59,160
 What is it?
 
-1576
+1574
 01:15:59,280 --> 01:16:00,440
 I have to leave.
 
-1577
+1575
 01:16:00,560 --> 01:16:01,280
 Now?
 
-1578
+1576
 01:16:01,400 --> 01:16:02,840
 In the middle of the night?
 
-1579
+1577
 01:16:02,960 --> 01:16:04,400
 Someone blew the whistle.
 
-1580
+1578
 01:16:04,520 --> 01:16:05,800
 The Keepers are after me.
 
-1581
+1579
 01:16:05,920 --> 01:16:07,320
 Greenfield is trying to stall them,
 
-1582
+1580
 01:16:07,400 --> 01:16:09,120
 but I don't have much time.
 
-1583
+1581
 01:16:09,240 --> 01:16:11,200
 Please tell me that's a joke.
 
-1584
+1582
 01:16:11,320 --> 01:16:12,720
 I wish it were.
 
-1585
+1583
 01:16:12,840 --> 01:16:15,040
 Oh, no.
 
-1586
+1584
 01:16:15,160 --> 01:16:17,600
 I told you not to deal with the Rebels,
 
-1587
+1585
 01:16:17,720 --> 01:16:18,760
 but you...
 
-1588
+1586
 01:16:18,880 --> 01:16:21,040
 you goddamn bastard.
 
-1589
+1587
 01:16:22,120 --> 01:16:24,400
 Don't cry.
 
-1590
+1588
 01:16:24,520 --> 01:16:25,680
 But when they get you,
 
-1591
+1589
 01:16:25,800 --> 01:16:26,680
 they will kill you.
 
-1592
+1590
 01:16:26,800 --> 01:16:28,280
 I won't let that happen.
 
-1593
+1591
 01:16:28,400 --> 01:16:29,520
 I promise.
 
-1594
+1592
 01:16:29,640 --> 01:16:31,720
 But I really have to go now.
 
-1595
+1593
 01:16:31,840 --> 01:16:32,880
 Go where?
 
-1596
+1594
 01:16:33,000 --> 01:16:34,040
 To Camp Freedom,
 
-1597
+1595
 01:16:34,160 --> 01:16:36,200
 the secret base at the Rebel Underground.
 
-1598
+1596
 01:16:36,320 --> 01:16:37,920
 You are joining them?
 
-1599
+1597
 01:16:38,040 --> 01:16:39,040
 It's now or never.
 
-1600
+1598
 01:16:39,120 --> 01:16:40,120
 But I love you.
 
-1601
+1599
 01:16:40,200 --> 01:16:42,120
 You can't just leave me like that.
 
-1602
+1600
 01:16:42,240 --> 01:16:43,720
 I love you, too.
 
-1603
+1601
 01:16:43,840 --> 01:16:46,520
 But right now, it's my
 only chance to survive.
 
-1604
+1602
 01:16:46,640 --> 01:16:47,640
 And I'll be back.
 
-1605
+1603
 01:16:47,760 --> 01:16:48,480
 I promise.
 
-1606
+1604
 01:16:48,600 --> 01:16:50,480
 What about Ironforge?
 
-1607
+1605
 01:16:50,600 --> 01:16:53,280
 Who's going to run this
 city while you're away?
 
-1608
+1606
 01:16:53,400 --> 01:16:54,920
 You're the Princess.
 
-1609
+1607
 01:16:55,040 --> 01:16:55,880
 Have you forgotten that?
 
-1610
+1608
 01:16:56,000 --> 01:16:57,960
 I can't do this without you.
 
-1611
+1609
 01:16:58,080 --> 01:16:59,760
 Oh, yes, you can.
 
-1612
+1610
 01:16:59,880 --> 01:17:03,600
 You know a lot more about
 ruling this city than anybody else.
 
-1613
+1611
 01:17:03,720 --> 01:17:05,800
 And it will only be for a short time.
 
-1614
+1612
 01:17:05,920 --> 01:17:08,120
 Stormrunner has an excellent plan.
 
-1615
+1613
 01:17:08,240 --> 01:17:09,080
 You will see.
 
-1616
+1614
 01:17:09,200 --> 01:17:12,480
 The tyranny of the Keepers
 will be over very soon.
 
-1617
+1615
 01:17:12,600 --> 01:17:15,400
 I'm sorry, but these are the
 Lord's and Lady's private rooms.
 
-1618
+1616
 01:17:15,520 --> 01:17:17,400
 I cannot let you enter without permission.
 
-1619
+1617
 01:17:17,520 --> 01:17:20,200
 I'm sorry, too, but your
 permission is irrelevant.
 
-1620
+1618
 01:17:20,320 --> 01:17:21,320
 I love you.
 
-1621
+1619
 01:17:23,640 --> 01:17:24,840
 Oh, for the God's sake,
 
-1622
+1620
 01:17:24,960 --> 01:17:26,720
 get me that door open.
 
-1623
+1621
 01:17:26,840 --> 01:17:27,680
 Goddamn.
 
-1624
+1622
 01:17:27,800 --> 01:17:29,480
 I've spent too much time talking.
 
-1625
+1623
 01:17:29,600 --> 01:17:30,600
 I have to leave.
 
-1626
+1624
 01:17:32,000 --> 01:17:33,720
 Through the window?
 
-1627
+1625
 01:17:33,840 --> 01:17:35,520
 There's no other way.
 
-1628
+1626
 01:17:35,640 --> 01:17:37,160
 I love your Goldeneyes.
 
-1629
+1627
 01:17:37,280 --> 01:17:38,720
 I'll see you after the revolution.
 
-1630
+1628
 01:17:38,840 --> 01:17:39,840
 Quick, Silver!
 
-1631
+1629
 01:17:45,000 --> 01:17:47,040
 All right.
 
-1632
+1630
 01:17:47,160 --> 01:17:47,920
 Where is she?
 
-1633
+1631
 01:17:48,040 --> 01:17:49,040
 Talk to me, woman.
 
-1634
+1632
 01:17:49,080 --> 01:17:51,600
 I don't know what you're talking about.
 
-1635
+1633
 01:17:51,720 --> 01:17:52,720
 The window.
 
-1636
+1634
 01:17:53,960 --> 01:17:55,640
 Damn, there he goes.
 
-1637
+1635
 01:17:55,760 --> 01:17:57,760
 Why in the God's name is nobody down there?
 
-1638
+1636
 01:17:57,880 --> 01:17:59,320
 Don't stare at me like that.
 
-1639
+1637
 01:17:59,440 --> 01:18:00,440
 Run, get him!
 
-1640
+1638
 01:18:05,720 --> 01:18:13,520
 Oh,
 
-1641
+1639
 01:18:13,640 --> 01:18:15,280
 there we are.
 
-1642
+1640
 01:18:16,560 --> 01:18:17,680
 The marketplace.
 
-1643
+1641
 01:18:17,800 --> 01:18:22,160
 If there's one place we find friends
 of the Interst Institute, then it's here.
 
-1644
+1642
 01:18:22,280 --> 01:18:27,240
 So many people and everyone is
 wearing their finest for the big ceremony.
 
-1645
+1643
 01:18:27,360 --> 01:18:29,760
 Look around for anybody
 wearing the Tree of Knowledge.
 
-1646
+1644
 01:18:29,880 --> 01:18:33,240
 I wonder what kind of dress
 Lady Goldeneyes is going to wear.
 
-1647
+1645
 01:18:33,360 --> 01:18:34,720
 Forget the wedding for a moment.
 
-1648
+1646
 01:18:34,840 --> 01:18:36,920
 We must find Longleaf first.
 
-1649
+1647
 01:18:37,040 --> 01:18:37,360
 Oh,
 
-1650
+1648
 01:18:37,480 --> 01:18:41,880
 but I've never seen a royal
 wedding before in my whole life.
 
-1651
+1649
 01:18:42,000 --> 01:18:47,000
 How about you stay here and keep
 searching and I watch the ceremony?
 
-1652
+1650
 01:18:47,120 --> 01:18:48,480
 I'm sure it won't take long.
 
-1653
+1651
 01:18:50,000 --> 01:18:52,520
 It's not like I'll be able
 to stop you anyway,
 
-1654
+1652
 01:18:52,640 --> 01:18:52,960
 right?
 
-1655
+1653
 01:18:53,080 --> 01:18:54,360
 Damn straight.
 
-1656
+1654
 01:18:54,480 --> 01:18:56,320
 I'll be at the front.
 
-1657
+1655
 01:18:56,440 --> 01:18:57,800
 Be safe.
 
-1658
+1656
 01:18:57,920 --> 01:18:59,080
 OK.
 
-1659
+1657
 01:18:59,200 --> 01:19:00,240
 Be safe?
 
-1660
+1658
 01:19:00,360 --> 01:19:01,760
 Why would I not?
 
-1661
+1659
 01:19:01,880 --> 01:19:09,880
 Hear ye,
 
-1662
+1660
 01:19:15,320 --> 01:19:16,400
 hear ye.
 
-1663
+1661
 01:19:16,520 --> 01:19:20,200
 Thank you very much to all for your
 presence and affection on this day.
 
-1664
+1662
 01:19:20,320 --> 01:19:21,920
 Windsor Whisperwind,
 
-1665
+1663
 01:19:22,040 --> 01:19:26,160
 the city's wealthiest entrepreneur
 and long-time consultant to the house,
 
-1666
+1664
 01:19:26,280 --> 01:19:30,280
 receive the hand of our
 beloved Lady Goldeneyes,
 
-1667
+1665
 01:19:30,400 --> 01:19:32,560
 Princess of Fire and Forge.
 
-1668
+1666
 01:19:47,040 --> 01:19:49,600
 My dearest Goldeneyes,
 
-1669
+1667
 01:19:49,720 --> 01:19:54,720
 many may believe that it was a
 fairy tale the way we came together.
 
-1670
+1668
 01:19:54,840 --> 01:19:55,960
 And of course,
 
-1671
+1669
 01:19:56,080 --> 01:19:57,080
 they are right.
 
-1672
+1670
 01:19:57,840 --> 01:20:00,320
 It is always a fairy
 tale the way two people
 
-1673
+1671
 01:20:00,440 --> 01:20:02,720
 come together and
 decide to share life.
 
-1674
+1672
 01:20:03,840 --> 01:20:06,880
 Yes, indeed, you are
 the Princess of Iron Forge,
 
-1675
+1673
 01:20:07,000 --> 01:20:10,640
 but this cannot separate you
 from which you also represent.
 
-1676
+1674
 01:20:11,480 --> 01:20:14,320
 You are built by your
 heritage and your role,
 
-1677
+1675
 01:20:14,440 --> 01:20:17,280
 which makes you the person you are today,
 
-1678
+1676
 01:20:17,400 --> 01:20:20,440
 ripe and ready for the tasks
 you have chosen in your life.
 
-1679
+1677
 01:20:20,560 --> 01:20:23,920
 We see you as the revelation
 of sincerity and diligence.
 
-1680
+1678
 01:20:25,200 --> 01:20:28,000
 And during the time we
 have known each other,
 
-1681
+1679
 01:20:28,120 --> 01:20:30,280
 I have constantly been thinking of this.
 
-1682
+1680
 01:20:31,800 --> 01:20:33,880
 Are we really meant for each other?
 
-1683
+1681
 01:20:34,000 --> 01:20:36,400
 Then fate will surely
 arrange it all to the best.
 
-1684
+1682
 01:20:40,440 --> 01:20:43,600
 The promise made
 today and the ties that
 
-1685
+1683
 01:20:43,720 --> 01:20:47,920
 abound here will greatly
 strengthen your union.
 
-1686
+1684
 01:20:48,760 --> 01:20:52,520
 They will cross the years
 and lifts of each soul's growth.
 
-1687
+1685
 01:20:53,760 --> 01:20:57,120
 Do you still seek to enter the ceremony?
 
-1688
+1686
 01:20:57,240 --> 01:20:57,920
 Yes,
 
-1689
+1687
 01:20:58,040 --> 01:20:59,280
 we seek to enter.
 
-1690
+1688
 01:21:01,400 --> 01:21:02,520
 Whisperwind,
 
-1691
+1689
 01:21:02,640 --> 01:21:04,480
 will you cause her pain?
 
-1692
+1690
 01:21:04,600 --> 01:21:05,760
 I may.
 
-1693
+1691
 01:21:05,880 --> 01:21:07,440
 Is that your intent?
 
-1694
+1692
 01:21:07,560 --> 01:21:08,560
 No.
 
-1695
+1693
 01:21:10,480 --> 01:21:11,680
 Goldeneyes,
 
-1696
+1694
 01:21:11,800 --> 01:21:13,800
 will you cause him pain?
 
-1697
+1695
 01:21:13,920 --> 01:21:15,400
 I may.
 
-1698
+1696
 01:21:15,520 --> 01:21:16,960
 Is that your intent?
 
-1699
+1697
 01:21:17,080 --> 01:21:18,080
 No.
 
-1700
+1698
 01:21:19,320 --> 01:21:22,560
 Will both of you share each
 other's pain and seek it?
 
-1701
+1699
 01:21:23,640 --> 01:21:25,480
 Yes, we will.
 
-1702
+1700
 01:21:25,600 --> 01:21:28,600
 Above you are the stars.
 
-1703
+1701
 01:21:28,720 --> 01:21:30,360
 Below you are the stones.
 
-1704
+1702
 01:21:31,560 --> 01:21:32,880
 As time passes,
 
-1705
+1703
 01:21:33,000 --> 01:21:34,240
 remember,
 
-1706
+1704
 01:21:34,360 --> 01:21:37,360
 like the stone, your love should be firm.
 
-1707
+1705
 01:21:37,480 --> 01:21:39,840
 Like the stars, your
 love should be constant.
 
-1708
+1706
 01:21:40,920 --> 01:21:43,520
 Let the strength of your
 wills bind you together.
 
-1709
+1707
 01:21:44,520 --> 01:21:46,200
 You may now kiss.
 
-1710
+1708
 01:21:55,920 --> 01:22:03,520
 Let it be known that Whisperwind and Golden
 Eyes are in law and lady of Fire and Forge.
 
-1711
+1709
 01:22:08,400 --> 01:22:15,600
 Hotami! Hotami! No! No!
 
-1712
+1710
 01:22:15,720 --> 01:22:17,560
 This one is for my mother!
 
-1713
+1711
 01:22:19,400 --> 01:22:24,160
 Hotami! You don't know...
 
-1714
+1712
 01:22:25,360 --> 01:22:27,400
 You don't know what you're doing!
 
-1715
+1713
 01:22:28,440 --> 01:22:32,760
 I told you not to come after me!
 Now you've ruined everything!
 
-1716
+1714
 01:22:32,880 --> 01:22:34,400
 What the hell did you just do?
 
-1717
+1715
 01:22:34,520 --> 01:22:36,640
 I made history! What?
 
-1718
+1716
 01:22:36,760 --> 01:22:38,040
 Run!
 
-1719
+1717
 01:22:39,160 --> 01:22:40,880
 Don't talk! Run!
 
-1720
+1718
 01:22:41,000 --> 01:22:42,280
 What the...
 
-1721
+1719
 01:22:42,400 --> 01:22:44,680
 Guards! Where are the guards?
 
-1722
+1720
 01:22:45,760 --> 01:22:47,720
 Come on, run!
 
-1723
+1721
 01:22:49,160 --> 01:22:50,720
 Oh, shit!
 
-1724
+1722
 01:22:50,840 --> 01:22:52,280
 Shit, shit, shit, shit!
 
-1725
+1723
 01:22:53,640 --> 01:22:56,320
 The assassins are fleeing! Cease them!
 
-1726
+1724
 01:22:56,440 --> 01:22:58,000
 Oh, come on!
 
-1727
+1725
 01:22:58,120 --> 01:22:59,120
 Come on, horse!
 
-1728
+1726
 01:23:02,680 --> 01:23:04,920
 Hold on! It's going to be a bumpy ride!
 
-1729
+1727
 01:23:15,840 --> 01:23:23,840
 Who is there?
 
-1730
+1728
 01:23:24,760 --> 01:23:26,000
 It's me, Whisperwind.
 
-1731
+1729
 01:23:26,120 --> 01:23:27,120
 Oh.
 
-1732
+1730
 01:23:28,760 --> 01:23:31,680
 To what do I owe the honor
 of this unexpected visit?
 
-1733
+1731
 01:23:31,800 --> 01:23:34,040
 Oh, I just happened to be nearby,
 
-1734
+1732
 01:23:34,160 --> 01:23:37,160
 and I thought, why not pay
 the old hammerfist a visit?
 
-1735
+1733
 01:23:37,280 --> 01:23:40,000
 Well, it's always a pleasure
 to welcome a good customer,
 
-1736
+1734
 01:23:40,120 --> 01:23:42,680
 but I'm sure you're not
 here for some idle chatter.
 
-1737
+1735
 01:23:42,800 --> 01:23:44,200
 You know me too well.
 
-1738
+1736
 01:23:44,320 --> 01:23:45,960
 How is the work on the gun going?
 
-1739
+1737
 01:23:46,080 --> 01:23:47,080
 Well, we...
 
-1740
+1738
 01:23:48,760 --> 01:23:51,520
 I don't think we can do it.
 
-1741
+1739
 01:23:51,640 --> 01:23:53,720
 This is not what I wanted to hear.
 
-1742
+1740
 01:23:53,840 --> 01:23:56,640
 I know, but I'm an honest man,
 
-1743
+1741
 01:23:56,760 --> 01:23:58,520
 so I'm telling you like it is.
 
-1744
+1742
 01:23:58,640 --> 01:24:01,120
 This is THE Literal Ironforge,
 
-1745
+1743
 01:24:01,240 --> 01:24:03,240
 the one that this city is named for,
 
-1746
+1744
 01:24:03,360 --> 01:24:05,640
 well known far beyond its limits.
 
-1747
+1745
 01:24:05,760 --> 01:24:11,680
 And you are telling me you can't build a
 little device with less than a dozen parts?
 
-1748
+1746
 01:24:11,800 --> 01:24:14,160
 Not even with a model to work from?
 
-1749
+1747
 01:24:14,280 --> 01:24:15,600
 I am deeply
 
-1750
+1748
 01:24:15,720 --> 01:24:16,600
 disappointed.
 
-1751
+1749
 01:24:16,720 --> 01:24:18,920
 Oh, it is a small device, that's true.
 
-1752
+1750
 01:24:19,040 --> 01:24:21,600
 But there's a lot more
 to it than meets the eye.
 
-1753
+1751
 01:24:21,720 --> 01:24:23,640
 The humans were amazing blacksmiths.
 
-1754
+1752
 01:24:23,760 --> 01:24:25,560
 Then consider it a challenge!
 
-1755
+1753
 01:24:25,680 --> 01:24:26,680
 This is a challenge,
 
-1756
+1754
 01:24:26,800 --> 01:24:27,960
 if I've ever seen one.
 
-1757
+1755
 01:24:28,080 --> 01:24:30,480
 Did you get to examine
 the ammunition I sent you?
 
-1758
+1756
 01:24:30,600 --> 01:24:31,320
 Of course.
 
-1759
+1757
 01:24:31,440 --> 01:24:33,320
 The bullets are like pieces of art,
 
-1760
+1758
 01:24:33,440 --> 01:24:35,360
 each one a marvel of precision.
 
-1761
+1759
 01:24:35,480 --> 01:24:37,800
 I've never seen anything like it before.
 
-1762
+1760
 01:24:37,920 --> 01:24:39,440
 I think we could make a few,
 
-1763
+1761
 01:24:39,560 --> 01:24:42,160
 but it will take a long
 time and a lot of work.
 
-1764
+1762
 01:24:42,280 --> 01:24:43,560
 Then what are you waiting for?
 
-1765
+1763
 01:24:43,680 --> 01:24:45,120
 Get down to it!
 
-1766
+1764
 01:24:45,240 --> 01:24:46,656
 I'm beginning to wonder what the hell
 
-1767
+1765
 01:24:46,680 --> 01:24:47,680
 I'm paying you for.
 
-1768
+1766
 01:24:47,760 --> 01:24:48,400
 Yes, sir.
 
-1769
+1767
 01:24:48,520 --> 01:24:49,640
 Of course, sir.
 
-1770
+1768
 01:24:49,760 --> 01:24:50,600
 I hope you are aware
 
-1771
+1769
 01:24:50,720 --> 01:24:53,000
 though that the bullets
 will be useless without
 
-1772
+1770
 01:24:53,120 --> 01:24:55,240
 the black powder that
 makes them go bang.
 
-1773
+1771
 01:24:55,360 --> 01:24:56,920
 Do I look like an idiot?
 
-1774
+1772
 01:24:57,040 --> 01:24:59,680
 The finest alchemists of
 the city are working on it.
 
-1775
+1773
 01:24:59,800 --> 01:25:02,080
 As soon as we have figured out the formula,
 
-1776
+1774
 01:25:02,200 --> 01:25:03,400
 you will get your powder.
 
-1777
+1775
 01:25:03,520 --> 01:25:04,760
 Now what is keeping us from
 
-1778
+1776
 01:25:04,880 --> 01:25:06,480
 building our own guns again?
 
-1779
+1777
 01:25:06,600 --> 01:25:07,640
 The material.
 
-1780
+1778
 01:25:07,760 --> 01:25:10,760
 Even our strongest iron does
 not seem to be hard enough.
 
-1781
+1779
 01:25:10,880 --> 01:25:12,080
 Not hard enough?
 
-1782
+1780
 01:25:12,200 --> 01:25:14,960
 You are known to make
 the hardest iron in the world.
 
-1783
+1781
 01:25:15,080 --> 01:25:16,600
 It is like it is.
 
-1784
+1782
 01:25:16,720 --> 01:25:20,880
 We've not been able to fire more than a
 handful of shots before the gun breaks.
 
-1785
+1783
 01:25:21,000 --> 01:25:22,960
 And the aim is terrible.
 
-1786
+1784
 01:25:23,080 --> 01:25:24,360
 I'm at my wits end.
 
-1787
+1785
 01:25:24,480 --> 01:25:26,000
 I paid you a fortune to produce
 
-1788
+1786
 01:25:26,120 --> 01:25:28,520
 a reliable gun and you said you can do it.
 
-1789
+1787
 01:25:28,640 --> 01:25:30,680
 I was wrong, I'm sorry.
 
-1790
+1788
 01:25:30,800 --> 01:25:31,240
 And if you want your
 
-1791
+1789
 01:25:31,360 --> 01:25:33,640
 money back, I can totally understand that.
 
-1792
+1790
 01:25:33,760 --> 01:25:35,440
 Let me talk to the cashier and I...
 
-1793
+1791
 01:25:35,560 --> 01:25:38,080
 Listen to me, you little dimwit.
 
-1794
+1792
 01:25:38,200 --> 01:25:41,040
 I am Whisperwind of Ironforge.
 
-1795
+1793
 01:25:41,160 --> 01:25:43,560
 You don't bail out on me like that.
 
-1796
+1794
 01:25:43,680 --> 01:25:47,000
 There are not many parts
 of the city that I do not own.
 
-1797
+1795
 01:25:47,120 --> 01:25:49,240
 These guns were built before
 
-1798
+1796
 01:25:49,360 --> 01:25:53,600
 and if you ever want to do
 any business in this town again,
 
-1799
+1797
 01:25:53,720 --> 01:25:54,920
 you are going to find out
 
-1800
+1798
 01:25:55,040 --> 01:25:56,480
 how to build them again.
 
-1801
+1799
 01:25:56,600 --> 01:25:58,040
 Understood?
 
-1802
+1800
 01:25:58,160 --> 01:25:59,440
 But it is...
 
-1803
+1801
 01:25:59,560 --> 01:26:02,040
 but it is impossible.
 
-1804
+1802
 01:26:02,160 --> 01:26:04,600
 Then what would it
 take to make it possible?
 
-1805
+1803
 01:26:04,720 --> 01:26:06,680
 The knowledge of a human blacksmith.
 
-1806
+1804
 01:26:06,800 --> 01:26:07,560
 All right,
 
-1807
+1805
 01:26:07,680 --> 01:26:09,200
 then this is what I shall get for you.
 
-1808
+1806
 01:26:10,480 --> 01:26:13,440
 And how are you going to do that?
 
-1809
+1807
 01:26:13,560 --> 01:26:17,200
 Break into the Holy Mountain
 and steal all their books?
 
-1810
+1808
 01:26:17,320 --> 01:26:20,520
 There is no need to break in
 if you know who has the key.
 
-1811
+1809
 01:26:20,640 --> 01:26:22,320
 I have to go and make a few arrangements.
 
-1812
+1810
 01:26:23,480 --> 01:26:24,760
 You're going to hear from me.
 
-1813
+1811
 01:26:24,880 --> 01:26:25,880
 Please excuse me.
 
-1814
+1812
 01:26:25,920 --> 01:26:31,560
 Ah...
 
-1815
+1813
 01:26:33,160 --> 01:26:39,240
 Hold still.
 
-1816
+1814
 01:26:40,840 --> 01:26:43,320
 Slow.
 
-1817
+1815
 01:26:44,840 --> 01:26:45,880
 Come on.
 
-1818
+1816
 01:26:47,040 --> 01:26:48,040
 Careful, careful.
 
-1819
+1817
 01:26:48,680 --> 01:26:50,160
 Oh, fuck.
 
-1820
+1818
 01:26:50,280 --> 01:26:51,280
 It hurts.
 
-1821
+1819
 01:26:53,520 --> 01:26:55,200
 Don't move your arm.
 
-1822
+1820
 01:26:55,320 --> 01:26:57,200
 It looks a lot worse than it is.
 
-1823
+1821
 01:26:57,320 --> 01:26:58,520
 Don't touch me.
 
-1824
+1822
 01:26:58,640 --> 01:27:00,640
 I just want to help you.
 
-1825
+1823
 01:27:00,760 --> 01:27:03,640
 I said don't touch me! Please,
 
-1826
+1824
 01:27:03,760 --> 01:27:04,360
 Rainy.
 
-1827
+1825
 01:27:04,480 --> 01:27:06,440
 Let me explain.
 
-1828
+1826
 01:27:06,560 --> 01:27:08,000
 Shut
 
-1829
+1827
 01:27:08,120 --> 01:27:08,680
 up.
 
-1830
+1828
 01:27:08,800 --> 01:27:10,520
 Just shut up! No,
 
-1831
+1829
 01:27:10,640 --> 01:27:11,640
 no.
 
-1832
+1830
 01:27:12,280 --> 01:27:13,720
 Please, let me explain.
 
-1833
+1831
 01:27:16,080 --> 01:27:18,240
 Just don't move your arm, okay?
 
-1834
+1832
 01:27:19,680 --> 01:27:21,800
 No, no, no, don't touch it.
 
-1835
+1833
 01:27:21,920 --> 01:27:22,760
 Don't pull it.
 
-1836
+1834
 01:27:22,880 --> 01:27:24,800
 Don't.
 
-1837
+1835
 01:27:24,920 --> 01:27:26,040
 It will just...
 
-1838
+1836
 01:27:28,320 --> 01:27:29,320
 Great.
 
-1839
+1837
 01:27:30,120 --> 01:27:32,000
 Now you're bleeding like a stuck pig.
 
-1840
+1838
 01:27:33,080 --> 01:27:34,400
 So what?
 
-1841
+1839
 01:27:34,520 --> 01:27:37,080
 You are going to die if we don't stop it.
 
-1842
+1840
 01:27:41,200 --> 01:27:42,200
 Come here.
 
-1843
+1841
 01:27:42,680 --> 01:27:44,560
 I told you to leave me alone.
 
-1844
+1842
 01:27:44,680 --> 01:27:45,880
 Hold
 
-1845
+1843
 01:27:46,000 --> 01:27:48,000
 still.
 
-1846
+1844
 01:27:48,120 --> 01:27:49,120
 By the gods.
 
-1847
+1845
 01:27:51,720 --> 01:27:52,720
 Why can't you just...
 
-1848
+1846
 01:27:53,720 --> 01:27:56,040
 Why can't you just leave me alone?
 
-1849
+1847
 01:27:56,160 --> 01:27:57,840
 Because I care about you.
 
-1850
+1848
 01:27:58,920 --> 01:28:00,560
 Then why did you do this to me?
 
-1851
+1849
 01:28:00,680 --> 01:28:01,560
 Look,
 
-1852
+1850
 01:28:01,680 --> 01:28:03,600
 I didn't want this to happen to you.
 
-1853
+1851
 01:28:05,680 --> 01:28:08,280
 You shot the princess.
 
-1854
+1852
 01:28:08,400 --> 01:28:10,400
 You shot the goddamn princess.
 
-1855
+1853
 01:28:10,520 --> 01:28:12,000
 What the fuck did you expect?
 
-1856
+1854
 01:28:13,080 --> 01:28:17,360
 This barn hasn't been used since
 old Barleycorn gave up his farm.
 
-1857
+1855
 01:28:17,480 --> 01:28:20,040
 We will be safe here if you stop yelling.
 
-1858
+1856
 01:28:21,800 --> 01:28:25,120
 You know this place?
 
-1859
+1857
 01:28:26,480 --> 01:28:27,640
 This is where I grew up.
 
-1860
+1858
 01:28:29,200 --> 01:28:30,200
 Wait.
 
-1861
+1859
 01:28:30,880 --> 01:28:33,160
 You grew up in Ironforge?
 
-1862
+1860
 01:28:33,280 --> 01:28:34,320
 Until I ran away.
 
-1863
+1861
 01:28:36,960 --> 01:28:39,080
 Why didn't you tell me?
 
-1864
+1862
 01:28:39,200 --> 01:28:40,440
 Because...
 
-1865
+1863
 01:28:42,160 --> 01:28:46,480
 You better be honest with me now.
 
-1866
+1864
 01:28:46,600 --> 01:28:49,720
 Because I was afraid you would hate me.
 
-1867
+1865
 01:28:51,120 --> 01:28:52,120
 Go on.
 
-1868
+1866
 01:28:52,600 --> 01:28:55,080
 My father died in the rebellion.
 
-1869
+1867
 01:28:55,200 --> 01:28:59,360
 I grew up only with my mother and
 we were the only Riverhawks in town.
 
-1870
+1868
 01:29:00,400 --> 01:29:03,560
 Ironforge has always been
 firmly in the hands of the opposition
 
-1871
+1869
 01:29:03,680 --> 01:29:07,120
 and there is just no place for
 pigs in their vision of a new world.
 
-1872
+1870
 01:29:08,440 --> 01:29:10,320
 The Institute took us in.
 
-1873
+1871
 01:29:11,320 --> 01:29:13,920
 People tend to underestimate
 the wits of a hawk and
 
-1874
+1872
 01:29:14,040 --> 01:29:17,520
 that made mother a perfect
 spy against the opposition.
 
-1875
+1873
 01:29:17,640 --> 01:29:21,040
 She was the one who uncovered
 the opposition's war plans.
 
-1876
+1874
 01:29:21,160 --> 01:29:23,360
 War plans?
 
-1877
+1875
 01:29:24,480 --> 01:29:28,680
 The sea of debris is
 littered with human artifacts.
 
-1878
+1876
 01:29:28,800 --> 01:29:30,360
 But working weapons are extremely rare.
 
-1879
+1877
 01:29:32,360 --> 01:29:37,440
 They've been trying to recreate some of the
 artifacts they found but with no success.
 
-1880
+1878
 01:29:40,400 --> 01:29:42,240
 Are you a spy too?
 
-1881
+1879
 01:29:42,360 --> 01:29:43,640
 No.
 
-1882
+1880
 01:29:43,760 --> 01:29:46,240
 I wasn't supposed to know any about this.
 
-1883
+1881
 01:29:46,360 --> 01:29:48,440
 But I was curious.
 
-1884
+1882
 01:29:48,560 --> 01:29:50,560
 When I pressed my
 ear against the wall in my
 
-1885
+1883
 01:29:50,680 --> 01:29:52,800
 room I just could hear
 everything they said.
 
-1886
+1884
 01:29:55,120 --> 01:29:56,880
 Where is your mother now?
 
-1887
+1885
 01:29:57,000 --> 01:29:59,120
 She's dead.
 
-1888
+1886
 01:30:00,640 --> 01:30:02,520
 She ran into a trap and got arrested.
 
-1889
+1887
 01:30:03,520 --> 01:30:08,880
 GoldenEyes decided to make an example of
 her and scare the mob back into submission.
 
-1890
+1888
 01:30:09,000 --> 01:30:13,760
 She executed my mother in the
 marketplace using this very gun.
 
-1891
+1889
 01:30:18,280 --> 01:30:20,640
 They tried to lock me up on the orphanage,
 
-1892
+1890
 01:30:20,760 --> 01:30:22,240
 but I ran away.
 
-1893
+1891
 01:30:22,360 --> 01:30:24,840
 I knew how to get
 into the palace without
 
-1894
+1892
 01:30:24,960 --> 01:30:27,600
 getting caught so I
 took the gun and I swear
 
-1895
+1893
 01:30:27,720 --> 01:30:30,360
 if I had known that it
 needs bullets to work
 
-1896
+1894
 01:30:30,480 --> 01:30:33,600
 I would have killed
 GoldenEyes right there.
 
-1897
+1895
 01:30:33,720 --> 01:30:34,840
 But the gun only clicked.
 
-1898
+1896
 01:30:35,840 --> 01:30:38,680
 You lied to me.
 
-1899
+1897
 01:30:40,040 --> 01:30:43,560
 You lied to me and the people
 in Ferndale who took you in.
 
-1900
+1898
 01:30:43,680 --> 01:30:45,400
 You lied to everyone.
 
-1901
+1899
 01:30:45,520 --> 01:30:49,200
 You don't know how it
 is to grow up as a pig.
 
-1902
+1900
 01:30:49,320 --> 01:30:50,160
 Being powerless,
 
-1903
+1901
 01:30:50,280 --> 01:30:51,280
 helpless,
 
-1904
+1902
 01:30:51,400 --> 01:30:53,760
 wearing a smile like a mask.
 
-1905
+1903
 01:30:53,880 --> 01:30:57,440
 This weapon was the only power I ever had.
 
-1906
+1904
 01:30:57,560 --> 01:30:59,760
 Who gave you the bullets?
 
-1907
+1905
 01:30:59,880 --> 01:31:02,200
 The man who took us to the city did.
 
-1908
+1906
 01:31:02,320 --> 01:31:04,520
 You know him as Amberleafs.
 
-1909
+1907
 01:31:04,640 --> 01:31:07,240
 Everyone else knows him as Whisperwind.
 
-1910
+1908
 01:31:07,360 --> 01:31:08,520
 Whisperwind.
 
-1911
+1909
 01:31:08,640 --> 01:31:11,520
 The man who just married Lady GoldenEyes.
 
-1912
+1910
 01:31:11,640 --> 01:31:13,240
 But why?
 
-1913
+1911
 01:31:13,360 --> 01:31:14,000
 And why you?
 
-1914
+1912
 01:31:14,120 --> 01:31:16,360
 How did he even know we were coming?
 
-1915
+1913
 01:31:16,480 --> 01:31:18,200
 It makes no sense.
 
-1916
+1914
 01:31:18,320 --> 01:31:20,280
 He secretly works for the Institute.
 
-1917
+1915
 01:31:21,400 --> 01:31:23,960
 Ironforge is still a
 bastion of the opposition
 
-1918
+1916
 01:31:24,080 --> 01:31:26,560
 and GoldenEyes is
 the key to reclaiming it.
 
-1919
+1917
 01:31:27,560 --> 01:31:32,440
 Whisperwind married her because it makes
 him the legitimate ruler of Ironforge.
 
-1920
+1918
 01:31:32,560 --> 01:31:36,800
 But to remain in power he must remain
 free of even the slightest suspicion.
 
-1921
+1919
 01:31:38,040 --> 01:31:41,160
 The opposition has been
 searching for me since I ran away.
 
-1922
+1920
 01:31:41,280 --> 01:31:46,680
 And when Whisperwind heard that I was
 among the kidnapped students from Ferndale,
 
-1923
+1921
 01:31:46,800 --> 01:31:48,520
 he knew where to look for me.
 
-1924
+1922
 01:31:49,720 --> 01:31:53,120
 And he also knew that
 I was out for revenge.
 
-1925
+1923
 01:31:53,240 --> 01:31:56,280
 He made me an offer I couldn't refuse.
 
-1926
+1924
 01:31:56,400 --> 01:32:01,120
 Two bullets to make this a victory
 for my mother and for the Institute.
 
-1927
+1925
 01:32:01,240 --> 01:32:02,320
 No.
 
-1928
+1926
 01:32:02,440 --> 01:32:04,280
 No, he is not one of us.
 
-1929
+1927
 01:32:04,400 --> 01:32:06,720
 This would have been
 murder plain and simple.
 
-1930
+1928
 01:32:06,840 --> 01:32:08,600
 It would have been against all the
 
-1931
+1929
 01:32:10,040 --> 01:32:12,960
 principles the Institute stands for.
 
-1932
+1930
 01:32:13,080 --> 01:32:16,840
 If you had spent more than a day
 at our school you would know that.
 
-1933
+1931
 01:32:18,040 --> 01:32:20,760
 Whisperwind saw your blind
 hate for Lady GoldenEyes
 
-1934
+1932
 01:32:20,880 --> 01:32:23,400
 and abused you for
 his own selfish reasons.
 
-1935
+1933
 01:32:23,520 --> 01:32:24,040
 And no,
 
-1936
+1934
 01:32:24,160 --> 01:32:25,880
 he is on the good side.
 
-1937
+1935
 01:32:26,000 --> 01:32:27,160
 Your side.
 
-1938
+1936
 01:32:27,280 --> 01:32:28,720
 And so am I.
 
-1939
+1937
 01:32:28,840 --> 01:32:31,000
 No, Potami.
 
-1940
+1938
 01:32:31,120 --> 01:32:34,080
 Hate is never on the good side.
 
-1941
+1939
 01:32:34,200 --> 01:32:35,520
 You taught me how to make love.
 
-1942
+1940
 01:32:36,600 --> 01:32:39,080
 I wonder if you even know what love is.
 
-1943
+1941
 01:32:39,200 --> 01:32:41,000
 You pretended to be my friend.
 
-1944
+1942
 01:32:41,120 --> 01:32:43,120
 But in the end all that
 mattered to you was
 
-1945
+1943
 01:32:43,240 --> 01:32:45,520
 that I showed you how
 to work that fucking gun.
 
-1946
+1944
 01:32:45,640 --> 01:32:46,360
 Am I right?
 
-1947
+1945
 01:32:46,480 --> 01:32:47,680
 No, that is not true.
 
-1948
+1946
 01:32:47,800 --> 01:32:49,880
 And when you shot that lady,
 
-1949
+1947
 01:32:50,000 --> 01:32:53,000
 I was the one who took the bullets so you
 
-1950
+1948
 01:32:53,120 --> 01:32:54,400
 could get away.
 
-1951
+1949
 01:32:54,520 --> 01:32:55,040
 Right?
 
-1952
+1950
 01:32:55,160 --> 01:32:55,840
 No,
 
-1953
+1951
 01:32:55,960 --> 01:32:56,760
 no.
 
-1954
+1952
 01:32:56,880 --> 01:32:58,520
 Would you also...
 
-1955
+1953
 01:32:58,640 --> 01:33:00,760
 No, I even came back to save you.
 
-1956
+1954
 01:33:00,880 --> 01:33:02,160
 Yeah, right.
 
-1957
+1955
 01:33:02,280 --> 01:33:04,720
 And would you have come
 back if your plan had worked?
 
-1958
+1956
 01:33:04,840 --> 01:33:07,600
 Do you think I might still
 be useful for you after all?
 
-1959
+1957
 01:33:07,720 --> 01:33:11,600
 No, I did it because I love you.
 
-1960
+1958
 01:33:11,720 --> 01:33:13,400
 Save your breath, Potami.
 
-1961
+1959
 01:33:13,520 --> 01:33:16,160
 I am not going to play
 this game any longer.
 
-1962
+1960
 01:33:16,280 --> 01:33:18,400
 I have real friends to find in this city.
 
-1963
+1961
 01:33:19,960 --> 01:33:21,800
 No,
 
-1964
+1962
 01:33:21,920 --> 01:33:22,600
 please.
 
-1965
+1963
 01:33:22,720 --> 01:33:24,080
 Fuck.
 
-1966
+1964
 01:33:24,200 --> 01:33:25,200
 Rainy!
 
-1967
+1965
 01:33:26,080 --> 01:33:27,360
 I am okay.
 
-1968
+1966
 01:33:27,480 --> 01:33:29,160
 Everything is just peachy.
 
-1969
+1967
 01:33:29,280 --> 01:33:31,120
 Be safe.
 
-1970
+1968
 01:33:32,720 --> 01:33:33,480
 No,
 
-1971
+1969
 01:33:33,600 --> 01:33:36,240
 at least take the gun with you.
 
-1972
+1970
 01:33:36,360 --> 01:33:38,320
 I don't need a gun.
 
-1973
+1971
 01:33:38,440 --> 01:33:40,120
 Nobody needs a gun.
 
-1974
+1972
 01:33:43,280 --> 01:33:47,040
 I'm on the good side
 and I'm going to prove it.
 
-1975
+1973
 01:33:48,400 --> 01:33:50,760
 Whisperwind told me where to find him.
 
-1976
+1974
 01:33:50,880 --> 01:33:55,800
 We will free the students and find the
 kidnappers and put an end to all of this.
 
-1977
+1975
 01:34:00,840 --> 01:34:03,480
 And please,
 
-1978
+1976
 01:34:03,600 --> 01:34:05,000
 please be wrong.
 
-1979
+1977
 01:34:05,120 --> 01:34:08,240
 By the gods, please be wrong.
 
-1980
+1978
 01:34:11,240 --> 01:34:19,240
 Rocky! Hey, Rocky!
 
-1981
+1979
 01:34:23,200 --> 01:34:25,480
 Oh, for fuck's sake.
 
-1982
+1980
 01:34:25,600 --> 01:34:27,280
 Stop swearing on the job.
 
-1983
+1981
 01:34:27,400 --> 01:34:30,000
 You know, the gods are always listening.
 
-1984
+1982
 01:34:30,120 --> 01:34:31,480
 Which ones?
 
-1985
+1983
 01:34:31,600 --> 01:34:34,680
 The ones in the holy mountain
 that turned out not to exist?
 
-1986
+1984
 01:34:34,800 --> 01:34:37,440
 Or the other ones who let this shit happen?
 
-1987
+1985
 01:34:37,560 --> 01:34:38,680
 You're a hopeless case.
 
-1988
+1986
 01:34:38,800 --> 01:34:39,840
 Hope?
 
-1989
+1987
 01:34:39,960 --> 01:34:43,520
 I must have lost that motherfucker
 somewhere between all the dead bodies.
 
-1990
+1988
 01:34:43,640 --> 01:34:45,080
 Let me know if you find it.
 
-1991
+1989
 01:34:45,200 --> 01:34:46,320
 Anyway,
 
-1992
+1990
 01:34:46,440 --> 01:34:47,960
 meet your new volunteer,
 
-1993
+1991
 01:34:48,080 --> 01:34:49,480
 Honeyfoot of Ferndale.
 
-1994
+1992
 01:34:49,600 --> 01:34:51,080
 Hello, honey.
 
-1995
+1993
 01:34:51,200 --> 01:34:51,840
 Oh,
 
-1996
+1994
 01:34:51,960 --> 01:34:53,600
 please, don't call me honey.
 
-1997
+1995
 01:34:53,720 --> 01:34:54,840
 My friends call me foot.
 
-1998
+1996
 01:34:55,840 --> 01:34:58,360
 I hope you're going to last
 longer than the guy before you,
 
-1999
+1997
 01:34:58,480 --> 01:34:58,760
 honey.
 
-2000
+1998
 01:34:58,880 --> 01:35:00,240
 I shall do my best.
 
-2001
+1999
 01:35:00,360 --> 01:35:01,360
 And again,
 
-2002
+2000
 01:35:01,480 --> 01:35:02,960
 please call me foots,
 
-2003
+2001
 01:35:03,080 --> 01:35:04,160
 not honey.
 
-2004
+2002
 01:35:04,280 --> 01:35:08,240
 Look, honey, I've stopped
 counting how many helpers I had.
 
-2005
+2003
 01:35:08,360 --> 01:35:10,960
 I couldn't care less what
 your fucking name is,
 
-2006
+2004
 01:35:11,080 --> 01:35:13,600
 because tomorrow you'll
 be gone like everyone else.
 
-2007
+2005
 01:35:13,720 --> 01:35:16,120
 Listen, you weasel-headed cockwomble.
 
-2008
+2006
 01:35:16,240 --> 01:35:19,320
 I don't fucking care what
 your shit-ass problem is.
 
-2009
+2007
 01:35:19,440 --> 01:35:20,760
 If you don't want my help,
 
-2010
+2008
 01:35:20,880 --> 01:35:23,680
 you can go take a flying
 fuck at a rolling donut.
 
-2011
+2009
 01:35:23,800 --> 01:35:25,560
 You worthless, fucking cockspot.
 
-2012
+2010
 01:35:31,480 --> 01:35:32,800
 Oh, oh,
 
-2013
+2011
 01:35:32,920 --> 01:35:34,840
 you know what?
 
-2014
+2012
 01:35:34,960 --> 01:35:36,720
 I like you.
 
-2015
+2013
 01:35:36,840 --> 01:35:39,360
 I think I really like you.
 
-2016
+2014
 01:35:39,480 --> 01:35:40,200
 Finally,
 
-2017
+2015
 01:35:40,320 --> 01:35:41,960
 someone who's not made of glass.
 
-2018
+2016
 01:35:43,360 --> 01:35:44,480
 Hello, foots.
 
-2019
+2017
 01:35:44,600 --> 01:35:45,640
 Name's Rocky.
 
-2020
+2018
 01:35:45,760 --> 01:35:47,320
 Welcome to Camp Freedom,
 
-2021
+2019
 01:35:47,440 --> 01:35:49,040
 your worst nightmare.
 
-2022
+2020
 01:35:49,160 --> 01:35:50,600
 I have a strong stomach.
 
-2023
+2021
 01:35:50,720 --> 01:35:52,760
 Yeah, that's what they always say.
 
-2024
+2022
 01:35:52,880 --> 01:35:54,480
 Here, take one of these.
 
-2025
+2023
 01:35:54,600 --> 01:35:56,600
 Tie them around your head
 so it covers your muzzle.
 
-2026
+2024
 01:35:57,800 --> 01:35:59,800
 Ooooooh.
 
-2027
+2025
 01:35:59,920 --> 01:36:01,760
 Yeah, I know.
 
-2028
+2026
 01:36:01,880 --> 01:36:02,960
 Stings a bit in your nose,
 
-2029
+2027
 01:36:03,080 --> 01:36:04,320
 but you'll get used to it.
 
-2030
+2028
 01:36:04,440 --> 01:36:07,080
 It's nothing compared
 to the smell of the bodies.
 
-2031
+2029
 01:36:07,200 --> 01:36:09,481
 This used to be the headquarters
 of the Rebel Underground,
 
-2032
+2030
 01:36:09,600 --> 01:36:11,440
 until the Keepers found out about it.
 
-2033
+2031
 01:36:11,560 --> 01:36:12,440
 They came in the night,
 
-2034
+2032
 01:36:12,560 --> 01:36:15,360
 knocked everyone out
 with their magic shock rods,
 
-2035
+2033
 01:36:15,480 --> 01:36:17,120
 then set the place on fire.
 
-2036
+2034
 01:36:17,240 --> 01:36:19,600
 Most of the Rebels burned to a crisp.
 
-2037
+2035
 01:36:19,720 --> 01:36:21,360
 However, some did not.
 
-2038
+2036
 01:36:21,480 --> 01:36:23,120
 Judging from where the bodies are,
 
-2039
+2037
 01:36:23,240 --> 01:36:24,360
 some of them must have woken
 
-2040
+2038
 01:36:24,480 --> 01:36:26,640
 up trying to escape the flames.
 
-2041
+2039
 01:36:26,760 --> 01:36:29,640
 Their remains are scattered
 all around the place.
 
-2042
+2040
 01:36:29,760 --> 01:36:31,760
 Some have been eaten by the pig rats,
 
-2043
+2041
 01:36:31,880 --> 01:36:34,080
 and what's left of them is not pretty.
 
-2044
+2042
 01:36:34,200 --> 01:36:36,560
 And how do we go about
 cleaning this mess up?
 
-2045
+2043
 01:36:36,680 --> 01:36:38,480
 The other team brings
 the Rebels and all their
 
-2046
+2044
 01:36:38,520 --> 01:36:40,240
 belongings that made
 it through the fire and
 
-2047
+2045
 01:36:40,280 --> 01:36:41,840
 line them up over there.
 
-2048
+2046
 01:36:41,960 --> 01:36:44,120
 Then it's our job to identify them.
 
-2049
+2047
 01:36:44,240 --> 01:36:45,080
 If we find out who they
 
-2050
+2048
 01:36:45,200 --> 01:36:49,080
 are, we send them back to their families
 so they can be given a proper burial.
 
-2051
+2049
 01:36:49,200 --> 01:36:52,080
 Everyone else gets an
 anonymous grave right here.
 
-2052
+2050
 01:36:52,200 --> 01:36:52,720
 Okay,
 
-2053
+2051
 01:36:52,840 --> 01:36:54,480
 I told you I have a strong stomach,
 
-2054
+2052
 01:36:54,600 --> 01:36:56,000
 so let's get started.
 
-2055
+2053
 01:36:56,120 --> 01:36:57,240
 Alright.
 
-2056
+2054
 01:36:57,360 --> 01:36:58,160
 Get one of the bags,
 
-2057
+2055
 01:36:58,280 --> 01:36:59,280
 I'll show you what to do.
 
-2058
+2056
 01:37:05,760 --> 01:37:07,440
 Let's see who's in this one.
 
-2059
+2057
 01:37:09,360 --> 01:37:10,880
 Ooh, we're lucky.
 
-2060
+2058
 01:37:11,000 --> 01:37:13,160
 This one's pretty much in one piece.
 
-2061
+2059
 01:37:13,280 --> 01:37:16,376
 We must cut his clothes off and see if
 he's got anything on him that might tell
 
-2062
+2060
 01:37:16,400 --> 01:37:17,240
 us who he is.
 
-2063
+2061
 01:37:17,360 --> 01:37:19,280
 Documents, jewelry, anything.
 
-2064
+2062
 01:37:19,400 --> 01:37:20,400
 Gotcha.
 
-2065
+2063
 01:37:24,520 --> 01:37:25,520
 Hmm.
 
-2066
+2064
 01:37:26,760 --> 01:37:28,560
 Must have been a shirt.
 
-2067
+2065
 01:37:28,680 --> 01:37:30,720
 Well, the rest of him is charcoal.
 
-2068
+2066
 01:37:30,840 --> 01:37:31,240
 Oh,
 
-2069
+2067
 01:37:31,360 --> 01:37:32,120
 wait,
 
-2070
+2068
 01:37:32,240 --> 01:37:33,680
 he's wearing a ring.
 
-2071
+2069
 01:37:33,800 --> 01:37:34,880
 Good.
 
-2072
+2070
 01:37:35,000 --> 01:37:35,800
 If it's a wedding ring,
 
-2073
+2071
 01:37:35,920 --> 01:37:37,440
 it might have an inscription.
 
-2074
+2072
 01:37:37,560 --> 01:37:39,400
 But how do we get it off?
 
-2075
+2073
 01:37:39,520 --> 01:37:40,520
 We don't.
 
-2076
+2074
 01:37:41,440 --> 01:37:43,760
 Yuck, the finger comes right off.
 
-2077
+2075
 01:37:43,880 --> 01:37:45,480
 And it's a wedding ring.
 
-2078
+2076
 01:37:46,520 --> 01:37:48,160
 Goldeneyes and quicksilver.
 
-2079
+2077
 01:37:48,280 --> 01:37:49,040
 Oh,
 
-2080
+2078
 01:37:49,160 --> 01:37:50,160
 congratulations.
 
-2081
+2079
 01:37:50,960 --> 01:37:53,360
 Your first case is a celebrity.
 
-2082
+2080
 01:37:53,480 --> 01:37:57,680
 You mean this is Lord
 Quicksilver of Iron Forge?
 
-2083
+2081
 01:37:57,800 --> 01:37:59,400
 The one and only.
 
-2084
+2082
 01:37:59,520 --> 01:38:01,080
 So the rumors were true.
 
-2085
+2083
 01:38:01,200 --> 01:38:03,240
 He really did join the Rebellion.
 
-2086
+2084
 01:38:03,360 --> 01:38:04,440
 Ah, well,
 
-2087
+2085
 01:38:04,560 --> 01:38:06,040
 and now he's dead.
 
-2088
+2086
 01:38:06,160 --> 01:38:07,840
 I hope it was worth it.
 
-2089
+2087
 01:38:07,960 --> 01:38:09,280
 Yeah, I hope so too.
 
-2090
+2088
 01:38:09,400 --> 01:38:11,320
 As much as I disliked the Keepers,
 
-2091
+2089
 01:38:11,440 --> 01:38:13,360
 at least they kept the lands united.
 
-2092
+2090
 01:38:13,480 --> 01:38:15,640
 Now, who rules the rulers?
 
-2093
+2091
 01:38:15,760 --> 01:38:18,280
 It's a small wonder we're
 not at war with each other yet.
 
-2094
+2092
 01:38:18,400 --> 01:38:21,440
 Yeah, it's a very unstable situation.
 
-2095
+2093
 01:38:21,560 --> 01:38:22,960
 Oh, yes it is.
 
-2096
+2094
 01:38:23,080 --> 01:38:24,680
 Do you believe in gods?
 
-2097
+2095
 01:38:24,800 --> 01:38:25,360
 Nope.
 
-2098
+2096
 01:38:25,480 --> 01:38:26,360
 Neither do I.
 
-2099
+2097
 01:38:26,480 --> 01:38:28,520
 But I do believe in the good in man.
 
-2100
+2098
 01:38:28,640 --> 01:38:32,160
 So let's make sure the Lord gets
 back to Iron Forge where he belongs.
 
-2101
+2099
 01:38:39,000 --> 01:38:47,000
 Oh, excuse me, sir.
 
-2102
+2100
 01:38:51,520 --> 01:38:52,560
 What is it?
 
-2103
+2101
 01:38:52,680 --> 01:38:55,000
 I am looking for Longleaf's bakery.
 
-2104
+2102
 01:38:56,320 --> 01:38:57,320
 Longleaf, you say?
 
-2105
+2103
 01:38:57,360 --> 01:38:57,760
 Yeah.
 
-2106
+2104
 01:38:57,880 --> 01:38:58,880
 Why?
 
-2107
+2105
 01:38:59,760 --> 01:39:04,840
 Because, well, they say he makes the best
 sweet rolls on this side of Serpent River.
 
-2108
+2106
 01:39:04,960 --> 01:39:09,080
 I've come all the way from Coldlay
 to get some for my mother's birthday.
 
-2109
+2107
 01:39:09,200 --> 01:39:13,160
 Your story fills me with
 determination and hunger.
 
-2110
+2108
 01:39:14,280 --> 01:39:15,160
 But nope,
 
-2111
+2109
 01:39:15,280 --> 01:39:15,880
 sorry,
 
-2112
+2110
 01:39:16,000 --> 01:39:17,800
 never heard of anyone called Longleaf.
 
-2113
+2111
 01:39:17,920 --> 01:39:18,680
 However,
 
-2114
+2112
 01:39:18,800 --> 01:39:20,040
 if it's sweet rolls you want,
 
-2115
+2113
 01:39:20,160 --> 01:39:22,000
 try Sugar Tooth on Vine Street.
 
-2116
+2114
 01:39:22,120 --> 01:39:24,400
 His almond pastries are delicious.
 
-2117
+2115
 01:39:25,600 --> 01:39:26,320
 Ah, okay.
 
-2118
+2116
 01:39:26,440 --> 01:39:27,240
 Thank you, sir.
 
-2119
+2117
 01:39:27,360 --> 01:39:28,360
 Have a good day, sir.
 
-2120
+2118
 01:39:28,440 --> 01:39:29,440
 Take care.
 
-2121
+2119
 01:39:31,560 --> 01:39:32,560
 Man,
 
-2122
+2120
 01:39:33,640 --> 01:39:35,640
 finding Longleaf can't be that hard.
 
-2123
+2121
 01:39:35,760 --> 01:39:38,440
 How many bakeries can
 there be in a town like this?
 
-2124
+2122
 01:39:39,840 --> 01:39:43,200
 Excuse me, sir.
 
-2125
+2123
 01:39:43,320 --> 01:39:44,320
 Hmm?
 
-2126
+2124
 01:39:44,560 --> 01:39:47,200
 I'm looking for someone called Longleaf.
 
-2127
+2125
 01:39:47,320 --> 01:39:48,520
 Hmm.
 
-2128
+2126
 01:39:48,640 --> 01:39:51,840
 He's supposed to be running
 a bakery here somewhere.
 
-2129
+2127
 01:39:51,960 --> 01:39:52,960
 Hmm.
 
-2130
+2128
 01:39:53,520 --> 01:39:56,000
 So you don't know him?
 
-2131
+2129
 01:39:56,520 --> 01:39:57,520
 Uh-uh.
 
-2132
+2130
 01:40:00,520 --> 01:40:04,000
 Oh, and he might be
 wearing a symbol like this one.
 
-2133
+2131
 01:40:04,120 --> 01:40:06,360
 Listen, you little mongrel! Uh-huh.
 
-2134
+2132
 01:40:06,480 --> 01:40:09,480
 We don't welcome rebel
 scum like you around here.
 
-2135
+2133
 01:40:09,600 --> 01:40:10,760
 Okay, okay, okay, easy, easy.
 
-2136
+2134
 01:40:10,840 --> 01:40:12,560
 This city belongs to us.
 
-2137
+2135
 01:40:12,680 --> 01:40:13,200
 Okay.
 
-2138
+2136
 01:40:13,320 --> 01:40:15,600
 If your friend ever lived here,
 
-2139
+2137
 01:40:15,720 --> 01:40:19,280
 we'd probably send him
 to hell where he belongs.
 
-2140
+2138
 01:40:19,400 --> 01:40:20,600
 Now bugger off!
 
-2141
+2139
 01:40:20,720 --> 01:40:22,160
 I'm just here for the sweet rolls,
 
-2142
+2140
 01:40:22,280 --> 01:40:22,640
 honestly.
 
-2143
+2141
 01:40:22,760 --> 01:40:24,960
 I don't want to cause any trouble.
 
-2144
+2142
 01:40:25,080 --> 01:40:26,080
 Have a nice day, sir.
 
-2145
+2143
 01:40:29,840 --> 01:40:31,280
 Holy shit, that was close.
 
-2146
+2144
 01:40:32,440 --> 01:40:34,760
 This is not the Ironforge
 that Ankur brushes books.
 
-2147
+2145
 01:40:36,320 --> 01:40:38,600
 No, no, no!
 
-2148
+2146
 01:40:41,120 --> 01:40:44,800
 Stop making a fuss already.
 
-2149
+2147
 01:40:44,920 --> 01:40:45,920
 I'm your friend.
 
-2150
+2148
 01:40:46,640 --> 01:40:47,640
 Longleaf!
 
-2151
+2149
 01:40:48,600 --> 01:40:51,200
 Thank the gods, I
 thought I'd never find you.
 
-2152
+2150
 01:40:56,600 --> 01:41:01,400
 You have no idea what kind of huge and
 dangerous ruckus you have been making.
 
-2153
+2151
 01:41:01,520 --> 01:41:02,200
 What?
 
-2154
+2152
 01:41:02,320 --> 01:41:02,760
 I...
 
-2155
+2153
 01:41:02,880 --> 01:41:04,560
 There's so much I need to tell you.
 
-2156
+2154
 01:41:05,600 --> 01:41:07,360
 But let's go somewhere else first.
 
-2157
+2155
 01:41:07,480 --> 01:41:08,480
 How about your place?
 
-2158
+2156
 01:41:09,400 --> 01:41:10,760
 My place?
 
-2159
+2157
 01:41:10,880 --> 01:41:14,760
 After shooting the princess and
 asking bloody everyone for my name,
 
-2160
+2158
 01:41:14,880 --> 01:41:17,920
 while waving the bloody
 tree of knowledge in their face,
 
-2161
+2159
 01:41:18,040 --> 01:41:20,320
 there is now a bloody
 mob in front of my shop,
 
-2162
+2160
 01:41:20,440 --> 01:41:21,440
 smashing my windows.
 
-2163
+2161
 01:41:22,800 --> 01:41:25,240
 I hope you have a damn good
 reason for showing up like this.
 
-2164
+2162
 01:41:26,640 --> 01:41:28,960
 Look, you're the only one I know.
 
-2165
+2163
 01:41:29,080 --> 01:41:33,440
 Lady GoldenEye has had the entire class
 kidnapped from the school in Ferndale,
 
-2166
+2164
 01:41:33,560 --> 01:41:35,440
 but Putami and I managed to escape.
 
-2167
+2165
 01:41:37,080 --> 01:41:39,880
 I started looking for you
 the moment we arrived here,
 
-2168
+2166
 01:41:40,000 --> 01:41:41,200
 but then we...
 
-2169
+2167
 01:41:41,320 --> 01:41:44,720
 You decided to kill Lady
 GoldenEye first, in broad daylight!
 
-2170
+2168
 01:41:45,920 --> 01:41:47,720
 No, but Putami did it.
 
-2171
+2169
 01:41:47,840 --> 01:41:49,000
 I even tried to stop her.
 
-2172
+2170
 01:41:49,120 --> 01:41:50,160
 Oh,
 
-2173
+2171
 01:41:50,280 --> 01:41:51,280
 so it was her.
 
-2174
+2172
 01:41:52,360 --> 01:41:53,440
 You know her?
 
-2175
+2173
 01:41:53,560 --> 01:41:54,560
 Only know her mother.
 
-2176
+2174
 01:41:55,560 --> 01:41:59,440
 Without her, our presence here is down
 to nothing more than a couple of veterans.
 
-2177
+2175
 01:41:59,560 --> 01:42:00,560
 Too
 
-2178
+2176
 01:42:00,720 --> 01:42:02,640
 bad you didn't go for Whisperwind instead.
 
-2179
+2177
 01:42:02,760 --> 01:42:04,280
 He is the one who deserves to be shot,
 
-2180
+2178
 01:42:04,360 --> 01:42:05,440
 not GoldenEye's.
 
-2181
+2179
 01:42:05,560 --> 01:42:05,760
 But...
 
-2182
+2180
 01:42:05,880 --> 01:42:09,720
 but Whisperwind managed to convince
 Putami that he is with the Institute.
 
-2183
+2181
 01:42:09,840 --> 01:42:13,560
 I'd have expected her to know more
 about the Institute than our codex.
 
-2184
+2182
 01:42:13,680 --> 01:42:15,920
 Well, what do you expect from a pig?
 
-2185
+2183
 01:42:16,040 --> 01:42:18,280
 Wow, stop right there.
 
-2186
+2184
 01:42:18,400 --> 01:42:20,440
 That's not how you
 talk about your girlfriend.
 
-2187
+2185
 01:42:20,560 --> 01:42:21,640
 She betrayed me.
 
-2188
+2186
 01:42:21,760 --> 01:42:23,280
 She is not my girlfriend.
 
-2189
+2187
 01:42:23,400 --> 01:42:25,280
 Rubbish, of course she is.
 
-2190
+2188
 01:42:25,400 --> 01:42:27,360
 What even thinks she rescued you first?
 
-2191
+2189
 01:42:27,480 --> 01:42:28,920
 Coincidence.
 
-2192
+2190
 01:42:29,040 --> 01:42:32,040
 And why do you think she took you
 with her all the way through Darkwoods?
 
-2193
+2191
 01:42:32,160 --> 01:42:33,960
 Because she knew she needed me.
 
-2194
+2192
 01:42:35,080 --> 01:42:37,280
 But she didn't need you
 anymore once you were here.
 
-2195
+2193
 01:42:38,760 --> 01:42:41,080
 I don't know and I don't care.
 
-2196
+2194
 01:42:42,800 --> 01:42:43,800
 Really?
 
-2197
+2195
 01:42:44,680 --> 01:42:46,160
 Then why didn't she leave you behind?
 
-2198
+2196
 01:42:48,760 --> 01:42:51,000
 I have no idea.
 
-2199
+2197
 01:42:51,120 --> 01:42:51,800
 Boy,
 
-2200
+2198
 01:42:51,920 --> 01:42:53,760
 you are in full on denial.
 
-2201
+2199
 01:42:53,880 --> 01:42:55,160
 She cares about you.
 
-2202
+2200
 01:42:55,280 --> 01:42:56,080
 A lot.
 
-2203
+2201
 01:42:56,200 --> 01:42:57,200
 Don't you see that?
 
-2204
+2202
 01:42:58,560 --> 01:43:00,800
 Then why did she hurt me so much?
 
-2205
+2203
 01:43:00,920 --> 01:43:02,600
 Someone killed her mother.
 
-2206
+2204
 01:43:02,720 --> 01:43:04,280
 Imagine the pain she's gone through.
 
-2207
+2205
 01:43:05,360 --> 01:43:08,160
 When Whisperwind gave
 her the chance for revenge,
 
-2208
+2206
 01:43:08,280 --> 01:43:11,280
 that made her forget everything
 else and it clouded her mind with hate.
 
-2209
+2207
 01:43:12,640 --> 01:43:13,960
 Yes, it was wrong,
 
-2210
+2208
 01:43:14,080 --> 01:43:15,600
 but it can happen to any of us.
 
-2211
+2209
 01:43:15,720 --> 01:43:17,440
 Not to me.
 
-2212
+2210
 01:43:18,760 --> 01:43:19,800
 Well,
 
-2213
+2211
 01:43:19,920 --> 01:43:23,080
 let me guess who told
 her how to use the gun.
 
-2214
+2212
 01:43:23,200 --> 01:43:24,200
 It was you, right?
 
-2215
+2213
 01:43:25,000 --> 01:43:25,600
 Yeah,
 
-2216
+2214
 01:43:25,720 --> 01:43:26,880
 yes, it was me.
 
-2217
+2215
 01:43:27,000 --> 01:43:28,880
 Did she ask you for it?
 
-2218
+2216
 01:43:29,000 --> 01:43:30,600
 So the truth is,
 
-2219
+2217
 01:43:30,720 --> 01:43:32,600
 you wanted to impress
 your crush and your
 
-2220
+2218
 01:43:32,720 --> 01:43:34,840
 feelings made you blind
 to the consequences.
 
-2221
+2219
 01:43:35,920 --> 01:43:38,040
 Like, for example,
 that you were effectively
 
-2222
+2220
 01:43:38,160 --> 01:43:39,920
 teaching her how
 to shoot the lady.
 
-2223
+2221
 01:43:41,000 --> 01:43:43,520
 So don't ever again say
 it doesn't happen to you.
 
-2224
+2222
 01:43:43,640 --> 01:43:44,640
 It does all the time.
 
-2225
+2223
 01:43:48,360 --> 01:43:49,360
 So,
 
-2226
+2224
 01:43:50,200 --> 01:43:51,720
 you know where your girlfriend is now?
 
-2227
+2225
 01:43:52,520 --> 01:43:54,160
 She wanted to meet Whisperwind.
 
-2228
+2226
 01:43:55,800 --> 01:43:59,040
 He's an expert boyfriend
 that'll walk right into his trap.
 
-2229
+2227
 01:44:00,320 --> 01:44:02,720
 I was mad at her.
 
-2230
+2228
 01:44:02,840 --> 01:44:04,880
 That means she deserves to die or what?
 
-2231
+2229
 01:44:07,720 --> 01:44:10,320
 I'm such a bloody idiot, ain't I?
 
-2232
+2230
 01:44:11,680 --> 01:44:14,320
 For God's sake, I'm such an idiot.
 
-2233
+2231
 01:44:14,440 --> 01:44:16,120
 Does she still have the gun?
 
-2234
+2232
 01:44:16,240 --> 01:44:17,000
 Yeah.
 
-2235
+2233
 01:44:17,120 --> 01:44:19,160
 Let's hope she'll shoot
 the right guy this time.
 
-2236
+2234
 01:44:19,280 --> 01:44:20,760
 Stop being so goddamn cynical.
 
-2237
+2235
 01:44:20,880 --> 01:44:22,440
 Look,
 
-2238
+2236
 01:44:22,560 --> 01:44:26,520
 GoldenEyes doesn't want the public to
 know she kidnapped innocent students.
 
-2239
+2237
 01:44:26,640 --> 01:44:28,280
 And Whisperwind
 won't be too happy about
 
-2240
+2238
 01:44:28,400 --> 01:44:30,600
 witnesses to his conspiracy
 running around either.
 
-2241
+2239
 01:44:31,760 --> 01:44:33,000
 And on top of all of that,
 
-2242
+2240
 01:44:33,120 --> 01:44:36,960
 the public thinks you're the
 accomplices to an attempt at murder.
 
-2243
+2241
 01:44:37,080 --> 01:44:39,760
 The entire city is against us,
 
-2244
+2242
 01:44:39,880 --> 01:44:41,080
 literally.
 
-2245
+2243
 01:44:41,200 --> 01:44:44,120
 All we can do is get the news to
 Ferndale and hope for the best.
 
-2246
+2244
 01:44:45,680 --> 01:44:48,080
 I wonder what Riversong would have done.
 
-2247
+2245
 01:44:48,200 --> 01:44:49,400
 Your father.
 
-2248
+2246
 01:44:49,520 --> 01:44:50,520
 Why would that matter?
 
-2249
+2247
 01:44:51,360 --> 01:44:52,440
 Because he was a hero.
 
-2250
+2248
 01:44:52,560 --> 01:44:56,240
 He went out of his way to save
 my mother back during the rebellion.
 
-2251
+2249
 01:44:56,360 --> 01:44:57,480
 He's also dead.
 
-2252
+2250
 01:44:59,560 --> 01:45:02,400
 If it is my fate to die for a good cause,
 
-2253
+2251
 01:45:02,520 --> 01:45:03,280
 so be it.
 
-2254
+2252
 01:45:03,400 --> 01:45:05,680
 That's the stupidest thing I've ever heard.
 
-2255
+2253
 01:45:05,800 --> 01:45:07,480
 I screwed up big time.
 
-2256
+2254
 01:45:07,600 --> 01:45:09,920
 I can't just sit here and wait.
 
-2257
+2255
 01:45:10,040 --> 01:45:12,200
 You're doing that emotional thing again.
 
-2258
+2256
 01:45:12,320 --> 01:45:13,680
 Just look at yourself.
 
-2259
+2257
 01:45:14,880 --> 01:45:16,960
 Your arm is still bleeding.
 
-2260
+2258
 01:45:17,080 --> 01:45:19,320
 You couldn't even hold a butter knife.
 
-2261
+2259
 01:45:19,440 --> 01:45:19,960
 You're crazy.
 
-2262
+2260
 01:45:20,080 --> 01:45:21,080
 Don't touch it.
 
-2263
+2261
 01:45:21,960 --> 01:45:23,680
 Better tell me where I
 can find Whisperwind.
 
-2264
+2262
 01:45:25,640 --> 01:45:26,640
 Well,
 
-2265
+2263
 01:45:27,600 --> 01:45:28,720
 how would I know?
 
-2266
+2264
 01:45:29,920 --> 01:45:31,880
 He's probably either at home or
 
-2267
+2265
 01:45:32,000 --> 01:45:33,880
 telling lies to his wife.
 
-2268
+2266
 01:45:34,000 --> 01:45:36,400
 Or he might be spending
 the night at one of his brothels.
 
-2269
+2267
 01:45:36,520 --> 01:45:37,200
 His brothels?
 
-2270
+2268
 01:45:37,320 --> 01:45:38,640
 You
 
-2271
+2269
 01:45:38,760 --> 01:45:39,760
 didn't know?
 
-2272
+2270
 01:45:40,600 --> 01:45:43,040
 The Cat House is
 probably the only business
 
-2273
+2271
 01:45:43,160 --> 01:45:46,360
 in Ironforge that still
 turns a solid profit.
 
-2274
+2272
 01:45:46,480 --> 01:45:49,080
 Extractions from misery are
 in high demand these days.
 
-2275
+2273
 01:45:50,600 --> 01:45:53,360
 They let the sleaziest guy
 in town marry the princess?
 
-2276
+2274
 01:45:53,480 --> 01:45:55,560
 All that matters is gold these days.
 
-2277
+2275
 01:45:55,680 --> 01:45:56,840
 And of that, he's got plenty.
 
-2278
+2276
 01:45:57,920 --> 01:46:00,560
 He's not going to meet
 Botami at the palace,
 
-2279
+2277
 01:46:00,680 --> 01:46:02,600
 so they must be at the Cat House.
 
-2280
+2278
 01:46:02,720 --> 01:46:03,560
 Maybe.
 
-2281
+2279
 01:46:03,680 --> 01:46:04,840
 But what are you going to do?
 
-2282
+2280
 01:46:04,960 --> 01:46:06,480
 I'll come up with something.
 
-2283
+2281
 01:46:06,600 --> 01:46:08,480
 You go to get help from Furnir,
 
-2284
+2282
 01:46:08,600 --> 01:46:10,000
 and I'll go save my girlfriend.
 
-2285
+2283
 01:46:10,120 --> 01:46:12,600
 Oh, now she's your girlfriend again.
 
-2286
+2284
 01:46:12,720 --> 01:46:15,120
 Well then, good luck.
 
-2287
+2285
 01:46:15,240 --> 01:46:18,600
 Oh, what kind of flowers
 would you like on your grave?
 
-2288
+2286
 01:46:18,720 --> 01:46:21,000
 White chrysanthemums for love,
 
-2289
+2287
 01:46:21,120 --> 01:46:22,360
 truth, and a long life.
 
-2290
+2288
 01:46:22,480 --> 01:46:24,120
 Oh, by the gods, grow up!
 
-2291
+2289
 01:46:24,240 --> 01:46:25,880
 Goodbye, Longleaf.
 
-2292
+2290
 01:46:26,000 --> 01:46:26,560
 No,
 
-2293
+2291
 01:46:26,680 --> 01:46:28,080
 you're making a mistake.
 
-2294
+2292
 01:46:28,200 --> 01:46:29,560
 The enemy's in the majority.
 
-2295
+2293
 01:46:29,680 --> 01:46:30,760
 I can't help you when...
 
-2296
+2294
 01:46:30,880 --> 01:46:31,880
 Goodbye.
 
-2297
+2295
 01:46:34,760 --> 01:46:38,680
 There he goes! He's the one! Let's get him!
 
-2298
+2296
 01:46:38,800 --> 01:46:39,800
 Fuck!
 
-2299
+2297
 01:46:40,640 --> 01:46:41,640
 Fuck! Fuck!
 
-2300
+2298
 01:46:50,200 --> 01:46:51,440
 Oh,
 
-2301
+2299
 01:46:58,360 --> 01:47:03,640
 what a surprise! Lady visitors
 have become so rare these days.
 
-2302
+2300
 01:47:03,760 --> 01:47:06,440
 Welcome to the Cat House.
 
-2303
+2301
 01:47:06,560 --> 01:47:08,560
 My name is Snowflake.
 
-2304
+2302
 01:47:08,680 --> 01:47:11,160
 Is this your first visit here?
 
-2305
+2303
 01:47:11,280 --> 01:47:14,480
 Yes, but...
 
-2306
+2304
 01:47:14,600 --> 01:47:17,360
 There's no reason to be ashamed.
 
-2307
+2305
 01:47:18,360 --> 01:47:21,520
 This is the first time for everything.
 
-2308
+2306
 01:47:21,640 --> 01:47:24,960
 The Cat House proudly
 caters to all species,
 
-2309
+2307
 01:47:25,080 --> 01:47:26,960
 sexes, and preferences.
 
-2310
+2308
 01:47:28,200 --> 01:47:29,040
 So,
 
-2311
+2309
 01:47:29,160 --> 01:47:30,400
 tell me,
 
-2312
+2310
 01:47:30,520 --> 01:47:33,440
 are you into boys or into girls?
 
-2313
+2311
 01:47:33,560 --> 01:47:35,120
 Or maybe even both?
 
-2314
+2312
 01:47:35,240 --> 01:47:36,800
 Maybe even at the same time?
 
-2315
+2313
 01:47:36,920 --> 01:47:38,800
 Um,
 
-2316
+2314
 01:47:38,920 --> 01:47:42,760
 I'm actually here to see Lord Whisperwind.
 
-2317
+2315
 01:47:42,880 --> 01:47:43,560
 Oh,
 
-2318
+2316
 01:47:43,680 --> 01:47:45,960
 you're here for an audition.
 
-2319
+2317
 01:47:46,080 --> 01:47:48,560
 Why didn't you say so?
 
-2320
+2318
 01:47:48,680 --> 01:47:49,560
 Um,
 
-2321
+2319
 01:47:49,680 --> 01:47:51,800
 when was your appointment again?
 
-2322
+2320
 01:47:51,920 --> 01:47:53,960
 I don't have an appointment.
 
-2323
+2321
 01:47:54,080 --> 01:47:56,880
 I just want to talk to the
 Lord, if that's possible.
 
-2324
+2322
 01:47:57,000 --> 01:47:58,240
 My name is Potami.
 
-2325
+2323
 01:47:58,360 --> 01:47:58,920
 He knows me.
 
-2326
+2324
 01:47:59,040 --> 01:48:01,680
 That should be possible,
 
-2327
+2325
 01:48:01,800 --> 01:48:02,520
 but
 
-2328
+2326
 01:48:02,640 --> 01:48:04,800
 it may take a while.
 
-2329
+2327
 01:48:04,920 --> 01:48:07,800
 The Lord is terribly busy at the moment.
 
-2330
+2328
 01:48:08,880 --> 01:48:09,640
 No problem.
 
-2331
+2329
 01:48:09,760 --> 01:48:11,560
 I'm not in a rush.
 
-2332
+2330
 01:48:11,680 --> 01:48:16,960
 I hope you realize that just talking is
 not going to get you a job here, right?
 
-2333
+2331
 01:48:17,080 --> 01:48:19,480
 I appreciate the advice,
 
-2334
+2332
 01:48:19,600 --> 01:48:22,200
 but I really just want to talk.
 
-2335
+2333
 01:48:22,320 --> 01:48:25,040
 All right, just saying.
 
-2336
+2334
 01:48:25,160 --> 01:48:27,280
 Can I fetch you something to drink?
 
-2337
+2335
 01:48:27,400 --> 01:48:31,720
 We have a whole new menu
 with original human recipes.
 
-2338
+2336
 01:48:31,840 --> 01:48:33,440
 Um, I don't know.
 
-2339
+2337
 01:48:33,560 --> 01:48:35,000
 What would you recommend?
 
-2340
+2338
 01:48:35,120 --> 01:48:37,880
 There's a hot drink called coffee.
 
-2341
+2339
 01:48:38,000 --> 01:48:40,200
 And let me tell you,
 
-2342
+2340
 01:48:40,320 --> 01:48:44,760
 that one really gets your juices flowing.
 
-2343
+2341
 01:48:45,920 --> 01:48:48,800
 Um, sounds nice.
 
-2344
+2342
 01:48:48,920 --> 01:48:50,880
 Perfect! I'll get you one!
 
-2345
+2343
 01:48:58,520 --> 01:49:01,480
 Well, well, Whisperwind.
 
-2346
+2344
 01:49:01,600 --> 01:49:02,320
 So,
 
-2347
+2345
 01:49:02,440 --> 01:49:04,400
 how does it feel to be a Lord?
 
-2348
+2346
 01:49:04,520 --> 01:49:08,240
 Oh, it's the most glorious
 feeling in the world.
 
-2349
+2347
 01:49:08,360 --> 01:49:10,400
 Oh, even better than my pussy.
 
-2350
+2348
 01:49:11,680 --> 01:49:15,440
 Why compare when I can
 have both at the same time?
 
-2351
+2349
 01:49:15,560 --> 01:49:18,360
 You're such a naughty boy.
 
-2352
+2350
 01:49:18,480 --> 01:49:21,120
 Cheating on your lady
 on your wedding night?
 
-2353
+2351
 01:49:21,240 --> 01:49:25,160
 Getting rid of her turned out
 to be harder than I thought.
 
-2354
+2352
 01:49:25,280 --> 01:49:27,000
 But next time I come to see you,
 
-2355
+2353
 01:49:27,120 --> 01:49:28,640
 it won't be cheating anymore.
 
-2356
+2354
 01:49:28,760 --> 01:49:30,080
 I promise.
 
-2357
+2355
 01:49:30,200 --> 01:49:32,640
 You know that my lips are sealed.
 
-2358
+2356
 01:49:32,760 --> 01:49:34,520
 You can come in any time.
 
-2359
+2357
 01:49:34,640 --> 01:49:36,880
 I'm always up for a good fuck.
 
-2360
+2358
 01:49:37,000 --> 01:49:38,640
 How much time do you have?
 
-2361
+2359
 01:49:38,760 --> 01:49:41,000
 I've got all the time in the world.
 
-2362
+2360
 01:49:41,120 --> 01:49:43,080
 Let's take it nice and slow.
 
-2363
+2361
 01:49:43,200 --> 01:49:44,200
 Oh,
 
-2364
+2362
 01:49:45,040 --> 01:49:45,880
 Whisperwind,
 
-2365
+2363
 01:49:46,000 --> 01:49:47,840
 you son of a rat.
 
-2366
+2364
 01:49:47,960 --> 01:49:49,520
 You're going to pay for this.
 
-2367
+2365
 01:49:49,640 --> 01:49:50,640
 I swear.
 
-2368
+2366
 01:49:50,760 --> 01:49:53,080
 You are so going to pay for this.
 
-2369
+2367
 01:49:54,080 --> 01:49:56,000
 Here's your cup of coffee.
 
-2370
+2368
 01:49:56,120 --> 01:49:58,760
 Black and hot,
 
-2371
+2369
 01:49:58,880 --> 01:50:00,440
 just as it should be.
 
-2372
+2370
 01:50:00,560 --> 01:50:01,000
 Oh,
 
-2373
+2371
 01:50:01,120 --> 01:50:02,000
 thank you.
 
-2374
+2372
 01:50:02,120 --> 01:50:03,920
 I've never had coffee before.
 
-2375
+2373
 01:50:05,800 --> 01:50:06,920
 Try it.
 
-2376
+2374
 01:50:07,040 --> 01:50:12,400
 Good, isn't it?
 
-2377
+2375
 01:50:17,080 --> 01:50:20,320
 Snowy?
 
-2378
+2376
 01:50:20,440 --> 01:50:20,800
 Yeah?
 
-2379
+2377
 01:50:20,920 --> 01:50:21,920
 Hey,
 
-2380
+2378
 01:50:22,400 --> 01:50:24,880
 he wants the slow routine tonight.
 
-2381
+2379
 01:50:25,000 --> 01:50:26,720
 Can you get me the cuffs and the blindfold?
 
-2382
+2380
 01:50:27,920 --> 01:50:28,920
 Sure thing.
 
-2383
+2381
 01:50:37,080 --> 01:50:41,440
 Here you are.
 
-2384
+2382
 01:50:41,560 --> 01:50:42,560
 Thanks.
 
-2385
+2383
 01:50:45,560 --> 01:50:46,200
 Now,
 
-2386
+2384
 01:50:46,320 --> 01:50:48,960
 it looks like this is
 going to take a while.
 
-2387
+2385
 01:50:49,080 --> 01:50:51,120
 Are you sure you want to continue waiting?
 
-2388
+2386
 01:50:52,880 --> 01:50:55,840
 Well, it's not as if I had a choice.
 
-2389
+2387
 01:50:55,960 --> 01:50:57,840
 Oh, well, your decision.
 
-2390
+2388
 01:50:57,960 --> 01:50:59,280
 Enjoy your coffee.
 
-2391
+2389
 01:50:59,400 --> 01:51:01,200
 Thank you.
 
-2392
+2390
 01:51:01,320 --> 01:51:03,360
 Wait,
 
-2393
+2391
 01:51:03,480 --> 01:51:04,840
 Snowflake.
 
-2394
+2392
 01:51:04,960 --> 01:51:06,840
 Yes?
 
-2395
+2393
 01:51:06,960 --> 01:51:07,760
 Ah,
 
-2396
+2394
 01:51:07,880 --> 01:51:08,880
 you're right.
 
-2397
+2395
 01:51:09,600 --> 01:51:12,480
 Just talking isn't going
 to impress the Lord.
 
-2398
+2396
 01:51:12,600 --> 01:51:16,840
 So I thought maybe you could
 tell me a little bit about him.
 
-2399
+2397
 01:51:16,960 --> 01:51:19,480
 Like the stuff that really rocks his boat,
 
-2400
+2398
 01:51:19,600 --> 01:51:21,360
 if you know what I mean.
 
-2401
+2399
 01:51:21,480 --> 01:51:22,880
 If you want to,
 
-2402
+2400
 01:51:23,000 --> 01:51:26,720
 I could ask Moonshine if
 she'd be up for a little chat later.
 
-2403
+2401
 01:51:26,840 --> 01:51:28,720
 She's the Lord's favorite,
 
-2404
+2402
 01:51:28,840 --> 01:51:32,920
 and she knows everything about him.
 
-2405
+2403
 01:51:33,040 --> 01:51:35,040
 Can you come back tomorrow?
 
-2406
+2404
 01:51:35,160 --> 01:51:36,160
 No,
 
-2407
+2405
 01:51:36,200 --> 01:51:37,600
 I only have time today.
 
-2408
+2406
 01:51:38,640 --> 01:51:41,960
 But maybe you could ask her,
 
-2409
+2407
 01:51:42,080 --> 01:51:43,320
 like,
 
-2410
+2408
 01:51:43,440 --> 01:51:46,600
 maybe she would let me watch?
 
-2411
+2409
 01:51:47,920 --> 01:51:50,240
 I like how you think.
 
-2412
+2410
 01:51:50,360 --> 01:51:52,680
 Well, you're in training already.
 
-2413
+2411
 01:51:52,800 --> 01:51:54,840
 You're such a kinky little pig.
 
-2414
+2412
 01:51:55,960 --> 01:51:56,360
 Oh,
 
-2415
+2413
 01:51:56,480 --> 01:51:56,960
 sorry.
 
-2416
+2414
 01:51:57,080 --> 01:51:58,440
 No offense.
 
-2417
+2415
 01:51:58,560 --> 01:52:00,440
 Just let me talk to Moonshine.
 
-2418
+2416
 01:52:05,680 --> 01:52:06,920
 Hey,
 
-2419
+2417
 01:52:07,040 --> 01:52:08,040
 Moonshine.
 
-2420
+2418
 01:52:08,080 --> 01:52:08,600
 Yeah?
 
-2421
+2419
 01:52:08,720 --> 01:52:09,280
 What is it?
 
-2422
+2420
 01:52:09,400 --> 01:52:10,880
 The young girl over there.
 
-2423
+2421
 01:52:11,000 --> 01:52:15,040
 She was wondering if
 you'd let her watch, maybe?
 
-2424
+2422
 01:52:15,160 --> 01:52:16,160
 Yes.
 
-2425
+2423
 01:52:16,840 --> 01:52:17,280
 Really?
 
-2426
+2424
 01:52:17,400 --> 01:52:17,880
 Great.
 
-2427
+2425
 01:52:18,000 --> 01:52:19,000
 Why not?
 
-2428
+2426
 01:52:21,720 --> 01:52:22,920
 Okay,
 
-2429
+2427
 01:52:23,040 --> 01:52:24,640
 Moony is fine with it.
 
-2430
+2428
 01:52:24,760 --> 01:52:28,000
 But you have to stay absolutely still.
 
-2431
+2429
 01:52:28,120 --> 01:52:30,040
 If the Lord finds out,
 
-2432
+2430
 01:52:30,160 --> 01:52:32,880
 we're going to lose
 more than just our jobs.
 
-2433
+2431
 01:52:33,000 --> 01:52:34,000
 Get it?
 
-2434
+2432
 01:52:35,720 --> 01:52:43,720
 Yes!
 
-2435
+2433
 01:52:51,200 --> 01:52:59,200
 Oh
 
-2436
+2434
 01:53:04,160 --> 01:53:05,840
 Yes,
 
-2437
+2435
 01:53:05,960 --> 01:53:10,560
 your paws are magic take
 your time ladies take your time
 
-2438
+2436
 01:53:12,120 --> 01:53:16,320
 You can't imagine what
 an exhausting day I have
 
-2439
+2437
 01:53:16,440 --> 01:53:17,840
 weddings
 
-2440
+2438
 01:53:17,960 --> 01:53:18,960
 assassinations
 
-2441
+2439
 01:53:20,360 --> 01:53:21,760
 Yes, go on like that.
 
-2442
+2440
 01:53:21,880 --> 01:53:25,440
 Yeah right there so soft
 
-2443
+2441
 01:53:27,120 --> 01:53:35,120
 Whisper wind whisper
 
-2444
+2442
 01:53:41,360 --> 01:53:44,680
 Oh, well so much for the long routine
 
-2445
+2443
 01:53:44,800 --> 01:53:50,280
 Wow, that's the first time I've seen you
 fall asleep with a pair of tits on his face
 
-2446
+2444
 01:53:50,400 --> 01:53:54,560
 He must be very tired
 shall we wake him up again?
 
-2447
+2445
 01:53:54,680 --> 01:53:55,240
 No,
 
-2448
+2446
 01:53:55,360 --> 01:53:55,600
 please.
 
-2449
+2447
 01:53:55,720 --> 01:53:56,160
 No,
 
-2450
+2448
 01:53:56,280 --> 01:53:59,720
 I'm glad that I don't have to listen
 through another night of confessions
 
-2451
+2449
 01:53:59,840 --> 01:54:01,600
 You should write a biography
 
-2452
+2450
 01:54:01,720 --> 01:54:05,480
 I totally could and I
 could swear it turns him
 
-2453
+2451
 01:54:05,600 --> 01:54:09,560
 on it's like his personal
 way of talking dirty
 
-2454
+2452
 01:54:09,680 --> 01:54:11,520
 What a strange guy.
 
-2455
+2453
 01:54:11,640 --> 01:54:13,520
 Oh, that's at least untie him.
 
-2456
+2454
 01:54:13,640 --> 01:54:14,640
 Okay
 
-2457
+2455
 01:54:33,720 --> 01:54:38,520
 I'm sorry little one that usually
 plays out a bit differently.
 
-2458
+2456
 01:54:38,640 --> 01:54:39,720
 Oh, well
 
-2459
+2457
 01:54:39,840 --> 01:54:40,520
 Thank you.
 
-2460
+2458
 01:54:40,640 --> 01:54:41,320
 Anyway
 
-2461
+2459
 01:54:41,440 --> 01:54:42,920
 You did your best.
 
-2462
+2460
 01:54:43,040 --> 01:54:45,680
 Oh the only way to survive in this job.
 
-2463
+2461
 01:54:45,800 --> 01:54:46,800
 See you later
 
-2464
+2462
 01:54:53,520 --> 01:54:56,760
 I'm afraid you won't get
 your audition today little one.
 
-2465
+2463
 01:54:59,080 --> 01:55:01,840
 Oh Yeah, it looks like it
 
-2466
+2464
 01:55:01,960 --> 01:55:04,840
 too bad you can't come back tomorrow
 
-2467
+2465
 01:55:04,960 --> 01:55:07,880
 You're remarkably sexy for a pig.
 
-2468
+2466
 01:55:08,000 --> 01:55:08,640
 Oh
 
-2469
+2467
 01:55:08,760 --> 01:55:09,360
 Thank you.
 
-2470
+2468
 01:55:09,480 --> 01:55:12,080
 That was almost not racist
 
-2471
+2469
 01:55:23,720 --> 01:55:24,720
 Okay,
 
-2472
+2470
 01:55:24,800 --> 01:55:26,560
 it's time for me to leave then
 
-2473
+2471
 01:55:26,680 --> 01:55:30,000
 Thank you for the coffee and the demo
 
-2474
+2472
 01:55:30,120 --> 01:55:32,200
 I've learned a lot today.
 
-2475
+2473
 01:55:32,320 --> 01:55:35,320
 Have a good night toodles
 
-2476
+2474
 01:55:51,040 --> 01:55:53,280
 Business seems to be slow today.
 
-2477
+2475
 01:55:54,320 --> 01:55:55,320
 Excellent.
 
-2478
+2476
 01:55:55,720 --> 01:55:57,720
 Now just you wait whisper
 
-2479
+2477
 01:56:33,240 --> 01:56:34,240
 I
 
-2480
+2478
 01:56:35,320 --> 01:56:38,000
 Think I'm going to keep those clothes
 
-2481
+2479
 01:56:40,040 --> 01:56:43,200
 Raindancers going to have
 a stroke if he sees me like that
 
-2482
+2480
 01:57:21,000 --> 01:57:26,600
 I just
 
-2483
+2481
 01:57:27,840 --> 01:57:28,840
 fall asleep
 
-2484
+2482
 01:57:29,960 --> 01:57:32,560
 Damn that never happened to me before
 
-2485
+2483
 01:57:34,520 --> 01:57:35,800
 Are you still oh,
 
-2486
+2484
 01:57:35,920 --> 01:57:38,880
 oh, oh, yes you are
 
-2487
+2485
 01:57:40,320 --> 01:57:41,480
 Yeah, yeah
 
-2488
+2486
 01:57:42,600 --> 01:57:44,880
 Moonshine you are the best.
 
-2489
+2487
 01:57:45,000 --> 01:57:47,040
 Oh, that's stupid pig
 
-2490
+2488
 01:57:47,160 --> 01:57:51,960
 fights to shoot gold mice
 at arm length Oh God, yes
 
-2491
+2489
 01:57:52,080 --> 01:57:55,760
 Then the other guy takes her down and
 
-2492
+2490
 01:57:55,880 --> 01:57:58,280
 bursts my busts my plan
 
-2493
+2491
 01:57:58,400 --> 01:58:04,120
 Faster moonshine faster
 You know that bitch was
 
-2494
+2492
 01:58:04,240 --> 01:58:08,000
 one of the bloody hostages from Ferndale
 
-2495
+2493
 01:58:08,120 --> 01:58:10,640
 Turns out she is the
 bloody daughter of that spy.
 
-2496
+2494
 01:58:10,760 --> 01:58:12,440
 We killed a couple of weeks ago.
 
-2497
+2495
 01:58:12,560 --> 01:58:15,920
 Oh Yeah Yes
 
-2498
+2496
 01:58:17,160 --> 01:58:21,280
 Told her I am with the Institute told
 her everything she wanted to hear
 
-2499
+2497
 01:58:22,320 --> 01:58:26,640
 Stupid little pig was
 so hell-bent on revenge.
 
-2500
+2498
 01:58:26,760 --> 01:58:28,480
 I didn't even have to pay her
 
-2501
+2499
 01:58:32,360 --> 01:58:35,120
 faster.
 
-2502
+2500
 01:58:35,240 --> 01:58:40,920
 Yeah, the irony is it was me
 who made the lady kill her mother
 
-2503
+2501
 01:58:41,040 --> 01:58:43,400
 It was not me all along
 
-2504
+2502
 01:58:48,960 --> 01:58:52,520
 Careful with your teeth, huh?
 
-2505
+2503
 01:58:52,640 --> 01:58:54,560
 You know, I like it rough.
 
-2506
+2504
 01:58:54,680 --> 01:58:55,680
 Don't you?
 
-2507
+2505
 01:59:01,640 --> 01:59:09,640
 You're going to love what
 comes next What the fuck
 
-2508
+2506
 01:59:10,280 --> 01:59:11,280
 You
 
-2509
+2507
 01:59:13,320 --> 01:59:16,440
 Right iron forge
 
-2510
+2508
 01:59:16,560 --> 01:59:21,520
 and you betrayed gold not you betrayed me
 
-2511
+2509
 01:59:21,640 --> 01:59:24,640
 Because you wanted the
 throne and you wanted it alone
 
-2512
+2510
 01:59:24,760 --> 01:59:32,760
 No matter what you do
 
-2513
+2511
 01:59:34,680 --> 01:59:37,320
 Neither will your best
 friend from Ferdinand
 
-2514
+2512
 01:59:37,440 --> 01:59:40,080
 I can help it
 
-2515
+2513
 01:59:40,200 --> 01:59:47,960
 Is that all you got come on kill
 me kill me do it push harder harder
 
-2516
+2514
 01:59:49,040 --> 01:59:56,320
 No, I Know you couldn't do it
 
-2517
+2515
 01:59:56,440 --> 01:59:57,120
 in the end.
 
-2518
+2516
 01:59:57,240 --> 01:59:59,720
 You're just a dirty little pig
 
-2519
+2517
 01:59:59,840 --> 02:00:03,040
 What did you just say?
 
-2520
+2518
 02:00:03,160 --> 02:00:04,160
 Yeah
 
-2521
+2519
 02:00:05,200 --> 02:00:06,200
 Dirty
 
-2522
+2520
 02:00:08,360 --> 02:00:12,120
 Pig nobody calls me
 
-2523
+2521
 02:00:15,960 --> 02:00:16,960
 Maybe
 
-2524
+2522
 02:00:31,240 --> 02:00:33,840
 you do deserve to die
 
-2525
+2523
 02:00:33,960 --> 02:00:35,800
 but enough blood has been spilled.
 
-2526
+2524
 02:00:35,920 --> 02:00:39,720
 I Need to put things right
 and I really don't want to
 
-2527
+2525
 02:00:39,840 --> 02:00:43,920
 leave the nice ladies without
 that body in their bedroom
 
-2528
+2526
 02:00:45,600 --> 02:00:53,600
 Who taught me oh
 
-2529
+2527
 02:00:57,000 --> 02:00:58,840
 What the fuck happened here?
 
-2530
+2528
 02:00:58,960 --> 02:00:59,600
 Oh
 
-2531
+2529
 02:00:59,720 --> 02:01:03,520
 I Got my audition after all
 
-2532
+2530
 02:01:03,640 --> 02:01:04,640
 much
 
-2533
+2531
 02:01:05,200 --> 02:01:08,400
 The Lord just had the right of his life.
 
-2534
+2532
 02:01:08,520 --> 02:01:09,840
 He needs to rest
 
-2535
+2533
 02:01:09,960 --> 02:01:11,800
 See you
 
-2536
+2534
 02:01:14,800 --> 02:01:22,800
 Wow just All right May I
 have your attention, please?
 
-2537
+2535
 02:01:35,920 --> 02:01:38,960
 I would like to bring out
 a toast may all human
 
-2538
+2536
 02:01:39,080 --> 02:01:42,600
 knowledge be free and may
 iron forge become great again
 
-2539
+2537
 02:01:42,720 --> 02:01:46,360
 to the opposition and our allies Cheers
 
-2540
+2538
 02:01:49,200 --> 02:01:51,840
 All right whisper wind
 now you got to share
 
-2541
+2539
 02:01:51,960 --> 02:01:54,800
 the story what made this
 such a good day for us
 
-2542
+2540
 02:01:54,920 --> 02:01:57,880
 Where are you not at the
 execution this afternoon?
 
-2543
+2541
 02:01:58,000 --> 02:02:00,520
 Some of us still have to
 work to earn a living, you know
 
-2544
+2542
 02:02:01,760 --> 02:02:05,200
 Fair enough fair enough
 with today's execution.
 
-2545
+2543
 02:02:05,320 --> 02:02:07,400
 We killed two birds with one stone.
 
-2546
+2544
 02:02:07,520 --> 02:02:10,720
 I thought she was a pig Yes
 
-2547
+2545
 02:02:10,840 --> 02:02:11,840
 Yes,
 
-2548
+2546
 02:02:11,880 --> 02:02:15,840
 and she was the most important
 informant for the Institute in this town.
 
-2549
+2547
 02:02:15,960 --> 02:02:18,520
 They are now officially deaf and blind
 
-2550
+2548
 02:02:21,800 --> 02:02:24,200
 But what is even more remarkable
 
-2551
+2549
 02:02:24,320 --> 02:02:28,160
 I got the lady to do the
 deed herself in person
 
-2552
+2550
 02:02:29,560 --> 02:02:30,360
 Haha,
 
-2553
+2551
 02:02:30,480 --> 02:02:32,720
 I have finally managed
 to convince her that the
 
-2554
+2552
 02:02:32,840 --> 02:02:35,280
 gun is the only thing
 that keeps her in power
 
-2555
+2553
 02:02:35,400 --> 02:02:38,800
 She is all in I just started
 a little operation that will
 
-2556
+2554
 02:02:38,920 --> 02:02:42,680
 hit the leaders of the
 Institute where it hurts the most
 
-2557
+2555
 02:02:42,800 --> 02:02:43,960
 I can't tell you the details
 
-2558
+2556
 02:02:44,080 --> 02:02:49,880
 But these guys are so deeply ingrained in
 their own ideals about peace and pacifism
 
-2559
+2557
 02:02:50,000 --> 02:02:52,840
 They don't even have
 guards on their city walls.
 
-2560
+2558
 02:02:52,960 --> 02:02:57,920
 You could just walk in and then
 do whatever you want like let's say
 
-2561
+2559
 02:02:58,040 --> 02:03:02,680
 Kidnap their children and then walk
 out again and nothing's gonna stop you.
 
-2562
+2560
 02:03:02,800 --> 02:03:03,800
 Can you believe that?
 
-2563
+2561
 02:03:05,120 --> 02:03:08,760
 That means we will soon
 have exclusive access to
 
-2564
+2562
 02:03:08,880 --> 02:03:12,960
 the blueprints to create
 our own human weapons
 
-2565
+2563
 02:03:13,080 --> 02:03:14,400
 The forge is fired up
 
-2566
+2564
 02:03:15,960 --> 02:03:20,920
 Just a few days I will
 be the lord of iron forge
 
-2567
+2565
 02:03:21,040 --> 02:03:22,400
 with our new weapons
 
-2568
+2566
 02:03:22,520 --> 02:03:25,800
 We will be the superior
 power of all the lands.
 
-2569
+2567
 02:03:25,920 --> 02:03:27,160
 We will crush the Institute
 
-2570
+2568
 02:03:27,280 --> 02:03:33,280
 We will conquer the holy mountain and
 we will unite the lands under our rule ship
 
-2571
+2569
 02:03:33,400 --> 02:03:34,960
 And this my friends
 
-2572
+2570
 02:03:35,080 --> 02:03:39,200
 this city will be the
 new capital of the world
 
-2573
+2571
 02:03:39,320 --> 02:03:42,160
 The opposition will make
 iron forge great again
 
-2574
+2572
 02:04:06,000 --> 02:04:07,640
 Dear mom,
 
-2575
+2573
 02:04:07,760 --> 02:04:11,560
 i'm sorry, you couldn't make it to
 our wedding on such short notice,
 
-2576
+2574
 02:04:11,680 --> 02:04:12,680
 but I hope that
 
-2577
+2575
 02:04:18,200 --> 02:04:19,720
 Screw it.
 
-2578
+2576
 02:04:19,840 --> 02:04:22,720
 I'm not sorry and she knows it
 
-2579
+2577
 02:04:26,320 --> 02:04:27,840
 Dear mom,
 
-2580
+2578
 02:04:27,960 --> 02:04:30,680
 I am so glad you were
 not at my wedding today
 
-2581
+2579
 02:04:30,800 --> 02:04:33,840
 Because someone almost killed me
 
-2582
+2580
 02:04:35,080 --> 02:04:36,440
 No,
 
-2583
+2581
 02:04:36,560 --> 02:04:39,000
 it's going to scare her to death
 
-2584
+2582
 02:04:43,440 --> 02:04:45,040
 Dear mom,
 
-2585
+2583
 02:04:45,160 --> 02:04:46,880
 I wish you were here right now
 
-2586
+2584
 02:04:47,000 --> 02:04:52,120
 Because this is my wedding night
 and my blood in your husband is not
 
-2587
+2585
 02:04:53,880 --> 02:05:00,200
 No, no, no, no, no, no No Too honest
 
-2588
+2586
 02:05:00,320 --> 02:05:02,320
 way too honest
 
-2589
+2587
 02:05:02,440 --> 02:05:03,000
 Damn,
 
-2590
+2588
 02:05:03,120 --> 02:05:04,440
 why is this so hard?
 
-2591
+2589
 02:05:14,240 --> 02:05:15,440
 Hello princess
 
-2592
+2590
 02:05:16,520 --> 02:05:19,320
 My god
 
-2593
+2591
 02:05:21,520 --> 02:05:24,360
 Please not so loud.
 
-2594
+2592
 02:05:24,480 --> 02:05:28,360
 We're in enough trouble as it is
 and yelling will just make it worse
 
-2595
+2593
 02:05:29,440 --> 02:05:31,520
 Are you going to kill me now
 
-2596
+2594
 02:05:32,560 --> 02:05:36,320
 In cold blood like you killed my mother
 
-2597
+2595
 02:05:37,720 --> 02:05:38,720
 Oh
 
-2598
+2596
 02:05:38,840 --> 02:05:41,200
 That wasn't cold-blooded
 
-2599
+2597
 02:05:41,320 --> 02:05:42,720
 Believe me
 
-2600
+2598
 02:05:42,840 --> 02:05:45,520
 It was the worst thing
 I ever did in my life
 
-2601
+2599
 02:05:47,000 --> 02:05:50,360
 They told me I had to give
 the people a taste of my power
 
-2602
+2600
 02:05:50,480 --> 02:05:52,480
 I didn't want to but
 
-2603
+2601
 02:05:52,600 --> 02:05:53,600
 they insisted
 
-2604
+2602
 02:05:54,800 --> 02:05:58,080
 I drank myself senseless until
 I thought I was ready to do it
 
-2605
+2603
 02:05:59,520 --> 02:06:00,520
 I had the gun
 
-2606
+2604
 02:06:01,240 --> 02:06:03,440
 I thought it would be easy just
 
-2607
+2605
 02:06:04,440 --> 02:06:06,800
 Pull the trigger and be done with it
 
-2608
+2606
 02:06:08,920 --> 02:06:10,160
 But it wasn't that easy
 
-2609
+2607
 02:06:11,640 --> 02:06:12,640
 Not at all
 
-2610
+2608
 02:06:13,280 --> 02:06:18,840
 You can't imagine how much time
 I've spent waiting for this chance
 
-2611
+2609
 02:06:18,960 --> 02:06:23,200
 So many sleepless nights filled
 with thoughts about killing you
 
-2612
+2610
 02:06:23,320 --> 02:06:24,400
 But you know what?
 
-2613
+2611
 02:06:26,360 --> 02:06:29,960
 I changed my mind
 
-2614
+2612
 02:06:32,080 --> 02:06:33,080
 Here
 
-2615
+2613
 02:06:34,120 --> 02:06:35,120
 Take the gun
 
-2616
+2614
 02:06:36,280 --> 02:06:37,440
 I don't want it anymore
 
-2617
+2615
 02:06:40,400 --> 02:06:43,680
 Does it mean you forgive me
 
-2618
+2616
 02:06:43,800 --> 02:06:44,800
 No
 
-2619
+2617
 02:06:45,400 --> 02:06:47,760
 I will never able to forgive you
 
-2620
+2618
 02:06:49,040 --> 02:06:51,560
 But hate is a treacherous guide
 
-2621
+2619
 02:06:51,680 --> 02:06:53,720
 It turns you into a beast
 
-2622
+2620
 02:06:53,840 --> 02:06:59,680
 Sweet revenge dangling in front of you like
 a carrot held by whoever rides your back
 
-2623
+2621
 02:06:59,800 --> 02:07:02,400
 If you didn't come for revenge
 
-2624
+2622
 02:07:02,520 --> 02:07:04,000
 Why are you here?
 
-2625
+2623
 02:07:05,160 --> 02:07:07,440
 To make right what I did wrong
 
-2626
+2624
 02:07:07,560 --> 02:07:10,920
 To save many lives including your own
 
-2627
+2625
 02:07:11,040 --> 02:07:13,600
 And to save Ironforge, my home
 
-2628
+2626
 02:07:13,720 --> 02:07:17,000
 And if you just have a
 shred of good left in you
 
-2629
+2627
 02:07:17,120 --> 02:07:18,120
 You will help me
 
-2630
+2628
 02:07:19,280 --> 02:07:21,040
 You're very brave
 
-2631
+2629
 02:07:21,160 --> 02:07:22,640
 And well-spoken
 
-2632
+2630
 02:07:23,680 --> 02:07:28,200
 Yeah, I practiced my speech
 the entire way from the cat house
 
-2633
+2631
 02:07:28,320 --> 02:07:29,640
 The cat house?
 
-2634
+2632
 02:07:29,760 --> 02:07:31,040
 Oh yeah, the cat house
 
-2635
+2633
 02:07:32,080 --> 02:07:34,240
 Whisperwind is not on your side
 
-2636
+2634
 02:07:34,360 --> 02:07:37,440
 It was him who gave me
 the bullets to shoot you
 
-2637
+2635
 02:07:37,560 --> 02:07:39,800
 He knew that I was ready to do it
 
-2638
+2636
 02:07:39,920 --> 02:07:42,880
 We have a common enemy were his exact words
 
-2639
+2637
 02:07:43,000 --> 02:07:44,520
 That can't be true
 
-2640
+2638
 02:07:44,640 --> 02:07:46,120
 I swear it is
 
-2641
+2639
 02:07:47,480 --> 02:07:49,960
 From the very beginning
 he was planning to get rid
 
-2642
+2640
 02:07:50,080 --> 02:07:53,120
 of you as soon as he's
 the new lord of Ironforge
 
-2643
+2641
 02:07:53,240 --> 02:07:54,760
 But it didn't work out
 
-2644
+2642
 02:07:54,880 --> 02:07:58,480
 And he is on his way right here
 right now to personally make
 
-2645
+2643
 02:07:58,600 --> 02:08:02,480
 sure that his face will be
 the last thing you will ever see
 
-2646
+2644
 02:08:02,600 --> 02:08:05,920
 And how are you supposed
 to know about all this
 
-2647
+2645
 02:08:06,040 --> 02:08:10,960
 Because I was there when he
 confessed it to his favorite whore
 
-2648
+2646
 02:08:11,080 --> 02:08:12,080
 You're lying!
 
-2649
+2647
 02:08:13,400 --> 02:08:15,760
 My lady! My lady!
 
-2650
+2648
 02:08:15,880 --> 02:08:19,160
 The lord just ordered the officer
 of the guard to take you in custody
 
-2651
+2649
 02:08:20,200 --> 02:08:23,960
 I locked all the doors but that's
 not going to stop them for long
 
-2652
+2650
 02:08:24,080 --> 02:08:26,440
 You must flee while you still can
 
-2653
+2651
 02:08:27,920 --> 02:08:30,480
 And how on earth did you get in here?
 
-2654
+2652
 02:08:30,600 --> 02:08:33,240
 This building has more
 holes in it than a piece
 
-2655
+2653
 02:08:33,360 --> 02:08:36,040
 of Coldlake cheese and
 my mother knew them all
 
-2656
+2654
 02:08:38,320 --> 02:08:40,560
 Whisperwind, you son of a whore
 
-2657
+2655
 02:08:42,400 --> 02:08:44,440
 I've never trusted him
 
-2658
+2656
 02:08:44,560 --> 02:08:50,800
 And I wish I had listened to you earlier
 Is there anyone else left on our side?
 
-2659
+2657
 02:08:50,920 --> 02:08:51,960
 Unlikely,
 
-2660
+2658
 02:08:52,080 --> 02:08:56,320
 he is the lord now No
 one will dare to disobey him
 
-2661
+2659
 02:08:56,440 --> 02:08:59,880
 That means we're lost No, we are not
 
-2662
+2660
 02:09:00,000 --> 02:09:02,800
 There are still a few
 friends around who will
 
-2663
+2661
 02:09:02,920 --> 02:09:06,440
 fight with us And you
 are going to lead us there
 
-2664
+2662
 02:09:06,560 --> 02:09:07,680
 Me?
 
-2665
+2663
 02:09:07,800 --> 02:09:09,200
 How?
 
-2666
+2664
 02:09:09,320 --> 02:09:11,160
 Shhh!
 
-2667
+2665
 02:09:11,280 --> 02:09:12,840
 He can hear us
 
-2668
+2666
 02:09:12,960 --> 02:09:14,440
 Goldeneyes,
 
-2669
+2667
 02:09:14,560 --> 02:09:15,720
 are you in there?
 
-2670
+2668
 02:09:15,840 --> 02:09:16,840
 Open the door!
 
-2671
+2669
 02:09:18,000 --> 02:09:19,120
 Okay,
 
-2672
+2670
 02:09:19,240 --> 02:09:21,840
 now this is my plan Goldeneyes
 
-2673
+2671
 02:09:21,960 --> 02:09:23,256
 We will go there and I will not...
 
-2674
+2672
 02:09:23,280 --> 02:09:24,336
 Who else is in there with you?
 
-2675
+2673
 02:09:24,360 --> 02:09:26,440
 Open the door!
 
-2676
+2674
 02:09:26,560 --> 02:09:27,840
 This is an order!
 
-2677
+2675
 02:09:31,040 --> 02:09:36,600
 This is a great plan!
 
-2678
+2676
 02:09:36,720 --> 02:09:39,480
 I'll stay here and put
 Whisperwind on the right track
 
-2679
+2677
 02:09:39,600 --> 02:09:44,400
 But this will be your end! You
 know you don't have to do this
 
-2680
+2678
 02:09:44,520 --> 02:09:45,600
 Maybe,
 
-2681
+2679
 02:09:45,720 --> 02:09:49,720
 but I'm not a small
 field I am a green field,
 
-2682
+2680
 02:09:49,840 --> 02:09:52,680
 my lady My decision stands
 
-2683
+2681
 02:09:52,800 --> 02:09:54,560
 Green field,
 
-2684
+2682
 02:09:54,680 --> 02:09:59,200
 you're the most honorable
 man I have ever met
 
-2685
+2683
 02:09:59,320 --> 02:10:02,680
 I will make sure your name
 will always be remembered
 
-2686
+2684
 02:10:02,800 --> 02:10:05,720
 Stop talking and follow me, okay?
 
-2687
+2685
 02:10:05,840 --> 02:10:06,840
 Alright
 
-2688
+2686
 02:10:09,040 --> 02:10:10,040
 Alright,
 
-2689
+2687
 02:10:10,960 --> 02:10:12,360
 you wanted it this way!
 
-2690
+2688
 02:10:26,080 --> 02:10:28,360
 Light
 
-2691
+2689
 02:10:28,480 --> 02:10:30,400
 so bright,
 
-2692
+2690
 02:10:30,520 --> 02:10:33,960
 light so pure
 
-2693
+2691
 02:10:34,080 --> 02:10:38,040
 Keepers of the light,
 
-2694
+2692
 02:10:38,160 --> 02:10:41,280
 answer me true Oh, for the last time,
 
-2695
+2693
 02:10:41,400 --> 02:10:43,920
 stop singing that song!
 
-2696
+2694
 02:10:44,040 --> 02:10:45,880
 I have to do something to keep me sane!
 
-2697
+2695
 02:10:46,000 --> 02:10:49,240
 Right now you're the
 one who drives me insane!
 
-2698
+2696
 02:10:49,360 --> 02:10:51,680
 Guys, stop yelling at
 each other! All we can
 
-2699
+2697
 02:10:51,800 --> 02:10:54,120
 do right now is be
 patient and wait for help
 
-2700
+2698
 02:10:54,240 --> 02:10:55,600
 You mean pray for help?
 
-2701
+2699
 02:10:55,720 --> 02:10:59,840
 Rubbish! Professor Bottlebrush will do
 everything he can to get us out of here
 
-2702
+2700
 02:10:59,960 --> 02:11:02,640
 He will come! If he ever finds us
 
-2703
+2701
 02:11:02,760 --> 02:11:08,440
 Should be a breeze with all his human
 science and weapons and gadgets and stuff,
 
-2704
+2702
 02:11:08,560 --> 02:11:09,240
 right?
 
-2705
+2703
 02:11:09,360 --> 02:11:11,080
 Then what is taking him so long?
 
-2706
+2704
 02:11:11,200 --> 02:11:12,920
 Ironforge is a big city
 
-2707
+2705
 02:11:13,040 --> 02:11:17,000
 Do you really think he would
 use human weapons to rescue us?
 
-2708
+2706
 02:11:17,120 --> 02:11:19,560
 Wouldn't that be totally
 against his ideals?
 
-2709
+2707
 02:11:19,680 --> 02:11:20,840
 Not only that,
 
-2710
+2708
 02:11:20,960 --> 02:11:24,040
 couldn't that be exactly
 what the opposition wants?
 
-2711
+2709
 02:11:24,160 --> 02:11:25,680
 There's no point in speculating
 
-2712
+2710
 02:11:25,800 --> 02:11:27,640
 What else should this be about?
 
-2713
+2711
 02:11:27,760 --> 02:11:30,400
 The opposition is not
 exactly short on gold,
 
-2714
+2712
 02:11:30,520 --> 02:11:31,560
 that's for sure
 
-2715
+2713
 02:11:31,680 --> 02:11:34,760
 I wonder who of us
 they're going to kill first?
 
-2716
+2714
 02:11:34,880 --> 02:11:37,240
 Shut your fucking piehole!
 
-2717
+2715
 02:11:37,360 --> 02:11:39,040
 I'm just stating the inevitable
 
-2718
+2716
 02:11:39,160 --> 02:11:41,400
 You can keep the inevitable to yourself!
 
-2719
+2717
 02:11:43,000 --> 02:11:45,800
 I hope Braindancer made it back to Ferndale
 
-2720
+2718
 02:11:45,920 --> 02:11:46,960
 Braindancer?
 
-2721
+2719
 02:11:47,080 --> 02:11:51,160
 No way he's gonna survive the dark
 woods on his own He hides under his bed
 
-2722
+2720
 02:11:51,280 --> 02:11:55,560
 every time there's a thunderstorm
 I've seen it Then what about the pig?
 
-2723
+2721
 02:11:55,680 --> 02:11:58,000
 She's a red river hog if you please Well,
 
-2724
+2722
 02:11:58,120 --> 02:12:02,240
 pigs are tough She could have
 made it Why would she help us?
 
-2725
+2723
 02:12:02,360 --> 02:12:06,640
 She did not make a single move to
 rescue us when she had the chance Yeah,
 
-2726
+2724
 02:12:06,760 --> 02:12:09,280
 bloody pig! We're doomed
 
-2727
+2725
 02:12:09,400 --> 02:12:12,760
 I give up Feel as gloomy as
 you like This is a free prison
 
-2728
+2726
 02:12:12,880 --> 02:12:18,360
 after all Light so bright Run not again!
 
-2729
+2727
 02:12:18,480 --> 02:12:20,480
 Light so pure Wait,
 
-2730
+2728
 02:12:20,600 --> 02:12:21,600
 did you hear that?
 
-2731
+2729
 02:12:24,280 --> 02:12:25,280
 If
 
-2732
+2730
 02:12:26,440 --> 02:12:27,960
 It's one of the Morans from the wagon,
 
-2733
+2731
 02:12:28,080 --> 02:12:30,120
 we might be able to
 overwhelm him Do you
 
-2734
+2732
 02:12:30,240 --> 02:12:33,400
 think we can work
 together just this one time?
 
-2735
+2733
 02:12:33,520 --> 02:12:34,640
 You guys go over there,
 
-2736
+2734
 02:12:34,760 --> 02:12:35,920
 and you guys go over
 
-2737
+2735
 02:12:36,040 --> 02:12:37,520
 there And on my command,
 
-2738
+2736
 02:12:37,640 --> 02:12:41,600
 we all jump If he's stupid enough
 to come in here anyway Ouch!
 
-2739
+2737
 02:12:41,720 --> 02:12:42,720
 Shh!
 
-2740
+2738
 02:12:43,600 --> 02:12:44,600
 One...
 
-2741
+2739
 02:12:45,720 --> 02:12:46,400
 Two...
 
-2742
+2740
 02:12:46,520 --> 02:12:48,520
 Stop! Don't jump! What the hell?
 
-2743
+2741
 02:13:10,040 --> 02:13:12,120
 Ah, that's it!
 
-2744
+2742
 02:13:12,240 --> 02:13:14,400
 Everything is in place
 
-2745
+2743
 02:13:14,520 --> 02:13:18,200
 Now all we have to do is wait for
 Whisperwind to show up and spring the trap
 
-2746
+2744
 02:13:18,320 --> 02:13:21,480
 I can't wait to make him
 pay for what he has done
 
-2747
+2745
 02:13:21,600 --> 02:13:24,080
 If he shows up at all
 
-2748
+2746
 02:13:24,200 --> 02:13:26,280
 Greenfield told them where to find us
 
-2749
+2747
 02:13:26,400 --> 02:13:29,520
 He's way too proud not to show up
 
-2750
+2748
 02:13:29,640 --> 02:13:33,880
 Well, but he will have a
 small army in town very likely
 
-2751
+2749
 02:13:34,000 --> 02:13:38,040
 We can only hope they are
 still more loyal to you than him
 
-2752
+2750
 02:13:38,160 --> 02:13:40,880
 His power hangs by a thread
 
-2753
+2751
 02:13:41,000 --> 02:13:44,120
 People obey him to keep
 their heads on their shoulders
 
-2754
+2752
 02:13:44,240 --> 02:13:45,880
 And that's it
 
-2755
+2753
 02:13:46,000 --> 02:13:48,200
 If we manage to take him out,
 
-2756
+2754
 02:13:48,320 --> 02:13:50,120
 they will be on my side,
 
-2757
+2755
 02:13:50,240 --> 02:13:53,920
 not his Let's hope so, by the gods
 
-2758
+2756
 02:13:54,040 --> 02:13:58,480
 I still don't know how you could
 fall for a guy like Whisperwind
 
-2759
+2757
 02:13:58,600 --> 02:14:01,960
 Well, you fell for him too, didn't you?
 
-2760
+2758
 02:14:02,080 --> 02:14:03,280
 Touche
 
-2761
+2759
 02:14:03,400 --> 02:14:07,640
 He knows precisely how to
 use your fears against you
 
-2762
+2760
 02:14:07,760 --> 02:14:10,280
 What were you afraid of?
 
-2763
+2761
 02:14:10,400 --> 02:14:15,720
 Losing Ironforge When Quicksilver
 died, I was suddenly very lonely
 
-2764
+2762
 02:14:15,840 --> 02:14:20,880
 And all I knew about ruling a city was
 what I had overheard at dinner parties
 
-2765
+2763
 02:14:21,000 --> 02:14:26,920
 Whisperwind was both an experienced
 leader and an experienced lover
 
-2766
+2764
 02:14:27,040 --> 02:14:30,120
 He was exactly what I needed
 
-2767
+2765
 02:14:30,240 --> 02:14:33,400
 Also, I thought...
 
-2768
+2766
 02:14:33,520 --> 02:14:35,040
 What was the kidnapping about?
 
-2769
+2767
 02:14:37,160 --> 02:14:40,280
 The most important leaders
 of the Institute live in Ferndale
 
-2770
+2768
 02:14:40,400 --> 02:14:44,040
 And Whisperwind was
 mostly interested in weapons
 
-2771
+2769
 02:14:44,160 --> 02:14:50,240
 Being able to make our own guns would have
 made us the most powerful city in the world
 
-2772
+2770
 02:14:50,360 --> 02:14:55,280
 So, we tried to blackmail Ferndale
 into giving us access to the library
 
-2773
+2771
 02:14:55,400 --> 02:14:59,080
 And people say pigs are into dirty business
 
-2774
+2772
 02:14:59,200 --> 02:15:02,480
 I feel nothing but shame right now
 
-2775
+2773
 02:15:02,600 --> 02:15:05,520
 If I could turn back time,
 
-2776
+2774
 02:15:05,640 --> 02:15:08,280
 I would Oh, shh! I think they are coming
 
-2777
+2775
 02:15:17,280 --> 02:15:24,320
 Goldeneyes, I know you are
 here Come out and show yourself
 
-2778
+2776
 02:15:24,440 --> 02:15:26,200
 Shall I give the signal?
 
-2779
+2777
 02:15:26,320 --> 02:15:26,760
 No,
 
-2780
+2778
 02:15:26,880 --> 02:15:27,360
 not yet,
 
-2781
+2779
 02:15:27,480 --> 02:15:28,720
 they are too far away
 
-2782
+2780
 02:15:28,840 --> 02:15:30,760
 There's no point in hiding
 
-2783
+2781
 02:15:30,880 --> 02:15:34,000
 Your friendly butler
 sang like a little bird
 
-2784
+2782
 02:15:34,120 --> 02:15:38,000
 Come closer so we can talk
 
-2785
+2783
 02:15:38,120 --> 02:15:41,040
 Oh, is that the little piggy speaking?
 
-2786
+2784
 02:15:42,040 --> 02:15:43,840
 But I can hear you perfectly from over here
 
-2787
+2785
 02:15:43,960 --> 02:15:45,920
 I want Goldeneyes
 
-2788
+2786
 02:15:46,040 --> 02:15:50,200
 Send her out now and nobody gets hurt Shit,
 
-2789
+2787
 02:15:50,320 --> 02:15:51,320
 what now?
 
-2790
+2788
 02:15:51,400 --> 02:15:51,960
 Shh,
 
-2791
+2789
 02:15:52,080 --> 02:15:54,560
 patience If he wants to get us,
 
-2792
+2790
 02:15:54,680 --> 02:15:56,080
 he will have to move closer
 
-2793
+2791
 02:15:56,200 --> 02:15:58,440
 And then we will get him
 
-2794
+2792
 02:15:58,560 --> 02:16:00,520
 Goldeneyes is not here
 
-2795
+2793
 02:16:00,640 --> 02:16:02,640
 If you want to know where she is,
 
-2796
+2794
 02:16:02,760 --> 02:16:04,200
 come over here and we will talk
 
-2797
+2795
 02:16:04,320 --> 02:16:07,120
 Of course she's here
 
-2798
+2796
 02:16:07,240 --> 02:16:09,360
 Come out now, this is my final warning
 
-2799
+2797
 02:16:09,480 --> 02:16:12,280
 The final warning and then what?
 
-2800
+2798
 02:16:12,400 --> 02:16:14,120
 The final warning...
 
-2801
+2799
 02:16:14,240 --> 02:16:16,000
 Before I kill your boyfriend
 
-2802
+2800
 02:16:16,120 --> 02:16:21,080
 Fuck! No! Fuck, fuck,
 fuck, fuck! What is it?
 
-2803
+2801
 02:16:21,200 --> 02:16:22,480
 He's got Raindancer
 
-2804
+2802
 02:16:22,600 --> 02:16:25,520
 The man who saved your life Oh,
 
-2805
+2803
 02:16:25,640 --> 02:16:28,680
 fuck, for fuck's sake, why
 didn't I see this coming?
 
-2806
+2804
 02:16:29,440 --> 02:16:32,200
 Oh, stupid pig, stupid pig, stupid pig
 
-2807
+2805
 02:16:32,320 --> 02:16:33,080
 Okay,
 
-2808
+2806
 02:16:33,200 --> 02:16:35,040
 let's put an end to all this
 
-2809
+2807
 02:16:35,160 --> 02:16:39,240
 I'm going out there right now Shh, no!
 
-2810
+2808
 02:16:39,360 --> 02:16:42,480
 I still have an axe to grind with this guy
 
-2811
+2809
 02:16:42,600 --> 02:16:45,200
 You can still surrender when I am dead
 
-2812
+2810
 02:16:45,320 --> 02:16:46,400
 Now hide,
 
-2813
+2811
 02:16:46,520 --> 02:16:48,120
 I don't want him to see you
 
-2814
+2812
 02:16:48,240 --> 02:16:52,880
 And don't give the signal
 until I tell you, okay?
 
-2815
+2813
 02:16:53,000 --> 02:16:54,000
 Okay
 
-2816
+2814
 02:17:01,800 --> 02:17:03,600
 I'm so sorry,
 
-2817
+2815
 02:17:03,720 --> 02:17:07,520
 I just want to help you I love you,
 
-2818
+2816
 02:17:07,640 --> 02:17:10,200
 Potami I know Now shut up
 
-2819
+2817
 02:17:12,880 --> 02:17:14,160
 So,
 
-2820
+2818
 02:17:14,280 --> 02:17:16,840
 you want to play rough, Whisperwind?
 
-2821
+2819
 02:17:16,960 --> 02:17:18,520
 I can play rough too
 
-2822
+2820
 02:17:18,640 --> 02:17:24,920
 One false move and
 you're dead Now let him go
 
-2823
+2821
 02:17:27,680 --> 02:17:32,400
 Oh, you stupid little piggy
 But this is not going to work
 
-2824
+2822
 02:17:32,520 --> 02:17:35,040
 Don't push me! I know
 that you don't have any
 
-2825
+2823
 02:17:35,160 --> 02:17:38,920
 bullets left I gave you two
 and you wasted them both
 
-2826
+2824
 02:17:39,040 --> 02:17:40,640
 You're forgetting about GoldenEye,
 
-2827
+2825
 02:17:40,760 --> 02:17:43,480
 Stache You mean this one?
 
-2828
+2826
 02:17:43,600 --> 02:17:44,600
 Oh, fuck!
 
-2829
+2827
 02:17:46,400 --> 02:17:49,640
 And now you're going to hand me the gun
 
-2830
+2828
 02:17:53,360 --> 02:17:56,040
 I said hand me the gun,
 
-2831
+2829
 02:17:56,160 --> 02:17:57,400
 not drop the gun
 
-2832
+2830
 02:18:01,960 --> 02:18:05,480
 How long is this going to take?
 
-2833
+2831
 02:18:05,600 --> 02:18:06,440
 Okay,
 
-2834
+2832
 02:18:06,560 --> 02:18:07,760
 alright,
 
-2835
+2833
 02:18:07,880 --> 02:18:13,560
 here is your goddamn gun I
 hope you will kill yourself with it
 
-2836
+2834
 02:18:15,480 --> 02:18:18,120
 Just why do pigs have
 to get mad on everything?
 
-2837
+2835
 02:18:19,200 --> 02:18:21,760
 But anyways...
 
-2838
+2836
 02:18:23,160 --> 02:18:27,720
 I think it's time to end this
 story Farewell, little piggy
 
-2839
+2837
 02:18:29,040 --> 02:18:32,000
 My eyes!
 
-2840
+2838
 02:18:32,120 --> 02:18:33,520
 GoldenEye, no!
 
-2841
+2839
 02:18:45,280 --> 02:18:49,000
 My eyes! I can't see!
 
-2842
+2840
 02:18:51,320 --> 02:18:54,960
 In case you don't know the feeling,
 
-2843
+2841
 02:18:55,080 --> 02:18:58,040
 this is a sword against your throat
 
-2844
+2842
 02:19:00,520 --> 02:19:01,640
 So,
 
-2845
+2843
 02:19:01,760 --> 02:19:03,720
 what are you going to do?
 
-2846
+2844
 02:19:03,840 --> 02:19:05,160
 Kill me?
 
-2847
+2845
 02:19:05,280 --> 02:19:07,400
 I am the Lord of Ironforge!
 
-2848
+2846
 02:19:07,520 --> 02:19:08,320
 No,
 
-2849
+2847
 02:19:08,440 --> 02:19:10,600
 you are not!
 
-2850
+2848
 02:19:10,720 --> 02:19:13,000
 You are a criminal,
 
-2851
+2849
 02:19:13,120 --> 02:19:14,760
 a trickster,
 
-2852
+2850
 02:19:14,880 --> 02:19:16,000
 a murderer
 
-2853
+2851
 02:19:16,120 --> 02:19:19,680
 You are nothing without
 me The people of Ironforge
 
-2854
+2852
 02:19:19,800 --> 02:19:23,240
 will never accept a
 woman as their leader,
 
-2855
+2853
 02:19:23,360 --> 02:19:24,360
 never!
 
-2856
+2854
 02:19:24,640 --> 02:19:29,280
 I'm not one of your ally cats
 My family has been ruling this
 
-2857
+2855
 02:19:29,400 --> 02:19:34,840
 city for many generations and
 we never betray our own people!
 
-2858
+2856
 02:19:34,960 --> 02:19:35,800
 So,
 
-2859
+2857
 02:19:35,920 --> 02:19:38,200
 who do you think they are going to obey?
 
-2860
+2858
 02:19:38,320 --> 02:19:40,160
 Me or you?
 
-2861
+2859
 02:19:41,200 --> 02:19:42,200
 Well,
 
-2862
+2860
 02:19:42,240 --> 02:19:43,960
 let's find out,
 
-2863
+2861
 02:19:44,080 --> 02:19:45,080
 shall we?
 
-2864
+2862
 02:19:46,280 --> 02:19:49,320
 Let the soldiers go!
 
-2865
+2863
 02:19:52,640 --> 02:19:54,680
 Now,
 
-2866
+2864
 02:19:54,800 --> 02:19:56,560
 give them back their weapons!
 
-2867
+2865
 02:20:01,400 --> 02:20:02,600
 So,
 
-2868
+2866
 02:20:02,720 --> 02:20:04,200
 my lord,
 
-2869
+2867
 02:20:04,320 --> 02:20:05,960
 what would you like them to do?
 
-2870
+2868
 02:20:08,040 --> 02:20:09,920
 GoldenEye is guilty of assault,
 
-2871
+2869
 02:20:11,040 --> 02:20:13,440
 unlawful detention and high treason
 
-2872
+2870
 02:20:14,880 --> 02:20:16,400
 Arrest her!
 
-2873
+2871
 02:20:16,520 --> 02:20:18,920
 I said arrest her!
 
-2874
+2872
 02:20:22,120 --> 02:20:24,080
 Soldiers,
 
-2875
+2873
 02:20:24,200 --> 02:20:28,560
 this man coerced me
 into marriage under false
 
-2876
+2874
 02:20:28,680 --> 02:20:34,120
 pretence which is therefore
 invalid Furthermore,
 
-2877
+2875
 02:20:34,240 --> 02:20:39,640
 I accuse him of attempted murder
 of a serene and conspiracy against
 
-2878
+2876
 02:20:39,760 --> 02:20:45,440
 the House of Ironforge He shall
 be tried in a court of law Arrest him!
 
-2879
+2877
 02:20:47,320 --> 02:20:48,320
 No!
 
-2880
+2878
 02:20:49,480 --> 02:20:50,480
 No!
 
-2881
+2879
 02:20:51,120 --> 02:20:54,440
 Let me go! She has no
 right to issue commands!
 
-2882
+2880
 02:20:54,560 --> 02:20:58,920
 I am your lord! I am the ruler of
 Ironforge! You can't arrest me!
 
-2883
+2881
 02:21:00,000 --> 02:21:01,000
 No!
 
-2884
+2882
 02:21:02,960 --> 02:21:10,960
 Oh,
 
-2885
+2883
 02:21:12,800 --> 02:21:13,800
 Douglas
 
-2886
+2884
 02:21:15,480 --> 02:21:17,560
 I thought...
 
-2887
+2885
 02:21:17,680 --> 02:21:19,440
 I thought I was going to die
 
-2888
+2886
 02:21:19,560 --> 02:21:21,560
 Oh, shh, don't worry.
 
-2889
+2887
 02:21:21,680 --> 02:21:23,640
 The little piggy is
 back to take care of you
 
-2890
+2888
 02:21:24,640 --> 02:21:30,160
 I thought I could be a
 hero like my father I couldn't
 
-2891
+2889
 02:21:31,120 --> 02:21:32,120
 I'm such a failure
 
-2892
+2890
 02:21:32,240 --> 02:21:35,840
 You don't deserve a fool like me Shh!
 
-2893
+2891
 02:21:35,960 --> 02:21:38,440
 Stop talking like that!
 
-2894
+2892
 02:21:38,560 --> 02:21:43,600
 Without you, we would all
 be dead right now How so?
 
-2895
+2893
 02:21:44,600 --> 02:21:50,080
 I stuck the barrel into the dirt as deep
 as I could before I gave it to Whisperwind
 
-2896
+2894
 02:21:50,200 --> 02:21:52,400
 And it went bang right in his ugly face
 
-2897
+2895
 02:21:52,520 --> 02:21:54,920
 You taught me that
 
-2898
+2896
 02:21:57,560 --> 02:22:00,160
 I love you, Tami
 
-2899
+2897
 02:22:00,280 --> 02:22:01,280
 I love you too
 
-2900
+2898
 02:22:02,360 --> 02:22:05,360
 Shut up!
 
-2901
+2899
 02:22:09,240 --> 02:22:10,360
 Poor Tami,
 
-2902
+2900
 02:22:10,480 --> 02:22:12,800
 I am forever in your debt
 
-2903
+2901
 02:22:12,920 --> 02:22:13,920
 My kingdom,
 
-2904
+2902
 02:22:14,040 --> 02:22:15,920
 my gold, my life
 
-2905
+2903
 02:22:16,040 --> 02:22:17,720
 Whatever it is you want,
 
-2906
+2904
 02:22:17,840 --> 02:22:19,960
 it is yours Thank
 
-2907
+2905
 02:22:20,080 --> 02:22:20,800
 you,
 
-2908
+2906
 02:22:20,920 --> 02:22:25,440
 but all I've ever needed is
 here in my arms right now
 
-2909
+2907
 02:22:25,560 --> 02:22:31,160
 And I was wrong about you You are a
 much more honorable person than I thought
 
-2910
+2908
 02:22:32,320 --> 02:22:34,280
 I can't bring myself to hate you anymore
 
-2911
+2909
 02:22:35,280 --> 02:22:36,280
 Go,
 
-2912
+2910
 02:22:36,400 --> 02:22:37,400
 your city needs you
 
-2913
+2911
 02:22:38,480 --> 02:22:41,520
 And you told me you're bad at politics
 
-2914
+2912
 02:22:42,760 --> 02:22:45,160
 Truth lies beneath the mud,
 
-2915
+2913
 02:22:45,280 --> 02:22:45,760
 ancient pig wisdom
 
-2916
+2914
 02:22:45,880 --> 02:22:51,240
 Thank you And to you as well, raindancer
 
-2917
+2915
 02:22:51,360 --> 02:22:54,640
 Please let the Institute know that
 I deeply regret what I have done
 
-2918
+2916
 02:22:54,760 --> 02:22:58,920
 And that I offer myself to be
 tried in an independent court
 
-2919
+2917
 02:22:59,040 --> 02:23:03,440
 And pay any kind of
 compensation they desire I will
 
-2920
+2918
 02:23:05,000 --> 02:23:07,840
 But can I make a suggestion?
 
-2921
+2919
 02:23:07,960 --> 02:23:08,960
 Of course!
 
-2922
+2920
 02:23:10,000 --> 02:23:13,560
 The Institute and the opposition
 know so little about each other
 
-2923
+2921
 02:23:13,680 --> 02:23:14,960
 Instead of building walls,
 
-2924
+2922
 02:23:15,080 --> 02:23:18,160
 we should open our gates
 And instead of spying,
 
-2925
+2923
 02:23:18,280 --> 02:23:19,680
 we should teach
 
-2926
+2924
 02:23:19,800 --> 02:23:22,880
 We have so much to
 learn The Institute needs to
 
-2927
+2925
 02:23:23,000 --> 02:23:26,800
 have an official
 representation in this city again
 
-2928
+2926
 02:23:26,920 --> 02:23:28,920
 Consider it done Well,
 
-2929
+2927
 02:23:29,040 --> 02:23:32,000
 if you really want to
 spread your knowledge fast,
 
-2930
+2928
 02:23:32,120 --> 02:23:33,960
 just tell it to a sex worker of your choice
 
-2931
+2929
 02:23:34,080 --> 02:23:36,680
 But poor Tami, that
 
-2932
+2930
 02:23:36,800 --> 02:23:38,480
 was so inappropriate
 
-2933
+2931
 02:23:39,640 --> 02:23:43,680
 The truth beneath the
 mud, ancient pig wisdom
 
-2934
+2932
 02:23:43,800 --> 02:23:46,240
 And my lady,
 
-2935
+2933
 02:23:46,360 --> 02:23:51,200
 don't you have a lot of really
 important official state business to do?
 
-2936
+2934
 02:23:51,320 --> 02:23:52,840
 Yes, but...
 
-2937
+2935
 02:23:52,960 --> 02:23:53,440
 And what?
 
-2938
+2936
 02:23:53,560 --> 02:23:58,160
 Oh, the sweet air of spring Whoa whoa whoa,
 
-2939
+2937
 02:23:58,280 --> 02:24:00,200
 what are you trying to get at?
 
-2940
+2938
 02:24:00,320 --> 02:24:04,520
 You Wait What?
 
-2941
+2939
 02:24:04,640 --> 02:24:08,280
 Oh, I'm talking about private lessons
 
-2942
+2940
 02:24:08,400 --> 02:24:09,480
 What lessons?
 
-2943
+2941
 02:24:09,600 --> 02:24:10,360
 What kind of lessons?
 
-2944
+2942
 02:24:10,480 --> 02:24:15,160
 Oh, by the gods! I want to
 screw your brains out right now!
 
-2945
+2943
 02:24:16,480 --> 02:24:17,680
 No!
 
-2946
+2944
 02:24:17,800 --> 02:24:24,320
 Are you crazy?
 
-2947
+2945
 02:24:25,640 --> 02:24:28,840
 The princess of Ironforge
 is standing right next to us!
 
-2948
+2946
 02:24:30,080 --> 02:24:33,400
 My my my! Look at the time!
 
-2949
+2947
 02:24:33,520 --> 02:24:38,360
 I totally forgot I had lots of really
 important official speeches to do!
 
-2950
+2948
 02:24:40,360 --> 02:24:45,080
 Come on! I can't do this
 with all of them looking!
 
-2951
+2949
 02:24:45,200 --> 02:24:46,920
 Help!
 
-2952
+2950
 02:24:58,000 --> 02:25:02,280
 Oh well! That's not going to be a problem!
 
-2953
+2951
 02:25:02,400 --> 02:25:03,400
 What?
 
-2954
+2952
 02:25:03,520 --> 02:25:04,600
 Lights out!
 
-2955
+2953
 02:25:07,080 --> 02:25:13,240
 So tasty!
 
-2956
+2954
 02:26:03,160 --> 02:26:11,160
 Open your eyes and here you'll see it all
 
-2957
+2955
 02:26:12,480 --> 02:26:16,840
 Where shattered shadows always fall
 
-2958
+2956
 02:26:18,840 --> 02:26:25,840
 Raise up your ears and
 now you'll hear my will
 
-2959
+2957
 02:26:26,880 --> 02:26:28,680
 Righteous thunder,
 
-2960
+2958
 02:26:28,800 --> 02:26:30,600
 light-filled wonder,
 
-2961
+2959
 02:26:30,720 --> 02:26:33,200
 let their aura still
 
-2962
+2960
 02:26:34,880 --> 02:26:36,200
 Give them my path,
 
-2963
+2961
 02:26:36,320 --> 02:26:37,560
 I'll go through them
 
-2964
+2962
 02:26:38,560 --> 02:26:41,520
 Hold deep my hand, guide me right
 
-2965
+2963
 02:26:41,640 --> 02:26:45,080
 Bold and high so they can't see the night
 
-2966
+2964
 02:28:23,320 --> 02:28:26,200
 Give them my path,
 
-2967
+2965
 02:28:26,320 --> 02:28:31,920
 I'll go through them Hold
 deep my hand, guide me right
 
-2968
+2966
 02:28:32,040 --> 02:28:35,120
 Bold and high so they can't see their last
 
-2969
+2967
 02:28:37,000 --> 02:28:38,000
 light
 
-2970
+2968
 02:28:38,920 --> 02:28:44,840
 Faster than sound, I long to
 them With all the pull you're divine
 
-2971
+2969
 02:28:46,040 --> 02:28:53,000
 Bold and high, you'll be
 forever, ever, ever mine
 
-2972
+2970
 02:28:55,000 --> 02:29:00,800
 Bold and high, yeah!
 
