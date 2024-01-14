@@ -11459,982 +11459,979 @@ Stop! Don't jump!
 What the hell?
 
 2704
-02:13:10,447 --> 02:13:12,120
+02:13:10,591 --> 02:13:12,120
 Ah, that's it!
 
 2705
-02:13:12,240 --> 02:13:14,400
-Everything is in place
+02:13:12,813 --> 02:13:14,288
+Everything is in place.
 
 2706
-02:13:14,520 --> 02:13:18,200
+02:13:14,820 --> 02:13:18,411
 Now all we have to do is wait for
-Whisperwind to show up and spring the trap
+Whisperwind to show up and spring the trap.
 
 2707
-02:13:18,320 --> 02:13:21,480
+02:13:18,712 --> 02:13:21,685
 I can't wait to make him
-pay for what he has done
+pay for what he has done!
 
 2708
-02:13:21,600 --> 02:13:24,080
-If he shows up at all
+02:13:22,169 --> 02:13:23,817
+If he shows up at all.
 
 2709
-02:13:24,200 --> 02:13:26,280
-Greenfield told them where to find us
+02:13:24,357 --> 02:13:26,486
+Greenfield told them where to find us.
 
 2710
-02:13:26,400 --> 02:13:29,520
-He's way too proud not to show up
+02:13:26,605 --> 02:13:29,361
+He's way too proud not to show up.
 
 2711
-02:13:29,640 --> 02:13:33,880
+02:13:30,187 --> 02:13:33,880
 Well, but he will have a
-small army in town very likely
+small army in tow very likely.
 
 2712
-02:13:34,000 --> 02:13:38,040
+02:13:34,300 --> 02:13:37,925
 We can only hope they are
-still more loyal to you than him
+still more loyal to you than him!
 
 2713
-02:13:38,160 --> 02:13:40,880
-His power hangs by a thread
+02:13:38,298 --> 02:13:40,816
+His power hangs by a thread.
 
 2714
 02:13:41,000 --> 02:13:44,120
 People obey him to keep
-their heads on their shoulders
+their heads on their shoulders,
 
 2715
-02:13:44,240 --> 02:13:45,880
-And that's it
+02:13:44,184 --> 02:13:45,708
+and that's it.
 
 2716
 02:13:46,000 --> 02:13:48,200
 If we manage to take him out,
 
 2717
-02:13:48,320 --> 02:13:50,120
-they will be on my side,
+02:13:48,327 --> 02:13:51,173
+they will be on my side, not his.
 
 2718
-02:13:50,240 --> 02:13:53,920
-not his Let's hope so, by the gods
+02:13:51,467 --> 02:13:53,603
+Let's hope so, by the gods!
 
 2719
 02:13:54,040 --> 02:13:58,480
 I still don't know how you could
-fall for a guy like Whisperwind
+fall for a guy like Whisperwind...
 
 2720
-02:13:58,600 --> 02:14:01,960
+02:13:58,587 --> 02:14:01,700
 Well, you fell for him too, didn't you?
 
 2721
-02:14:02,080 --> 02:14:03,280
-Touche
+02:14:01,740 --> 02:14:03,280
+Argh, touche!
 
 2722
-02:14:03,400 --> 02:14:07,640
+02:14:04,236 --> 02:14:07,711
 He knows precisely how to
-use your fears against you
+use your fears against you.
 
 2723
-02:14:07,760 --> 02:14:10,280
+02:14:08,472 --> 02:14:10,166
 What were you afraid of?
 
 2724
-02:14:10,400 --> 02:14:15,720
-Losing Ironforge When Quicksilver
-died, I was suddenly very lonely
+02:14:10,400 --> 02:14:16,045
+Losing Ironforge! When Quicksilver
+died, I was suddenly very lonely.
 
 2725
-02:14:15,840 --> 02:14:20,880
+02:14:16,407 --> 02:14:21,228
 And all I knew about ruling a city was
-what I had overheard at dinner parties
+what I had overheard at dinner parties.
 
 2726
-02:14:21,000 --> 02:14:26,920
+02:14:21,814 --> 02:14:27,329
 Whisperwind was both an experienced
-leader and an experienced lover
+leader and an experienced lover.
 
 2727
-02:14:27,040 --> 02:14:30,120
-He was exactly what I needed
+02:14:27,826 --> 02:14:30,120
+He was exactly what I needed.
 
 2728
-02:14:30,240 --> 02:14:33,400
+02:14:31,796 --> 02:14:33,400
 Also, I thought...
 
 2729
-02:14:33,520 --> 02:14:35,040
+02:14:33,520 --> 02:14:35,435
 What was the kidnapping about?
 
 2730
-02:14:37,160 --> 02:14:40,280
+02:14:37,212 --> 02:14:40,628
 The most important leaders
-of the Institute live in Ferndale
+of the Institute live in Ferndale.
 
 2731
-02:14:40,400 --> 02:14:44,040
+02:14:41,483 --> 02:14:44,225
 And Whisperwind was
-mostly interested in weapons
+mostly interested in weapons.
 
 2732
-02:14:44,160 --> 02:14:50,240
+02:14:44,701 --> 02:14:50,374
 Being able to make our own guns would have
-made us the most powerful city in the world
+made us the most powerful city in the world!
 
 2733
-02:14:50,360 --> 02:14:55,280
+02:14:50,771 --> 02:14:55,482
 So, we tried to blackmail Ferndale
-into giving us access to the library
+into giving us access to the library!
 
 2734
-02:14:55,400 --> 02:14:59,080
-And people say pigs are into dirty business
+02:14:56,252 --> 02:14:59,148
+And people say pigs are into dirty business!
 
 2735
-02:14:59,200 --> 02:15:02,480
-I feel nothing but shame right now
+02:14:59,504 --> 02:15:02,302
+I feel nothing but shame right now.
 
 2736
-02:15:02,600 --> 02:15:05,520
-If I could turn back time,
+02:15:03,355 --> 02:15:06,421
+If I could turn
+back time, I would...
 
 2737
-02:15:05,640 --> 02:15:08,280
-I would Oh, shh! I think they are coming
+02:15:06,445 --> 02:15:08,578
+Shh! I think they are coming!
 
 2738
-02:15:17,280 --> 02:15:24,320
+02:15:18,362 --> 02:15:24,418
 Goldeneyes, I know you are
-here Come out and show yourself
+here. Come out and show yourself!
 
 2739
-02:15:24,440 --> 02:15:26,200
+02:15:24,941 --> 02:15:26,200
 Shall I give the signal?
 
 2740
-02:15:26,320 --> 02:15:26,760
-No,
+02:15:26,225 --> 02:15:27,493
+No, not yet.
 
 2741
-02:15:26,880 --> 02:15:27,360
-not yet,
+02:15:27,707 --> 02:15:29,010
+They are too far away.
 
 2742
-02:15:27,480 --> 02:15:28,720
-they are too far away
+02:15:29,264 --> 02:15:31,125
+There's no point in hiding.
 
 2743
-02:15:28,840 --> 02:15:30,760
-There's no point in hiding
+02:15:31,784 --> 02:15:34,569
+Your friendly butler
+sang like a little bird!
 
 2744
-02:15:30,880 --> 02:15:34,000
-Your friendly butler
-sang like a little bird
+02:15:35,260 --> 02:15:37,716
+Come closer so we can talk!
 
 2745
-02:15:34,120 --> 02:15:38,000
-Come closer so we can talk
-
-2746
-02:15:38,120 --> 02:15:41,040
+02:15:38,026 --> 02:15:41,327
 Oh, is that the little piggy speaking?
 
+2746
+02:15:42,040 --> 02:15:44,386
+But I can hear you
+perfectly from over here.
+
 2747
-02:15:42,040 --> 02:15:43,840
-But I can hear you perfectly from over here
+02:15:44,791 --> 02:15:46,232
+I want Goldeneyes.
 
 2748
-02:15:43,960 --> 02:15:45,920
-I want Goldeneyes
+02:15:46,257 --> 02:15:49,287
+Send her out now, and nobody gets hurt!
 
 2749
-02:15:46,040 --> 02:15:50,200
-Send her out now and nobody gets hurt Shit,
+02:15:49,485 --> 02:15:51,210
+Shit! What now?
 
 2750
-02:15:50,320 --> 02:15:51,320
-what now?
+02:15:51,305 --> 02:15:53,284
+Shh, patience!
 
 2751
-02:15:51,400 --> 02:15:51,960
-Shh,
+02:15:53,309 --> 02:15:54,655
+If he wants to get us,
 
 2752
-02:15:52,080 --> 02:15:54,560
-patience If he wants to get us,
+02:15:54,680 --> 02:15:56,318
+he will have to move closer.
 
 2753
-02:15:54,680 --> 02:15:56,080
-he will have to move closer
+02:15:56,477 --> 02:15:58,440
+And then we will get him!
 
 2754
-02:15:56,200 --> 02:15:58,440
-And then we will get him
+02:15:58,999 --> 02:16:00,590
+Goldeneyes is not here!
 
 2755
-02:15:58,560 --> 02:16:00,520
-Goldeneyes is not here
-
-2756
-02:16:00,640 --> 02:16:02,640
+02:16:00,986 --> 02:16:02,640
 If you want to know where she is,
 
+2756
+02:16:02,746 --> 02:16:04,412
+come over here, and we will talk!
+
 2757
-02:16:02,760 --> 02:16:04,200
-come over here and we will talk
+02:16:04,547 --> 02:16:07,120
+Of course she's here.
 
 2758
-02:16:04,320 --> 02:16:07,120
-Of course she's here
+02:16:07,195 --> 02:16:09,658
+Come out now, this is my final warning!
 
 2759
-02:16:07,240 --> 02:16:09,360
-Come out now, this is my final warning
+02:16:09,683 --> 02:16:12,300
+Huh! The final warning and then what?
 
 2760
-02:16:09,480 --> 02:16:12,280
-The final warning and then what?
-
-2761
 02:16:12,400 --> 02:16:14,120
 The final warning...
 
-2762
-02:16:14,240 --> 02:16:16,000
-Before I kill your boyfriend
+2761
+02:16:14,205 --> 02:16:16,175
+Before I kill your boyfriend!
 
-2763
-02:16:16,120 --> 02:16:21,080
+2762
+02:16:16,842 --> 02:16:21,048
 Fuck! No! Fuck, fuck,
 fuck, fuck! What is it?
 
+2763
+02:16:21,073 --> 02:16:22,482
+He's got Raindancer!
+
 2764
-02:16:21,200 --> 02:16:22,480
-He's got Raindancer
+02:16:22,507 --> 02:16:23,478
+Who?
 
 2765
-02:16:22,600 --> 02:16:25,520
-The man who saved your life Oh,
+02:16:23,502 --> 02:16:24,859
+The man who saved your life!
 
 2766
-02:16:25,640 --> 02:16:28,680
-fuck, for fuck's sake, why
-didn't I see this coming?
+02:16:24,884 --> 02:16:25,541
+Oh!
 
 2767
-02:16:29,440 --> 02:16:32,200
-Oh, stupid pig, stupid pig, stupid pig
+02:16:25,566 --> 02:16:29,147
+Fuck, for fuck's sake, why
+didn't I see this coming?
 
 2768
-02:16:32,320 --> 02:16:33,080
-Okay,
+02:16:29,277 --> 02:16:32,200
+Oh, stupid pig, stupid pig, stupid pig!
 
 2769
-02:16:33,200 --> 02:16:35,040
-let's put an end to all this
+02:16:32,388 --> 02:16:33,175
+Okay,
 
 2770
-02:16:35,160 --> 02:16:39,240
-I'm going out there right now Shh, no!
+02:16:33,200 --> 02:16:35,123
+let's put an end to all this.
 
 2771
-02:16:39,360 --> 02:16:42,480
-I still have an axe to grind with this guy
+02:16:35,438 --> 02:16:37,683
+I'm going out there right now.
 
 2772
-02:16:42,600 --> 02:16:45,200
-You can still surrender when I am dead
+02:16:37,708 --> 02:16:39,012
+Shh, no!
 
 2773
-02:16:45,320 --> 02:16:46,400
-Now hide,
+02:16:39,429 --> 02:16:42,480
+I still have an axe to grind with this guy.
 
 2774
-02:16:46,520 --> 02:16:48,120
-I don't want him to see you
+02:16:42,600 --> 02:16:45,200
+You can still surrender when I am dead!
 
 2775
-02:16:48,240 --> 02:16:52,880
+02:16:45,248 --> 02:16:46,400
+Now hide,
+
+2776
+02:16:46,798 --> 02:16:48,120
+I don't want him to see you.
+
+2777
+02:16:48,702 --> 02:16:52,479
 And don't give the signal
 until I tell you, okay?
 
-2776
-02:16:53,000 --> 02:16:54,000
-Okay
-
-2777
-02:17:01,800 --> 02:17:03,600
-I'm so sorry,
-
 2778
-02:17:03,720 --> 02:17:07,520
-I just want to help you I love you,
+02:16:52,635 --> 02:16:53,760
+Okay.
 
 2779
-02:17:07,640 --> 02:17:10,200
-Potami I know Now shut up
+02:17:02,560 --> 02:17:03,600
+I'm so sorry,
 
 2780
-02:17:12,880 --> 02:17:14,160
-So,
+02:17:04,567 --> 02:17:08,240
+I just wanted to help you! I love you, Potami!
 
 2781
-02:17:14,280 --> 02:17:16,840
-you want to play rough, Whisperwind?
+02:17:08,454 --> 02:17:10,707
+ I know. Now shut up!
 
 2782
-02:17:16,960 --> 02:17:18,520
-I can play rough too
-
-2783
-02:17:18,640 --> 02:17:24,920
-One false move and
-you're dead Now let him go
-
-2784
-02:17:27,680 --> 02:17:32,400
-Oh, you stupid little piggy
-But this is not going to work
-
-2785
-02:17:32,520 --> 02:17:35,040
-Don't push me! I know
-that you don't have any
-
-2786
-02:17:35,160 --> 02:17:38,920
-bullets left I gave you two
-and you wasted them both
-
-2787
-02:17:39,040 --> 02:17:40,640
-You're forgetting about Goldeneyes,
-
-2788
-02:17:40,760 --> 02:17:43,480
-Stache You mean this one?
-
-2789
-02:17:43,600 --> 02:17:44,600
-Oh, fuck!
-
-2790
-02:17:46,400 --> 02:17:49,640
-And now you're going to hand me the gun
-
-2791
-02:17:53,360 --> 02:17:56,040
-I said hand me the gun,
-
-2792
-02:17:56,160 --> 02:17:57,400
-not drop the gun
-
-2793
-02:18:01,960 --> 02:18:05,480
-How long is this going to take?
-
-2794
-02:18:05,600 --> 02:18:06,440
-Okay,
-
-2795
-02:18:06,560 --> 02:18:07,760
-alright,
-
-2796
-02:18:07,880 --> 02:18:13,560
-here is your goddamn gun I
-hope you will kill yourself with it
-
-2797
-02:18:15,480 --> 02:18:18,120
-Just why do pigs have
-to get mad on everything?
-
-2798
-02:18:19,200 --> 02:18:21,760
-But anyways...
-
-2799
-02:18:23,160 --> 02:18:27,720
-I think it's time to end this
-story Farewell, little piggy
-
-2800
-02:18:29,040 --> 02:18:32,000
-My eyes!
-
-2801
-02:18:32,120 --> 02:18:33,520
-Goldeneyes, no!
-
-2802
-02:18:45,280 --> 02:18:49,000
-My eyes! I can't see!
-
-2803
-02:18:51,320 --> 02:18:54,960
-In case you don't know the feeling,
-
-2804
-02:18:55,080 --> 02:18:58,040
-this is a sword against your throat
-
-2805
-02:19:00,520 --> 02:19:01,640
+02:17:13,461 --> 02:17:14,341
 So,
 
+2783
+02:17:14,650 --> 02:17:16,840
+you want to play rough, Whisperwind?
+
+2784
+02:17:17,239 --> 02:17:18,875
+I can play rough too!
+
+2785
+02:17:19,574 --> 02:17:22,914
+One false move, and you're dead!
+
+2786
+02:17:23,271 --> 02:17:25,076
+Now let him go!
+
+2787
+02:17:28,357 --> 02:17:32,605
+Oh, you stupid little piggy!
+But this is not going to work.
+
+2788
+02:17:32,708 --> 02:17:33,950
+Don't push me!
+
+2789
+02:17:33,998 --> 02:17:36,631
+I know that you don't
+have any bullets left.
+
+2790
+02:17:36,656 --> 02:17:38,859
+I gave you two, and
+you wasted them both!
+
+2791
+02:17:38,946 --> 02:17:41,237
+You're forgetting about Goldeneyes' stash!
+
+2792
+02:17:41,262 --> 02:17:43,417
+You mean this one?
+
+2793
+02:17:43,442 --> 02:17:45,024
+Oh, fuck!
+
+2794
+02:17:46,567 --> 02:17:49,680
+And now you're going to hand me the gun!
+
+2795
+02:17:54,069 --> 02:17:57,583
+I said hand me the gun, not drop the gun!
+
+2796
+02:18:02,578 --> 02:18:05,480
+How long is this going to take?
+
+2797
+02:18:05,516 --> 02:18:06,511
+Okay,
+
+2798
+02:18:06,536 --> 02:18:07,760
+alright,
+
+2799
+02:18:07,825 --> 02:18:13,560
+here is your goddamn gun! I
+hope you will kill yourself with it!
+
+2800
+02:18:15,868 --> 02:18:18,468
+Just why do pigs have
+to get mud on everything?
+
+2801
+02:18:19,071 --> 02:18:21,244
+But anyways...
+
+2802
+02:18:23,220 --> 02:18:28,162
+I think it's time to end this
+story. Farewell, little piggy!
+
+2803
+02:18:29,670 --> 02:18:32,000
+AAAAAAARGH! My eyes!
+
+2804
+02:18:32,120 --> 02:18:34,205
+Goldeneyes, now!
+
+2805
+02:18:46,567 --> 02:18:49,536
+My eyes! I can't see!
+
 2806
-02:19:01,760 --> 02:19:03,720
-what are you going to do?
+02:18:52,163 --> 02:18:54,960
+In case you don't know the feeling,
 
 2807
-02:19:03,840 --> 02:19:05,160
-Kill me?
+02:18:55,296 --> 02:18:58,516
+this is a sword against your throat!
 
 2808
-02:19:05,280 --> 02:19:07,400
-I am the Lord of Ironforge!
+02:19:00,843 --> 02:19:01,771
+So,
 
 2809
-02:19:07,520 --> 02:19:08,320
-No,
+02:19:02,128 --> 02:19:03,720
+what are you going to do?
 
 2810
-02:19:08,440 --> 02:19:10,600
-you are not!
+02:19:04,141 --> 02:19:05,160
+Kill me?
 
 2811
+02:19:05,544 --> 02:19:07,481
+I am the Lord of Ironforge!
+
+2812
+02:19:07,640 --> 02:19:08,383
+No,
+
+2813
+02:19:08,408 --> 02:19:10,600
+you are not!
+
+2814
 02:19:10,720 --> 02:19:13,000
 You are a criminal,
 
-2812
+2815
 02:19:13,120 --> 02:19:14,760
 a trickster,
 
-2813
-02:19:14,880 --> 02:19:16,000
-a murderer
+2816
+02:19:14,845 --> 02:19:16,000
+a murderer!
 
-2814
-02:19:16,120 --> 02:19:19,680
-You are nothing without
-me The people of Ironforge
+2817
+02:19:16,120 --> 02:19:20,006
+You are nothing without me! 
+The people of Ironforge
 
-2815
-02:19:19,800 --> 02:19:23,240
+2818
+02:19:20,031 --> 02:19:23,215
 will never accept a
 woman as their leader,
 
-2816
-02:19:23,360 --> 02:19:24,360
+2819
+02:19:23,240 --> 02:19:24,240
 never!
 
-2817
-02:19:24,640 --> 02:19:29,280
-I'm not one of your ally cats
-My family has been ruling this
-
-2818
-02:19:29,400 --> 02:19:34,840
-city for many generations and
-we never betray our own people!
-
-2819
-02:19:34,960 --> 02:19:35,800
-So,
-
 2820
-02:19:35,920 --> 02:19:38,200
-who do you think they are going to obey?
+02:19:24,623 --> 02:19:29,311
+I'm not one of your alley cats.
+My family has been ruling this city
 
 2821
-02:19:38,320 --> 02:19:40,160
-Me or you?
+02:19:29,336 --> 02:19:34,757
+for many generations, and
+we never betrayed our own people!
 
 2822
-02:19:41,200 --> 02:19:42,200
-Well,
-
-2823
-02:19:42,240 --> 02:19:43,960
-let's find out,
-
-2824
-02:19:44,080 --> 02:19:45,080
-shall we?
-
-2825
-02:19:46,280 --> 02:19:49,320
-Let the soldiers go!
-
-2826
-02:19:52,640 --> 02:19:54,680
-Now,
-
-2827
-02:19:54,800 --> 02:19:56,560
-give them back their weapons!
-
-2828
-02:20:01,400 --> 02:20:02,600
+02:19:34,825 --> 02:19:35,665
 So,
 
+2823
+02:19:35,848 --> 02:19:38,128
+who do you think they are going to obey?
+
+2824
+02:19:38,201 --> 02:19:40,498
+Me or you?
+
+2825
+02:19:41,191 --> 02:19:42,191
+Well,
+
+2826
+02:19:42,335 --> 02:19:45,080
+let's find out, shall we?
+
+2827
+02:19:47,660 --> 02:19:50,184
+Let the soldiers go!
+
+2828
+02:19:53,513 --> 02:19:54,680
+Now,
+
 2829
-02:20:02,720 --> 02:20:04,200
-my lord,
+02:19:54,793 --> 02:19:57,150
+give them back their weapons!
 
 2830
-02:20:04,320 --> 02:20:05,960
-what would you like them to do?
+02:20:01,701 --> 02:20:06,305
+So, my lord, what would
+you like them to do?
 
 2831
-02:20:08,040 --> 02:20:09,920
+02:20:08,016 --> 02:20:10,177
 Goldeneyes is guilty of assault,
 
 2832
-02:20:11,040 --> 02:20:13,440
-unlawful detention and high treason
+02:20:10,944 --> 02:20:13,980
+unlawful detention and high treason.
 
 2833
-02:20:14,880 --> 02:20:16,400
+02:20:14,800 --> 02:20:16,320
 Arrest her!
 
 2834
-02:20:16,520 --> 02:20:18,920
+02:20:17,837 --> 02:20:19,745
 I said arrest her!
 
 2835
-02:20:22,120 --> 02:20:24,080
+02:20:22,497 --> 02:20:24,080
 Soldiers,
 
 2836
-02:20:24,200 --> 02:20:28,560
+02:20:24,200 --> 02:20:29,414
 this man coerced me
-into marriage under false
+into marriage under false pretence,
 
 2837
-02:20:28,680 --> 02:20:34,120
-pretence which is therefore
-invalid Furthermore,
+02:20:29,736 --> 02:20:32,601
+which is therefore invalid.
 
 2838
-02:20:34,240 --> 02:20:39,640
-I accuse him of attempted murder
-of a serene and conspiracy against
+02:20:32,824 --> 02:20:37,842
+Furthermore, I accuse him of
+attempted murder of a sovereign,
 
 2839
-02:20:39,760 --> 02:20:45,440
-the House of Ironforge He shall
-be tried in a court of law Arrest him!
+02:20:37,997 --> 02:20:41,792
+and conspiracy against
+the House of Ironforge!
 
 2840
-02:20:47,320 --> 02:20:48,320
-No!
+02:20:41,999 --> 02:20:46,207
+He shall be tried in a
+court of law. Arrest him!
 
 2841
-02:20:49,480 --> 02:20:50,480
-No!
+02:20:46,239 --> 02:20:47,723
+Yes, my lady!
 
 2842
-02:20:51,120 --> 02:20:54,440
+02:20:48,145 --> 02:20:49,145
+No!
+
+2843
+02:20:49,757 --> 02:20:50,757
+No!
+
+2844
+02:20:51,423 --> 02:20:54,349
 Let me go! She has no
 right to issue commands!
 
-2843
-02:20:54,560 --> 02:20:58,920
+2845
+02:20:54,598 --> 02:20:59,799
 I am your lord! I am the ruler of
 Ironforge! You can't arrest me!
 
-2844
-02:21:00,000 --> 02:21:01,000
-No!
-
-2845
-02:21:02,960 --> 02:21:10,960
-Oh,
-
 2846
-02:21:12,800 --> 02:21:13,800
-Douglas
-
-2847
-02:21:15,480 --> 02:21:17,560
+02:21:16,083 --> 02:21:17,560
 I thought...
 
-2848
-02:21:17,680 --> 02:21:19,440
-I thought I was going to die
+2847
+02:21:17,680 --> 02:21:19,407
+I thought I was going to die!
 
-2849
-02:21:19,560 --> 02:21:21,560
+2848
+02:21:19,432 --> 02:21:21,286
 Oh, shh, don't worry.
 
-2850
-02:21:21,680 --> 02:21:23,640
+2849
+02:21:21,680 --> 02:21:23,917
 The little piggy is
-back to take care of you
+back to take care of you.
+
+2850
+02:21:25,157 --> 02:21:28,588
+I... I thought I could be a
+hero like my father.
 
 2851
-02:21:24,640 --> 02:21:30,160
-I thought I could be a
-hero like my father I couldn't
+02:21:29,430 --> 02:21:30,430
+I couldn't.
 
 2852
-02:21:31,120 --> 02:21:32,120
-I'm such a failure
+02:21:31,120 --> 02:21:32,293
+I'm such a failure!
 
 2853
-02:21:32,240 --> 02:21:35,840
-You don't deserve a fool like me Shh!
+02:21:32,809 --> 02:21:35,010
+You don't deserve a fool like me!
 
 2854
-02:21:35,960 --> 02:21:38,440
+02:21:36,212 --> 02:21:38,208
 Stop talking like that!
 
 2855
-02:21:38,560 --> 02:21:43,600
+02:21:38,894 --> 02:21:42,017
 Without you, we would all
-be dead right now How so?
+be dead right now!
 
 2856
-02:21:44,600 --> 02:21:50,080
-I stuck the barrel into the dirt as deep
-as I could before I gave it to Whisperwind
+02:21:43,001 --> 02:21:44,001
+How so?
 
 2857
-02:21:50,200 --> 02:21:52,400
-And it went bang right in his ugly face
+02:21:44,600 --> 02:21:50,080
+I stuck the barrel into the dirt as deep
+as I could before I gave it to Whisperwind.
 
 2858
-02:21:52,520 --> 02:21:54,920
-You taught me that
+02:21:50,494 --> 02:21:53,543
+And it went bang right in his ugly face!
 
 2859
-02:21:57,560 --> 02:22:00,160
-I love you, Tami
+02:21:53,749 --> 02:21:55,253
+You taught me that
 
 2860
-02:22:00,280 --> 02:22:01,280
-I love you too
+02:21:58,769 --> 02:22:00,160
+I love you, Tami!
 
 2861
-02:22:02,360 --> 02:22:05,360
-Shut up!
+02:22:00,280 --> 02:22:01,517
+I love you too!
 
 2862
-02:22:09,240 --> 02:22:10,360
-Poor Tami,
+02:22:03,114 --> 02:22:06,114
+Oh, shut up!
 
 2863
-02:22:10,480 --> 02:22:12,800
-I am forever in your debt
+02:22:09,192 --> 02:22:10,312
+Potami,
 
 2864
-02:22:12,920 --> 02:22:13,920
-My kingdom,
+02:22:10,467 --> 02:22:12,800
+I am forever in your debt!
 
 2865
-02:22:14,040 --> 02:22:15,920
-my gold, my life
+02:22:12,856 --> 02:22:13,856
+My kingdom,
 
 2866
-02:22:16,040 --> 02:22:17,720
-Whatever it is you want,
+02:22:13,952 --> 02:22:15,832
+my gold, my life.
 
 2867
-02:22:17,840 --> 02:22:19,960
-it is yours Thank
+02:22:15,976 --> 02:22:17,656
+Whatever it is you want,
 
 2868
-02:22:20,080 --> 02:22:20,800
-you,
+02:22:17,813 --> 02:22:19,723
+it is yours!
 
 2869
-02:22:20,920 --> 02:22:25,440
+02:22:20,027 --> 02:22:20,800
+Thank you,
+
+2870
+02:22:21,112 --> 02:22:25,312
 but all I've ever needed is
 here in my arms right now
 
-2870
-02:22:25,560 --> 02:22:31,160
-And I was wrong about you You are a
-much more honorable person than I thought
-
 2871
-02:22:32,320 --> 02:22:34,280
-I can't bring myself to hate you anymore
+02:22:26,074 --> 02:22:31,368
+And I was wrong about you. You are a
+much more honorable person than I thought.
 
 2872
-02:22:35,280 --> 02:22:36,280
-Go,
+02:22:32,304 --> 02:22:34,445
+I can't bring myself to hate you anymore.
 
 2873
-02:22:36,400 --> 02:22:37,400
-your city needs you
+02:22:35,271 --> 02:22:37,559
+Go, your city needs you.
 
 2874
-02:22:38,480 --> 02:22:41,520
-And you told me you're bad at politics
+02:22:39,202 --> 02:22:41,750
+And you told me you're bad at politics!
 
 2875
-02:22:42,760 --> 02:22:45,160
-Truth lies beneath the mud,
+02:22:43,269 --> 02:22:46,671
+Truth lies beneath the mud!
+Ancient pig wisdom!
 
 2876
-02:22:45,280 --> 02:22:45,760
-ancient pig wisdom
+02:22:47,480 --> 02:22:51,110
+Thank you! And to you as well, Raindancer!
 
 2877
-02:22:45,880 --> 02:22:51,240
-Thank you And to you as well, raindancer
+02:22:51,237 --> 02:22:54,982
+Please let the Institute know that
+I deeply regret what I have done,
 
 2878
-02:22:51,360 --> 02:22:54,640
-Please let the Institute know that
-I deeply regret what I have done
+02:22:55,208 --> 02:22:58,920
+and that I offer myself to be
+tried in an independent court,
 
 2879
-02:22:54,760 --> 02:22:58,920
-And that I offer myself to be
-tried in an independent court
+02:22:59,002 --> 02:23:02,469
+And pay any kind of
+compensation they desire.
 
 2880
-02:22:59,040 --> 02:23:03,440
-And pay any kind of
-compensation they desire I will
+02:23:03,009 --> 02:23:04,009
+I will!
 
 2881
-02:23:05,000 --> 02:23:07,840
+02:23:04,943 --> 02:23:07,783
 But can I make a suggestion?
 
 2882
-02:23:07,960 --> 02:23:08,960
+02:23:07,960 --> 02:23:09,291
 Of course!
 
 2883
-02:23:10,000 --> 02:23:13,560
-The Institute and the opposition
-know so little about each other
+02:23:09,928 --> 02:23:13,488
+The Institute and the Opposition
+know so little about each other!
 
 2884
-02:23:13,680 --> 02:23:14,960
-Instead of building walls,
+02:23:13,806 --> 02:23:18,160
+Instead of building walls, we should
+open our gates. And instead of spying,
 
 2885
-02:23:15,080 --> 02:23:18,160
-we should open our gates
-And instead of spying,
+02:23:18,280 --> 02:23:19,680
+we should teach!
 
 2886
-02:23:18,280 --> 02:23:19,680
-we should teach
+02:23:19,936 --> 02:23:22,038
+We have so much to learn!
 
 2887
-02:23:19,800 --> 02:23:22,880
-We have so much to
-learn The Institute needs to
+02:23:22,466 --> 02:23:26,800
+The Institute needs to have an official
+representation in this city again.
 
 2888
-02:23:23,000 --> 02:23:26,800
-have an official
-representation in this city again
+02:23:26,840 --> 02:23:28,366
+Consider it done.
 
 2889
-02:23:26,920 --> 02:23:28,920
-Consider it done Well,
-
-2890
-02:23:29,040 --> 02:23:32,000
-if you really want to
+02:23:28,461 --> 02:23:32,000
+Well, if you really want to
 spread your knowledge fast,
 
+2890
+02:23:32,080 --> 02:23:34,196
+just tell it to a sex worker of your choice!
+
 2891
-02:23:32,120 --> 02:23:33,960
-just tell it to a sex worker of your choice
+02:23:34,259 --> 02:23:39,220
+Potami, that was so inappropriate!
 
 2892
-02:23:34,080 --> 02:23:36,680
-But poor Tami, that
+02:23:39,245 --> 02:23:43,680
+It's the truth beneath the
+mud, ancient pig wisdom!
 
 2893
-02:23:36,800 --> 02:23:38,480
-was so inappropriate
-
-2894
-02:23:39,640 --> 02:23:43,680
-The truth beneath the
-mud, ancient pig wisdom
-
-2895
-02:23:43,800 --> 02:23:46,240
+02:23:44,784 --> 02:23:46,502
 And my lady,
 
-2896
-02:23:46,360 --> 02:23:51,200
+2894
+02:23:46,527 --> 02:23:51,390
 don't you have a lot of really
 important official state business to do?
 
-2897
-02:23:51,320 --> 02:23:52,840
+2895
+02:23:51,415 --> 02:23:52,637
 Yes, but...
 
-2898
-02:23:52,960 --> 02:23:53,440
+2896
+02:23:52,662 --> 02:23:53,470
 And what?
 
+2897
+02:23:53,560 --> 02:23:56,572
+Oh, the sweet air of spring!
+
+2898
+02:23:56,605 --> 02:24:00,208
+Whoa whoa whoa, what are you trying to get at?
+
 2899
-02:23:53,560 --> 02:23:58,160
-Oh, the sweet air of spring Whoa whoa whoa,
+02:24:00,467 --> 02:24:01,501
+You!
 
 2900
-02:23:58,280 --> 02:24:00,200
-what are you trying to get at?
+02:24:02,575 --> 02:24:04,554
+Wait, what?
 
 2901
-02:24:00,320 --> 02:24:04,520
-You Wait What?
+02:24:04,640 --> 02:24:08,428
+Oh, I'm talking about private lessons!
 
 2902
-02:24:04,640 --> 02:24:08,280
-Oh, I'm talking about private lessons
-
-2903
-02:24:08,400 --> 02:24:09,480
+02:24:08,453 --> 02:24:10,395
 What lessons?
-
-2904
-02:24:09,600 --> 02:24:10,360
 What kind of lessons?
 
-2905
-02:24:10,480 --> 02:24:15,160
+2903
+02:24:10,420 --> 02:24:15,538
 Oh, by the gods! I want to
 screw your brains out right now!
 
+2904
+02:24:16,571 --> 02:24:18,516
+No! Aaah!
+
+2905
+02:24:22,011 --> 02:24:24,944
+Are you... Are you crazy?
+
 2906
-02:24:16,480 --> 02:24:17,680
-No!
-
-2907
-02:24:17,800 --> 02:24:24,320
-Are you crazy?
-
-2908
-02:24:25,640 --> 02:24:28,840
+02:24:26,247 --> 02:24:29,054
 The princess of Ironforge
 is standing right next to us!
 
-2909
-02:24:30,080 --> 02:24:33,400
+2907
+02:24:30,657 --> 02:24:33,400
 My my my! Look at the time!
 
-2910
-02:24:33,520 --> 02:24:38,360
+2908
+02:24:33,464 --> 02:24:38,499
 I totally forgot I had lots of really
-important official speeches to do!
+important official state business to do!
 
-2911
-02:24:40,360 --> 02:24:45,080
-Come on! I can't do this
+2909
+02:24:41,047 --> 02:24:42,047
+Come on!
+
+2910
+02:24:42,222 --> 02:24:45,095
+ I can't do this
 with all of them looking!
 
+2911
+02:24:45,120 --> 02:24:46,840
+What?
+
 2912
-02:24:45,200 --> 02:24:46,920
+02:24:55,694 --> 02:24:56,819
 Help!
 
 2913
-02:24:58,000 --> 02:25:02,280
+02:24:58,540 --> 02:25:02,280
 Oh well! That's not going to be a problem!
 
 2914
-02:25:02,400 --> 02:25:03,400
+02:25:02,305 --> 02:25:03,305
 What?
 
 2915
-02:25:03,520 --> 02:25:04,600
+02:25:03,520 --> 02:25:05,024
 Lights out!
 
 2916
-02:25:07,080 --> 02:25:13,240
+02:25:11,427 --> 02:25:14,017
 So tasty!
 
 2917
-02:26:03,160 --> 02:26:11,160
-Open your eyes and here you'll see it all
+02:26:05,853 --> 02:26:12,420
+♪ Open your eyes, and here you'll see it all ♪
 
 2918
-02:26:12,480 --> 02:26:16,840
-Where shattered shadows always fall
+02:26:13,036 --> 02:26:18,467
+♪ Where shattered shadows always call ♪
 
 2919
-02:26:18,840 --> 02:26:25,840
-Raise up your ears and
-now you'll hear my will
+02:26:20,222 --> 02:26:26,735
+♪ Raise up your ears, and now you'll hear my will ♪
 
 2920
-02:26:26,880 --> 02:26:28,680
-Righteous thunder,
+02:26:26,926 --> 02:26:28,775
+♪ Righteous thunder, ♪
 
 2921
-02:26:28,800 --> 02:26:30,600
-light-filled wonder,
+02:26:28,800 --> 02:26:33,720
+♪ light-filled wonder ♪
+♪ Lets their aura still. ♪
 
 2922
-02:26:30,720 --> 02:26:33,200
-let their aura still
+02:26:35,009 --> 02:26:37,560
+♪ Give them my path, I'll go through them  ♪
 
 2923
-02:26:34,880 --> 02:26:36,200
-Give them my path,
+02:26:38,543 --> 02:26:41,115
+♪ Hold deep my hand, guide me right ♪
 
 2924
-02:26:36,320 --> 02:26:37,560
-I'll go through them
+02:26:42,161 --> 02:26:48,001
+♪ Goldeneyes so they can see their last light ♪
 
 2925
-02:26:38,560 --> 02:26:41,520
-Hold deep my hand, guide me right
+02:28:25,002 --> 02:28:27,882
+♪ Give them my path, I'll go through them  ♪
 
 2926
-02:26:41,640 --> 02:26:45,080
-Bold and high so they can't see the night
+02:28:28,423 --> 02:28:31,565
+♪ Hold deep my hand, guide me right ♪
 
 2927
-02:28:23,320 --> 02:28:26,200
-Give them my path,
+02:28:32,142 --> 02:28:38,118
+♪ Goldeneyes so they can see their last light ♪
 
 2928
-02:28:26,320 --> 02:28:31,920
-I'll go through them Hold
-deep my hand, guide me right
+02:28:39,260 --> 02:28:45,879
+♪ Faster than sound I'll undo them ♪
+♪ With but a pull your divine ♪
 
 2929
-02:28:32,040 --> 02:28:35,120
-Bold and high so they can't see their last
+02:28:46,476 --> 02:28:51,736
+♪ Goldeneyes, you'll be forever, ever, ever ♪
 
 2930
-02:28:37,000 --> 02:28:38,000
-light
+02:28:52,838 --> 02:28:55,713
+♪ Mine ♪
 
 2931
-02:28:38,920 --> 02:28:44,840
-Faster than sound, I long to
-them With all the pull you're divine
+02:28:56,291 --> 02:28:59,321
+♪ Goldeneyes ♪
 
 2932
-02:28:46,040 --> 02:28:53,000
-Bold and high, you'll be
-forever, ever, ever mine
-
-2933
-02:28:55,000 --> 02:29:00,800
-Bold and high, yeah!
+02:28:59,962 --> 02:29:06,568
+♪ Yeah ♪
 
