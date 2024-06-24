@@ -1,0 +1,902 @@
+00:00:29:67 00:00:34:43 Die Passagiere des Fluges 834//nach Nord-Elbonien werden gebeten,
+00:00:34:43 00:00:36:82 zum Terminal Nummer 5 zu kommen.
+00:00:38:78 00:00:40:56 Äh ... Korrektur. Terminal 6.
+00:00:41:59 00:00:42:90 Terminal 7
+00:00:43:56 00:00:45:45 Terminal ... 8?
+00:00:46:40 00:00:48:07 Terminal 9?
+00:00:58:71 00:01:03:15 Einstieg zum Flug 834 nach//Nord-Elbonien wird sich
+00:01:03:24 00:01:05:77 wegen technischer Schwierigkeiten//verzögern.
+00:01:05:81 00:01:08:09 Wir danken für Ihre Geduld.
+00:01:16:08 00:01:21:62 Flug 396, American Airlines//aus Kansas, Vereinigte Staaten
+00:01:21:68 00:01:23:92 Ankunft an Terminal 2
+00:01:32:16 00:01:35:03 Taxi! Taxi!
+00:01:35:49 00:01:37:08 He, ihr da! Braucht ihr'n Taxi?
+00:01:37:45 00:01:38:86 Nein, wir warten auf einen Callboy.
+00:01:38:86 00:01:41:69 Sieht man nicht das lustvolle Gesicht//dieses stolzen, schwulen Löwen?
+00:01:41:99 00:01:44:34 Das kann ich arrangieren,//aber das kostet extra.
+00:01:45:49 00:01:47:89 Nein, Poke! Das ist nicht komisch!
+00:01:50:15 00:01:51:39 Alles klar, rein mit euch!
+00:01:51:73 00:01:52:95 Jederzeit, Schätzchen!
+00:02:04:93 00:02:09:45 Oh, wie ich diese Fliegerei hasse. Die//Zeitverschiebung bringt mich um,
+00:02:09:45 00:02:13:97 und mein Magen scheint immer noch//200 Meter über dem Boden zu schweben.
+00:02:14:40 00:02:17:21 200 Meter? Das ist immer noch//näher dran als dein Sexleben.
+00:02:17:21 00:02:18:74 Das schwebt irgendwo im All herum.
+00:02:21:50 00:02:23:89 Mir ist immer noch ganz übel.
+00:02:23:89 00:02:28:69 Das Flugzeug ging auf und ab//und auf und ab und auf und ab-
+00:02:29:07 00:02:31:92 Tja, wenn dir das auf und ab und//auf und ab Probleme macht ist es
+00:02:31:92 00:02:34:04 kein Wunder, daß du nie//flachgelegt wirst.
+00:02:37:60 00:02:40:60 Könntet ihr beiden bitte mal//die Klappe halten?
+00:02:40:68 00:02:42:84 He, Leute!//Ich hab nicht die ganze Nacht Zeit.
+00:02:43:35 00:02:45:58 He, du klingst aber nicht Britisch.
+00:02:45:65 00:02:48:45 Wen juckt's? Also, raus damit://Wohin wollt ihr?
+00:02:48:57 00:02:50:03 Zum Opernhaus, bitte.
+00:02:50:47 00:02:54:10 Oh, wir haben eine Menge Opernhäuser://Große, kleine, alte, neue, mit vielen
+00:02:54:10 00:02:57:26 Plätzen, mit wenigen Plätzen, also//könntest du etwas genauer sein?
+00:02:58:14 00:03:00:49 Mika, zeig ihm bitte die//Eintrittskarten.
+00:03:03:57 00:03:07:86 Oh, das ist interessant. Da wollte//schon lange niemand mehr hin.
+00:03:08:28 00:03:09:65 Wer hat euch diese Karten verkauft?
+00:03:10:00 00:03:13:78 Lori hat den ersten Platz beim Gemini-//Kroketten-Wettbewerb gewonnen.
+00:03:14:16 00:03:16:91 Du meinst diese Holzkohlestücke aus//der Werbung mit diesem unglaublich
+00:03:16:91 00:03:20:00 grünen Reportertypen, der so//einen Dildo-Haarschnitt hat?
+00:03:22:12 00:03:26:53 Nein, ich hab bei keinem Wettbewerb//mitgemacht. Ich hasse Gemini-Kroketten.
+00:03:26:99 00:03:31:37 Die sind so unglaublich fettig, daß ich//da überall Pickel von kriege.
+00:03:31:38 00:03:33:25 Und Wochen später fühle//ich mich immer noch-
+00:03:33:30 00:03:36:59 Danke Lori, genau das interessierte uns
+00:03:36:66 00:03:37:70 NICHT!
+00:03:38:80 00:03:40:78 Ich dachte Poke hätte die//Karten gewonnen.
+00:03:41:14 00:03:43:47 He, sehe ich aus als könnte ich lesen//und schreiben?
+00:03:43:97 00:03:46:22 Schreiben ist was für Klugscheißer.//Und selbst wenn ich gewonnen hätte,
+00:03:46:28 00:03:48:06 dann wäre mir der Haarschnitt//lieber gewesen.
+00:03:49:75 00:03:51:25 Mika wars.
+00:03:51:89 00:03:56:25 Nein, ich wars auch nicht.//Ist das nicht seltsam?
+00:03:56:48 00:03:59:30 Wenn keiner von uns bei dem//Wettbewerb mitgemacht hat,
+00:03:59:57 00:04:02:20 warum haben wir die Karten//dann überhaupt bekommen?
+00:04:02:65 00:04:05:75 Ach, das ist jetzt ja auch egal.//Wir sind hier.
+00:04:05:97 00:04:09:63 Ich vermute, Poke war einfach zu//betrunken, um sich daran zu erinnern.
+00:04:14:75 00:04:20:12 Ah, London, die Stadt der Liebe.
+00:04:20:54 00:04:22:31 Das ist Paris, Poke.
+00:04:23:83 00:04:26:28 Egal, ich gehe jedenfalls zum//Yiff-soviel-du-willst-Buffet
+00:04:26:30 00:04:28:59 nach der Show.//Lori, kommst du mit?
+00:04:29:52 00:04:31:96 Nein, ich werde mir den Big Ben ansehen.
+00:04:33:03 00:04:35:83 Wenn du Big Ben sehen willst, kann//ich ihn dir auch gleich jetzt zeigen.
+00:04:38:92 00:04:42:04 Ist dies das wahre Leben?
+00:04:42:54 00:04:45:44 Ist dies ein Puppenspiel?
+00:04:45:85 00:04:48:85 Gefangen im Taxi
+00:04:48:92 00:04:53:28 Fernab der Wirklichkeit
+00:04:53:41 00:04:56:30 Wir wußten nicht recht
+00:04:56:95 00:05:03:54 Wer den Preis gewann. Ich nicht.
+00:05:03:92 00:05:06:97 Ich bin nur ein armes Mädchen
+00:05:07:25 00:05:09:61 Ohne Sexualität
+00:05:09:94 00:05:13:58 Komm ich heut nicht, komm ich morgen
+00:05:13:92 00:05:16:94 Poke, halt's Maul, das wissen wir.
+00:05:17:34 00:05:20:33 Wo uns die Reise auch immer hinführt
+00:05:20:67 00:05:23:50 Ist nicht wirklich wichtig
+00:05:23:56 00:05:26:25 Wir werden es sehen
+00:05:26:62 00:05:29:33 Ihr werdet es sehen
+00:05:34:31 00:05:40:36 Zu spät, meine Zeit ist gekommen
+00:05:40:66 00:05:43:58 Ein Schauer fährt über meinen Rücken
+00:05:44:01 00:05:47:06 Und du singst nichts als Unsinn
+00:05:47:82 00:05:50:51 Kopf hoch, Freunde
+00:05:50:90 00:05:53:32 Es wird alles gut
+00:05:54:14 00:05:59:83 Wir werden uns die Show ansehen//und viel Spaß haben
+00:06:01:40 00:06:06:38 Lori ... uh-hu
+00:06:08:28 00:06:10:62 Vergiß nicht zu heulen
+00:06:11:41 00:06:15:86 Manchmal wünschte ich,//du wärst nie geboren worden
+00:06:16:43 00:06:20:26 He, hört auf, hört auf! Euer ständiges//Gezanke macht mich wahnsinnig!
+00:06:20:50 00:06:24:88 He, Süßer, bleib locker. Sobald wir//angekommen sind bist du uns los.
+00:06:25:10 00:06:28:30 Gut, dann drücken wir mal//was auf die Tube.
+00:06:48:24 00:06:53:37 Ihr habt euer Ziel erreicht!
+00:07:07:68 00:07:09:54 Behalten Sie den Rest!
+00:07:29:50 00:07:31:85 Junge, war das gruselig!
+00:07:31:98 00:07:35:60 Oh Mann, kann es sein, daß die//Engländer echt seltsam drauf sind?
+00:07:36:83 00:07:41:71 Poke, sei nicht so voreingenommen.//Wir sind hier zu Gast!
+00:07:41:88 00:07:45:25 Ja, Gäste wie auf der Anthrocon.//Seltsame Typen überall,
+00:07:45:29 00:07:48:47 seltsames Essen im Hotelbuffet,//und der Gastgeber ist eine Küchenschabe!
+00:07:56:34 00:08:01:63 Aber ... habt ihr das seltsame//Glühen in seinen Augen gesehen?
+00:08:01:91 00:08:04:58 Da spielt uns sicher nur//unser Hirn einen Streich.
+00:08:04:58 00:08:07:73 Der Flug war lang, das liegt//bestimmt an der Zeitverschiebung.
+00:08:07:92 00:08:09:86 Ja, da ist Lori die Expertin.
+00:08:10:58 00:08:11:48 Wofür?
+00:08:11:54 00:08:12:42 Für Zeitverschiebung.
+00:08:12:46 00:08:13:43 Warum das?
+00:08:13:50 00:08:16:45 Weil du schon hier bist,//dein Hirn aber noch nicht.
+00:08:16:45 00:08:19:63 Aber keine Sorge, Fed-Ex schickt//dir das kostenlos nach.
+00:08:20:69 00:08:23:19 Also du ... du ...
+00:08:23:67 00:08:25:01 Verstehst du jetzt, was ich meine?
+00:08:27:82 00:08:31:94 Sagt mal Leute, sollten nicht eigentlich//viel mehr Leute hier sein?
+00:08:32:29 00:08:37:91 Ja, also wo sind die alle?//Hallo? Hal-lo?
+00:08:38:18 00:08:41:85 Hallo! Hallo! Hallo!
+00:08:44:49 00:08:47:00 Oh, dieses Haus ist wirklich gruselig!
+00:08:47:24 00:08:51:51 Ja, total stark, als ob es direkt aus//einem zweitklassigen Horrorfilm käme.
+00:08:53:05 00:08:58:88 Die Sitze sind alle leer,//die Bühne auch. Aber das Licht ist an!
+00:08:59:52 00:09:03:42 Was ist hier los? Mika, bist du sicher,//daß das mit heute abend stimmt?
+00:09:04:39 00:09:07:35 Heute abend?//Ich hab heute abend noch nichts ...
+00:09:07:66 00:09:11:66 Ach, das! Ja, die Karten//sind für heute abend.
+00:09:12:61 00:09:13:75 Ich versteh's nicht.
+00:09:13:79 00:09:15:85 He Leute, schaut her!//Ich bin ein Dirigent!
+00:09:17:02 00:09:19:98 Poke, leg das weg, du wirst uns//wieder in Schwierigkeiten bringen!
+00:09:20:12 00:09:21:72 Wen juckt's? Ist doch keiner hier!
+00:09:26:01 00:09:27:84 He, Lionel! Schau mal, was ich kann!
+00:09:37:56 00:09:38:11 Poke!
+00:09:38:09 00:09:39:53 He, das ist total abgefahren!
+00:09:44:04 00:09:45:84 Poke! Hör auf herumzublödeln!
+00:09:46:78 00:09:51:92 Gib mir das! Du hast keinen Sinn//für Musik! Laß mich mal versuchen.
+00:09:51:97 00:09:54:46 Aber ... Aber ...//Hier gibt es kein Orchester!
+00:09:54:58 00:09:55:94 Es funktioniert trotzdem.
+00:10:03:39 00:10:05:44 Mein Lieblingsstück!
+00:10:18:31 00:10:22:95 Oh! Oh! Laß mich mal probieren!//Ich wills auch mal probieren!
+00:10:38:16 00:10:45:95 Oh nein! Bitte aufhören! Aufhören!//Stop! Aufhören, bitte!
+00:10:47:18 00:10:50:77 Ach kommt, ich war grad//so gut in Stimmung.
+00:10:51:53 00:10:55:79 Ich wette, deine Phantasien kreisen nur//um J. R. Ewing - und seinen Big Ben.
+00:10:57:82 00:11:00:26 Lionel! Jetzt versuch du es mal!
+00:11:00:36 00:11:04:99 Hä? Na gut, wenn es denn sein muß.
+00:11:05:08 00:11:05:98 Sicher.
+00:11:07:80 00:11:10:96 Versuchs, es macht Spaß!
+00:11:17:88 00:11:20:55 Es geht nicht mehr.//Laßt uns verschwinden.
+00:11:33:02 00:11:36:33 Willkommen in meiner Welt!
+00:11:36:84 00:11:42:45 Ihr werdet hier nie wieder rauskommen,//wenn ihr nicht genau das tut,
+00:11:42:65 00:11:48:73 was ich will!//Ihr seid verloren, wie all die anderen!
+00:11:49:09 00:11:53:77 Ihr werdet schon sehen! Ihr alle!
+00:12:01:20 00:12:04:72 Ich hab euch zu mir gelockt
+00:12:05:11 00:12:08:15 Was werdet ihr tun?
+00:12:08:88 00:12:12:51 Ihr habt mich im Schlaf verfolgt
+00:12:12:86 00:12:16:42 Jetzt verfolge ich euch
+00:12:16:96 00:12:20:53 Werde ich jemals wieder frei sein?
+00:12:20:93 00:12:25:23 Für den Augenblick ist nur
+00:12:25:90 00:12:32:09 Das Phantom der Puppenshow
+00:12:32:52 00:12:37:01 In euren Gedanken
+00:12:40:29 00:12:47:85 Warum stehen wir in//diesen verfluchten Hallen
+00:12:48:25 00:12:51:82 Ich hätte zuhause bleiben sollen
+00:12:52:22 00:12:54:95 Und mir die Eier kratzen
+00:12:55:10 00:12:55:94 Schnauze, Poke!
+00:12:56:28 00:12:59:78 Wir müssen hier raus!
+00:13:00:14 00:13:03:04 Und unseren Arsch retten!
+00:13:03:21 00:13:03:95 Poke!
+00:13:05:06 00:13:11:49 Das Phantom der Puppenshow ist hier
+00:13:11:76 00:13:16:42 In unseren Gedanken
+00:13:50:70 00:13:55:68 Warum ich? Gefangen in einem//verfluchten Opernhaus
+00:13:55:68 00:13:59:39 und verfolgt von//einem bösen Phantom!
+00:14:00:63 00:14:02:30 Wißt ihr, was ich glaube?
+00:14:02:79 00:14:07:29 Da spielt uns jemand einen//sehr sehr üblen Streich.
+00:14:08:59 00:14:11:91 Wißt ihr, was wir machen werden?//Wir kehren einfach um
+00:14:11:96 00:14:14:02 und verlassen diesen Ort.
+00:14:15:88 00:14:19:19 Moment. Die Tür ist verschwunden.
+00:14:27:96 00:14:32:75 Das muß eine optische Täuschung sein.//Darauf falle ich nicht rein!
+00:14:42:68 00:14:47:77 Andererseits wäre es vielleicht besser,//meine Theorie nochmal zu überdenken.
+00:14:50:31 00:14:55:33 Oh Lori, hör auf zu weinen. Es muß//einen Weg hier raus geben.
+00:14:55:33 00:14:57:60 Los, Leute, fangt an zu suchen!
+00:15:05:75 00:15:10:42 He, Leute! Die Bühne klingt hohl.//Und da ist ein Knopf.
+00:15:10:93 00:15:13:07 Nein! Drück nicht auf den-
+00:15:17:72 00:15:19:31 Knopf.
+00:15:20:59 00:15:22:96 Poke? Poke?
+00:15:25:84 00:15:29:72 Stark! Das ist ein Bühnenaufzug!//Und da hinten sind noch mehr davon.
+00:15:30:10 00:15:31:19 Äh, wo?
+00:15:47:60 00:15:53:84 Sehr sehr witzig. Und wie kriegen wir//die jetzt alle gleichzeitig nach unten?
+00:15:53:87 00:15:56:85 Keine Ahnung, ich hab jeden verfluchten//Knopf gedrückt, der auf dieser
+00:15:56:88 00:15:59:74 stinkenden, dreckigen, dämlichen,// verdammten-
+00:16:00:14 00:16:07:69 Vorsicht Poke! Paß auf! Poke!
+00:16:08:79 00:16:09:91 Danke, Poke!
+00:16:10:28 00:16:11:24 Gern geschehen!
+00:16:27:26 00:16:31:19 Gut gemacht Poke, wirklich gut.
+00:16:31:56 00:16:33:88 Aber du wolltest doch runter,//oder etwa nicht?
+00:16:33:93 00:16:34:84 Schon ...
+00:16:36:14 00:16:37:56 Seid ihr alle in Ordnung?
+00:16:40:06 00:16:43:71 Ich bin in was feuchtem,//stinkendem gelandet.
+00:16:44:25 00:16:46:35 Ja, du stehst auf meinem Schwanz.
+00:16:48:43 00:16:49:36 Hoppla!
+00:16:51:08 00:16:56:05 Bist du das Lori? Ich sehe hier nicht//die Hand vor Augen.
+00:16:56:52 00:16:59:52 Sind deine Brüste kleiner geworden//seit dem letzten Mal?
+00:17:00:05 00:17:05:55 Keine Ahnung, aber ... oh, mach ruhig//weiter, bis ich meine Hose gefunden hab.
+00:17:05:63 00:17:07:60 Igitt!
+00:17:10:82 00:17:12:01 Habt ihr das gehört?
+00:17:20:00 00:17:24:99 Sie kommen direkt auf uns zu!//Geht weg! Geht weg!
+00:17:31:38 00:17:32:58 Was ist das?
+00:17:34:01 00:17:37:25 - Sind das Schritte? Ist ER das?//- Nee!
+00:17:37:63 00:17:40:89 - Es hört sich aber an wie ER!//- Ich glaub nicht.
+00:17:40:90 00:17:43:47 - Bist du sicher?//- Oh mein Gott! Nicht ER!
+00:17:43:50 00:17:45:02 - Ja, ER ist es!//- Bloß weg hier!
+00:17:45:07 00:17:48:68 - Nicht der schon wieder!//- ER ist es!
+00:17:52:39 00:17:55:11 Ja! Ich bin es! Heißen Sie willkommen:
+00:18:00:03 00:18:02:70 Ray, den Stand-Up Comedian!
+00:18:02:96 00:18:06:45 He, kennt ihr den von dem Mann//mit der Glühbirne in der Nase?
+00:18:06:49 00:18:08:87 Nun, er war ein helles Köpfchen!
+00:18:11:23 00:18:14:50 Also, wer zur Hölle bist du?
+00:18:15:11 00:18:17:71 Ich bin Ray, der Stand-Up Comedian!
+00:18:20:73 00:18:25:06 Ach, ja, mein Freund hat mich letztens//gefragt, ob ich ein Bad genommen hätte,
+00:18:25:11 00:18:28:53 und ich fragte://"Wieso? Fehlt denn eines?"
+00:18:31:10 00:18:35:85 Also gut, also gut. Wo - sind - wir?
+00:18:36:41 00:18:40:00 Ihr seid auf der Bühne mit Ray,//dem Stand-Up Comedian!
+00:18:44:44 00:18:47:20 Wißt ihr, warum jemand seinem Hot Dog//einen Pullover angezogen hat?
+00:18:47:44 00:18:49:65 Damit er nicht kalt wird!
+00:18:52:38 00:18:53:47 Oh nein ...
+00:18:53:86 00:18:54:79 Also?
+00:18:54:85 00:18:56:33 - Das tat weh.//- Also?
+00:18:57:76 00:19:00:94 Das soll eigentlich witzig sein!//Warum lacht ihr nicht?
+00:19:01:52 00:19:07:57 Warum lacht ihr nicht?//Niemand mag meine Witze!
+00:19:08:50 00:19:10:60 Weißt du, was hier drin los ist?
+00:19:10:93 00:19:16:14 Oh ja, bitte! Wir haben uns verlaufen//und finden nicht mehr raus.
+00:19:16:73 00:19:18:72 Es gibt keinen Weg hinaus.
+00:19:19:08 00:19:21:98 Oh nein! Wir sind verflucht!
+00:19:22:32 00:19:27:26 Verflucht? Ja, wir sind alle verflucht!//Dieses ganze Haus ist verflucht!
+00:19:27:59 00:19:31:20 Aber warum?//Kannst du uns sagen warum wir hier sind?
+00:19:31:68 00:19:35:62 Nein, das kann ich nicht, aber ich kann//euch sagen, warum ich hier bin.
+00:19:35:86 00:19:41:24 Vor langer Zeit, als die Sonne noch//schien, trat ich auf dieser Bühne auf.
+00:19:41:59 00:19:47:63 Ich träumte davon, die Leute zum Lachen//zu bringen ... aber ich habe versagt!
+00:19:49:86 00:19:54:36 Und jetzt bin ich dazu verdammt, für//immer hier unten zu leben
+00:19:54:41 00:19:58:68 bis ich es schaffe, die Leute zum Lachen// zu bringen! Aber ich schaffe es nicht!
+00:19:58:73 00:20:00:77 Wir alle haben versagt!
+00:20:02:02 00:20:05:57 Der Einzige, der über mich lacht, ist//diese schwarze Gestalt mit der Kapuze
+00:20:05:59 00:20:09:61 die diesen Ort heimsucht,//aber aus den falschen Gründen.
+00:20:10:16 00:20:13:60 Die schwarze Gestalt!//Die hat uns hier hergebracht!
+00:20:13:93 00:20:17:45 Das Phantom? Warum sollte es//euch hier herbringen?
+00:20:18:34 00:20:20:04 Wir hatten gehofft,//daß du uns das sagen könntest.
+00:20:20:55 00:20:24:85 Wenn ihr etwas über das Phantom//erfahren wollt, gibt es nur eine Person
+00:20:24:85 00:20:29:82 in diesem Theater die mehr darüber weiß//als ich. Wahrscheinlich ist er sogar
+00:20:29:86 00:20:33:23 der Einzige der wirklich etwas darüber//weiß, was hier passiert.
+00:20:33:71 00:20:35:73 Aber wenn du das doch alles weißt,
+00:20:35:73 00:20:38:76 warum fragst du ihn nicht einfach,//wie man hier herauskommt?
+00:20:39:00 00:20:41:06 Er redet gerne aber es ist schwierig,
+00:20:41:20 00:20:42:78 etwas Sinnvolles aus ihm//herauszubekommen.
+00:20:43:08 00:20:45:84 Nun, wir haben keine Wahl, oder?
+00:20:46:14 00:20:49:96 Oh, bitte, sag uns//wo wir ihn finden können!
+00:20:50:12 00:20:54:30 Ganz einfach. Ihr müßt nur den Abfluß//runter, und ihr werdet ihn finden.
+00:20:54:57 00:20:57:12 Er lebt in den Abwasserkanälen//... ganz allein.
+00:21:01:74 00:21:07:15 Oh nein! Nein! Da gehe ich nicht//runter! Ich wette da stinkts und es ist
+00:21:07:15 00:21:12:93 dreckig, und überall krabbeln Käfer und//Spinnen herum und so weiter und-
+00:21:15:60 00:21:17:23 Siehst du,//war doch gar nicht so schwer, oder?
+00:21:19:41 00:21:20:26 Igitt!
+00:21:21:70 00:21:22:74 Igitt!
+00:21:24:50 00:21:28:75 Na gut, ich bin im Abwasserkanal.//Kommt ihr nach?
+00:21:29:34 00:21:32:38 Igitt, nein!//Sehe ich aus als wäre ich verrückt?
+00:21:32:18 00:21:34:75 Natürlich nicht! Ich bleibe wo ich bin.
+00:21:38:44 00:21:41:91 Kennt ihr den hier?//Eine nackte Füchsin kommt in eine Bar
+00:21:42:11 00:21:43:97 - Nein! Nein!//- mit einem Pudel unter einem Arm
+00:21:43:97 00:21:46:81 und einer unglaublich langen Salami//unter dem anderen.
+00:21:48:69 00:21:52:10 Der Barkeeper fragt sie://"Sie wollen doch sicher nichts trinken?"
+00:21:52:33 00:21:55:90 Da sagt die ... Füchsin ...
+00:21:58:70 00:22:00:29 Ach, was solls.
+00:22:16:23 00:22:17:57 Aua!
+00:22:18:86 00:22:20:26 Iks!
+00:22:21:56 00:22:22:69 Urgh!
+00:22:26:83 00:22:31:25 Oh wie toll! Willkommen im Abwasserland,//dem stinkendsten Ort der Erde!
+00:22:33:21 00:22:36:97 Lori? Du hast da was ... im Gesicht!
+00:22:37:72 00:22:40:29 Ah! Eine Spinne!
+00:22:42:99 00:22:46:83 Und schaut mich an!//Ich bin voller Glibber!
+00:22:47:78 00:22:52:07 Ich frage mich was für scheußliche//Kreaturen an einem solchen Ort leben.
+00:22:52:22 00:22:58:45 Ich bin die riesengroße Kacke und ich//werde euch mit meiner Scheiße bewerfen
+00:22:58:79 00:23:00:42 Eine Riesenmenge Mist-
+00:23:02:09 00:23:02:73 Was?
+00:23:03:29 00:23:06:38 Bitte! Was auch immer für eine//Kreatur hier unten lebt,
+00:23:06:44 00:23:08:62 ich bin ziemlich sicher,//daß man sie nicht wecken sollte!
+00:23:10:75 00:23:13:46 Wer singt da?//Ich versuche hier zu schlafen!
+00:23:13:69 00:23:15:00 Siehst du!
+00:23:16:06 00:23:20:27 Und ich dachte, ich hätte endlich einen//Ort gefunden, wo ich etwas Ruhe habe.
+00:23:21:31 00:23:24:28 Entschuldige, kannst du uns raushelfen?
+00:23:25:09 00:23:26:72 Klar, wo seid ihr reingekommen?
+00:23:27:11 00:23:29:18 Äh, nein, ich meine-
+00:23:29:52 00:23:33:41 Also, wer seid ihr?//Ich habe euch hier noch nie gesehen.
+00:23:34:07 00:23:37:77 Nun ja, weißt du, Ray, der Stand-Up//Comedian hat uns gesagt,
+00:23:37:77 00:23:39:52 daß wir hier jemanden finden würden,
+00:23:39:68 00:23:43:91 der uns etwas über diesen verfluchten//Ort sagen kann ... und ...
+00:23:44:39 00:23:46:12 Und über diesen billigen Phantomkasper.
+00:23:46:85 00:23:48:49 Ja, wir sind hier gefangen,
+00:23:48:49 00:23:52:75 und wir würden sehr gerne so schnell//es geht einen Weg hinaus finden.
+00:23:53:10 00:23:57:08 Nun, schaut mich an! Sehe ich so aus,//als ob ich gerne hier wäre?
+00:23:57:19 00:23:59:95 Es gibt keinen Weg hinaus.//Und jetzt geht! Laßt mich schlafen!
+00:24:01:12 00:24:03:83 Kein Weg hinaus?
+00:24:04:51 00:24:05:25 Aber ...
+00:24:06:39 00:24:08:46 Aber wer wird dann die Blumen gießen?
+00:24:09:25 00:24:12:51 Und mein Frisör wird nächsten//Mittwoch auf mich warten!
+00:24:13:31 00:24:15:05 Oh oh ...
+00:24:19:06 00:24:23:83 Oh lieber Gott! Macht, daß sie aufhört,//bevor sie die Kanäle unter Wasser setzt!
+00:24:27:30 00:24:31:53 Oh bitte! Du mußt uns helfen, hier rauszukommen!
+00:24:31:94 00:24:35:30 Ich weiß, ich weiß.//Aber es gibt keinen Weg hinaus.
+00:24:35:35 00:24:37:26 Das sind alles nur//Geschichten und Legenden.
+00:24:37:93 00:24:41:00 Wenn es eine Geschichte zu all dem gibt,//erzähl sie uns!
+00:24:41:04 00:24:42:81 Das könnte alles hilfreich sein!
+00:24:43:37 00:24:46:43 Also gut. Ihr scheint neu hier zu sein.
+00:24:46:59 00:24:49:01 Aber ich fühle mich im Moment nicht//danach, eine Geschichte zu erzählen.
+00:24:50:35 00:24:54:23 Gibt es irgendwas, was wir tun können,//damit du dich besser fühlst?
+00:24:54:83 00:24:57:53 Es gibt zwei Dinge, die ein guter//Geschichtenerzähler braucht:
+00:24:57:55 00:25:00:01 Eine Flasche Wein und ein Laborkittel.
+00:25:00:50 00:25:03:43 Wenn ihr mir die bringt, dann kann// ich euch eine Geschichte erzählen.
+00:25:03:58 00:25:07:09 Also gut, ich werde deinen Kittel holen.//Wo ist er?
+00:25:07:66 00:25:10:93 Er ist in der Garderobe, Nummer 42.//Und du, kleine Füchsin,
+00:25:10:93 00:25:13:61 wirst mir eine Flasche Wein//aus dem Keller holen!
+00:25:15:12 00:25:20:27 Aus dem Keller?//Aber der Keller ist dunkel und-
+00:25:20:45 00:25:23:92 Lori! Lori, du hast gehört,//was er gesagt hat!
+00:25:23:96 00:25:27:82 Wenn du hier rauswillst,//dann geh und hole die Flasche!
+00:25:30:37 00:25:31:35 In Ordnung.
+00:25:32:08 00:25:35:98 Und ihr zwei helft mir hier Ordnung zu//machen, bis sie wiederkommen, klar?
+00:25:36:36 00:25:37:50 - Gut!//- In Ordnung!
+00:25:39:63 00:25:43:15 Ich bin ein kleines Frettchen,//das diese Kacke hier sauber macht
+00:25:43:33 00:25:46:91 Ich bin ein kleines Frettchen,//das diese Kacke hier sauber macht
+00:25:58:05 00:26:01:19 Hallo? Hallo?
+00:26:03:70 00:26:05:20 Hallo, bin ich hier in der Garderobe?
+00:26:05:79 00:26:07:49 JA!
+00:26:10:13 00:26:13:61 Ich suche nach einem Laborkittel//vom Ständer Nummer 42.
+00:26:13:61 00:26:15:89 Können Sie mir helfen ihn zu finden?
+00:26:16:20 00:26:17:60 NEIN!
+00:26:18:22 00:26:19:14 Warum nicht?
+00:26:19:48 00:26:22:01 WEIL DU NUN STERBEN WIRST!
+00:26:22:32 00:26:23:46 Was?
+00:26:32:15 00:26:34:47 DUUU!
+00:26:34:79 00:26:37:75 Nein! Ich will nicht sterben! Bitte!
+00:26:38:60 00:26:41:67 DUUU!
+00:26:45:84 00:26:51:49 Du bist in unser Reich eingedrungen,//und nun werden wir dich dafür bestrafen!
+00:26:52:04 00:26:53:82 Ihn dafür bestrafen!
+00:26:55:03 00:26:57:11 Wer - sind Sie?
+00:26:57:48 00:27:01:84 Wir sind die//"United Colors of Bennetton"!
+00:27:11:40 00:27:13:32 Bennetton!//Hu ha ha!
+00:27:18:24 00:27:20:15 Warte mal!
+00:27:21:18 00:27:22:22 Du bist ein Hemd!
+00:27:23:38 00:27:25:05 Äh, ja ...
+00:27:25:09 00:27:30:83 Ich bin das Hemd des großen Magiers//Ali Bek-Navi!
+00:27:31:31 00:27:35:81 Unterschätze niemals das//Hemd eines Magiers!
+00:27:35:95 00:27:38:59 Das Hemd eines Magiers!//Hu ha ha!
+00:27:42:16 00:27:46:23 Ja, du bist ein Hemd und ich//bin ein Löwe.
+00:27:46:48 00:27:49:67 Wie sollte ein Hemd einen//Löwen umbringen können?
+00:27:50:52 00:27:53:79 Ich bin seine Krawatte,//und ich werde dich erwürgen!
+00:27:56:99 00:28:02:26 Und wie willst du das anstellen?//Mich zwingen, dich umzubinden?
+00:28:04:34 00:28:05:68 Sollte er nicht eigentlich Angst haben?
+00:28:05:90 00:28:07:86 - Schnauze!//- Ja, Schnauze!
+00:28:07:90 00:28:09:04 Nicht er, du!
+00:28:09:28 00:28:11:16 - Was?//- Ach, vergiß es!
+00:28:12:17 00:28:15:93 Also, warum sollst du mich umbringen?
+00:28:16:71 00:28:20:46 Wir hängen hier seit//tausenden von Jahren.
+00:28:20:70 00:28:26:22 Unbenutzt, vergessen, verstaubt.
+00:28:26:51 00:28:29:87 Und jetzt wollen wir Rache!
+00:28:30:22 00:28:31:85 Rache!//Hu ha ha!
+00:28:33:64 00:28:35:46 Rache wofür?
+00:28:36:00 00:28:37:90 Ja, wofür?
+00:28:38:00 00:28:38:71 Hältst du jetzt die Schnauze?
+00:28:39:01 00:28:39:74 Schnauze!
+00:28:39:88 00:28:40:60 Schnauze!
+00:28:42:77 00:28:46:07 Wir hassen die Menschen!
+00:28:46:30 00:28:47:16 JA!
+00:28:47:50 00:28:51:05 Zuerst schneiden Sie unsere Formen//aus einem Stück Stoff aus
+00:28:51:17 00:28:54:26 und nähen uns mit//spitzen Nadeln zusammen!
+00:28:54:54 00:28:55:31 AUTSCH!
+00:28:55:84 00:29:01:89 Dann werfen sie uns in kochend//heißes Wasser und rühren uns um!
+00:29:02:17 00:29:07:70 Sie bleichen uns und schlagen uns,//trocknen uns mit glühend heißer Luft!
+00:29:07:92 00:29:12:61 Sie quälen uns mit heißen Eisen und//falten uns zu undenkbaren Formen,
+00:29:12:89 00:29:16:78 um uns in dunklen Schränken zu stapeln.
+00:29:18:56 00:29:20:96 Wir hassen die Menschen!
+00:29:21:56 00:29:23:61 Wir hassen die Menschen!
+00:29:24:94 00:29:29:19 Ich erinnere mich noch//an meine erste Wäsche!
+00:29:29:35 00:29:32:22 Ich konnte nicht atmen,//ich konnte mich nicht bewegen.
+00:29:32:26 00:29:36:22 Die Bleiche brannte in meinen Augen!//Und sie schleuderten mich herum ...
+00:29:36:42 00:29:39:85 und herum ...//und herum ...
+00:29:41:59 00:29:46:72 Ja, er wacht jede Nacht schreiend auf,//von fürchterlichen Alpträumen geplagt.
+00:29:48:62 00:29:52:09 Also gründete ich die//"United Colors of Bennetton",
+00:29:52:41 00:29:56:21 die Allianz gegen bösartige//Behandlung der Abendgarderobe.
+00:29:57:97 00:30:05:53 Also ... du wurdest gewaschen,//verbrüht, gebügelt und so weiter?
+00:30:06:23 00:30:06:98 Ja!
+00:30:07:80 00:30:12:23 Und das hat dich zum Anführer//des Kleiderschranks gemacht?
+00:30:12:96 00:30:13:96 Ja!
+00:30:14:30 00:30:17:45 Folgt dem Anführer!//Er ist unsere Vergangenheit,
+00:30:17:49 00:30:20:90 unsere Gegenwart, unsere Zukunft!//Hu ha ha!
+00:30:24:20 00:30:25:40 Also ...
+00:30:25:89 00:30:30:66 Warte mal ... Was ist das?//Ist das ein Preisschild?
+00:30:31:55 00:30:35:15 Oh das? Nein, das ist nur ... nichts!
+00:30:35:18 00:30:39:93 Und du hast auch noch dein Preisschild!//Ihr seid neu! Ihr beiden wurdet noch
+00:30:39:97 00:30:45:22 nie getragen, geschweige denn//gewaschen! Ihr beide lügt mich an!
+00:30:45:77 00:30:46:57 Oh oh!
+00:30:47:10 00:30:49:50 Wir wurden ... gebraucht verkauft.
+00:30:49:89 00:30:54:57 Ja, dingens ... was er meinte.
+00:30:54:82 00:30:55:63 VERRÄTER!
+00:30:55:98 00:30:56:79 VERRÄTER!
+00:30:57:12 00:30:57:85 VERRÄTER!
+00:30:58:29 00:31:01:96 Nein! Ich kann das erklären!//Nein! Nein!
+00:31:08:83 00:31:10:37 Seltsame Wesen ...
+00:31:11:37 00:31:14:01 Also ... da bist du ja! Komm mit!
+00:31:32:03 00:31:37:76 Oh nein! Es ist so gruselig, und dunkel ...
+00:31:39:26 00:31:40:54 Was hat Mutti immer gesagt?
+00:31:41:52 00:31:47:98 "Wenn du alleine im Dunkeln bist//und dich fürchtest, dann sing ein Lied."
+00:31:49:30 00:31:52:91 Aber welches Lied soll ich singen?
+00:32:02:08 00:32:08:05 Es gibt keine Zeit für uns
+00:32:09:17 00:32:14:05 Es gibt keinen Ort für uns
+00:32:15:53 00:32:23:18 Warum schickten sie mich//in dieses Gewölbe hinunter
+00:32:23:78 00:32:28:85 Um Wein für uns zu holen?
+00:32:30:84 00:32:36:74 Wir sind hier für immer gefangen
+00:32:37:48 00:32:44:31 Wir sind hier für immer gefangen
+00:32:54:19 00:33:00:95 Wir sind hier für immer verloren
+00:33:01:32 00:33:06:52 Oh - oh!
+00:33:07:25 00:33:11:39 Wir werden alle sterben!
+00:33:20:26 00:33:25:40 Nein, nein, nein das wird//mich nicht aufheitern.
+00:33:29:77 00:33:32:73 Ich muß etwas anderes zum Singen finden.
+00:33:33:07 00:33:36:00 Es ist doch nur eine kleine Welt!
+00:33:36:00 00:33:38:98 Oh nein! Stopp! Stopp!
+00:33:39:08 00:33:41:58 Es ist doch nur eine kleine Welt!
+00:33:41:88 00:33:44:00 Macht, daß es aufhört! Nein!
+00:34:00:72 00:34:04:06 Das ... das ist also der Weinkeller.
+00:34:04:57 00:34:08:69 Ich schnappe mir einfach eine Flasche//und laufe weg.
+00:34:18:91 00:34:23:24 He du! Kannst du nicht einfach klopfen,//wie jeder andere auch?
+00:34:24:46 00:34:26:29 Wer ... wer sind Sie?
+00:34:26:89 00:34:31:88 Ist das nicht offensichtlich? Ich bin//ein Flaschengeist. Nie von uns gehört?
+00:34:33:80 00:34:34:75 Nein.
+00:34:35:77 00:34:39:11 Also, wo kommst du denn her?//Aus einem Erdloch?
+00:34:41:11 00:34:45:41 Nein ... äh ... Ich komme aus Kansas.
+00:34:45:69 00:34:47:25 Naja, nahe dran.
+00:34:56:31 00:34:59:84 Ach, du mußt grad reden!//Ich kenne da jemanden,
+00:34:59:88 00:35:02:93 der sein ganzes Leben lang// in einer Flasche gesessen hat!
+00:35:03:32 00:35:07:82 Sehr komisch, sehr komisch. Diesen Witz//habe ich jetzt etwa nur 500 Mal gehört.
+00:35:09:89 00:35:11:81 - Entschuldigen Sie?//- Ja?
+00:35:12:14 00:35:14:23 Könnte ich bitte eine//Flasche Wein haben?
+00:35:14:59 00:35:17:21 Was willst du denn damit?//Nenne mir einen Grund,
+00:35:17:25 00:35:21:79 warum wir sie dir geben sollten. Dieser//Weinkeller gehört uns. Verschwinde!
+00:35:23:75 00:35:25:56 Aber die Küchenschabe braucht sie,
+00:35:26:27 00:35:29:16 damit sie uns sagen kann,//wie wir hier wieder rauskommen.
+00:35:33:64 00:35:37:89 Niemand kennt einen Weg hier raus!//Nimm mich zum Beispiel:
+00:35:38:14 00:35:42:11 Mein Arsch steckt jetzt schon seit//2000 Jahren in dieser Flasche.
+00:35:42:64 00:35:46:81 Vor 150 Jahren wurde ich auf das//andere Regal gestellt,
+00:35:47:11 00:35:49:36 und das fühlte sich für mich//wie Urlaub an!
+00:35:51:39 00:35:53:91 Ich könnte Sie hinstellen,//wo Sie wollen.
+00:35:54:39 00:35:55:99 Und was ist mit mir?
+00:35:56:13 00:35:59:45 Dieses Miststück da wurde drei Mal//in den letzten 1000 Jahren
+00:35:59:68 00:36:04:71 woanders hingestellt. Das ist mehr,//als ich mir jemals erträumen könnte.
+00:36:05:17 00:36:06:50 Wenn du ihn wegstellst,
+00:36:06:50 00:36:09:94 könntest du ihn irgendwo außerhalb//meiner Hörweite lassen?
+00:36:10:11 00:36:13:21 Also gut, also gut, also gut.//Hier ist mein Angebot:
+00:36:13:21 00:36:17:43 Du hilfst uns dabei uns zu bewegen,//und wir geben dir eine Flasche Wein.
+00:36:19:08 00:36:20:00 In Ordnung.
+00:36:24:80 00:36:29:43 Vorsicht! Paß auf! Paß auf!
+00:36:35:84 00:36:40:08 Sie hat sie ausgegossen!//Sie hat sie ausgegossen!
+00:36:48:21 00:36:51:02 Hoppla, das tut mir ja so leid!
+00:36:52:89 00:36:55:18 Ich brauche nur eine Flasche Wein.
+00:37:10:98 00:37:13:15 He, wartet!
+00:37:23:34 00:37:24:76 Ach, kommt!
+00:37:28:28 00:37:31:15 Los Leute! Einigkeit macht stark!
+00:37:48:92 00:37:52:49 Oh, vielen Dank für den Wein//und den Laborkittel.
+00:37:52:63 00:37:55:96 Jetzt bin ich wirklich bereit,//eine Geschichte zu erzählen.
+00:37:57:21 00:38:02:06 Oh! Oh ja oh ja, bitte! Erzähl uns eine//Geschichte, Onkel Küchenschabe!
+00:38:06:92 00:38:12:15 Niemand weiß, warum es diesen Ort gibt,//doch aus irgendeinem Grund ist er da.
+00:38:12:67 00:38:17:55 Dies ist das//"Opernhaus der Verfluchten".
+00:38:18:63 00:38:22:63 Vor langer Zeit gab es viele//Künstler in diesem Haus,
+00:38:22:81 00:38:24:78 die Unterhaltung jeglicher Art boten:
+00:38:25:37 00:38:28:53 Theaterstücke, Musik, Opern,//sogar Varietévorstellungen.
+00:38:29:26 00:38:31:49 Doch die guten Künstler//verließen bald das Haus
+00:38:31:59 00:38:34:14 und gingen auf die großen Bühnen,//und alles, was blieb war das,
+00:38:34:19 00:38:38:16 was ihr hier seht://Amateure, drittklassige Schauspieler,
+00:38:38:48 00:38:39:90 Musiker ohne musikalisches Gehör.
+00:38:40:43 00:38:44:16 Die Auftritte verloren an Qualität//und wurden sogar so schlecht,
+00:38:44:35 00:38:46:40 daß die Leute ihr Geld//zurückverlangten.
+00:38:46:95 00:38:50:81 Eines Tages,//aus Wut und Enttäuschung heraus,
+00:38:50:94 00:38:53:30 begann das Publikum wortwörtlich//zu randalieren.
+00:38:53:72 00:38:56:86 Sie rissen das Haus auseinander,//warfen Fensterscheiben ein,
+00:38:57:07 00:39:01:90 und plötzlich ging das Haus//in Flammen auf!
+00:39:02:58 00:39:07:20 Heillose Panik kam auf ... viele Leute//kamen an diesem Tag ums Leben.
+00:39:08:24 00:39:13:09 Bevor er starb schwor der//Intendant des Theaters einen Eid:
+00:39:13:77 00:39:17:38 Die Seelen der Künstler//sollten dazu verdammt sein
+00:39:17:78 00:39:20:74 in diesem Hause zu verweilen,//ohne ihren Frieden zu finden,
+00:39:21:10 00:39:23:68 bis sie endlich ihre Fertigkeiten//erlernt hatten und
+00:39:23:90 00:39:28:33 sich so im Reigen der wahren//Künstler bewähren würden.
+00:39:28:94 00:39:31:24 Und das Phantom? Wer ist er?
+00:39:31:64 00:39:34:18 Ich weiß es nicht.//Alles was ich weiß ist,
+00:39:34:21 00:39:36:30 daß es zu jedem Vollmond//um Mitternacht
+00:39:36:56 00:39:40:54 eine große Galavorstellung gibt// wo das Phantom alle Künstler
+00:39:40:59 00:39:42:04 ihre Fähigkeiten auf der//Bühne erproben läßt.
+00:39:42:51 00:39:45:44 Und wenn sie gut genug sind,//werden ihre Seelen Frieden finden.
+00:39:46:09 00:39:50:20 Bisher ist dies noch nie geschehen.//Anscheinend haben die Künstler noch
+00:39:50:22 00:39:52:84 viel zu lernen bevor sie diesen Ort//endlich verlassen dürfen.
+00:39:53:56 00:39:59:39 Und was ist mit uns?//Wir sind keine Künstler.
+00:39:59:78 00:40:01:87 Wie können wir hier//herauskommen?
+00:40:02:08 00:40:03:83 Niemand kennt einen Weg hinaus.
+00:40:04:24 00:40:06:69 Aber dennoch ...//einige Leute sind verschwunden,
+00:40:07:01 00:40:10:19 und man munkelt, daß sie//durch einen geheimen Korridor
+00:40:10:27 00:40:14:33 gegangen sind, versteckt im Büro von//Eric, dem bösen Geschäftsführer.
+00:40:14:64 00:40:18:12 Mit Eric hat seit langer Zeit//niemand mehr gesprochen,
+00:40:18:35 00:40:21:01 und sein Büro wird von seinen//Männern scharf bewacht,
+00:40:21:32 00:40:23:92 da er den Zorn seiner ehemaligen//Angestellten fürchtet.
+00:40:24:68 00:40:26:08 Wo ist das Büro?
+00:40:27:33 00:40:31:25 Folgt diesem Abflußrohr und biegt//an der dritten Kreuzung links ab.
+00:40:31:63 00:40:33:63 Dann geht hinauf bis ihr//zum Badezimmer kommt.
+00:40:34:05 00:40:36:14 Dort geht ihr dann rechts in den Flur.
+00:40:38:21 00:40:40:70 Oh, vielen Dank, Onkel Küchenschabe!
+00:40:41:26 00:40:43:53 Es war mir ein Vergnügen!
+00:40:48:25 00:40:49:39 Was war das?
+00:40:50:48 00:40:53:02 Oh, tut mir leid ...//das passiert mir dauernd.
+00:40:53:21 00:40:55:85 Oh, gut, alles klar. Wiedersehen!
+00:41:07:99 00:41:09:82 Bleibt auf der Stelle stehen!
+00:41:10:02 00:41:12:62 Dies ist das Büro von Eric,//dem bösen Geschäftsführer.
+00:41:12:82 00:41:14:24 Wie lautet das geheime Passwort?
+00:41:14:69 00:41:16:58 Das geheime Passwort lautet://"Fick dich!"
+00:41:16:82 00:41:19:58 Immer langsam, Kleiner.//Wir wollen dir nicht weh tun.
+00:41:19:96 00:41:21:08 Wir wollen zu Eric.
+00:41:21:94 00:41:25:04 Wie ... interessant.//Habt ihr einen Termin?
+00:41:25:49 00:41:26:17 Nein.
+00:41:26:57 00:41:29:31 Siehst du? Problem gelöst.//Auf Wiedersehen!
+00:41:38:85 00:41:42:80 Nun, so kommen wir wohl nicht weiter.//Die Jungs sehen kräftig aus.
+00:41:44:85 00:41:47:01 Also, was werden wir jetzt machen?
+00:41:48:76 00:41:53:19 Ich glaube, ich habe eine Idee!//Vertraut mir und spielt mit!
+00:41:53:57 00:41:54:47 Gut!
+00:41:55:54 00:41:56:30 He, Poke!
+00:41:56:88 00:41:57:60 Was?
+00:41:58:21 00:41:59:79 Hast du das gehört?
+00:41:59:96 00:42:01:10 Nein, was meinst du?
+00:42:01:42 00:42:04:68 Der Typ da vorne hat dich//eine Schwuchtel genannt.
+00:42:07:53 00:42:08:17 Und?
+00:42:09:15 00:42:14:21 Oh, nun, er sagte, daß du die//langweiligste, total normalste
+00:42:14:26 00:42:17:62 Schwuchtel wärst, die er je//gesehen hätte. Völlig billig.
+00:42:18:90 00:42:22:88 Was? Wer von denen hat das gesagt?//Der will wohl Ärger haben!
+00:42:23:15 00:42:24:18 Der ganz vorne.
+00:42:24:62 00:42:28:60 Und der andere sagte,//daß deine Mutter so häßlich ist,
+00:42:28:73 00:42:31:73 daß sie beim Häßlichkeitswettbewerb//mit den Worten:
+00:42:31:93 00:42:34:53 "Tut mir leid, keine Profis!"//abgelehnt wurde.
+00:42:36:62 00:42:39:06 Naja, mein Vater war blind,//es war ihm also ziemlich egal.
+00:42:41:85 00:42:46:06 Also gut, und er sagte, daß sie dich
+00:42:46:12 00:42:50:52 wohl in einen katholischen Kindergarten//gesteckt hat, weil du so brav aussiehst.
+00:42:50:57 00:42:52:88 - Was? Katholisch?//- Ja.
+00:42:52:92 00:42:54:41 - Brav?//- Richtig!
+00:42:54:90 00:42:56:45 Also denken die, ich wäre nur// ein einfacher Typ
+00:42:56:59 00:42:58:12 ... aus der Nachbarschaft?
+00:42:58:31 00:42:59:04 Ja.
+00:42:59:55 00:43:02:66 Das ist sogar ziemlich genau das,//was der dritte gesagt hat.
+00:43:04:18 00:43:06:79 Poke, wirst du das etwa//einfach so schlucken?
+00:43:07:06 00:43:09:74 Du kannst sie doch nicht so//fies zu dir sein lassen!
+00:43:13:10 00:43:18:69 Also gut, das reicht! Ich zeig's ihnen!//Ich zeig ihnen, wie harmlos ich bin!
+00:43:47:07 00:43:48:35 Autsch!
+00:43:49:57 00:43:51:83 War das harmlos genug für euch Versager?
+00:43:52:85 00:43:57:28 Wahnsinn. Also gut,//die Luft ist rein, gehen wir hinein.
+00:43:57:34 00:43:58:29 Gut.
+00:43:59:76 00:44:01:99 Netter Schlag Poke, wirklich nett.
+00:44:03:77 00:44:07:37 Also, wo ist Eric?
+00:44:12:20 00:44:15:87 Offensichtlich ist er nicht hier.//Das Büro ist verlassen.
+00:44:20:07 00:44:25:10 Da liegt ein Tagebuch auf dem//Schreibtisch. Es ist noch offen.
+00:44:26:03 00:44:27:40 Mal sehen, was drinsteht.
+00:44:29:32 00:44:31:85 23. Januar. Liebes Tagebuch:
+00:44:32:19 00:44:34:79 Ich weiß nicht, was ich machen soll.
+00:44:35:05 00:44:37:32 Was ich auch immer versuche,//um es besser zu machen,
+00:44:37:61 00:44:41:06 macht es nur noch schlimmer.//Die Leute sind wütend auf mich.
+00:44:41:34 00:44:44:74 Das ganze Haus ist verflucht//und das nur wegen mir.
+00:44:45:75 00:44:48:20 Ich habe mich hingesetzt//und darüber nachgedacht.
+00:44:48:60 00:44:51:83 Wie kam ich nur darauf,//Theatermanager zu werden?
+00:44:52:27 00:44:55:35 Ich wäre wohl besser ein Metz ...
+00:45:01:23 00:45:02:48 Ein Metz?
+00:45:03:65 00:45:05:64 Lionel, was ist ein Metz?
+00:45:05:83 00:45:07:23 Ja, klingt pervers.
+00:45:09:64 00:45:13:90 Ich vermute, er meinte "Metzger".//Aber da hört es auf.
+00:45:14:86 00:45:18:73 Das ist das letzte Wort. Danach//kommen nur noch leere Seiten.
+00:45:22:91 00:45:24:33 Sehr seltsam.
+00:45:25:66 00:45:30:06 Schaut, was ich gefunden habe!//Da ist eine Falltür unter dem Teppich!
+00:45:32:60 00:45:35:93 Das muß der geheime Gang sein,//der hier rausführt.
+00:45:36:65 00:45:38:48 Gut! Wer geht als erstes?
+00:45:39:52 00:45:41:12 Immer der der fragt.
+00:45:42:43 00:45:43:15 Na gut.
+00:45:46:41 00:45:48:65 Nun, los gehts!
+00:45:58:77 00:46:01:65 Also, das fasse ich nie wieder an!//Niemals nicht!
+00:46:03:63 00:46:08:67 Ja, Poke. Da sind wir wahrscheinlich//zum erstem Mal einer Meinung!
+00:46:10:65 00:46:14:64 Aber wir müssen durch die Falltür gehen!//Los, laßt es uns nochmal versuchen.
+00:46:15:20 00:46:16:46 Nach dir!
+00:46:18:24 00:46:19:43 Also gut.
+00:46:23:46 00:46:24:92 He, du!
+00:46:45:85 00:46:47:39 Poke, ich glaube, du hast recht.
+00:46:48:08 00:46:48:99 Siehst du?
+00:46:49:22 00:46:52:61 Oh, Mann. Es ist immer dasselbe.
+00:46:52:88 00:46:56:95 Wenn etwas funktionieren soll,//muß man es selber machen.
+00:46:58:94 00:47:00:99 Geronimo!
+00:47:04:44 00:47:09:51 Ich habe euch getäuscht!//Ihr werdet niemals hier herauskommen!
+00:47:09:72 00:47:12:45 Aber ich danke euch!//Ihr habt exakt das getan,
+00:47:12:59 00:47:17:45 was ich von euch wollte.//Und jetzt lebt wohl!
+00:47:30:79 00:47:35:86 Mann, ist das langweilig.//Da unten ist absolut nichts.
+00:47:36:25 00:47:38:01 Es ist eine Sackgasse.
+00:47:39:47 00:47:40:67 Eine Sackgasse?
+00:47:41:00 00:47:41:78 Ja.
+00:47:42:86 00:47:44:43 Kein Ausgang?
+00:47:50:45 00:47:52:19 Ach, sei still!
+00:47:52:67 00:47:54:76 Autsch!
+00:47:55:30 00:47:57:07 Danke!
+00:48:10:03 00:48:11:01 Hier lang?
+00:48:12:55 00:48:15:15 Ich denke es war dort lang.
+00:48:15:75 00:48:17:57 Nein, ich glaube wir hätten//den anderen Weg gehen sollen.
+00:48:18:78 00:48:20:03 Da bin mir nicht so sicher.
+00:48:20:79 00:48:21:91 Und was ist das hier?
+00:48:24:14 00:48:25:59 Nur ein weiterer Gang.
+00:48:26:68 00:48:27:77 Gut ...
+00:48:29:30 00:48:32:62 Oh, Himmel. Hört dieses Haus//irgendwann noch mal auf?
+00:48:33:13 00:48:35:09 Wir hätten den Weg zurück durch//die Abwasserkanäle nehmen sollen.
+00:48:35:75 00:48:37:05 Igitt.
+00:48:37:36 00:48:38:48 Nein, niemals!
+00:48:38:69 00:48:42:75 Meine Pfoten kleben und stinken noch//immer vom ersten Mal als wir dort waren.
+00:48:44:41 00:48:48:07 Nun, ich gebe es nur ungern zu,//aber es scheint so,
+00:48:48:39 00:48:49:46 als hätten wir uns verlaufen.
+00:48:50:10 00:48:52:00 Gute Arbeit, du Klugscheißer.
+00:48:52:17 00:48:55:27 Ja, als ob ich daran schuld wäre.//Und es bringt uns sicher nicht weiter
+00:48:55:32 00:48:57:67 wenn wir herumsitzen und//meckern und jammern.
+00:48:58:02 00:49:00:50 Du kannst uns keinen Vorwurf machen,//wenn wir meckern und jammern.
+00:49:00:81 00:49:03:33 Wir haben uns in einem verfluchten//Haus verlaufen und der einzige Hinweis,
+00:49:03:47 00:49:06:98 den wir hatten, war nichts weiter//als eine Geschichte.
+00:49:07:51 00:49:11:99 Wir sitzen hier fest ohne zu wissen,//wo wir sind, wohin wir gehen sollen,
+00:49:12:21 00:49:13:31 oder was wir tun sollen.
+00:49:13:16 00:49:14:62 Oder wann wir die Klappe halten sollen.
+00:49:14:68 00:49:17:81 Das mußt du gerade sagen. Wegen dir//und deinem losen Mundwerk
+00:49:17:83 00:49:20:08 haben wir mehr Probleme als//alles andere bekommen.
+00:49:20:25 00:49:23:48 Ich versuche nur einen//logischen Weg hier raus zu finden.
+00:49:23:52 00:49:25:64 Oh, einen logischen Weg.
+00:49:25:97 00:49:27:95 Du bist wirklich ein Klugscheißer!
+00:49:27:97 00:49:30:43 Also warum bringst du uns nicht//hier raus statt zu quatschen?
+00:49:30:60 00:49:32:91 Wären wir meiner Nase gefolgt,//wären wir längst zuhause.
+00:49:33:30 00:49:37:54 Oh, na klar. Zurück durch die Kanäle,//große Spürnase!
+00:49:38:03 00:49:41:07 Wartet nur, bis ich diesen//Geschichtenerzähler in meine
+00:49:41:11 00:49:45:26 Pfoten kriege!//Niemand legt sich mit Mika an!
+00:49:46:02 00:49:47:94 Oh bitte! Hör auf zu schreien!
+00:49:48:31 00:49:50:93 Muß denn alles was du tust//so aggressiv sein?
+00:49:51:16 00:49:54:72 Du bist schon so gewesen seit ... seit//ich dich das erste Mal getroffen habe,
+00:49:54:78 00:49:56:02 und das macht mich wahnsinnig!
+00:49:56:26 00:50:00:16 Oh ja, und du warst uns nebenbei//auch eine große Hilfe!
+00:50:00:24 00:50:02:77 - Gerne geschehen!//- Du bist so ein Angsthase!
+00:50:02:97 00:50:07:05 Ja! Ja ich bin ein Angsthase! Und ich//bin stolz, ein Angsthase zu sein.
+00:50:07:60 00:50:09:11 Und ich kann nichts dafür.
+00:50:09:16 00:50:11:60 Ein Angsthase zu sein ist//nicht immer was Schlechtes.
+00:50:11:64 00:50:13:54 Ich meine ... ich ...
+00:50:13:64 00:50:17:10 Wer von uns beiden hat denn die//Beulen am Kopf? Du oder ich?
+00:50:18:02 00:50:20:11 Ich bin, was ich bin.
+00:50:20:21 00:50:23:14 Ja, ich auch. Ich meine,//nicht so wie du.
+00:50:25:77 00:50:30:18 Wißt ihr ... ich denke, ihr habt recht.
+00:50:30:82 00:50:32:89 Was? Was habe ich gesagt?
+00:50:33:35 00:50:37:23 Wir sind was wir sind.//Wir sollten miteinander auskommen.
+00:50:37:56 00:50:40:19 Wir haben alle unsere//Talente und Fehler,
+00:50:40:42 00:50:43:36 und wir sollten uns deswegen//keine Vorwürfe machen. Ich meine ...
+00:50:43:62 00:50:45:20 Denkt mal an den Komiker.
+00:50:45:46 00:50:48:40 Ich bin mir ziemlich sicher, daß//selbst der einige Talente hat,
+00:50:48:50 00:50:50:61 wenn es auch nicht gerade//Witze erzählen ist.
+00:50:51:22 00:50:52:17 Ja.
+00:50:52:47 00:50:54:55 Das hast du aber sehr//diplomatisch ausgedrückt.
+00:50:54:87 00:50:55:93 Ernsthaft:
+00:50:57:17 00:51:00:89 Ich glaube, wenn man weiß,//daß man eine Sache nicht kann,
+00:51:01:11 00:51:03:52 gibt es doch immer etwas,//das man gut kann.
+00:51:03:74 00:51:05:73 Wenn man versucht etwas zu sein,//was man nicht ist,
+00:51:06:06 00:51:10:42 wird man versagen, so oder so.//Und wie es aussieht
+00:51:11:27 00:51:14:33 kennen wir unsere Talente recht gut.
+00:51:15:15 00:51:16:43 Ich verstehe.
+00:51:16:83 00:51:20:11 Zumindest unterscheidet uns das von//all den Leuten die hier leben.
+00:51:20:62 00:51:22:45 Also belassen wir es dabei.
+00:51:22:48 00:51:24:98 Ja, schaut sie euch doch einfach an://Sänger die nicht singen können,
+00:51:25:12 00:51:26:77 Schauspieler, die keine//Rolle spielen können,
+00:51:26:88 00:51:29:72 Komiker ohne irgendwelchen//Sinn für Humor! Ich meine ...
+00:51:29:76 00:51:32:21 Warum versuchen die das//trotzdem immer wieder?
+00:51:32:52 00:51:34:75 Wißt ihr noch was die//Küchenschabe gesagt hat?
+00:51:35:77 00:51:39:92 Jeden Monat gibt es eine große Show,//und sie wollen die Prüfung bestehen,
+00:51:40:30 00:51:43:00 damit sie vielleicht die Erlaubnis//bekommen, diesen Ort zu verlasen.
+00:51:43:96 00:51:49:75 Aber wie sollen wir dann rauskommen?//Müssen wir auch etwas leisten?
+00:51:50:13 00:51:52:23 Also ich hatte noch nie//Probleme mit meiner Leistung.
+00:51:52:61 00:51:54:14 Nicht einmal in der Öffentlichkeit.
+00:51:54:60 00:51:55:47 Ja ...
+00:51:56:47 00:51:59:51 Ich denke, der einzige, der uns//das beantworten kann,
+00:51:59:58 00:52:02:74 ist das Phantom selbst.//Er ist derjenige der entscheidet
+00:52:02:79 00:52:04:52 wer bleiben muß und wer gehen darf.
+00:52:04:53 00:52:06:93 Es muß einen Grund//für das alles hier geben.
+00:52:07:40 00:52:08:52 Ja, also laßt uns gehen!
+00:52:08:77 00:52:10:26 Wohin?
+00:52:11:08 00:52:12:34 Hier lang.
+00:52:12:70 00:52:13:68 Nein, da lang.
+00:52:13:77 00:52:14:93 Wie wäre es mit dem Weg zurück?
+00:52:14:94 00:52:17:75 Nein! Hört ihr mir denn//überhaupt nicht zu?
+00:52:17:75 00:52:21:94 Wir müssen herausfinden, wann die//nächste Show stattfinden wird!
+00:52:23:78 00:52:26:21 Und wie sollen wir das herausfinden?
+00:52:26:94 00:52:30:56 Oh, Poke! Wir sind in einem Opernhaus!
+00:52:30:60 00:52:33:55 Wir gehen einfach zur Auskunft//und fragen.
+00:52:34:64 00:52:36:52 Wenn die es nicht wissen,//weiß es niemand.
+00:52:36:94 00:52:40:12 Na gut. Wo gehts zur Auskunft?
+00:52:42:02 00:52:43:65 - Hier lang.//- Nein, da lang.
+00:52:43:75 00:52:44:93 - Nein!//- Doch
+00:52:45:07 00:52:46:60 - Nein!//- Aaah!
+00:52:58:67 00:53:02:94 Meine Damen und Herren!//Willkommen zu unserer monatlichen Show!
+00:53:03:14 00:53:05:20 Und wie immer haben wir//wieder eine Reihe
+00:53:05:29 00:53:09:67 atemberaubender Aufführungen für Sie!//Und wir fangen auch gleich an mit
+00:53:09:85 00:53:12:52 Ray, dem Stand-Up Comedian!
+00:53:14:44 00:53:16:72 Hallo zusammen! Kennt ihr den-
+00:53:17:82 00:53:22:75 Ah! Nein! Ah! Nein!
+00:53:31:50 00:53:34:59 Das war es von//Ray, dem Stand-Up Comedian!
+00:53:34:95 00:53:36:67 Dann vielleicht beim nächsten Mal!
+00:53:37:00 00:53:40:30 Und jetzt  heißen Sie//unseren Gastgeber willkommen!
+00:53:40:61 00:53:44:29 Der eine, der einzige, das große
+00:53:44:44 00:53:48:12 Phantom der Puppenshow!
+00:53:52:25 00:53:54:84 Willkommen meine verehrten Künstler!
+00:53:55:10 00:53:59:13 Wie jeden Monat ist dies die Nacht//des großen Wettstreits!
+00:53:59:24 00:54:04:01 Heute nacht wird entschieden,//wer bleiben wird und wer geht.
+00:54:04:10 00:54:06:93 Und daher werden wir jetzt-
+00:54:09:06 00:54:11:19 - Da ist er!//- Schnappt ihn euch!
+00:54:15:24 00:54:16:15 Nimm dies!
+00:54:19:11 00:54:20:21 Nimm das!
+00:54:20:26 00:54:21:48 Bleib unten!
+00:54:22:42 00:54:23:43 Los, komm her! Hoch mit dir!
+00:54:24:15 00:54:26:02 Nicht beißen! Nicht beißen!
+00:54:30:09 00:54:31:21 Ich hab die Tollwut, hörst du?
+00:54:35:96 00:54:38:05 Was zum Henker...!
+00:54:39:06 00:54:40:17 Du?
+00:54:40:72 00:54:42:33 Du bist das Phantom?
+00:54:42:51 00:54:45:00 Nein! Nein!
+00:54:44:94 00:54:47:79 Wer bist du? Und ...//wie kommen wir hier raus?
+00:54:47:91 00:54:51:22 Wage es nicht dich zu bewegen!//Du schuldest uns eine Erklärung!
+00:54:51:54 00:54:53:07 Ich weiß es nicht!
+00:54:54:04 00:54:55:58 Aber du bist doch der//große Zampano hier!
+00:54:55:82 00:54:58:25 Du entscheidest wer bleiben muß//und wer gehen darf.
+00:54:58:48 00:55:00:80 Du mußt doch den Weg//nach draußen kennen.
+00:55:01:12 00:55:03:04 Nein, das bin ich nicht.
+00:55:03:64 00:55:06:77 Wenn nicht du, wer dann?
+00:55:06:92 00:55:09:78 Was passiert mit den Leuten,//die den Test bestehen?
+00:55:10:27 00:55:13:38 Oh, ich weiß es nicht, wirklich!
+00:55:13:61 00:55:16:18 Manchmal verschwinden//die Leute einfach,
+00:55:16:41 00:55:18:80 ich habe keine Ahnung//wann, oder warum.
+00:55:20:80 00:55:22:76 Du weißt es nicht?
+00:55:23:96 00:55:26:82 Aber warum hast du uns das alles//durchmachen lassen?
+00:55:27:06 00:55:29:68 Warum? Und warum uns?
+00:55:30:44 00:55:34:16 Alles, was ich wollte, war von euch//zu lernen. Deswegen seid ihr hier.
+00:55:34:74 00:55:39:54 Jeder von euch hat eine spezielle Gabe.//Du, Lori warst so ängstlich,
+00:55:39:89 00:55:41:92 - Poke so brutal ...//- Arschloch.
+00:55:42:01 00:55:44:41 ... Mikas Mut war außergewöhnlich,
+00:55:44:56 00:55:47:19 und Lionel vergaß niemals,//seine Logik zu befragen.
+00:55:47:62 00:55:49:95 Ich habe euch in besondere//Situationen geführt,
+00:55:50:22 00:55:52:95 die jeden von euch dazu brachten,//seine spezielle Gabe zu zeigen,
+00:55:53:00 00:55:56:03 so wie es ein Schauspieler tun würde -//nur in Wirklichkeit.
+00:55:56:92 00:55:59:44 Ich wollte sehen, wie Gewalt aussieht.
+00:55:59:77 00:56:04:54 Ich wollte sehen, wie sich eine kluge//Person in eine Situation hineindenkt.
+00:56:04:90 00:56:08:40 Ich wollte sehen, wie man//Mut und Angst ausdrückt.
+00:56:08:81 00:56:12:63 Ein Schauspieler wie ich muß//wissen, wie man Gefühle zeigt.
+00:56:12:88 00:56:15:21 Aber du bist ein//schlechter Schauspieler.
+00:56:17:04 00:56:20:40 Ja, trampel noch drauf rum.//Natürlich bin ich das!
+00:56:20:42 00:56:22:05 Ich bin eine Küchenschabe!
+00:56:22:08 00:56:25:29 Wie ausdrucksvoll kann man//mit einem Exoskelett schon sein?
+00:56:31:03 00:56:32:71 Wenn du das doch alles weißt,
+00:56:33:11 00:56:35:53 warum versuchst du dann immer noch,//ein Schauspieler zu sein?
+00:56:35:68 00:56:37:80 Weil es meine Bestimmung ist.
+00:56:38:82 00:56:41:31 Ich stamme aus einer Schauspielerfamilie,
+00:56:41:66 00:56:44:32 also sollte ich auch Schauspieler werden.
+00:56:44:90 00:56:46:54 Aber ich bin ein Versager!
+00:56:46:88 00:56:49:82 So wie alle anderen hier in//diesem beschissenen Haus!
+00:56:50:15 00:56:52:95 Ich habe keine Talente!//Ich bin wertlos!
+00:56:55:59 00:57:00:94 Nein, nein! Nein!//Du bist nicht wertlos, niemand ist das.
+00:57:01:73 00:57:03:55 Und du bist talentiert!
+00:57:03:95 00:57:05:94 Ohne ein ganz bestimmtes Talent
+00:57:06:28 00:57:08:52 hättest du uns niemals aufs//Glatteis führen können.
+00:57:08:89 00:57:10:69 Und welches soll das sein?
+00:57:11:12 00:57:14:61 Ich denke du bist ein//fantastischer Geschichtenerzähler.
+00:57:15:57 00:57:18:17 Als du uns die Geschichte vom//verfluchten Opernhaus erzählt hast,
+00:57:18:39 00:57:21:16 waren wir alle still und haben//bis zum Schluß zugehört.
+00:57:21:64 00:57:23:60 Diese Gabe haben nicht viele Leute.
+00:57:24:10 00:57:25:87 Das könntest du zu deinem neuen Beruf machen.
+00:57:28:02 00:57:29:33 Glaubst du wirklich?
+00:57:29:52 00:57:30:12 Ja.
+00:57:31:34 00:57:34:20 Um ehrlich zu sein, habe ich schon//immer gerne Geschichten erzählt.
+00:57:34:87 00:57:41:02 Es fing an, als ich ein kleiner Junge//war. Ich erfand Welten und Leute und-
+00:57:41:42 00:57:43:35 Entschuldige, daß ich dich unterbreche,
+00:57:43:39 00:57:46:54 aber wir haben gerade keine Zeit für//eine weitere Geschichte.
+00:57:47:78 00:57:49:48 Oh, vielleicht habt ihr recht.
+00:57:49:52 00:57:51:72 Ich sollte aufhören zu versuchen,//ein Schauspieler zu werden.
+00:57:52:13 00:57:56:02 Vielleicht sollte ich die Leute mit// meinen Geschichten unterhalten. Ich ...
+00:58:01:16 00:58:02:42 Ja!
+00:58:04:74 00:58:06:28 Es hat funktioniert!
+00:58:16:55 00:58:22:78 Ich bin ein echter Geschichtenerzähler!//Es ist wunderbar! Juchu!
+00:58:33:98 00:58:35:73 Wo ist er hin?
+00:58:38:59 00:58:40:08 Er ist weg.
+00:58:41:06 00:58:42:89 Erinnert ihr euch an den letzten Satz
+00:58:43:17 00:58:45:63 im Tagebuch von Eric,//dem bösen Geschäftsführer?
+00:58:46:03 00:58:48:94 Da wars genau dasselbe.//Er hat ebenfalls eingesehen,
+00:58:49:08 00:58:52:82 was seine wahren Talente waren und -//puff! - war er verschwunden!
+00:58:54:37 00:58:58:77 Ja! Ja! Das ist es!//So kommen die Leute weg von hier!
+00:58:58:97 00:59:02:72 Jetzt müssen wir es ihnen allen nur//noch sagen, und sie werden frei sein!
+00:59:02:88 00:59:05:46 Nun, in Ordnung. Legen wir los!
+00:59:11:13 00:59:12:13 Ist das Ding hier an?
+00:59:15:45 00:59:18:01 Wir sind so froh, daß so viele nette//Leute heute abend hier sind,
+00:59:18:05 00:59:20:47 und wir heißen ganz besonders//alle Vertreter der
+00:59:20:51 00:59:22:80 Eurofurence-Gemeinschaft willkommen,// die hier und heute zu uns
+00:59:22:84 00:59:24:86 ins verwunschene Opernhaus//gekommen sind.
+00:59:24:97 00:59:28:13 Wir hoffen sehr, daß euch allen die Show//gefällt, und denkt immer daran, Leute:
+00:59:28:34 00:59:31:05 Egal wer ihr seid und was ihr tut//um zu Leben, zu Streben
+00:59:31:25 00:59:34:45 und zu Überleben, es gibt eine Sache,//die ihr niemals vergessen dürft:
+00:59:34:66 00:59:39:33 Ihr müßt immer wissen wer ihr seid!//Also sagt mir, wißt ihr wer ihr seid?
+00:59:39:57 00:59:40:45 NEIN!
+00:59:40:77 00:59:42:36 Ihr wißt wirklich nicht, wer ihr seid?
+00:59:42:67 00:59:43:73 NEIN!
+00:59:43:88 00:59:44:96 Dann sage ich euch:
+00:59:45:00 00:59:47:59 Es gibt nur einen Weg,//diesen jämmerlichen Ort zu verlassen!
+00:59:47:67 00:59:49:24 Hört auf, etwas zu sein,//was ihr nicht seid!
+00:59:49:33 00:59:51:97 Fangt an zu sein, was ihr seid!//Seid nichts anderes!
+00:59:52:22 00:59:52:90 HÄ?
+00:59:53:18 00:59:54:84 Jeder von euch
+00:59:55:51 00:59:57:25 Sei jemand
+00:59:58:00 01:00:00:05 Jeder von euch
+01:00:00:47 01:00:02:01 Sei jemand
+01:00:02:27 01:00:03:35 Anderes
+01:00:04:39 01:00:05:33 Jemand anderes
+01:00:06:86 01:00:08:09 Seid nicht dies
+01:00:09:13 01:00:10:48 Das ist sonnenklar
+01:00:11:74 01:00:13:83 Sei du selbst, selbst, selbst
+01:00:14:24 01:00:16:42 Sei du selbst, selbst, selbst
+01:00:16:70 01:00:18:82 Sei du selbst, selbst, selbst
+01:00:19:14 01:00:21:54 Sei du selbst, selbst, selbst
+01:00:23:07 01:00:27:90 Juhu! Mika, Lori, Lionel!//Das macht Laune!
+01:00:28:84 01:00:30:42 Kommt schon!
+01:00:31:89 01:00:33:84 Macht mit!
+01:00:37:39 01:00:39:54 Und jetzt ein anderes Lied!
+01:00:39:60 01:00:41:86 Eins! Zwei! Drei! Vier!
+01:00:42:11 01:00:43:00 Auf diese Art
+01:00:44:15 01:00:45:11 Mag ich es
+01:00:46:44 01:00:47:42 Auf diese Art
+01:00:48:44 01:00:49:53 Mag ich es
+01:00:50:80 01:00:51:86 Auf diese Art
+01:00:52:76 01:00:53:88 Mag ich es
+01:00:55:35 01:00:57:09 Auf diese Art
+01:00:57:48 01:00:59:15 Ja, und noch einer!
+01:00:59:72 01:01:03:37 Ich sitze allein an der Hotelbar
+01:01:03:99 01:01:07:54 Kein Stück nacktes Fleisch bisher
+01:01:07:85 01:01:11:02 Dann nahm ich ein weiteres Magazin
+01:01:11:70 01:01:15:31 Und mein Herz begann zu rasen
+01:01:15:71 01:01:18:64 Pornos in den USA
+01:01:19:57 01:01:23:11 Pornos in den USA
+01:01:23:30 01:01:26:36 Pornos in den USA
+01:01:27:41 01:01:30:58 Pornos in den USA
+01:01:34:31 01:01:36:04 Ich bin der schärfste Typ der Stadt
+01:01:36:21 01:01:37:93 doch ich finde niemanden zum
+01:01:38:00 01:01:39:72 flach-le-gen
+01:01:41:27 01:01:43:17 Also muß ich meinen Drang irgendwie
+01:01:43:34 01:01:45:00 von Hand befriedigen bevor es zu
+01:01:45:27 01:01:46:73 spät ist
+01:01:48:25 01:01:49:53 Ich brauche Pornos
+01:01:50:57 01:01:53:03 Pornos - Pornos zum Leben
+01:01:53:31 01:01:55:20 Pornos zum Leben
+01:01:55:51 01:01:57:25 Ich brauche Pornos
+01:01:57:73 01:01:58:89 Pornos
+01:01:59:61 01:02:00:57 Pornos
+01:02:03:23 01:02:10:08 Wir yiffen alle im gelben U-Boot
+01:02:10:43 01:02:16:99 Wir yiffen alle im gelben U-Boot
+01:02:17:00 01:02:19:59 Poke? Poke! Das genügt!
+01:02:19:68 01:02:21:63 Und du hast es wieder einmal//nicht verstanden.
+01:02:21:71 01:02:27:01 Das hier ist das Finale. Ein Finale//soll edel und spektakulär sein.
+01:02:27:25 01:02:30:41 Und alles was dir einfällt ist über//Pornos und Yiffen zu singen.
+01:02:30:64 01:02:33:47 Haltet die Musik an!//Haltet die Musik an!
+01:02:34:15 01:02:38:09 Seid still und laßt mich euch zeigen,//wie man das macht.
+01:02:40:40 01:02:43:40 Es war nicht leicht
+01:02:43:68 01:02:48:01 Doch es scheint so
+01:02:48:29 01:02:54:87 Daß unsere Anstrengungnen//sich gelohnt haben
+01:02:55:28 01:02:58:38 Wir haben es geschafft
+01:02:58:61 01:03:02:60 Die verlorenen Seelen zu befreien
+01:03:03:15 01:03:08:53 Jetzt können wir nach Hause gehen
+01:03:09:05 01:03:11:38 Zurück zu unseren Freunden
+01:03:11:75 01:03:16:89 Die wir so lange vermißt haben
+01:03:17:29 01:03:21:84 Nach Hause.
+01:03:22:52 01:03:24:73 Oh Poke, ist das nicht schön?
+01:03:24:81 01:03:26:52 Ich bin so froh,//daß wir es geschafft haben!
+01:03:27:08 01:03:31:81 Weine nicht um sie, Furry Fandom!
+01:03:32:83 01:03:38:08 Die Wahrheit ist,//sie hat dich nie geliebt
+01:03:39:24 01:03:45:20 Mit all deinen Perversen
+01:03:45:66 01:03:48:27 Und all den Fanboys
+01:03:48:60 01:03:51:61 Und all den Flamewars
+01:03:52:08 01:03:55:32 Sie mochte dich noch nie
+01:03:56:10 01:03:59:60 Poke, das ist nicht wahr!//Was werden die Nachbarn denken?
+01:04:00:04 01:04:03:85 Poke, komm zurück!//Poke!
+01:04:18:01 01:04:23:84 Schaut euch das an!//Sie sind alle fort! Alles freie Seelen!
+01:04:24:03 01:04:24:81 Leute?
+01:04:25:53 01:04:27:67 Ja, große Klasse! Sie sind alle//nach Hause abgezischt,
+01:04:27:67 01:04:29:08 und wir hängen hier immer noch fest.
+01:04:29:37 01:04:30:00 Leute?
+01:04:30:02 01:04:32:66 Ja, wie wir nun selber//hier herauskommen,
+01:04:32:78 01:04:35:07 haben wir als einziges//nicht herausgefunden.
+01:04:35:05 01:04:35:88 Leute!
+01:04:37:08 01:04:38:68 Also, was sollen wir tun?
+01:04:38:91 01:04:40:01 Aber ... aber wir-
+01:04:40:04 01:04:41:33 Nun, eine der wichtigsten Sachen,//die man tun sollte,
+01:04:41:38 01:04:44:62 wenn man irgendwo festsitzt ist://Sex haben.
+01:04:45:78 01:04:48:04 Immerhin könnte das//deine letzte Chance sein.
+01:04:48:62 01:04:50:42 - Leute!//- Netter Versuch, Poke.
+01:04:50:52 01:04:51:96 He, Leute!
+01:04:52:13 01:04:54:33 Was ist los, Lori?
+01:04:55:62 01:04:56:96 Die Tür ist wieder da!
+01:05:05:97 01:05:07:19 Was?
+01:05:09:37 01:05:13:91 Also ... Na dann, laßt uns abhauen!
+01:05:14:96 01:05:15:99 Endlich!
+01:05:16:25 01:05:17:51 - Ja!//- Endlich!
+01:05:17:55 01:05:18:79 Gott sei Dank!
+01:05:19:82 01:05:22:82 He, schaut! Ich hab noch einen//Knopf gefunden!
+01:05:23:27 01:05:24:04 Nein!
+01:05:24:51 01:05:27:27 Poke! Denk nicht einmal daran!
+01:05:27:61 01:05:28:09 Er ist rot.
+01:05:28:26 01:05:30:91 Es ist ein roter Knopf und//der ist sicher aus gutem Grund rot!
+01:05:31:17 01:05:32:80 Nein! Poke!
+01:05:32:89 01:05:33:66 Roter Knopf!
+01:05:33:70 01:05:36:34 - Muß roten Knopf drücken!//- Nein! Nein!
+01:05:41:70 01:05:42:72 Au weia ...
+01:05:43:51 01:05:45:27 Hab ichs kaputtgemacht?
+01:05:52:09 01:05:55:42 - Was zur Hölle passiert hier?//- Au weia ...
+01:06:17:65 01:06:28:15 Ende
