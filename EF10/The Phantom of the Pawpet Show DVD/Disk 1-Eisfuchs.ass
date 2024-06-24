@@ -1,0 +1,1454 @@
+[Script Info]
+; This script was created by subtitleeditor (0.30.0)
+; http://home.gna.org/subtitleeditor/
+Collisions: Normal
+ScriptType: V4.00+
+Timer: 100
+Title: Untitled
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Sans,18,&H00FFFFFF,&H0000FFFF,&H000078B4,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:19.78,0:00:21.44,Default,,0000,0000,0000,,Lonely.
+Dialogue: 0,0:00:24.48,0:00:26.58,Default,,0000,0000,0000,,I feel so lonely.
+Dialogue: 0,0:00:28.09,0:00:32.35,Default,,0000,0000,0000,,Days, years, centuries.
+Dialogue: 0,0:00:33.41,0:00:35.96,Default,,0000,0000,0000,,I've been waiting for so long ...
+Dialogue: 0,0:00:36.03,0:00:38.51,Default,,0000,0000,0000,,that time has become indifferent to me
+Dialogue: 0,0:00:39.65,0:00:41.70,Default,,0000,0000,0000,,All that still warms my heart ...
+Dialogue: 0,0:00:42.02,0:00:45.82,Default,,0000,0000,0000,,are memories of days that long passed.
+Dialogue: 0,0:00:45.98,0:00:49.73,Default,,0000,0000,0000,,The days when I used to bring\njoy and happiness to the world
+Dialogue: 0,0:00:50.35,0:00:52.65,Default,,0000,0000,0000,,Why do they no longer call me?
+Dialogue: 0,0:00:53.23,0:00:54.87,Default,,0000,0000,0000,,Do they no longer need me?
+Dialogue: 0,0:00:55.61,0:00:57.55,Default,,0000,0000,0000,,Do they no longer want me?
+Dialogue: 0,0:00:58.63,0:01:02.11,Default,,0000,0000,0000,,What a cold, cruel place\nthe world must have become.
+Dialogue: 0,0:01:02.84,0:01:05.16,Default,,0000,0000,0000,,What new age is dawning ...
+Dialogue: 0,0:01:05.48,0:01:08.03,Default,,0000,0000,0000,,now the age of song\nseems to have ended?
+Dialogue: 0,0:01:08.90,0:01:10.79,Default,,0000,0000,0000,,Is this my end?
+Dialogue: 0,0:01:11.72,0:01:12.59,Default,,0000,0000,0000,,Lonely.
+Dialogue: 0,0:01:13.28,0:01:15.70,Default,,0000,0000,0000,,I feel so lonely.
+Dialogue: 0,0:01:16.40,0:01:18.97,Default,,0000,0000,0000,,I want to sing!\nI want to dance!
+Dialogue: 0,0:01:19.46,0:01:23.30,Default,,0000,0000,0000,,I want to ... no!\nI must be free!
+Dialogue: 0,0:01:23.31,0:01:24.80,Default,,0000,0000,0000,,Oh, mortals!
+Dialogue: 0,0:01:25.21,0:01:28.37,Default,,0000,0000,0000,,Unlock the gate and let me free!
+Dialogue: 0,0:01:28.61,0:01:29.84,Default,,0000,0000,0000,,Please!
+Dialogue: 0,0:01:29.95,0:01:31.93,Default,,0000,0000,0000,,Don't let me be forgotten!
+Dialogue: 0,0:01:46.11,0:01:49.00,Default,,0000,0000,0000,,Is everyone ready?\nDoes everybody have a drink?
+Dialogue: 0,0:01:49.09,0:01:50.72,Default,,0000,0000,0000,,- Yes!\N- Sure!
+Dialogue: 0,0:01:51.08,0:01:53.85,Default,,0000,0000,0000,,Switch the lights off!\nSwitch the lights off!
+Dialogue: 0,0:01:54.79,0:01:57.98,Default,,0000,0000,0000,,- Wait, is the CD in the player?\N- Way ahead of you!
+Dialogue: 0,0:02:01.33,0:02:02.61,Default,,0000,0000,0000,,Quick, quick!
+Dialogue: 0,0:02:02.99,0:02:05.90,Default,,0000,0000,0000,,He could be here any minute!
+Dialogue: 0,0:02:06.12,0:02:07.94,Default,,0000,0000,0000,,Where is the Mountain Dew?
+Dialogue: 0,0:02:08.35,0:02:10.22,Default,,0000,0000,0000,,It's in the fridge.
+Dialogue: 0,0:02:13.32,0:02:15.27,Default,,0000,0000,0000,,Shh! Shh! I think he's coming!
+Dialogue: 0,0:02:15.49,0:02:18.49,Default,,0000,0000,0000,,- How old is he getting anyway?\N- Shh! Quiet!
+Dialogue: 0,0:02:21.70,0:02:24.15,Default,,0000,0000,0000,,Hello? Hello?
+Dialogue: 0,0:02:24.59,0:02:25.97,Default,,0000,0000,0000,,Is anybody home?
+Dialogue: 0,0:02:26.23,0:02:27.62,Default,,0000,0000,0000,,Why are the lights out?
+Dialogue: 0,0:02:30.66,0:02:34.40,Default,,0000,0000,0000,,Ouch! Uh! What the ...?\nWho left this ... Uh ...
+Dialogue: 0,0:02:34.87,0:02:36.38,Default,,0000,0000,0000,,What was this?
+Dialogue: 0,0:02:37.39,0:02:40.69,Default,,0000,0000,0000,,Happy Birthday to you!
+Dialogue: 0,0:02:40.81,0:02:43.54,Default,,0000,0000,0000,,Happy Birthday to you!
+Dialogue: 0,0:02:43.70,0:02:46.94,Default,,0000,0000,0000,,Happy Birthday, dear Lionel!
+Dialogue: 0,0:02:47.03,0:02:50.41,Default,,0000,0000,0000,,Happy Birthday to you!
+Dialogue: 0,0:02:50.81,0:02:52.74,Default,,0000,0000,0000,,Happy Birthday, Lionel!
+Dialogue: 0,0:02:53.24,0:02:54.29,Default,,0000,0000,0000,,Wow!
+Dialogue: 0,0:02:56.02,0:03:00.57,Default,,0000,0000,0000,,Wow, you guys are throwing a\nsurprise party! Just for me?
+Dialogue: 0,0:03:00.96,0:03:02.55,Default,,0000,0000,0000,,Aww ... you shouldn't have.
+Dialogue: 0,0:03:02.82,0:03:05.23,Default,,0000,0000,0000,,I don't know what to say, I ... I ...
+Dialogue: 0,0:03:05.48,0:03:06.63,Default,,0000,0000,0000,,Congratulations, Lionel!
+Dialogue: 0,0:03:06.63,0:03:07.55,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:03:07.58,0:03:09.36,Default,,0000,0000,0000,,Yeah, congratulations!
+Dialogue: 0,0:03:09.56,0:03:10.23,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,0:03:11.23,0:03:12.37,Default,,0000,0000,0000,,Thank you very much!
+Dialogue: 0,0:03:13.01,0:03:14.09,Default,,0000,0000,0000,,Who arranged all this?
+Dialogue: 0,0:03:14.52,0:03:15.69,Default,,0000,0000,0000,,Oh, it was Lori's idea.
+Dialogue: 0,0:03:17.23,0:03:18.73,Default,,0000,0000,0000,,I hope you like it.
+Dialogue: 0,0:03:18.91,0:03:20.79,Default,,0000,0000,0000,,Yes, Lori, it's wonderful!
+Dialogue: 0,0:03:21.23,0:03:22.16,Default,,0000,0000,0000,,But where is Poke?
+Dialogue: 0,0:03:22.75,0:03:24.62,Default,,0000,0000,0000,,Did he forget my birthday again?
+Dialogue: 0,0:03:25.85,0:03:29.14,Default,,0000,0000,0000,,Oh, this is a party.\nOf course he's going to come!
+Dialogue: 0,0:03:29.65,0:03:31.89,Default,,0000,0000,0000,,He said he's going to be\na little late, though.
+Dialogue: 0,0:03:32.30,0:03:33.48,Default,,0000,0000,0000,,Ah, okay.
+Dialogue: 0,0:03:33.88,0:03:36.55,Default,,0000,0000,0000,,So, who wants to have some fun?
+Dialogue: 0,0:03:36.82,0:03:39.55,Default,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:03:55.24,0:03:58.54,Default,,0000,0000,0000,,Hey, turn the music down, please!\nI got a phone call!
+Dialogue: 0,0:04:01.42,0:04:03.83,Default,,0000,0000,0000,,Uh, guys? This could be important!\nPlease!
+Dialogue: 0,0:04:06.68,0:04:07.88,Default,,0000,0000,0000,,Hello?
+Dialogue: 0,0:04:08.75,0:04:09.66,Default,,0000,0000,0000,,Yes?
+Dialogue: 0,0:04:10.48,0:04:11.66,Default,,0000,0000,0000,,Yes, that's me!
+Dialogue: 0,0:04:15.42,0:04:16.53,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:04:17.11,0:04:19.47,Default,,0000,0000,0000,,Do you ... I ...
+Dialogue: 0,0:04:19.83,0:04:21.19,Default,,0000,0000,0000,,Oh, shit!
+Dialogue: 0,0:04:21.60,0:04:23.11,Default,,0000,0000,0000,,Yes, yes, I understand.
+Dialogue: 0,0:04:23.83,0:04:24.51,Default,,0000,0000,0000,,Where?
+Dialogue: 0,0:04:25.74,0:04:27.42,Default,,0000,0000,0000,,The museum of - what?
+Dialogue: 0,0:04:28.56,0:04:30.64,Default,,0000,0000,0000,,I'm sorry, I'm still a bit ...
+Dialogue: 0,0:04:31.33,0:04:32.55,Default,,0000,0000,0000,,Can I call you back?
+Dialogue: 0,0:04:32.87,0:04:33.71,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:04:34.00,0:04:36.37,Default,,0000,0000,0000,,Yes, I'll see into it. Goodbye!
+Dialogue: 0,0:04:40.28,0:04:42.80,Default,,0000,0000,0000,,Lionel ... what's up with you?
+Dialogue: 0,0:04:43.36,0:04:45.85,Default,,0000,0000,0000,,Yes. Yes, you sound like,
+Dialogue: 0,0:04:45.86,0:04:47.68,Default,,0000,0000,0000,,there's something wrong.
+Dialogue: 0,0:04:48.19,0:04:51.40,Default,,0000,0000,0000,,Yes, Lori. Actually there is.
+Dialogue: 0,0:04:51.77,0:04:53.91,Default,,0000,0000,0000,,I've just been informed that my ...
+Dialogue: 0,0:04:54.01,0:04:56.15,Default,,0000,0000,0000,,father has passed away last night.
+Dialogue: 0,0:04:58.06,0:05:01.16,Default,,0000,0000,0000,,Oh Lionel! I'm so sorry!
+Dialogue: 0,0:05:01.86,0:05:04.97,Default,,0000,0000,0000,,If ... If there's anything I can do ...
+Dialogue: 0,0:05:05.53,0:05:07.73,Default,,0000,0000,0000,,N-No. No thank you. Thank you.
+Dialogue: 0,0:05:07.80,0:05:09.01,Default,,0000,0000,0000,,It's alright.
+Dialogue: 0,0:05:09.07,0:05:11.87,Default,,0000,0000,0000,,It just took me a bit by surprise.\nDon't worry.
+Dialogue: 0,0:05:12.62,0:05:18.15,Default,,0000,0000,0000,,Lionel ... I don't know what to say.\nI'm so sorry! I ...
+Dialogue: 0,0:05:20.30,0:05:22.98,Default,,0000,0000,0000,,Happy Birthday to you!
+Dialogue: 0,0:05:23.49,0:05:25.97,Default,,0000,0000,0000,,Happy Birthday to you!
+Dialogue: 0,0:05:26.43,0:05:30.99,Default,,0000,0000,0000,,Happy Birthday!\nHappy Birthday to you!
+Dialogue: 0,0:05:30.99,0:05:31.88,Default,,0000,0000,0000,,Hey!
+Dialogue: 0,0:05:32.98,0:05:35.81,Default,,0000,0000,0000,,Lionel! You da man!
+Dialogue: 0,0:05:35.90,0:05:38.84,Default,,0000,0000,0000,,One year more and you still\nlook beau-ti-ful!
+Dialogue: 0,0:05:39.20,0:05:42.03,Default,,0000,0000,0000,,Look!\nI just stole those flowers for you!
+Dialogue: 0,0:05:43.52,0:05:45.02,Default,,0000,0000,0000,,Poke! Poke, shut up!
+Dialogue: 0,0:05:45.30,0:05:47.49,Default,,0000,0000,0000,,Oh, Lori! What's up with you?
+Dialogue: 0,0:05:47.60,0:05:51.07,Default,,0000,0000,0000,,This is his birthday party,\nnot a funeral, you know?
+Dialogue: 0,0:05:51.07,0:05:52.53,Default,,0000,0000,0000,,Par-ty!
+Dialogue: 0,0:05:53.17,0:05:55.37,Default,,0000,0000,0000,,I know this whole concept is\nnew to you, but ...
+Dialogue: 0,0:05:55.37,0:05:56.80,Default,,0000,0000,0000,,Oh, cut it out!
+Dialogue: 0,0:05:58.04,0:06:00.18,Default,,0000,0000,0000,,Alright. What's wrong?
+Dialogue: 0,0:06:00.55,0:06:02.44,Default,,0000,0000,0000,,Lionel's father is dead.
+Dialogue: 0,0:06:04.53,0:06:06.76,Default,,0000,0000,0000,,What do you mean, "dead"?
+Dialogue: 0,0:06:06.86,0:06:09.09,Default,,0000,0000,0000,,When did that happen? And how?
+Dialogue: 0,0:06:09.45,0:06:11.02,Default,,0000,0000,0000,,I just got a phone call.
+Dialogue: 0,0:06:11.35,0:06:13.55,Default,,0000,0000,0000,,He passed away in his sleep last night.
+Dialogue: 0,0:06:15.58,0:06:19.08,Default,,0000,0000,0000,,I'm sorry folks. The party is over.
+Dialogue: 0,0:06:19.33,0:06:20.72,Default,,0000,0000,0000,,Thank you all for coming but ...
+Dialogue: 0,0:06:21.02,0:06:23.18,Default,,0000,0000,0000,,I think Lionel wants to be alone now.
+Dialogue: 0,0:06:23.46,0:06:25.07,Default,,0000,0000,0000,,Aww ...
+Dialogue: 0,0:06:25.13,0:06:28.28,Default,,0000,0000,0000,,- Bye! -Bye!\N- See you guys!
+Dialogue: 0,0:06:32.47,0:06:33.29,Default,,0000,0000,0000,,So ...
+Dialogue: 0,0:06:35.57,0:06:36.39,Default,,0000,0000,0000,,So ...
+Dialogue: 0,0:06:47.94,0:06:51.41,Default,,0000,0000,0000,,So the old fart has\nfinally hit the bucket!
+Dialogue: 0,0:06:52.37,0:06:54.20,Default,,0000,0000,0000,,But life goes on!
+Dialogue: 0,0:06:54.29,0:06:55.78,Default,,0000,0000,0000,,It's still my birthday.
+Dialogue: 0,0:06:55.85,0:06:59.10,Default,,0000,0000,0000,,and I'd really like to celebrate\nwith you guys and ...
+Dialogue: 0,0:06:59.98,0:07:00.93,Default,,0000,0000,0000,,Oh, dear.
+Dialogue: 0,0:07:01.23,0:07:03.90,Default,,0000,0000,0000,,I should have kept my mouth shut,\nshouldn't I?
+Dialogue: 0,0:07:03.98,0:07:06.11,Default,,0000,0000,0000,,Lionel, I'm shocked!
+Dialogue: 0,0:07:06.21,0:07:09.09,Default,,0000,0000,0000,,Why are you talking about him\nlike that?
+Dialogue: 0,0:07:09.09,0:07:12.44,Default,,0000,0000,0000,,Yes! You almost sound like\nyou don't care he's dead.
+Dialogue: 0,0:07:13.49,0:07:16.09,Default,,0000,0000,0000,,No, it's not that it's just ...
+Dialogue: 0,0:07:16.83,0:07:19.06,Default,,0000,0000,0000,,Frankly, I don't miss him that much.
+Dialogue: 0,0:07:19.17,0:07:20.67,Default,,0000,0000,0000,, I haven't heard anything from him ...
+Dialogue: 0,0:07:20.67,0:07:23.10,Default,,0000,0000,0000,,since he left more than ten years ago.
+Dialogue: 0,0:07:23.29,0:07:25.04,Default,,0000,0000,0000,,But he's family!
+Dialogue: 0,0:07:25.19,0:07:27.30,Default,,0000,0000,0000,,What's been going on\nbetween you and him?
+Dialogue: 0,0:07:27.30,0:07:29.85,Default,,0000,0000,0000,,Nothing! That's exactly the problem!
+Dialogue: 0,0:07:30.21,0:07:31.68,Default,,0000,0000,0000,,Nothing has been going on.
+Dialogue: 0,0:07:31.98,0:07:33.55,Default,,0000,0000,0000,,He decided to leave me behind ...
+Dialogue: 0,0:07:33.55,0:07:35.78,Default,,0000,0000,0000,,and chase his stupid fantasies instead.
+Dialogue: 0,0:07:35.95,0:07:38.72,Default,,0000,0000,0000,,And I had to find a place\nto live for myself.
+Dialogue: 0,0:07:38.96,0:07:40.89,Default,,0000,0000,0000,,And believe me, that wasn't easy ...
+Dialogue: 0,0:07:40.89,0:07:42.68,Default,,0000,0000,0000,,since he didn't leave me any money.
+Dialogue: 0,0:07:42.82,0:07:45.41,Default,,0000,0000,0000,,And everything else he owned, he sold!
+Dialogue: 0,0:07:45.41,0:07:46.66,Default,,0000,0000,0000,,That's hard to believe.
+Dialogue: 0,0:07:46.66,0:07:49.15,Default,,0000,0000,0000,,Yes. Uh, why did he go?
+Dialogue: 0,0:07:49.71,0:07:51.11,Default,,0000,0000,0000,,I don't know ...
+Dialogue: 0,0:07:51.16,0:07:53.69,Default,,0000,0000,0000,,He told me I would understand\nsome day but...
+Dialogue: 0,0:07:53.69,0:07:55.06,Default,,0000,0000,0000,,that day hasn't come yet.
+Dialogue: 0,0:07:55.38,0:07:57.66,Default,,0000,0000,0000,,And now that he's dead\nit's probably too late.
+Dialogue: 0,0:07:58.32,0:08:01.91,Default,,0000,0000,0000,,I could have been the son of a\nfamous musician but ... No!
+Dialogue: 0,0:08:01.91,0:08:04.30,Default,,0000,0000,0000,,He prefered digging in the dirt instead!
+Dialogue: 0,0:08:04.25,0:08:06.19,Default,,0000,0000,0000,,In the dirt?
+Dialogue: 0,0:08:06.19,0:08:07.66,Default,,0000,0000,0000,,A musician?
+Dialogue: 0,0:08:07.72,0:08:09.40,Default,,0000,0000,0000,,What was your father's job?
+Dialogue: 0,0:08:10.45,0:08:12.24,Default,,0000,0000,0000,,He was a singer and a songwriter.
+Dialogue: 0,0:08:12.34,0:08:14.12,Default,,0000,0000,0000,,And he was doing really well!
+Dialogue: 0,0:08:14.44,0:08:17.49,Default,,0000,0000,0000,,I swear, he was that close\nto his breakthrough!
+Dialogue: 0,0:08:17.78,0:08:19.89,Default,,0000,0000,0000,,His songs were playing on all stations!
+Dialogue: 0,0:08:19.89,0:08:22.47,Default,,0000,0000,0000,,He was just about to sign\nthe big contract ...
+Dialogue: 0,0:08:22.72,0:08:23.68,Default,,0000,0000,0000,,And then he quit!
+Dialogue: 0,0:08:24.14,0:08:25.72,Default,,0000,0000,0000,,He decided to become ...
+Dialogue: 0,0:08:25.72,0:08:27.28,Default,,0000,0000,0000,,an archaeologist!
+Dialogue: 0,0:08:27.48,0:08:29.57,Default,,0000,0000,0000,,Got that? An archaeologist!
+Dialogue: 0,0:08:29.87,0:08:32.32,Default,,0000,0000,0000,,That must have been the\nsingle most stupid decision ...
+Dialogue: 0,0:08:32.32,0:08:33.47,Default,,0000,0000,0000,,ever made on earth!
+Dialogue: 0,0:08:33.72,0:08:37.67,Default,,0000,0000,0000,,He threw away a perfect carrer\nout of pure selfishness!
+Dialogue: 0,0:08:38.06,0:08:40.86,Default,,0000,0000,0000,,He didn't care the slightest bit\nabout the consequences ...
+Dialogue: 0,0:08:40.86,0:08:42.69,Default,,0000,0000,0000,,I had to face!
+Dialogue: 0,0:08:43.73,0:08:45.99,Default,,0000,0000,0000,,And what are you supposed to do now?
+Dialogue: 0,0:08:46.61,0:08:49.81,Default,,0000,0000,0000,,They want me to come to Cairo\nto accept my heritage.
+Dialogue: 0,0:08:50.07,0:08:51.97,Default,,0000,0000,0000,,For some reason my father insisted ...
+Dialogue: 0,0:08:51.97,0:08:54.69,Default,,0000,0000,0000,,that I have to go and\npick it up in person.
+Dialogue: 0,0:08:54.69,0:08:56.48,Default,,0000,0000,0000,,But I'm not sure I really want to.
+Dialogue: 0,0:08:56.66,0:08:59.92,Default,,0000,0000,0000,,I mean, what could a guy like him\nleave me anyway?
+Dialogue: 0,0:09:00.29,0:09:02.07,Default,,0000,0000,0000,,A bucket of sand and a shovel?
+Dialogue: 0,0:09:03.73,0:09:04.79,Default,,0000,0000,0000,,Why Cairo?
+Dialogue: 0,0:09:05.63,0:09:09.62,Default,,0000,0000,0000,,Because, obviously that was the place\nwhere he used to live.
+Dialogue: 0,0:09:09.82,0:09:12.88,Default,,0000,0000,0000,,He was working for the\n"Museum of Forgotten Arts".
+Dialogue: 0,0:09:12.88,0:09:14.64,Default,,0000,0000,0000,,Whatever that might be.
+Dialogue: 0,0:09:14.84,0:09:17.48,Default,,0000,0000,0000,,I've never heard about this\ninstitution before ...
+Dialogue: 0,0:09:17.65,0:09:19.70,Default,,0000,0000,0000,,but ist sure sounds like Dad.
+Dialogue: 0,0:09:20.88,0:09:22.60,Default,,0000,0000,0000,,No matter what you think of him ...
+Dialogue: 0,0:09:22.60,0:09:24.91,Default,,0000,0000,0000,,You've got to pay your last\nrespect to him.
+Dialogue: 0,0:09:25.11,0:09:27.54,Default,,0000,0000,0000,,You can't just dismiss him like that.
+Dialogue: 0,0:09:27.54,0:09:30.06,Default,,0000,0000,0000,,This wouldn't make you\nany better than him.
+Dialogue: 0,0:09:30.00,0:09:32.74,Default,,0000,0000,0000,,And maybe it is worth the effort.
+Dialogue: 0,0:09:32.76,0:09:35.79,Default,,0000,0000,0000,,I mean, they wouldn't make you\nshow up personally ...
+Dialogue: 0,0:09:35.95,0:09:38.10,Default,,0000,0000,0000,,if it wan't important, don't you think?
+Dialogue: 0,0:09:38.81,0:09:40.60,Default,,0000,0000,0000,,Yes! We're going to Cairo!
+Dialogue: 0,0:09:40.63,0:09:43.05,Default,,0000,0000,0000,,We're going to\nwalk like an Egyptian!
+Dialogue: 0,0:09:43.05,0:09:44.94,Default,,0000,0000,0000,,Walk like an Egyptian!
+Dialogue: 0,0:09:44.94,0:09:46.77,Default,,0000,0000,0000,,Walk like an Egyptian!
+Dialogue: 0,0:09:47.08,0:09:49.63,Default,,0000,0000,0000,,Wait wait! Wait a minute!\nWho said, "we"?
+Dialogue: 0,0:09:49.87,0:09:53.01,Default,,0000,0000,0000,,I said, "we". I mean,\nwe ought to stick together, right?
+Dialogue: 0,0:09:53.19,0:09:55.38,Default,,0000,0000,0000,,And I can't wait to meet the bit- uh,
+Dialogue: 0,0:09:55.54,0:09:58.16,Default,,0000,0000,0000,,see the lovely beaches, you know ...
+Dialogue: 0,0:09:58.16,0:09:59.59,Default,,0000,0000,0000,,sand ... and the like ...
+Dialogue: 0,0:10:00.30,0:10:01.45,Default,,0000,0000,0000,,Poke ...
+Dialogue: 0,0:10:01.81,0:10:03.86,Default,,0000,0000,0000,,There is no beach in Cairo.
+Dialogue: 0,0:10:04.99,0:10:07.99,Default,,0000,0000,0000,,I always wanted to see the\n"Museum of Forgotten Arts".
+Dialogue: 0,0:10:07.99,0:10:12.27,Default,,0000,0000,0000,,Oh Lori, five minutes ago you didn't\neven know this museum existed!
+Dialogue: 0,0:10:12.58,0:10:13.98,Default,,0000,0000,0000,,Don't you get it?
+Dialogue: 0,0:10:13.98,0:10:16.72,Default,,0000,0000,0000,,We're your friends, and we just\nwant to be with you.
+Dialogue: 0,0:10:17.38,0:10:19.91,Default,,0000,0000,0000,,Oh Mika, that's so sweet.
+Dialogue: 0,0:10:20.90,0:10:22.15,Default,,0000,0000,0000,,Alright.
+Dialogue: 0,0:10:22.15,0:10:24.18,Default,,0000,0000,0000,,I guess I don't have another\nchoice then.
+Dialogue: 0,0:10:24.18,0:10:26.27,Default,,0000,0000,0000,,But, guys, please keep in mind ...
+Dialogue: 0,0:10:26.27,0:10:29.40,Default,,0000,0000,0000,,that this is not a vacation.\nWe've got serious business to do.
+Dialogue: 0,0:10:29.40,0:10:30.75,Default,,0000,0000,0000,,Let's get packing.
+Dialogue: 0,0:10:31.09,0:10:33.41,Default,,0000,0000,0000,,Walk like an Egyptian!
+Dialogue: 0,0:10:33.53,0:10:35.29,Default,,0000,0000,0000,,Walk like an Egyptian!
+Dialogue: 0,0:10:35.40,0:10:37.26,Default,,0000,0000,0000,,Walk like an Egyptian!
+Dialogue: 0,0:10:37.30,0:10:39.39,Default,,0000,0000,0000,,Walk like an Egyptian!
+Dialogue: 0,0:11:04.66,0:11:06.15,Default,,0000,0000,0000,,My Producer!
+Dialogue: 0,0:11:07.52,0:11:08.98,Default,,0000,0000,0000,,My Producer!
+Dialogue: 0,0:11:12.44,0:11:14.02,Default,,0000,0000,0000,,You called for me?
+Dialogue: 0,0:11:14.52,0:11:15.90,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:11:16.06,0:11:17.42,Default,,0000,0000,0000,,The meeting is due!
+Dialogue: 0,0:11:17.69,0:11:20.08,Default,,0000,0000,0000,,Send in the\nDigital Rights Managers!
+Dialogue: 0,0:11:26.46,0:11:28.13,Default,,0000,0000,0000,,Ja, my Producer!
+Dialogue: 0,0:11:28.91,0:11:29.79,Default,,0000,0000,0000,,At once!
+Dialogue: 0,0:11:29.83,0:11:31.59,Default,,0000,0000,0000,,Of course, my Producer!
+Dialogue: 0,0:11:32.02,0:11:34.56,Default,,0000,0000,0000,,I'll get them for you,\nmy Producer!
+Dialogue: 0,0:11:55.47,0:11:58.49,Default,,0000,0000,0000,,At your service, oh mighty Producer!
+Dialogue: 0,0:12:00.13,0:12:01.27,Default,,0000,0000,0000,,Very well!
+Dialogue: 0,0:12:01.47,0:12:04.77,Default,,0000,0000,0000,,Gentlemen, I have called you\nto this special meeting ...
+Dialogue: 0,0:12:04.77,0:12:06.82,Default,,0000,0000,0000,,because I'm deeply disappointed!
+Dialogue: 0,0:12:07.79,0:12:10.28,Default,,0000,0000,0000,,I have just read the latest\nsales report.
+Dialogue: 0,0:12:10.56,0:12:13.94,Default,,0000,0000,0000,,Our profit has increased by\nfifty percent ...
+Dialogue: 0,0:12:14.26,0:12:17.58,Default,,0000,0000,0000,,and this is way below the\nexpectations for this quarter.
+Dialogue: 0,0:12:18.37,0:12:20.37,Default,,0000,0000,0000,,I find this lack of growth ...
+Dialogue: 0,0:12:20.67,0:12:22.05,Default,,0000,0000,0000,,disturbing.
+Dialogue: 0,0:12:22.99,0:12:26.22,Default,,0000,0000,0000,,How do you expect me to explain\nthis to our shareholders?
+Dialogue: 0,0:12:28.17,0:12:29.71,Default,,0000,0000,0000,,My Producer ...
+Dialogue: 0,0:12:29.76,0:12:32.23,Default,,0000,0000,0000,,we ... perhaps ...well ...
+Dialogue: 0,0:12:33.17,0:12:36.21,Default,,0000,0000,0000,,We are still doing a lot of\nresearch in this field ...
+Dialogue: 0,0:12:36.23,0:12:39.93,Default,,0000,0000,0000,,and it seems, people have become\nstrangely inspired lately.
+Dialogue: 0,0:12:40.16,0:12:43.35,Default,,0000,0000,0000,,Strangely inspired, you say ...
+Dialogue: 0,0:12:43.42,0:12:44.86,Default,,0000,0000,0000,,That's hard to believe.
+Dialogue: 0,0:12:44.86,0:12:47.00,Default,,0000,0000,0000,,What do you have to\nback up your claim?
+Dialogue: 0,0:12:47.30,0:12:50.31,Default,,0000,0000,0000,,My numbers indicate that\na lot of people are singing ...
+Dialogue: 0,0:12:50.37,0:12:53.21,Default,,0000,0000,0000,,unlicenced material under the shower!
+Dialogue: 0,0:12:57.65,0:13:01.26,Default,,0000,0000,0000,,And I just received a report\nof incidences of children ...
+Dialogue: 0,0:13:01.26,0:13:04.06,Default,,0000,0000,0000,, in kindergartens being taught\npublic domain nursery songs.
+Dialogue: 0,0:13:04.06,0:13:06.46,Default,,0000,0000,0000,,Officially! By their teachers!
+Dialogue: 0,0:13:06.46,0:13:07.94,Default,,0000,0000,0000,,Imagine that!
+Dialogue: 0,0:13:08.16,0:13:11.10,Default,,0000,0000,0000,,Tsk ... Disgusting! What's next?
+Dialogue: 0,0:13:11.10,0:13:14.47,Default,,0000,0000,0000,,Teachers giving away mp3 files\nin their classrooms?
+Dialogue: 0,0:13:17.84,0:13:19.89,Default,,0000,0000,0000,,Don't you dare speak the\nforbidden word!
+Dialogue: 0,0:13:32.74,0:13:35.64,Default,,0000,0000,0000,,Which one? "mp3"?
+Dialogue: 0,0:13:39.10,0:13:40.13,Default,,0000,0000,0000,,Idiot!
+Dialogue: 0,0:13:40.22,0:13:43.71,Default,,0000,0000,0000,,Don't say this again! You know what\nthe punishment is!
+Dialogue: 0,0:13:45.00,0:13:46.68,Default,,0000,0000,0000,,Ja, my Producer!
+Dialogue: 0,0:13:48.86,0:13:52.10,Default,,0000,0000,0000,,I thought that rule excludes\nmembers of the corporation.
+Dialogue: 0,0:13:52.10,0:13:53.85,Default,,0000,0000,0000,,Silence, you fool!
+Dialogue: 0,0:13:55.80,0:13:59.31,Default,,0000,0000,0000,,What was I about to say?\nAh, yes!
+Dialogue: 0,0:13:59.80,0:14:03.36,Default,,0000,0000,0000,,It seems that the power of inspiration\nis on the rise again.
+Dialogue: 0,0:14:03.88,0:14:07.58,Default,,0000,0000,0000,,This development has always been\nmy deepest concern.
+Dialogue: 0,0:14:07.73,0:14:10.69,Default,,0000,0000,0000,,All sources of inspiration are\nunder our control.
+Dialogue: 0,0:14:11.04,0:14:13.08,Default,,0000,0000,0000,,I don't understand how this can be.
+Dialogue: 0,0:14:13.46,0:14:15.35,Default,,0000,0000,0000,,Something must have happened.
+Dialogue: 0,0:14:15.91,0:14:18.00,Default,,0000,0000,0000,,Perhaps the rumors are true.
+Dialogue: 0,0:14:18.55,0:14:20.45,Default,,0000,0000,0000,,But no matter what,
+Dialogue: 0,0:14:20.92,0:14:23.12,Default,,0000,0000,0000,,we must take action. Quickly.
+Dialogue: 0,0:14:23.87,0:14:26.81,Default,,0000,0000,0000,,Firstly, about the people\nsinging under the shower.
+Dialogue: 0,0:14:27.12,0:14:28.85,Default,,0000,0000,0000,,Call our legal department.
+Dialogue: 0,0:14:28.95,0:14:32.06,Default,,0000,0000,0000,,We must exert our influence in\nestablishing new international ...
+Dialogue: 0,0:14:32.06,0:14:35.24,Default,,0000,0000,0000,,copyright laws that will allow us to\ndemand compensation ...
+Dialogue: 0,0:14:35.24,0:14:37.41,Default,,0000,0000,0000,,from the manufacturers of\nbathroom equipment!
+Dialogue: 0,0:14:41.69,0:14:43.98,Default,,0000,0000,0000,,Brilliant idea, my Producer!
+Dialogue: 0,0:14:44.40,0:14:46.35,Default,,0000,0000,0000,,Then, about the children.
+Dialogue: 0,0:14:46.71,0:14:49.52,Default,,0000,0000,0000,,We must increase our presence\nin schools and kindergartens ...
+Dialogue: 0,0:14:49.82,0:14:52.73,Default,,0000,0000,0000,,teaching them that singing\npublic domain songs ...
+Dialogue: 0,0:14:52.73,0:14:54.52,Default,,0000,0000,0000,,means depriving hard working\nartists ...
+Dialogue: 0,0:14:54.65,0:14:56.58,Default,,0000,0000,0000,,from their God-given right to profit!
+Dialogue: 0,0:14:57.33,0:15:00.76,Default,,0000,0000,0000,,We must educate them that\nlicencing is good ...
+Dialogue: 0,0:15:01.05,0:15:03.10,Default,,0000,0000,0000,,and sharing is evil.
+Dialogue: 0,0:15:04.14,0:15:05.85,Default,,0000,0000,0000,,As you command, my Producer!
+Dialogue: 0,0:15:08.19,0:15:11.96,Default,,0000,0000,0000,,Okay ... Now what are we going\nto do with you?
+Dialogue: 0,0:15:11.96,0:15:16.81,Default,,0000,0000,0000,,What are you suggesting in order\nto redeem yourself?
+Dialogue: 0,0:15:17.38,0:15:20.77,Default,,0000,0000,0000,,I ... I beg your forgiveness,\nmy Producer!
+Dialogue: 0,0:15:20.77,0:15:22.61,Default,,0000,0000,0000,,I didn't mean to cause any harm!
+Dialogue: 0,0:15:22.64,0:15:24.25,Default,,0000,0000,0000,,Please! Have mercy!
+Dialogue: 0,0:15:24.27,0:15:28.84,Default,,0000,0000,0000,,I only said "mp..." that word two times ...
+Dialogue: 0,0:15:29.09,0:15:30.44,Default,,0000,0000,0000,,and ... and ...
+Dialogue: 0,0:15:30.52,0:15:32.43,Default,,0000,0000,0000,,Yes. And?
+Dialogue: 0,0:15:34.11,0:15:37.15,Default,,0000,0000,0000,,And I promise, I will never\nsay "mp3" again!
+Dialogue: 0,0:15:40.53,0:15:43.72,Default,,0000,0000,0000,,Okay, that's enough! Three times!
+Dialogue: 0,0:15:43.99,0:15:46.02,Default,,0000,0000,0000,,Your behavior is intolerable!
+Dialogue: 0,0:15:46.18,0:15:49.30,Default,,0000,0000,0000,,- You shall receive your punishment!\N- No!
+Dialogue: 0,0:15:49.45,0:15:52.08,Default,,0000,0000,0000,,What is your verdict, my Producer?
+Dialogue: 0,0:15:52.38,0:15:54.61,Default,,0000,0000,0000,,The punishment for saying the\nforbidden word is ...
+Dialogue: 0,0:15:54.84,0:15:57.28,Default,,0000,0000,0000,,Death!\nBy Britney's Spear!
+Dialogue: 0,0:16:05.00,0:16:07.38,Default,,0000,0000,0000,,No! No, not that! Please!
+Dialogue: 0,0:16:07.38,0:16:10.11,Default,,0000,0000,0000,,What a just decision, my Producer!
+Dialogue: 0,0:16:10.78,0:16:12.24,Default,,0000,0000,0000,,Britney!
+Dialogue: 0,0:16:27.65,0:16:29.39,Default,,0000,0000,0000,,Ja, my Producer?
+Dialogue: 0,0:16:30.13,0:16:31.14,Default,,0000,0000,0000,,Kill him!
+Dialogue: 0,0:16:31.91,0:16:33.94,Default,,0000,0000,0000,,My pleasure, my Producer!
+Dialogue: 0,0:17:03.88,0:17:05.33,Default,,0000,0000,0000,,Despicable!
+Dialogue: 0,0:17:06.64,0:17:08.56,Default,,0000,0000,0000,,Do we really sell this kind of music?
+Dialogue: 0,0:17:08.56,0:17:12.42,Default,,0000,0000,0000,,Yes, we do. And actually it's\nquite successful!
+Dialogue: 0,0:17:12.42,0:17:14.92,Default,,0000,0000,0000,,I even got it as mp... uh ...
+Dialogue: 0,0:17:14.92,0:17:18.16,Default,,0000,0000,0000,,I mean, Windows Media, yes,\nWindows Media.
+Dialogue: 0,0:17:24.03,0:17:26.67,Default,,0000,0000,0000,,My Producer! My Producer!
+Dialogue: 0,0:17:27.46,0:17:29.57,Default,,0000,0000,0000,,We have tapped into a phone call ...
+Dialogue: 0,0:17:29.57,0:17:32.42,Default,,0000,0000,0000,,from the "Museum of Forgotten Arts"\nin Egypt.
+Dialogue: 0,0:17:33.50,0:17:37.14,Default,,0000,0000,0000,,We finally have the proof\nthat your theory is true.
+Dialogue: 0,0:17:37.57,0:17:39.76,Default,,0000,0000,0000,,The document really exists ...
+Dialogue: 0,0:17:39.91,0:17:44.16,Default,,0000,0000,0000,,and the old Lion's son is already on\nhis way to claim his heritage.
+Dialogue: 0,0:17:45.54,0:17:47.42,Default,,0000,0000,0000,,Right on cue!
+Dialogue: 0,0:17:47.60,0:17:52.11,Default,,0000,0000,0000,,So ... Mr. Scruffycat senior\nreally found it!
+Dialogue: 0,0:17:52.42,0:17:53.80,Default,,0000,0000,0000,,Remarkable.
+Dialogue: 0,0:17:54.18,0:17:57.06,Default,,0000,0000,0000,,And now he's trying to pass it on\nto his son.
+Dialogue: 0,0:17:57.50,0:18:01.03,Default,,0000,0000,0000,,I always knew he couldn't keep\na secret to himself.
+Dialogue: 0,0:18:01.41,0:18:04.22,Default,,0000,0000,0000,,Too bad for him. Good for us, though.
+Dialogue: 0,0:18:04.99,0:18:08.70,Default,,0000,0000,0000,,Send two of our best men to Cairo\nand get it before he does!
+Dialogue: 0,0:18:08.89,0:18:12.15,Default,,0000,0000,0000,,It's the key to gaining control over\nall music on this planet!
+Dialogue: 0,0:18:12.28,0:18:14.67,Default,,0000,0000,0000,,And we must not miss this opportunity!
+Dialogue: 0,0:18:15.14,0:18:16.76,Default,,0000,0000,0000,,Ja, my Producer!
+Dialogue: 0,0:18:18.29,0:18:20.73,Default,,0000,0000,0000,,Christopher Scruffycat!
+Dialogue: 0,0:18:21.57,0:18:25.33,Default,,0000,0000,0000,,You have tried to cross my plans\nso many times ...
+Dialogue: 0,0:18:25.61,0:18:26.89,Default,,0000,0000,0000,,but not tis time!
+Dialogue: 0,0:18:27.43,0:18:31.24,Default,,0000,0000,0000,,When all this is over I'll be\nthe richest man in the world!
+Dialogue: 0,0:18:32.18,0:18:34.27,Default,,0000,0000,0000,,Thank you, old Lion.
+Dialogue: 0,0:18:34.75,0:18:36.92,Default,,0000,0000,0000,,I wouldn't have made it without you!
+Dialogue: 0,0:19:14.20,0:19:15.35,Default,,0000,0000,0000,,Salaam Alaykum!
+Dialogue: 0,0:19:15.35,0:19:18.84,Default,,0000,0000,0000,,Welcome to the "Museum of\nForgotten Arts" my honored friends.
+Dialogue: 0,0:19:18.84,0:19:22.42,Default,,0000,0000,0000,,My name is Yussef Al-Kali.\nI have been waiting for you.
+Dialogue: 0,0:19:22.80,0:19:24.64,Default,,0000,0000,0000,,Alaykum Salaam.
+Dialogue: 0,0:19:24.81,0:19:27.71,Default,,0000,0000,0000,,Hi dude! Al-Kali?
+Dialogue: 0,0:19:29.04,0:19:31.56,Default,,0000,0000,0000,,Aren't you that guy who invented\nthe Energizer Bunny?
+Dialogue: 0,0:19:31.56,0:19:34.26,Default,,0000,0000,0000,,I mean last time I put the\nbatteries in backwards ...
+Dialogue: 0,0:19:34.26,0:19:36.72,Default,,0000,0000,0000,,and it kept coming, and coming,\nand coming ...
+Dialogue: 0,0:19:38.27,0:19:41.89,Default,,0000,0000,0000,,Poke! That's not the way to\ngreet a man like him!
+Dialogue: 0,0:19:41.90,0:19:44.21,Default,,0000,0000,0000,,Let me show you how it's done.
+Dialogue: 0,0:19:46.49,0:19:50.88,Default,,0000,0000,0000,,Alaykum Salaam, Yussef Al-Kali!\nMy name is Loreena McFolkmanis ...
+Dialogue: 0,0:19:50.88,0:19:53.69,Default,,0000,0000,0000,,and my friends and I thank you\nfor your warm welcome.
+Dialogue: 0,0:19:54.29,0:19:55.91,Default,,0000,0000,0000,,You are equally welcome!
+Dialogue: 0,0:19:55.91,0:19:58.67,Default,,0000,0000,0000,,Why don't you and your friends\ncome over and sit down with me?
+Dialogue: 0,0:19:59.02,0:20:02.13,Default,,0000,0000,0000,,It's the customs of my people\nto offer guests a nice cup of ...
+Dialogue: 0,0:20:02.13,0:20:04.72,Default,,0000,0000,0000,,arabian mocha as a gesture\nof hospitality.
+Dialogue: 0,0:20:04.72,0:20:08.15,Default,,0000,0000,0000,,Ah, coffee! Just what I need right now!
+Dialogue: 0,0:20:08.20,0:20:09.48,Default,,0000,0000,0000,,Gimme that!
+Dialogue: 0,0:20:09.98,0:20:13.58,Default,,0000,0000,0000,,Poke, be careful! This is real\narabian mocha!
+Dialogue: 0,0:20:14.75,0:20:17.94,Default,,0000,0000,0000,,Yes, and it's inside the smallest cup\nI've ever seen.
+Dialogue: 0,0:20:18.26,0:20:20.74,Default,,0000,0000,0000,,No challenge for me. Starbuck's is\nmy middle name!
+Dialogue: 0,0:20:29.77,0:20:33.04,Default,,0000,0000,0000,,Yeah! That's the real stuff!
+Dialogue: 0,0:20:33.04,0:20:36.22,Default,,0000,0000,0000,,Keeps your heart beating\nand your paws black!
+Dialogue: 0,0:20:39.32,0:20:44.43,Default,,0000,0000,0000,,Uh oh ... I never tried this before.
+Dialogue: 0,0:20:44.74,0:20:47.06,Default,,0000,0000,0000,,I wouldn't touch it if I were you.
+Dialogue: 0,0:20:47.04,0:20:50.84,Default,,0000,0000,0000,,This is not the decaf, fat-free,\nlow-carb dish water you always sip on!
+Dialogue: 0,0:20:51.93,0:20:54.94,Default,,0000,0000,0000,,This is for real men, not for\nlittle girls like you.
+Dialogue: 0,0:20:55.02,0:20:59.33,Default,,0000,0000,0000,,Hey, calm down macho-man! We're\ntough girls, we can handle this!
+Dialogue: 0,0:20:59.62,0:21:03.27,Default,,0000,0000,0000,,And we don't want to be impolite,\ndo we, Lori?
+Dialogue: 0,0:21:06.36,0:21:10.21,Default,,0000,0000,0000,,Uh ... I guess ... no.
+Dialogue: 0,0:21:11.13,0:21:13.34,Default,,0000,0000,0000,,Maybe it's not so bad.
+Dialogue: 0,0:21:19.95,0:21:25.50,Default,,0000,0000,0000,,Hey ... Hey, that's really nice!\nI ... I could really ...
+Dialogue: 0,0:21:50.72,0:21:52.57,Default,,0000,0000,0000,,Anybody else want some mocha?
+Dialogue: 0,0:21:52.80,0:21:54.57,Default,,0000,0000,0000,,- No!\N- No!
+Dialogue: 0,0:22:01.75,0:22:07.25,Default,,0000,0000,0000,,Two cubes of sugar, please!
+Dialogue: 0,0:22:10.00,0:22:14.45,Default,,0000,0000,0000,,All right. I'm sure you're curious\nwhy you had to come here in person ...
+Dialogue: 0,0:22:14.45,0:22:16.39,Default,,0000,0000,0000,,and what your father might\nhave left you.
+Dialogue: 0,0:22:16.93,0:22:20.28,Default,,0000,0000,0000,,The passing of your father has been\na great loss to all of us.
+Dialogue: 0,0:22:20.60,0:22:24.29,Default,,0000,0000,0000,,He did great things for the museum\nand found many artifacts ...
+Dialogue: 0,0:22:24.28,0:22:26.92,Default,,0000,0000,0000,,that were believed to be\nlost for centuries.
+Dialogue: 0,0:22:27.46,0:22:31.61,Default,,0000,0000,0000,,He devoted his life to scientific\nresearch, but unfortunately...
+Dialogue: 0,0:22:31.61,0:22:35.10,Default,,0000,0000,0000,,Allah did not bless him\nwith the success he strived for.
+Dialogue: 0,0:22:35.34,0:22:39.67,Default,,0000,0000,0000,,I used to be a good friend of him,\nand he asked me to give you this.
+Dialogue: 0,0:22:47.77,0:22:50.34,Default,,0000,0000,0000,,This is his personal diary\nand research journal.
+Dialogue: 0,0:22:50.62,0:22:54.24,Default,,0000,0000,0000,,He told us that it contains\nall his knowledge and findings.
+Dialogue: 0,0:22:54.80,0:22:57.46,Default,,0000,0000,0000,,However, we couldn't make any\nsense of it.
+Dialogue: 0,0:22:57.86,0:23:00.44,Default,,0000,0000,0000,,Your father went a very long way\nto make sure...
+Dialogue: 0,0:23:00.44,0:23:02.95,Default,,0000,0000,0000,,that it would be handed over\nto you personally ...
+Dialogue: 0,0:23:03.02,0:23:05.98,Default,,0000,0000,0000,,and that it may never get\ninto the wrong hands.
+Dialogue: 0,0:23:06.43,0:23:10.97,Default,,0000,0000,0000,,And here it is. He titled it: "Finding\nmy Way to the Temple of Dunnowhat."
+Dialogue: 0,0:23:16.98,0:23:20.36,Default,,0000,0000,0000,,Indeed, this doesn't make any sense\nto me either.
+Dialogue: 0,0:23:21.17,0:23:22.77,Default,,0000,0000,0000,,Is this book all he left me?
+Dialogue: 0,0:23:23.39,0:23:26.15,Default,,0000,0000,0000,,No, I have two more items for you.
+Dialogue: 0,0:23:27.15,0:23:30.69,Default,,0000,0000,0000,,Let me guess ... A bucket of\nsand and a shovel?
+Dialogue: 0,0:23:31.56,0:23:34.72,Default,,0000,0000,0000,,No. He left you two things that\nwere very dear to him.
+Dialogue: 0,0:23:34.72,0:23:38.16,Default,,0000,0000,0000,,You should cherish them.\nHe never left home without them.
+Dialogue: 0,0:23:43.41,0:23:44.81,Default,,0000,0000,0000,,A whip and a hat?
+Dialogue: 0,0:23:46.15,0:23:47.73,Default,,0000,0000,0000,,Thank you, Daddy.
+Dialogue: 0,0:24:04.92,0:24:08.61,Default,,0000,0000,0000,,Shh! Shh! No licenced music\nin the halls of the museum!
+Dialogue: 0,0:24:09.52,0:24:11.72,Default,,0000,0000,0000,,Okaaaay ...
+Dialogue: 0,0:24:12.81,0:24:15.13,Default,,0000,0000,0000,,What is this museum about, anyway?
+Dialogue: 0,0:24:15.44,0:24:19.69,Default,,0000,0000,0000,,The exhibits in this museum are the\nforgotten songs of the old ages.
+Dialogue: 0,0:24:20.33,0:24:24.10,Default,,0000,0000,0000,,There was a time when music was\nnot produced by producers ...
+Dialogue: 0,0:24:24.20,0:24:25.86,Default,,0000,0000,0000,,and consumed by consumers.
+Dialogue: 0,0:24:26.17,0:24:28.59,Default,,0000,0000,0000,,Music was in the heart of everyone.
+Dialogue: 0,0:24:29.07,0:24:31.58,Default,,0000,0000,0000,,People would come together and\nsing and dance ...
+Dialogue: 0,0:24:31.60,0:24:33.09,Default,,0000,0000,0000,,and share their songs.
+Dialogue: 0,0:24:33.26,0:24:35.70,Default,,0000,0000,0000,, Music was a part of our\neveryday lives ...
+Dialogue: 0,0:24:36.05,0:24:38.60,Default,,0000,0000,0000,,and there used to be songs\nfor every occasion.
+Dialogue: 0,0:24:39.17,0:24:41.35,Default,,0000,0000,0000,,Those must have been wonderful times.
+Dialogue: 0,0:24:42.24,0:24:45.67,Default,,0000,0000,0000,,Nowadays, songs have become\nintellectual property ...
+Dialogue: 0,0:24:45.73,0:24:48.26,Default,,0000,0000,0000,,turning open hearts into greedy minds.
+Dialogue: 0,0:24:48.62,0:24:51.86,Default,,0000,0000,0000,,And what has once been an\ninspiration for everyone ...
+Dialogue: 0,0:24:51.87,0:24:55.62,Default,,0000,0000,0000,,has now become a means to fill the\npockets of just a few.
+Dialogue: 0,0:24:55.81,0:25:00.50,Default,,0000,0000,0000,,This museum preserves what is left\nof the songs of the old ages.
+Dialogue: 0,0:25:00.73,0:25:03.06,Default,,0000,0000,0000,,Oh! Oh, can we hear one of them?
+Dialogue: 0,0:25:03.15,0:25:04.67,Default,,0000,0000,0000,,Sure! Follow me.
+Dialogue: 0,0:25:20.43,0:25:22.70,Default,,0000,0000,0000,,What a beautiful melody.
+Dialogue: 0,0:25:23.63,0:25:25.81,Default,,0000,0000,0000,,I've never heard that melody before.
+Dialogue: 0,0:25:28.91,0:25:31.47,Default,,0000,0000,0000,,See? That's why we are\npreserving them.
+Dialogue: 0,0:25:31.59,0:25:34.74,Default,,0000,0000,0000,,There is a wealth of old songs\nthat are very beautifiul ...
+Dialogue: 0,0:25:34.74,0:25:37.41,Default,,0000,0000,0000,,but nobody knows about anymore\ntoday.
+Dialogue: 0,0:25:37.56,0:25:38.65,Default,,0000,0000,0000,,Really?
+Dialogue: 0,0:25:38.86,0:25:42.61,Default,,0000,0000,0000,,And each of these boxes\nholds one of the forgotten songs?
+Dialogue: 0,0:25:42.76,0:25:46.34,Default,,0000,0000,0000,,Oh, this is so exciting! I can't wait\nto hear all of them!
+Dialogue: 0,0:25:46.34,0:25:47.86,Default,,0000,0000,0000,,What is inside this one?
+Dialogue: 0,0:25:48.64,0:25:50.98,Default,,0000,0000,0000,,No! No! Don't touch that one! No!
+Dialogue: 0,0:26:00.04,0:26:02.37,Default,,0000,0000,0000,,Do not open this box again!
+Dialogue: 0,0:26:02.40,0:26:05.07,Default,,0000,0000,0000,,This is our collection of\nspare vocals.
+Dialogue: 0,0:26:05.09,0:26:07.45,Default,,0000,0000,0000,,We need them for\nrestauration purposes.
+Dialogue: 0,0:26:07.97,0:26:11.17,Default,,0000,0000,0000,,Sometimes we find songs\nthat are not in good shape ...
+Dialogue: 0,0:26:11.17,0:26:13.67,Default,,0000,0000,0000,,and then we use these for replacement.
+Dialogue: 0,0:26:17.35,0:26:19.70,Default,,0000,0000,0000,,I'm sorry, I didn't know.
+Dialogue: 0,0:26:20.36,0:26:21.67,Default,,0000,0000,0000,,May I open this one?
+Dialogue: 0,0:26:22.05,0:26:23.06,Default,,0000,0000,0000,,Sure!
+Dialogue: 0,0:26:27.99,0:26:30.48,Default,,0000,0000,0000,,Ooooh!
+Dialogue: 0,0:26:30.57,0:26:33.85,Default,,0000,0000,0000,,Aaaah!
+Dialogue: 0,0:26:34.69,0:26:36.09,Default,,0000,0000,0000,,Hey, wait a minute!
+Dialogue: 0,0:26:36.80,0:26:38.85,Default,,0000,0000,0000,,That's just a box with a light in it.
+Dialogue: 0,0:26:41.17,0:26:42.85,Default,,0000,0000,0000,,Oh, my mistake!
+Dialogue: 0,0:26:48.26,0:26:50.00,Default,,0000,0000,0000,,Well, as you can see...
+Dialogue: 0,0:26:50.00,0:26:53.54,Default,,0000,0000,0000,,there is no way to make big money\nwith all this old stuff.
+Dialogue: 0,0:26:53.60,0:26:55.54,Default,,0000,0000,0000,,And exactly that is the reason...
+Dialogue: 0,0:26:55.54,0:26:57.18,Default,,0000,0000,0000,,why we are a thorn in the side...
+Dialogue: 0,0:26:57.18,0:26:59.54,Default,,0000,0000,0000,,of the international media\ncorporations.
+Dialogue: 0,0:26:59.65,0:27:01.91,Default,,0000,0000,0000,,We are under their strict supervision.
+Dialogue: 0,0:27:02.04,0:27:05.86,Default,,0000,0000,0000,,One wrong note and this place will\nbe swarming with their minions.
+Dialogue: 0,0:27:10.30,0:27:10.94,Default,,0000,0000,0000,,Poke!
+Dialogue: 0,0:27:11.81,0:27:13.71,Default,,0000,0000,0000,,Poke, please! Poke!
+Dialogue: 0,0:27:14.60,0:27:16.08,Default,,0000,0000,0000,,Are you crazy?
+Dialogue: 0,0:27:21.23,0:27:23.28,Default,,0000,0000,0000,,Look, they're watching us!
+Dialogue: 0,0:27:27.95,0:27:30.00,Default,,0000,0000,0000,,Oh no! They are coming!
+Dialogue: 0,0:27:34.80,0:27:37.45,Default,,0000,0000,0000,,This is the THX! Sound check!
+Dialogue: 0,0:27:37.48,0:27:39.29,Default,,0000,0000,0000,,You are Dolby surrounded!
+Dialogue: 0,0:27:39.53,0:27:41.31,Default,,0000,0000,0000,,Open the door!
+Dialogue: 0,0:27:50.16,0:27:52.88,Default,,0000,0000,0000,,Ah, there you are!
+Dialogue: 0,0:27:53.09,0:27:56.92,Default,,0000,0000,0000,,You've got something\nthat belongs to us!
+Dialogue: 0,0:27:56.99,0:27:58.39,Default,,0000,0000,0000,,You've got the choice!
+Dialogue: 0,0:27:58.69,0:28:00.66,Default,,0000,0000,0000,,Hand over the diary or ...
+Dialogue: 0,0:28:01.02,0:28:02.78,Default,,0000,0000,0000,,certain death!
+Dialogue: 0,0:28:02.82,0:28:05.51,Default,,0000,0000,0000,,You've got five seconds!
+Dialogue: 0,0:28:05.54,0:28:07.43,Default,,0000,0000,0000,,Uh, the diary?
+Dialogue: 0,0:28:07.48,0:28:10.24,Default,,0000,0000,0000,,Uh, well here! Take it!\nI don't need it.
+Dialogue: 0,0:28:10.24,0:28:11.43,Default,,0000,0000,0000,,No, no!
+Dialogue: 0,0:28:12.69,0:28:15.13,Default,,0000,0000,0000,,No! Don't you dare come any closer!
+Dialogue: 0,0:28:15.19,0:28:16.84,Default,,0000,0000,0000,,You shall not have it!
+Dialogue: 0,0:28:17.09,0:28:19.98,Default,,0000,0000,0000,,- But ... but ... Mika ...\N- No! No, Lionel!
+Dialogue: 0,0:28:20.04,0:28:21.59,Default,,0000,0000,0000,,You can't give it to them!
+Dialogue: 0,0:28:21.67,0:28:24.17,Default,,0000,0000,0000,,We went all the way to Egypt\nto get this book!
+Dialogue: 0,0:28:24.31,0:28:27.28,Default,,0000,0000,0000,,And five minutes later\nthe thought police turns up ...
+Dialogue: 0,0:28:27.29,0:28:28.75,Default,,0000,0000,0000,,and wants to take it away?
+Dialogue: 0,0:28:28.85,0:28:30.80,Default,,0000,0000,0000,,Don't you smell anything fishy?
+Dialogue: 0,0:28:31.10,0:28:33.84,Default,,0000,0000,0000,,Alright! You've had your chance!
+Dialogue: 0,0:28:34.03,0:28:35.96,Default,,0000,0000,0000,,Now, prepare to die!
+Dialogue: 0,0:28:36.06,0:28:38.03,Default,,0000,0000,0000,,Attack!
+Dialogue: 0,0:28:38.87,0:28:40.67,Default,,0000,0000,0000,,Take the diary and run!
+Dialogue: 0,0:28:40.78,0:28:43.47,Default,,0000,0000,0000,,I'll hold them back! Run! Run!
+Dialogue: 0,0:28:43.47,0:28:45.90,Default,,0000,0000,0000,,No Mika! Mika! It's not worth it!
+Dialogue: 0,0:28:45.90,0:28:47.84,Default,,0000,0000,0000,,Stop talking! Just run!
+Dialogue: 0,0:28:50.67,0:28:52.82,Default,,0000,0000,0000,,I've seen this coming ... Follow me!
+Dialogue: 0,0:28:52.83,0:28:54.71,Default,,0000,0000,0000,,I know a secret way out of here!
+Dialogue: 0,0:29:47.93,0:29:50.15,Default,,0000,0000,0000,,Ah, there we are.
+Dialogue: 0,0:29:57.36,0:29:58.64,Default,,0000,0000,0000,,Finally!
+Dialogue: 0,0:29:59.28,0:30:01.71,Default,,0000,0000,0000,,We must have been walking for hours.
+Dialogue: 0,0:30:02.73,0:30:05.42,Default,,0000,0000,0000,,I thought I would never see\nthe light of another day.
+Dialogue: 0,0:30:05.51,0:30:06.70,Default,,0000,0000,0000,,Uh, day?
+Dialogue: 0,0:30:06.70,0:30:09.71,Default,,0000,0000,0000,,You mean night, sweetie-pie.\nIt's full moon!
+Dialogue: 0,0:30:10.51,0:30:12.55,Default,,0000,0000,0000,,Oh no! Full moon?
+Dialogue: 0,0:30:12.55,0:30:13.72,Default,,0000,0000,0000,,And ... And look!
+Dialogue: 0,0:30:14.15,0:30:16.09,Default,,0000,0000,0000,,This is a graveyard!
+Dialogue: 0,0:30:16.37,0:30:17.88,Default,,0000,0000,0000,,Have you never heard the stories ...
+Dialogue: 0,0:30:17.88,0:30:19.52,Default,,0000,0000,0000,,about what can happen\non a graveyard ...
+Dialogue: 0,0:30:19.52,0:30:20.65,Default,,0000,0000,0000,,under a full moon?
+Dialogue: 0,0:30:21.28,0:30:22.72,Default,,0000,0000,0000,,There migt be vampires!
+Dialogue: 0,0:30:22.72,0:30:23.81,Default,,0000,0000,0000,,Werewolves!
+Dialogue: 0,0:30:23.81,0:30:24.49,Default,,0000,0000,0000,,Zombies!
+Dialogue: 0,0:30:24.48,0:30:27.15,Default,,0000,0000,0000,,Or other unthinkable creatures\ncreeping out of their graves ...
+Dialogue: 0,0:30:27.15,0:30:29.74,Default,,0000,0000,0000,,just waiting for innocent victims\nwalking by!
+Dialogue: 0,0:30:30.18,0:30:33.46,Default,,0000,0000,0000,,Yeah! The full moon always\nmakes me horny, too.
+Dialogue: 0,0:30:34.91,0:30:37.99,Default,,0000,0000,0000,,Why is it that you innocent guys\nalways get the good stuff?
+Dialogue: 0,0:30:38.08,0:30:39.55,Default,,0000,0000,0000,,I wanna be a victim, too!
+Dialogue: 0,0:30:41.43,0:30:43.38,Default,,0000,0000,0000,,Lori! When will you finally grow up?
+Dialogue: 0,0:30:43.38,0:30:46.52,Default,,0000,0000,0000,,Vampires and Werewolves and all the\nother unthinkable creatures ...
+Dialogue: 0,0:30:46.52,0:30:48.58,Default,,0000,0000,0000,,are just a figment of your imagination.
+Dialogue: 0,0:30:48.58,0:30:50.08,Default,,0000,0000,0000,,They don't exist.
+Dialogue: 0,0:30:50.08,0:30:52.50,Default,,0000,0000,0000,,Just like Santa Claus\nor the Easter Bunny.
+Dialogue: 0,0:30:54.31,0:30:55.40,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:30:56.29,0:30:58.79,Default,,0000,0000,0000,,There is no Easter Bunny?
+Dialogue: 0,0:31:01.00,0:31:02.23,Default,,0000,0000,0000,,No Santa?
+Dialogue: 0,0:31:02.36,0:31:03.40,Default,,0000,0000,0000,,But then ...
+Dialogue: 0,0:31:03.80,0:31:06.90,Default,,0000,0000,0000,,Who brings the presents\nand hides the eggs?
+Dialogue: 0,0:31:09.75,0:31:12.54,Default,,0000,0000,0000,,Lori ... you still believe in ...
+Dialogue: 0,0:31:12.57,0:31:13.67,Default,,0000,0000,0000,,I don't know what to-
+Dialogue: 0,0:31:13.67,0:31:17.14,Default,,0000,0000,0000,,Ha! Haha! Got ya! Got ya!
+Dialogue: 0,0:31:26.06,0:31:27.83,Default,,0000,0000,0000,,Come on, admit it! Admit it!
+Dialogue: 0,0:31:27.83,0:31:30.32,Default,,0000,0000,0000,,You really thought I still believed\nin Santa Claus, didn't you?
+Dialogue: 0,0:31:30.55,0:31:31.70,Default,,0000,0000,0000,,Didn't you?
+Dialogue: 0,0:31:32.54,0:31:34.41,Default,,0000,0000,0000,,Yeah, yeah. You really got me there.
+Dialogue: 0,0:31:34.43,0:31:35.34,Default,,0000,0000,0000,,I must admit ...
+Dialogue: 0,0:31:35.67,0:31:37.80,Default,,0000,0000,0000,,I wouldn't have been surprised\nif it had been true.
+Dialogue: 0,0:31:38.98,0:31:41.79,Default,,0000,0000,0000,,See? I'm more grown-up\nthan you think!
+Dialogue: 0,0:31:41.85,0:31:44.83,Default,,0000,0000,0000,,As Mika said, we are tough girls,\nwe can handle this.
+Dialogue: 0,0:31:44.83,0:31:45.84,Default,,0000,0000,0000,,Right, Mika?
+Dialogue: 0,0:31:46.93,0:31:49.27,Default,,0000,0000,0000,,Uh ... Mika?
+Dialogue: 0,0:31:50.48,0:31:51.46,Default,,0000,0000,0000,,Mika?
+Dialogue: 0,0:31:52.05,0:31:53.98,Default,,0000,0000,0000,,Oh no! No, Mika is gone!
+Dialogue: 0,0:31:54.54,0:31:56.40,Default,,0000,0000,0000,,Where is she? Where is she?
+Dialogue: 0,0:31:56.68,0:31:58.37,Default,,0000,0000,0000,,She got eaten by the werevolves!
+Dialogue: 0,0:31:58.40,0:31:59.42,Default,,0000,0000,0000,,Lionel!
+Dialogue: 0,0:32:00.74,0:32:01.79,Default,,0000,0000,0000,,Do something!
+Dialogue: 0,0:32:01.83,0:32:03.98,Default,,0000,0000,0000,,She ... she could be dead!
+Dialogue: 0,0:32:04.41,0:32:05.86,Default,,0000,0000,0000,,Or worse!
+Dialogue: 0,0:32:12.77,0:32:14.04,Default,,0000,0000,0000,,Ah, there you are.
+Dialogue: 0,0:32:16.90,0:32:19.15,Default,,0000,0000,0000,,Look! She's back from the dead!
+Dialogue: 0,0:32:19.25,0:32:21.49,Default,,0000,0000,0000,,The vampires have turned her into a zombie!
+Dialogue: 0,0:32:22.01,0:32:23.45,Default,,0000,0000,0000,,We're all gonna die!
+Dialogue: 0,0:32:24.05,0:32:26.78,Default,,0000,0000,0000,,Lori? What are you talking about?
+Dialogue: 0,0:32:27.22,0:32:29.07,Default,,0000,0000,0000,,I'm sorry it took me so long ...
+Dialogue: 0,0:32:29.14,0:32:32.97,Default,,0000,0000,0000,,but I had to get the THX police guys\nacquainted with the three tenors ...
+Dialogue: 0,0:32:32.96,0:32:34.28,Default,,0000,0000,0000,,before I could join you.
+Dialogue: 0,0:32:35.99,0:32:38.10,Default,,0000,0000,0000,,Oh, I'm so glad you made it!
+Dialogue: 0,0:32:38.46,0:32:39.91,Default,,0000,0000,0000,,We were worried about you.
+Dialogue: 0,0:32:40.02,0:32:41.43,Default,,0000,0000,0000,,No need to worry.
+Dialogue: 0,0:32:41.46,0:32:44.48,Default,,0000,0000,0000,,Having the black belt in cat-fighting\nmust be good for something.
+Dialogue: 0,0:32:45.97,0:32:46.99,Default,,0000,0000,0000,,Thank you so much.
+Dialogue: 0,0:32:46.99,0:32:48.73,Default,,0000,0000,0000,,We wouldn't have made it\nwithout your help.
+Dialogue: 0,0:32:48.76,0:32:50.00,Default,,0000,0000,0000,,Ah, don't mention it.
+Dialogue: 0,0:32:52.46,0:32:54.99,Default,,0000,0000,0000,,Are you sure she's not\na zombie or something?
+Dialogue: 0,0:32:55.12,0:32:57.09,Default,,0000,0000,0000,,Ah, come on! Get a grip!
+Dialogue: 0,0:32:57.26,0:32:59.02,Default,,0000,0000,0000,,Will you stop pushing me around?
+Dialogue: 0,0:32:59.05,0:33:00.84,Default,,0000,0000,0000,,Lori, calm down, please!
+Dialogue: 0,0:33:00.84,0:33:03.11,Default,,0000,0000,0000,,I am calm! I am perfectly calm!
+Dialogue: 0,0:33:04.29,0:33:07.02,Default,,0000,0000,0000,,Do you know how it feels to be the\nyoungest member of the party?
+Dialogue: 0,0:33:07.70,0:33:09.92,Default,,0000,0000,0000,,Always been picked on\nand pushed around ...
+Dialogue: 0,0:33:09.93,0:33:11.48,Default,,0000,0000,0000,,never taken seriously!
+Dialogue: 0,0:33:11.63,0:33:14.17,Default,,0000,0000,0000,,And nobody seems to care at all,\nwhat I have to say ...
+Dialogue: 0,0:33:14.17,0:33:14.68,Default,,0000,0000,0000,,Lori!
+Dialogue: 0,0:33:14.71,0:33:16.26,Default,,0000,0000,0000,,- when it comes to ...\N- Lori!
+Dialogue: 0,0:33:16.26,0:33:17.12,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:33:26.22,0:33:27.70,Default,,0000,0000,0000,,Thank you, Poke!
+Dialogue: 0,0:33:27.81,0:33:29.00,Default,,0000,0000,0000,,Was about time!
+Dialogue: 0,0:33:35.44,0:33:37.55,Default,,0000,0000,0000,,I think, we'll be safe here for a while.
+Dialogue: 0,0:33:37.63,0:33:40.43,Default,,0000,0000,0000,,This graveyard is not known\nto the common people.
+Dialogue: 0,0:33:40.84,0:33:43.52,Default,,0000,0000,0000,,Lionel? Do you still have the diary?
+Dialogue: 0,0:33:43.63,0:33:46.93,Default,,0000,0000,0000,,Because now I'm really curious\nabout your father's notes.
+Dialogue: 0,0:33:47.16,0:33:50.20,Default,,0000,0000,0000,,If there are so many people\ntrying so hard to get it ...
+Dialogue: 0,0:33:50.30,0:33:53.44,Default,,0000,0000,0000,,and your father making such a\nfuss about its secrecy ...
+Dialogue: 0,0:33:53.48,0:33:55.36,Default,,0000,0000,0000,,it must be very very important.
+Dialogue: 0,0:33:56.21,0:33:57.30,Default,,0000,0000,0000,,Alright.
+Dialogue: 0,0:33:57.77,0:34:01.28,Default,,0000,0000,0000,,Alright, then. I would suggest we go\nthrough it together, line by line.
+Dialogue: 0,0:34:04.39,0:34:05.69,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:34:06.24,0:34:07.66,Default,,0000,0000,0000,,So, it's titled:
+Dialogue: 0,0:34:07.72,0:34:10.30,Default,,0000,0000,0000,,"Finding my way to the\nTemple of Dunnowhat."
+Dialogue: 0,0:34:10.75,0:34:12.78,Default,,0000,0000,0000,,Whatever the\n"Temple of Dunnowhat" might be,
+Dialogue: 0,0:34:12.78,0:34:15.03,Default,,0000,0000,0000,,it seems to be a place of\nutmost importance ...
+Dialogue: 0,0:34:15.30,0:34:17.52,Default,,0000,0000,0000,,and this book is probably the\nkey to finding it.
+Dialogue: 0,0:34:18.72,0:34:20.59,Default,,0000,0000,0000,,This is what it says\non the first page:
+Dialogue: 0,0:34:21.11,0:34:25.68,Default,,0000,0000,0000,,"The politician's daughter\nwas accused of drinking water."
+Dialogue: 0,0:34:25.71,0:34:30.34,Default,,0000,0000,0000,,"No tea or tomato juice.\nYou'll see no potato juice."
+Dialogue: 0,0:34:30.49,0:34:31.59,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:34:35.65,0:34:38.85,Default,,0000,0000,0000,,Wait, wait ... Let me continue reading.
+Dialogue: 0,0:34:42.34,0:34:47.31,Default,,0000,0000,0000,,"You can't get cherry soda,\nbecause they got to fill that quota."
+Dialogue: 0,0:34:48.41,0:34:53.06,Default,,0000,0000,0000,,"And when ham and eggs need savor,\ncoffee ketchup gives them flavor."
+Dialogue: 0,0:34:53.49,0:34:55.28,Default,,0000,0000,0000,,This is total bullshit!
+Dialogue: 0,0:34:56.59,0:34:58.36,Default,,0000,0000,0000,,Then it goes on like this:
+Dialogue: 0,0:34:58.60,0:35:02.57,Default,,0000,0000,0000,,"This is the rock that rolls,\nnot moving too fast or too slow."
+Dialogue: 0,0:35:02.65,0:35:06.32,Default,,0000,0000,0000,,"This is the rock that rolls,\nas soon as it hits you, you'll know."
+Dialogue: 0,0:35:06.50,0:35:08.25,Default,,0000,0000,0000,,That's even worse.
+Dialogue: 0,0:35:08.31,0:35:11.50,Default,,0000,0000,0000,,Yes, we were equally confused\nwhen we got to that part.
+Dialogue: 0,0:35:17.73,0:35:19.40,Default,,0000,0000,0000,,Lori ...
+Dialogue: 0,0:35:20.97,0:35:22.27,Default,,0000,0000,0000,,What's the matter?
+Dialogue: 0,0:35:25.85,0:35:29.67,Default,,0000,0000,0000,,Lori, forget it! If you refuse to calm\ndown, that muzzle will stay on!
+Dialogue: 0,0:35:29.67,0:35:32.59,Default,,0000,0000,0000,,Now stop whining and let us\ndo our work, okay?
+Dialogue: 0,0:35:38.75,0:35:39.97,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:35:40.70,0:35:43.08,Default,,0000,0000,0000,,"All the happy saints go marching in."
+Dialogue: 0,0:35:43.63,0:35:48.04,Default,,0000,0000,0000,,"And if one of those saints steps out\nof line, he'll have to start again."
+Dialogue: 0,0:35:48.63,0:35:51.35,Default,,0000,0000,0000,,I don't know what your Dad\nhas been smoking, but ...
+Dialogue: 0,0:35:53.13,0:35:54.75,Default,,0000,0000,0000,,I want some of that shit.
+Dialogue: 0,0:36:00.12,0:36:04.45,Default,,0000,0000,0000,,"Jacobs golden ladder\ngets slippery at the top."
+Dialogue: 0,0:36:05.94,0:36:09.85,Default,,0000,0000,0000,,"And many-a happy-go-lucky saint\nhas made that long long drop."
+Dialogue: 0,0:36:12.46,0:36:15.02,Default,,0000,0000,0000,,I really wonder what this is all about.
+Dialogue: 0,0:36:21.28,0:36:22.27,Default,,0000,0000,0000,,Lori ...
+Dialogue: 0,0:36:28.37,0:36:30.33,Default,,0000,0000,0000,,This is really strange, here ...
+Dialogue: 0,0:36:31.33,0:36:34.52,Default,,0000,0000,0000,,Lori, one last time, stay put!
+Dialogue: 0,0:36:35.18,0:36:37.68,Default,,0000,0000,0000,,There are no monsters, there are\nno vampires,
+Dialogue: 0,0:36:37.68,0:36:39.50,Default,,0000,0000,0000,,werewolves or zombies. Okay?
+Dialogue: 0,0:36:39.63,0:36:41.45,Default,,0000,0000,0000,,And we have serious business\nto do here.
+Dialogue: 0,0:36:41.45,0:36:42.81,Default,,0000,0000,0000,,Do you understand?
+Dialogue: 0,0:36:43.44,0:36:46.46,Default,,0000,0000,0000,,Oh, I have no idea\nwhat has gotten into her.
+Dialogue: 0,0:36:46.75,0:36:48.37,Default,,0000,0000,0000,,Maybe it's the full moon.
+Dialogue: 0,0:36:48.42,0:36:51.60,Default,,0000,0000,0000,,Nah, I bet nobody ever got\ninto her, anyway.
+Dialogue: 0,0:36:53.81,0:36:55.11,Default,,0000,0000,0000,,Okay, let's continue.
+Dialogue: 0,0:36:56.28,0:37:01.05,Default,,0000,0000,0000,,"A giant vision in the distance,\nchase that rainbow down."
+Dialogue: 0,0:37:04.70,0:37:07.70,Default,,0000,0000,0000,,"I hear a pound pound\npounding in my chest ..."
+Dialogue: 0,0:37:08.08,0:37:10.63,Default,,0000,0000,0000,,"I hear a knock knock\nknocking sound."
+Dialogue: 0,0:37:12.34,0:37:15.37,Default,,0000,0000,0000,,"Knock knock knocking\non heaven's door."
+Dialogue: 0,0:37:16.69,0:37:19.86,Default,,0000,0000,0000,,"The trees speak to me,\nand I listen to them carefully."
+Dialogue: 0,0:37:19.92,0:37:22.51,Default,,0000,0000,0000,,"Whether standing still or\nblowing in the wind,
+Dialogue: 0,0:37:22.64,0:37:24.05,Default,,0000,0000,0000,,I hear them singing."
+Dialogue: 0,0:37:24.45,0:37:27.70,Default,,0000,0000,0000,,"The trees speak, they whisper\na sweet melody."
+Dialogue: 0,0:37:27.78,0:37:30.18,Default,,0000,0000,0000,,"The keepers of more wisdom\nthan you and I."
+Dialogue: 0,0:37:30.18,0:37:31.66,Default,,0000,0000,0000,,"So listen to them carefully."
+Dialogue: 0,0:37:31.83,0:37:32.92,Default,,0000,0000,0000,,Alright.
+Dialogue: 0,0:37:33.06,0:37:36.11,Default,,0000,0000,0000,,Okay. We have read through the\nfirst four pages.
+Dialogue: 0,0:37:36.25,0:37:37.26,Default,,0000,0000,0000,,And you know what?
+Dialogue: 0,0:37:37.41,0:37:39.35,Default,,0000,0000,0000,,I didn't understand a single word!
+Dialogue: 0,0:37:39.55,0:37:41.70,Default,,0000,0000,0000,,Lionel, are you sure your Dad ...
+Dialogue: 0,0:37:41.69,0:37:43.78,Default,,0000,0000,0000,,still had his wits together?
+Dialogue: 0,0:37:43.95,0:37:45.69,Default,,0000,0000,0000,,I'm not so sure anymore.
+Dialogue: 0,0:37:46.16,0:37:49.36,Default,,0000,0000,0000,,Hey, guys? You noticed anything?
+Dialogue: 0,0:37:50.08,0:37:51.81,Default,,0000,0000,0000,,No, what do you mean?
+Dialogue: 0,0:37:51.94,0:37:53.94,Default,,0000,0000,0000,,Lori has stopped whining.
+Dialogue: 0,0:37:54.29,0:37:56.56,Default,,0000,0000,0000,,Hey, now that you mention it ...
+Dialogue: 0,0:37:56.63,0:37:58.85,Default,,0000,0000,0000,,Oh, was about time!
+Dialogue: 0,0:38:00.01,0:38:01.79,Default,,0000,0000,0000,,Sooo ...
+Dialogue: 0,0:38:02.64,0:38:05.08,Default,,0000,0000,0000,,You can be quiet after all.
+Dialogue: 0,0:38:05.22,0:38:07.81,Default,,0000,0000,0000,,See? It wasn't that hard, was it?
+Dialogue: 0,0:38:09.76,0:38:11.28,Default,,0000,0000,0000,,Come on, let me remove this.
+Dialogue: 0,0:38:18.02,0:38:19.89,Default,,0000,0000,0000,,Okay guys, we have no choice.
+Dialogue: 0,0:38:20.60,0:38:22.36,Default,,0000,0000,0000,,We'll have to go through it again.
+Dialogue: 0,0:38:26.04,0:38:28.32,Default,,0000,0000,0000,,Let's see if there's something\nwe've been missing.
+Dialogue: 0,0:38:28.46,0:38:30.05,Default,,0000,0000,0000,,There must be a meaning to this.
+Dialogue: 0,0:38:31.70,0:38:32.51,Default,,0000,0000,0000,,You know ...
+Dialogue: 0,0:38:32.80,0:38:35.63,Default,,0000,0000,0000,,The reasons of my father might be\nhard to understand, but ...
+Dialogue: 0,0:38:35.63,0:38:37.45,Default,,0000,0000,0000,,I'm quite sure he wasn't crazy.
+Dialogue: 0,0:38:37.51,0:38:39.25,Default,,0000,0000,0000,,This must be some kind of code.
+Dialogue: 0,0:38:41.16,0:38:45.52,Default,,0000,0000,0000,,"The politician's daughter\nwas accused of drinking water."
+Dialogue: 0,0:38:45.52,0:38:48.43,Default,,0000,0000,0000,,Hey! Hey, I know that line!
+Dialogue: 0,0:38:49.02,0:38:50.32,Default,,0000,0000,0000,,- Really?\N- What?
+Dialogue: 0,0:38:50.77,0:38:54.09,Default,,0000,0000,0000,,Yes, I tried to tell you guys,\nbut you wouldn't let me!
+Dialogue: 0,0:38:55.05,0:38:55.93,Default,,0000,0000,0000,,Okay ...
+Dialogue: 0,0:38:57.09,0:38:58.11,Default,,0000,0000,0000,,Well ...
+Dialogue: 0,0:38:58.31,0:39:02.01,Default,,0000,0000,0000,,You know Lori, it does sound\nvaguely familiar to me but ...
+Dialogue: 0,0:39:02.02,0:39:03.98,Default,,0000,0000,0000,,I can't really remember\nwhere I first heard it.
+Dialogue: 0,0:39:04.07,0:39:05.23,Default,,0000,0000,0000,,So, where is it from?
+Dialogue: 0,0:39:05.33,0:39:08.14,Default,,0000,0000,0000,,It's an old song done by\nFrank Sinatra.
+Dialogue: 0,0:39:08.57,0:39:10.07,Default,,0000,0000,0000,,It's the "Coffee Song".
+Dialogue: 0,0:39:10.58,0:39:12.58,Default,,0000,0000,0000,,And it goes like this.
+Dialogue: 0,0:39:25.73,0:39:29.58,Default,,0000,0000,0000,,"Way down among Brazilians\ncoffee beans grow by the billions."
+Dialogue: 0,0:39:29.58,0:39:32.79,Default,,0000,0000,0000,,"So they've got to find\nThose extra cups to fill."
+Dialogue: 0,0:39:33.29,0:39:37.03,Default,,0000,0000,0000,,"They got an awful lot of\ncoffee in Brazil"
+Dialogue: 0,0:39:37.90,0:39:41.77,Default,,0000,0000,0000,,"You can't get cherry soda\nCause they've got to fill that quota."
+Dialogue: 0,0:39:41.93,0:39:45.06,Default,,0000,0000,0000,,"And the way things are I bet\nThey never will."
+Dialogue: 0,0:39:45.51,0:39:49.05,Default,,0000,0000,0000,,"They got an awful lot of\ncoffee in Brazil."
+Dialogue: 0,0:39:49.65,0:39:53.36,Default,,0000,0000,0000,,"No tea or tomato juice."
+Dialogue: 0,0:39:53.85,0:39:57.32,Default,,0000,0000,0000,,"You'll see no potato juice."
+Dialogue: 0,0:39:58.18,0:40:00.82,Default,,0000,0000,0000,,"And all the farmers in Africa say:"
+Dialogue: 0,0:40:01.03,0:40:02.31,Default,,0000,0000,0000,,"Hey! Hey! Hey!"
+Dialogue: 0,0:40:02.37,0:40:06.07,Default,,0000,0000,0000,,"The politicians daughter\nWas accused of drinking water."
+Dialogue: 0,0:40:06.26,0:40:09.45,Default,,0000,0000,0000,,"And was fined a great big\nFifty Dollar bill."
+Dialogue: 0,0:40:09.74,0:40:13.61,Default,,0000,0000,0000,,"They got an awful lot of\ncoffee in Brazil."
+Dialogue: 0,0:40:14.26,0:40:17.64,Default,,0000,0000,0000,,"No tea or tomato juice."
+Dialogue: 0,0:40:18.16,0:40:21.69,Default,,0000,0000,0000,,"You'll see no tomato juice."
+Dialogue: 0,0:40:22.61,0:40:24.61,Default,,0000,0000,0000,,"And all the farmers in Africa say:"
+Dialogue: 0,0:40:24.71,0:40:26.70,Default,,0000,0000,0000,,"Hey! Hey! Hey!"
+Dialogue: 0,0:40:26.93,0:40:28.89,Default,,0000,0000,0000,,"And when their ham and\neggs need savor,"
+Dialogue: 0,0:40:28.99,0:40:30.95,Default,,0000,0000,0000,,"Coffee ketchup gives them flavor."
+Dialogue: 0,0:40:31.04,0:40:33.66,Default,,0000,0000,0000,,"Coffee pickles way outsell the dill."
+Dialogue: 0,0:40:34.18,0:40:37.88,Default,,0000,0000,0000,,"They got an awful lot of\ncoffee in Brazil."
+Dialogue: 0,0:40:42.34,0:40:45.93,Default,,0000,0000,0000,,"They got an awful lot of\ncoffee in Brazil."
+Dialogue: 0,0:40:46.58,0:40:47.76,Default,,0000,0000,0000,,"In Brazil!"
+Dialogue: 0,0:40:48.54,0:40:50.04,Default,,0000,0000,0000,,"In Brazil!"
+Dialogue: 0,0:40:50.41,0:40:53.79,Default,,0000,0000,0000,,"They got an awful lot of\ncoffee in Brazil."
+Dialogue: 0,0:40:54.14,0:40:55.61,Default,,0000,0000,0000,,"In Brazil!"
+Dialogue: 0,0:40:56.65,0:40:57.73,Default,,0000,0000,0000,,"In Brazil!"
+Dialogue: 0,0:41:14.19,0:41:15.37,Default,,0000,0000,0000,,Brazil!
+Dialogue: 0,0:41:18.70,0:41:19.87,Default,,0000,0000,0000,,Brazil!
+Dialogue: 0,0:41:20.60,0:41:22.24,Default,,0000,0000,0000,,- Brazil!\N- Brazil!
+Dialogue: 0,0:41:22.38,0:41:24.60,Default,,0000,0000,0000,,Lori! Brazil! That's it!
+Dialogue: 0,0:41:24.60,0:41:26.22,Default,,0000,0000,0000,,Oh, well done, Lori!
+Dialogue: 0,0:41:26.22,0:41:28.34,Default,,0000,0000,0000,,You solved the first part\nof the puzzle!
+Dialogue: 0,0:41:29.20,0:41:32.33,Default,,0000,0000,0000,,- Ooookay.\N- Did I?
+Dialogue: 0,0:41:32.46,0:41:34.43,Default,,0000,0000,0000,,So we have to go to Brazil.
+Dialogue: 0,0:41:34.50,0:41:37.06,Default,,0000,0000,0000,,But, Brazil is a big country.
+Dialogue: 0,0:41:37.09,0:41:39.75,Default,,0000,0000,0000,,We need to figure out\nwhere exactly we need to go.
+Dialogue: 0,0:41:39.99,0:41:43.19,Default,,0000,0000,0000,,Does anybody know the names of the\nmost important cities in Brazil?
+Dialogue: 0,0:41:43.34,0:41:46.38,Default,,0000,0000,0000,,Sure! There are: Brazilia, São Paulo,
+Dialogue: 0,0:41:46.38,0:41:49.19,Default,,0000,0000,0000,,Rio de Janeiro, Manaus, Natal,
+Dialogue: 0,0:41:49.20,0:41:51.84,Default,,0000,0000,0000,,- Salvador, São Felix ...\N- Uh, stop, stop, stop!
+Dialogue: 0,0:41:51.89,0:41:53.46,Default,,0000,0000,0000,,What was the last one again?
+Dialogue: 0,0:41:53.48,0:41:54.77,Default,,0000,0000,0000,,São Felix?
+Dialogue: 0,0:41:54.96,0:41:58.68,Default,,0000,0000,0000,,São Felix loosely translates to,\n"The Lucky Saint."
+Dialogue: 0,0:41:58.93,0:42:00.69,Default,,0000,0000,0000,,Look at this line in the book:
+Dialogue: 0,0:42:00.92,0:42:05.42,Default,,0000,0000,0000,,"And many a-happy-go-lucky saint\nhas made that long long drop."
+Dialogue: 0,0:42:07.77,0:42:10.19,Default,,0000,0000,0000,,Well, I must say ... not bad!
+Dialogue: 0,0:42:10.37,0:42:12.64,Default,,0000,0000,0000,,So we need to go to São Felix\nin Brazil!
+Dialogue: 0,0:42:12.96,0:42:15.22,Default,,0000,0000,0000,,Mmh ... São Felix.
+Dialogue: 0,0:42:15.28,0:42:18.50,Default,,0000,0000,0000,,A nice old town at the edge\nof the brazilian rainforest.
+Dialogue: 0,0:42:18.85,0:42:21.24,Default,,0000,0000,0000,,And what do the other lines mean?
+Dialogue: 0,0:42:22.59,0:42:25.77,Default,,0000,0000,0000,,"I hear a pound pound\npounding in my chest."
+Dialogue: 0,0:42:25.96,0:42:29.62,Default,,0000,0000,0000,,"This is the rock that rolls,\nas soon as it hits you, you'll know."
+Dialogue: 0,0:42:29.89,0:42:33.32,Default,,0000,0000,0000,,"The trees speak to me,\nso I listen to them carefully."
+Dialogue: 0,0:42:33.37,0:42:35.32,Default,,0000,0000,0000,,I don't have a clue Lori but ...
+Dialogue: 0,0:42:35.32,0:42:37.03,Default,,0000,0000,0000,,we finally have a starting point.
+Dialogue: 0,0:42:37.16,0:42:39.92,Default,,0000,0000,0000,,I hope those lines will make\nmore sense once we get there.
+Dialogue: 0,0:42:41.31,0:42:44.66,Default,,0000,0000,0000,,Please accept the advice of an\nexperienced archaeologist.
+Dialogue: 0,0:42:44.70,0:42:46.61,Default,,0000,0000,0000,,Try to memorize those lines.
+Dialogue: 0,0:42:46.61,0:42:49.00,Default,,0000,0000,0000,,You might get separated\nor lose the book.
+Dialogue: 0,0:42:49.91,0:42:53.44,Default,,0000,0000,0000,,So it's decided! We are going to\nvisit the brazilian rainforest!
+Dialogue: 0,0:42:55.11,0:42:56.94,Default,,0000,0000,0000,,Ah, Brazil!
+Dialogue: 0,0:42:56.99,0:43:00.86,Default,,0000,0000,0000,,It is such a wonderful place of\nancient history and adventure.
+Dialogue: 0,0:43:01.04,0:43:02.81,Default,,0000,0000,0000,,I wish I could come with you.
+Dialogue: 0,0:43:03.39,0:43:04.19,Default,,0000,0000,0000,,Well ...
+Dialogue: 0,0:43:04.43,0:43:06.53,Default,,0000,0000,0000,,If you want to ... We can use\nall help we can get!
+Dialogue: 0,0:43:06.60,0:43:08.17,Default,,0000,0000,0000,,Yes! Why don't you join us?
+Dialogue: 0,0:43:08.54,0:43:10.77,Default,,0000,0000,0000,,Oh, thanks for the offer!
+Dialogue: 0,0:43:10.85,0:43:12.54,Default,,0000,0000,0000,,But I really can't go with you.
+Dialogue: 0,0:43:12.69,0:43:14.48,Default,,0000,0000,0000,,I'm an old man myself ...
+Dialogue: 0,0:43:14.53,0:43:18.05,Default,,0000,0000,0000,,and if I don't stay here and take\ncare of the museum, who will?
+Dialogue: 0,0:43:19.55,0:43:22.69,Default,,0000,0000,0000,,Yes, my little one, it's time\nto say goodbye.
+Dialogue: 0,0:43:22.94,0:43:25.60,Default,,0000,0000,0000,,But before you leave,\nI've got something for you.
+Dialogue: 0,0:43:26.25,0:43:28.16,Default,,0000,0000,0000,,Oh, what is it? What is it?
+Dialogue: 0,0:43:28.59,0:43:30.80,Default,,0000,0000,0000,,Here! Please accept this flask ...
+Dialogue: 0,0:43:30.80,0:43:33.45,Default,,0000,0000,0000,,of real arabian mocha\nas my farewell gift.
+Dialogue: 0,0:43:36.70,0:43:40.21,Default,,0000,0000,0000,,Thank you ... very much ...\nuh ... I ...
+Dialogue: 0,0:43:40.26,0:43:43.81,Default,,0000,0000,0000,,Hey cool! I owe you one!\nThat's the good stuff!
+Dialogue: 0,0:43:45.70,0:43:48.17,Default,,0000,0000,0000,,Thank you Yussef! That's\nvery kind of you.
+Dialogue: 0,0:43:48.40,0:43:51.19,Default,,0000,0000,0000,,But we must go now.\nTo the brazilian rainforest!
+Dialogue: 0,0:43:51.32,0:43:53.18,Default,,0000,0000,0000,,But how do we get there?
+Dialogue: 0,0:43:53.66,0:43:57.43,Default,,0000,0000,0000,,Just follow me! I know a secret\npassage to the airport.
+Dialogue: 0,0:43:58.34,0:44:00.43,Default,,0000,0000,0000,,Why am I not surprised ...
+Dialogue: 0,0:44:16.09,0:44:17.72,Default,,0000,0000,0000,,Something is happening!
+Dialogue: 0,0:44:18.18,0:44:19.65,Default,,0000,0000,0000,,I don't know what it is ...
+Dialogue: 0,0:44:19.75,0:44:21.57,Default,,0000,0000,0000,,but I can feel it.
+Dialogue: 0,0:44:21.91,0:44:25.07,Default,,0000,0000,0000,,My urge to break free is\nstronger than ever before.
+Dialogue: 0,0:44:25.39,0:44:26.65,Default,,0000,0000,0000,,I'm feeling restless.
+Dialogue: 0,0:44:26.92,0:44:29.35,Default,,0000,0000,0000,,Pacing back and forth in my confinement ...
+Dialogue: 0,0:44:29.34,0:44:30.97,Default,,0000,0000,0000,,like an animal in it's cage.
+Dialogue: 0,0:44:31.77,0:44:33.55,Default,,0000,0000,0000,,I wish I could see more clearly.
+Dialogue: 0,0:44:33.99,0:44:36.53,Default,,0000,0000,0000,,It feels like someone is coming!
+Dialogue: 0,0:44:37.21,0:44:38.38,Default,,0000,0000,0000,,Could it be possible ...
+Dialogue: 0,0:44:38.43,0:44:40.73,Default,,0000,0000,0000,,that the key has not been lost but ...
+Dialogue: 0,0:44:40.84,0:44:42.39,Default,,0000,0000,0000,,merely misplaced?
+Dialogue: 0,0:44:43.07,0:44:44.97,Default,,0000,0000,0000,,I can feel darkness, but ...
+Dialogue: 0,0:44:45.24,0:44:46.67,Default,,0000,0000,0000,,there's also light.
+Dialogue: 0,0:44:47.22,0:44:49.15,Default,,0000,0000,0000,,Are they coming to free me?
+Dialogue: 0,0:44:49.86,0:44:51.74,Default,,0000,0000,0000,,Or are they coming to kill me?
+Dialogue: 0,0:44:53.21,0:44:54.69,Default,,0000,0000,0000,,Let them come!
+Dialogue: 0,0:44:55.08,0:44:58.19,Default,,0000,0000,0000,,I may be old, but I'm not rusty.
+Dialogue: 0,0:44:58.74,0:45:02.53,Default,,0000,0000,0000,,Be it songs of war,\nor songs of love.
+Dialogue: 0,0:45:02.54,0:45:05.06,Default,,0000,0000,0000,,Just let me sing!
+Dialogue: 0,0:45:41.66,0:45:42.59,Default,,0000,0000,0000,,Poke?
+Dialogue: 0,0:45:42.83,0:45:43.83,Default,,0000,0000,0000,,Poke.
+Dialogue: 0,0:45:43.88,0:45:45.91,Default,,0000,0000,0000,,- Poke!\N- What?
+Dialogue: 0,0:45:45.92,0:45:48.87,Default,,0000,0000,0000,,During the whole flight you've been\nlistening to the same song ...
+Dialogue: 0,0:45:48.88,0:45:51.74,Default,,0000,0000,0000,,Over and over and over\nand over again!
+Dialogue: 0,0:45:52.80,0:45:55.30,Default,,0000,0000,0000,,This is making me crazy!
+Dialogue: 0,0:45:55.56,0:45:59.98,Default,,0000,0000,0000,,I spent my last three bucks on the\nlicence to put it onto my playlist!
+Dialogue: 0,0:46:00.28,0:46:02.88,Default,,0000,0000,0000,,However, the licence to remove\nit from the playlist would be ...
+Dialogue: 0,0:46:02.88,0:46:04.07,Default,,0000,0000,0000,,another five bucks!
+Dialogue: 0,0:46:05.32,0:46:06.45,Default,,0000,0000,0000,,But I'm broke!
+Dialogue: 0,0:46:07.52,0:46:09.17,Default,,0000,0000,0000,,Alright, alright!
+Dialogue: 0,0:46:09.17,0:46:10.76,Default,,0000,0000,0000,,For the good of society!
+Dialogue: 0,0:46:11.36,0:46:12.74,Default,,0000,0000,0000,,Look into your pockets.
+Dialogue: 0,0:46:13.18,0:46:15.15,Default,,0000,0000,0000,,Does anyone have any\nspare change ...
+Dialogue: 0,0:46:15.15,0:46:17.04,Default,,0000,0000,0000,,so we can make this stop?
+Dialogue: 0,0:46:21.75,0:46:24.79,Default,,0000,0000,0000,,Okay, here we go.
+Dialogue: 0,0:46:30.65,0:46:33.42,Default,,0000,0000,0000,,Hello, this is your pilot speaking.
+Dialogue: 0,0:46:33.47,0:46:36.85,Default,,0000,0000,0000,,We are now above the brazilian\nrainforest near São Felix.
+Dialogue: 0,0:46:36.91,0:46:38.29,Default,,0000,0000,0000,,Get ready to jump!
+Dialogue: 0,0:46:38.26,0:46:41.03,Default,,0000,0000,0000,,I repeat:\nGet ready to jump!
+Dialogue: 0,0:46:42.27,0:46:43.47,Default,,0000,0000,0000,,What?
+Dialogue: 0,0:46:45.08,0:46:47.28,Default,,0000,0000,0000,,Get ready to ... jump?
+Dialogue: 0,0:46:48.08,0:46:50.85,Default,,0000,0000,0000,,Did you really believe\nthose straps were safety belts?
+Dialogue: 0,0:46:50.89,0:46:52.64,Default,,0000,0000,0000,,Well, in a way they are.
+Dialogue: 0,0:46:53.51,0:46:55.77,Default,,0000,0000,0000,,Don't you remember the line\nfrom that book?
+Dialogue: 0,0:46:55.80,0:47:00.33,Default,,0000,0000,0000,,"And many-a happy-go-lucky saint\nhas made that long long drop."
+Dialogue: 0,0:47:00.88,0:47:03.95,Default,,0000,0000,0000,,The management of Poke Arilines\nwishes you a pleasant flight!
+Dialogue: 0,0:47:06.68,0:47:09.02,Default,,0000,0000,0000,,Count to three and pull the cord!
+Dialogue: 0,0:47:09.05,0:47:10.11,Default,,0000,0000,0000,,One!
+Dialogue: 0,0:47:10.68,0:47:12.00,Default,,0000,0000,0000,,Two!
+Dialogue: 0,0:47:13.34,0:47:15.45,Default,,0000,0000,0000,,Three! Hehe!
+Dialogue: 0,0:47:16.38,0:47:18.09,Default,,0000,0000,0000,,Okay guys, are you ready?
+Dialogue: 0,0:47:18.12,0:47:19.27,Default,,0000,0000,0000,,Mika? Poke?
+Dialogue: 0,0:47:19.27,0:47:20.77,Default,,0000,0000,0000,,- Ready!\N- Let's rock!
+Dialogue: 0,0:47:41.47,0:47:43.40,Default,,0000,0000,0000,,Oh, sweet!
+Dialogue: 0,0:47:47.04,0:47:49.07,Default,,0000,0000,0000,,The one single hole ...
+Dialogue: 0,0:47:49.50,0:47:53.65,Default,,0000,0000,0000,,in the ground of the entire\ngoddamn rainforest ...
+Dialogue: 0,0:47:54.09,0:47:56.54,Default,,0000,0000,0000,,and I step into it at once!
+Dialogue: 0,0:47:58.19,0:48:00.46,Default,,0000,0000,0000,,Great ... This is just great.
+Dialogue: 0,0:48:00.96,0:48:02.88,Default,,0000,0000,0000,,A new world record!
+Dialogue: 0,0:48:02.91,0:48:05.80,Default,,0000,0000,0000,,I chipped eight claws,\nderanged my hairdo ...
+Dialogue: 0,0:48:05.93,0:48:08.80,Default,,0000,0000,0000,,ripped my clothes apart and\ndislocated one shoulder ...
+Dialogue: 0,0:48:08.80,0:48:10.55,Default,,0000,0000,0000,,in less than ten seconds!
+Dialogue: 0,0:48:12.26,0:48:14.69,Default,,0000,0000,0000,,This is number two on the\ntop ten worst things ...
+Dialogue: 0,0:48:14.68,0:48:16.10,Default,,0000,0000,0000,,that have ever happened to me.
+Dialogue: 0,0:48:16.33,0:48:17.72,Default,,0000,0000,0000,,Right after number one:
+Dialogue: 0,0:48:17.72,0:48:19.91,Default,,0000,0000,0000,,Being hit over the head\nwith a tomb stone!
+Dialogue: 0,0:48:21.76,0:48:23.99,Default,,0000,0000,0000,,And can somebody please\ncut off this thing?
+Dialogue: 0,0:48:29.32,0:48:30.92,Default,,0000,0000,0000,,I want to cry now ...
+Dialogue: 0,0:48:31.35,0:48:33.45,Default,,0000,0000,0000,,But I'm just too fed up with all this!
+Dialogue: 0,0:48:37.31,0:48:39.56,Default,,0000,0000,0000,,Having been kicked out of a plane ...
+Dialogue: 0,0:48:40.01,0:48:42.49,Default,,0000,0000,0000,,crashing into the brazilian\nrainforest ...
+Dialogue: 0,0:48:42.57,0:48:44.46,Default,,0000,0000,0000,,and landing inside this dark cave ...
+Dialogue: 0,0:48:44.46,0:48:46.33,Default,,0000,0000,0000,,that has obviously no other exit ...
+Dialogue: 0,0:48:46.33,0:48:48.26,Default,,0000,0000,0000,,than the skylight I fell through,
+Dialogue: 0,0:48:48.32,0:48:50.32,Default,,0000,0000,0000,,which I can't reach from down here.
+Dialogue: 0,0:48:51.63,0:48:54.76,Default,,0000,0000,0000,,It can't possibly get any worse\nthan this.
+Dialogue: 0,0:48:59.22,0:49:00.53,Default,,0000,0000,0000,,Uh oh ...
+Dialogue: 0,0:49:05.47,0:49:08.90,Default,,0000,0000,0000,,Oh no! not this time! Not this time!
+Dialogue: 0,0:49:09.31,0:49:10.48,Default,,0000,0000,0000,,Stop!
+Dialogue: 0,0:49:22.35,0:49:25.55,Default,,0000,0000,0000,,This is so depressing ...
+Dialogue: 0,0:49:29.27,0:49:32.99,Default,,0000,0000,0000,,Thousand years of waiting\nfor the next adventurers ...
+Dialogue: 0,0:49:33.02,0:49:35.83,Default,,0000,0000,0000,,coming into my cave\nto be crushed by me ...
+Dialogue: 0,0:49:36.28,0:49:39.60,Default,,0000,0000,0000,,And now they don't even run away\nfrom me anymore.
+Dialogue: 0,0:49:40.38,0:49:43.05,Default,,0000,0000,0000,,This is so depressing.
+Dialogue: 0,0:49:44.68,0:49:47.67,Default,,0000,0000,0000,,You are not going to crush me?
+Dialogue: 0,0:49:48.21,0:49:51.43,Default,,0000,0000,0000,,Oh, I can still do it if you want to.
+Dialogue: 0,0:49:52.06,0:49:53.12,Default,,0000,0000,0000,,Although ...
+Dialogue: 0,0:49:53.19,0:49:55.78,Default,,0000,0000,0000,,It's not much fun if you\ndon't run away.
+Dialogue: 0,0:49:56.16,0:49:58.66,Default,,0000,0000,0000,,Hold still, I'll make it quick.
+Dialogue: 0,0:49:58.82,0:50:00.41,Default,,0000,0000,0000,,Oh! No, no no nonono!
+Dialogue: 0,0:50:00.40,0:50:02.94,Default,,0000,0000,0000,,I just changed my mind,\nthank you very much.
+Dialogue: 0,0:50:04.07,0:50:05.31,Default,,0000,0000,0000,,What's your name?
+Dialogue: 0,0:50:05.59,0:50:07.19,Default,,0000,0000,0000,,Does it matter?
+Dialogue: 0,0:50:07.59,0:50:09.64,Default,,0000,0000,0000,,To me? Yes, it does.
+Dialogue: 0,0:50:09.87,0:50:11.65,Default,,0000,0000,0000,,I used to have a name ...
+Dialogue: 0,0:50:11.79,0:50:14.69,Default,,0000,0000,0000,,but I'm too depressed to remember.
+Dialogue: 0,0:50:16.16,0:50:18.79,Default,,0000,0000,0000,,What makes you so depressed?
+Dialogue: 0,0:50:18.91,0:50:22.66,Default,,0000,0000,0000,,Well, are you happy to be down here?
+Dialogue: 0,0:50:23.85,0:50:25.68,Default,,0000,0000,0000,,Uh, no. Why?
+Dialogue: 0,0:50:25.81,0:50:27.26,Default,,0000,0000,0000,,See what I mean?
+Dialogue: 0,0:50:27.58,0:50:30.37,Default,,0000,0000,0000,,They put me in this cave and told me,
+Dialogue: 0,0:50:30.49,0:50:32.62,Default,,0000,0000,0000,,"Watch over this glowing stone!"
+Dialogue: 0,0:50:32.80,0:50:35.86,Default,,0000,0000,0000,,"If anyone wants to touch it,\ncrush them!"
+Dialogue: 0,0:50:36.07,0:50:38.06,Default,,0000,0000,0000,,They made me believe that it's ...
+Dialogue: 0,0:50:38.06,0:50:40.15,Default,,0000,0000,0000,,an incredibly honorable task ...
+Dialogue: 0,0:50:40.20,0:50:43.00,Default,,0000,0000,0000,,and that I'll be richly rewarded\nsome day.
+Dialogue: 0,0:50:43.33,0:50:44.49,Default,,0000,0000,0000,,And then they said,
+Dialogue: 0,0:50:44.54,0:50:45.73,Default,,0000,0000,0000,,"Good bye!" ...
+Dialogue: 0,0:50:45.75,0:50:48.10,Default,,0000,0000,0000,,and made the entrance\nof the cave collapse.
+Dialogue: 0,0:50:48.60,0:50:51.63,Default,,0000,0000,0000,,I feel so stupid!
+Dialogue: 0,0:50:52.62,0:50:53.95,Default,,0000,0000,0000,,Have you never tried ...
+Dialogue: 0,0:50:53.95,0:50:56.51,Default,,0000,0000,0000,,breaking through the barrier\nof the cave entrance?
+Dialogue: 0,0:50:56.90,0:50:58.77,Default,,0000,0000,0000,,I tried that once.
+Dialogue: 0,0:50:59.07,0:51:02.04,Default,,0000,0000,0000,,The only thing that happened\nwas a loud "Crunch!"
+Dialogue: 0,0:51:02.35,0:51:04.95,Default,,0000,0000,0000,,And when I regained my senses\nI found out ...
+Dialogue: 0,0:51:05.11,0:51:08.18,Default,,0000,0000,0000,,that several small parts had\ncrumbled off me.
+Dialogue: 0,0:51:08.46,0:51:09.72,Default,,0000,0000,0000,,Mh ... Ouch!
+Dialogue: 0,0:51:09.81,0:51:11.63,Default,,0000,0000,0000,,That must have hurt badly.
+Dialogue: 0,0:51:11.78,0:51:12.90,Default,,0000,0000,0000,,It did hurt.
+Dialogue: 0,0:51:13.18,0:51:15.12,Default,,0000,0000,0000,,But it's not the worst thing.
+Dialogue: 0,0:51:15.70,0:51:17.60,Default,,0000,0000,0000,,Not? What happened?
+Dialogue: 0,0:51:19.16,0:51:21.44,Default,,0000,0000,0000,,Papa! Papa!
+Dialogue: 0,0:51:21.51,0:51:23.38,Default,,0000,0000,0000,,Papa, Papa!
+Dialogue: 0,0:51:23.68,0:51:25.42,Default,,0000,0000,0000,,- Papa!\N- Oh no ...
+Dialogue: 0,0:51:25.89,0:51:28.09,Default,,0000,0000,0000,,Not again you ...
+Dialogue: 0,0:51:36.36,0:51:39.37,Default,,0000,0000,0000,,"Papa is a rolling stone!"
+Dialogue: 0,0:51:40.86,0:51:44.40,Default,,0000,0000,0000,,"Crushing adventurers who\nfall in his home."
+Dialogue: 0,0:51:44.63,0:51:46.79,Default,,0000,0000,0000,,"And when they die,"
+Dialogue: 0,0:51:46.92,0:51:51.39,Default,,0000,0000,0000,,"All that's left are broken bones."
+Dialogue: 0,0:51:59.66,0:52:02.70,Default,,0000,0000,0000,,"It was the third of September."
+Dialogue: 0,0:52:03.99,0:52:07.09,Default,,0000,0000,0000,,"This day I'll always remember."
+Dialogue: 0,0:52:09.56,0:52:11.59,Default,,0000,0000,0000,,"'Cause that was the day."
+Dialogue: 0,0:52:12.12,0:52:15.30,Default,,0000,0000,0000,,"When I realized,"
+Dialogue: 0,0:52:18.03,0:52:21.47,Default,,0000,0000,0000,,"I'll never have a chance to leave here."
+Dialogue: 0,0:52:22.16,0:52:25.96,Default,,0000,0000,0000,,"I'm dumb like a rock\nstill I try to break free."
+Dialogue: 0,0:52:26.51,0:52:29.11,Default,,0000,0000,0000,,"Children I'm depending on you,"
+Dialogue: 0,0:52:29.31,0:52:31.62,Default,,0000,0000,0000,,"To help me get out."
+Dialogue: 0,0:52:31.76,0:52:34.58,Default,,0000,0000,0000,,"But no! Instead they keep singing:"
+Dialogue: 0,0:52:34.86,0:52:37.62,Default,,0000,0000,0000,,"Papa is a rolling stone!"
+Dialogue: 0,0:52:39.21,0:52:42.81,Default,,0000,0000,0000,,"Crushing adventurers who\nfall in his home."
+Dialogue: 0,0:52:43.08,0:52:45.09,Default,,0000,0000,0000,,"And when they die,"
+Dialogue: 0,0:52:45.29,0:52:49.25,Default,,0000,0000,0000,,"All that's left are broken bones."
+Dialogue: 0,0:52:51.50,0:52:54.25,Default,,0000,0000,0000,,"Papa is a rolling stone!"
+Dialogue: 0,0:52:55.99,0:52:59.45,Default,,0000,0000,0000,,"Crushing adventurers who\nfall in his home."
+Dialogue: 0,0:52:59.63,0:53:01.58,Default,,0000,0000,0000,,"And when they die,"
+Dialogue: 0,0:53:01.83,0:53:06.01,Default,,0000,0000,0000,,"All that's left are broken bones."
+Dialogue: 0,0:53:26.03,0:53:26.83,Default,,0000,0000,0000,,See?
+Dialogue: 0,0:53:27.08,0:53:29.39,Default,,0000,0000,0000,,This is the only song they know.
+Dialogue: 0,0:53:29.55,0:53:31.33,Default,,0000,0000,0000,,And they've been\nsinging it every day ...
+Dialogue: 0,0:53:31.32,0:53:33.07,Default,,0000,0000,0000,,for thousands of years.
+Dialogue: 0,0:53:33.50,0:53:36.16,Default,,0000,0000,0000,,Man, I'm so depressed.
+Dialogue: 0,0:53:36.71,0:53:38.41,Default,,0000,0000,0000,,I'm going to crush you now.
+Dialogue: 0,0:53:38.42,0:53:41.10,Default,,0000,0000,0000,,No! No, no no no,\nwait, wait, wait, wait!
+Dialogue: 0,0:53:41.91,0:53:44.88,Default,,0000,0000,0000,,You remind me of something\nI read in a book!
+Dialogue: 0,0:53:46.94,0:53:51.16,Default,,0000,0000,0000,,"This is the rock that rolls,\nnot moving too fast or too slow."
+Dialogue: 0,0:53:51.38,0:53:55.51,Default,,0000,0000,0000,,"This is the rock that rolls,\nas soon as it hits you, you'll know."
+Dialogue: 0,0:53:55.79,0:53:58.25,Default,,0000,0000,0000,,They wrote a book about me?
+Dialogue: 0,0:53:58.24,0:53:58.89,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:53:58.96,0:54:01.59,Default,,0000,0000,0000,,It's the journal of the\nworld renowned ...
+Dialogue: 0,0:54:03.05,0:54:04.74,Default,,0000,0000,0000,,stonaeologist ...
+Dialogue: 0,0:54:04.80,0:54:06.79,Default,,0000,0000,0000,,Dr. Christopher Scruffycat.
+Dialogue: 0,0:54:07.05,0:54:09.23,Default,,0000,0000,0000,,You know what? You're famous!
+Dialogue: 0,0:54:09.29,0:54:11.03,Default,,0000,0000,0000,,That's where I know you from!
+Dialogue: 0,0:54:11.09,0:54:12.64,Default,,0000,0000,0000,,Oh, great!
+Dialogue: 0,0:54:12.63,0:54:14.28,Default,,0000,0000,0000,,So, now I'm famous.
+Dialogue: 0,0:54:14.64,0:54:19.22,Default,,0000,0000,0000,,But what good is that to me\nif I can't even leave this place?
+Dialogue: 0,0:54:19.35,0:54:20.36,Default,,0000,0000,0000,,Thank you.
+Dialogue: 0,0:54:20.36,0:54:23.66,Default,,0000,0000,0000,,Now I'm even more depressed\nthan ever before.
+Dialogue: 0,0:54:25.25,0:54:27.86,Default,,0000,0000,0000,,But you can leave this place!
+Dialogue: 0,0:54:27.96,0:54:30.73,Default,,0000,0000,0000,,All you have to do is\nslam through the barrier!
+Dialogue: 0,0:54:30.88,0:54:33.84,Default,,0000,0000,0000,,I already tried and I failed.
+Dialogue: 0,0:54:33.85,0:54:35.39,Default,,0000,0000,0000,,Hey, let me tell you something.
+Dialogue: 0,0:54:35.76,0:54:38.81,Default,,0000,0000,0000,,Don't let your failures define\nwho you are!
+Dialogue: 0,0:54:39.24,0:54:41.69,Default,,0000,0000,0000,,You're only a failure if you\nfail to try!
+Dialogue: 0,0:54:42.02,0:54:44.77,Default,,0000,0000,0000,,- But I tried!\N- Then try again!
+Dialogue: 0,0:54:45.42,0:54:47.25,Default,,0000,0000,0000,,You're a strong piece of rock ...
+Dialogue: 0,0:54:47.25,0:54:48.87,Default,,0000,0000,0000,,and you're made to roll!
+Dialogue: 0,0:54:50.15,0:54:51.87,Default,,0000,0000,0000,,Do you really think so?
+Dialogue: 0,0:54:51.99,0:54:54.36,Default,,0000,0000,0000,,Sure! I must know, I read the book!
+Dialogue: 0,0:54:54.63,0:54:56.62,Default,,0000,0000,0000,,You're the mightiest rock in the world!
+Dialogue: 0,0:54:56.87,0:54:59.24,Default,,0000,0000,0000,,Come on! Tell me you can do it!
+Dialogue: 0,0:55:00.09,0:55:01.50,Default,,0000,0000,0000,,Can I?
+Dialogue: 0,0:55:01.66,0:55:04.06,Default,,0000,0000,0000,,Come on, I know you can do it!
+Dialogue: 0,0:55:04.06,0:55:05.52,Default,,0000,0000,0000,,Give me an "R"!
+Dialogue: 0,0:55:05.65,0:55:06.66,Default,,0000,0000,0000,,"R"?
+Dialogue: 0,0:55:07.00,0:55:08.59,Default,,0000,0000,0000,,Give me an "O"!
+Dialogue: 0,0:55:08.67,0:55:10.80,Default,,0000,0000,0000,,- "O"!\N- "Give me a "C"!
+Dialogue: 0,0:55:10.82,0:55:12.82,Default,,0000,0000,0000,,- "C"!\N- Give me a "K"!
+Dialogue: 0,0:55:12.84,0:55:13.84,Default,,0000,0000,0000,,"K"!
+Dialogue: 0,0:55:13.84,0:55:15.58,Default,,0000,0000,0000,,Who are you?
+Dialogue: 0,0:55:15.61,0:55:18.09,Default,,0000,0000,0000,,I am "The Rock"!
+Dialogue: 0,0:55:18.10,0:55:18.96,Default,,0000,0000,0000,,Yes!
+Dialogue: 0,0:55:19.64,0:55:21.39,Default,,0000,0000,0000,,And now you're going out there ...
+Dialogue: 0,0:55:21.39,0:55:22.62,Default,,0000,0000,0000,,and show them!
+Dialogue: 0,0:55:22.64,0:55:24.92,Default,,0000,0000,0000,,- Yes!\N- Nobody can stop you!
+Dialogue: 0,0:55:24.94,0:55:27.04,Default,,0000,0000,0000,,Go, go go!
+Dialogue: 0,0:55:27.06,0:55:30.07,Default,,0000,0000,0000,,- Let's roll!\N- Yeah!
+Dialogue: 0,0:55:37.86,0:55:40.49,Default,,0000,0000,0000,,Yes! You made it! You're great!
+Dialogue: 0,0:55:40.49,0:55:42.90,Default,,0000,0000,0000,,- Fantastic!\N- Yeah!
+Dialogue: 0,0:55:44.40,0:55:46.84,Default,,0000,0000,0000,,The powers of positive thinking.
+Dialogue: 0,0:55:49.01,0:55:50.51,Default,,0000,0000,0000,,There's some truth in the saying,
+Dialogue: 0,0:55:50.50,0:55:51.72,Default,,0000,0000,0000,,"Being dumb like a rock".
+Dialogue: 0,0:55:51.98,0:55:53.48,Default,,0000,0000,0000,,I'm free!
+Dialogue: 0,0:55:53.59,0:55:55.29,Default,,0000,0000,0000,,It's wonderful!
+Dialogue: 0,0:55:55.39,0:55:58.59,Default,,0000,0000,0000,,The flowers are blooming and\nthe birds are singing!
+Dialogue: 0,0:55:58.68,0:56:00.81,Default,,0000,0000,0000,,And ... and ...
+Dialogue: 0,0:56:00.92,0:56:03.24,Default,,0000,0000,0000,,Oh, I landed on a slope!
+Dialogue: 0,0:56:04.50,0:56:07.05,Default,,0000,0000,0000,,Out of the way! I can't stop!
+Dialogue: 0,0:56:07.14,0:56:08.69,Default,,0000,0000,0000,,It's going down!
+Dialogue: 0,0:56:10.07,0:56:12.56,Default,,0000,0000,0000,,No, no! Not the tree!
+Dialogue: 0,0:56:12.81,0:56:14.40,Default,,0000,0000,0000,,Incoming!
+Dialogue: 0,0:56:15.04,0:56:16.27,Default,,0000,0000,0000,,Sorry!
+Dialogue: 0,0:56:16.45,0:56:18.87,Default,,0000,0000,0000,,Oh no! Be careful, old lady!
+Dialogue: 0,0:56:18.88,0:56:20.15,Default,,0000,0000,0000,,Out of the way!
+Dialogue: 0,0:56:23.65,0:56:27.31,Default,,0000,0000,0000,,Oh no, no!\nNot the guy with the fruit stand!
+Dialogue: 0,0:56:28.27,0:56:30.89,Default,,0000,0000,0000,,Vaffanculo! Puttano! Bastardo!\nPompino! Cabeza de mierda!
+Dialogue: 0,0:56:30.88,0:56:32.32,Default,,0000,0000,0000,,Melonas! Ananas! Bananas!
+Dialogue: 0,0:56:32.42,0:56:33.73,Default,,0000,0000,0000,,I'm sorry!
+Dialogue: 0,0:56:40.55,0:56:42.42,Default,,0000,0000,0000,,So this is the little glowing thing ...
+Dialogue: 0,0:56:42.42,0:56:44.26,Default,,0000,0000,0000,,the rock was supposed to protect.
+Dialogue: 0,0:56:45.16,0:56:47.17,Default,,0000,0000,0000,,I wonder what it might be good for.
+Dialogue: 0,0:57:04.04,0:57:06.11,Default,,0000,0000,0000,,And strange sounds it makes.
+Dialogue: 0,0:57:06.59,0:57:09.12,Default,,0000,0000,0000,,Better I take it with me.\nYou never know.
+Dialogue: 0,0:57:10.62,0:57:13.26,Default,,0000,0000,0000,,Oh look! Look!\nShe's taking the glowing stone!
+Dialogue: 0,0:57:13.27,0:57:14.48,Default,,0000,0000,0000,,We must crush her!
+Dialogue: 0,0:57:14.91,0:57:16.12,Default,,0000,0000,0000,,We must crush her!
+Dialogue: 0,0:57:20.02,0:57:21.31,Default,,0000,0000,0000,,I'll crush her!
+Dialogue: 0,0:57:45.10,0:57:48.37,Default,,0000,0000,0000,,One! Two! Three!
+Dialogue: 0,0:57:48.37,0:57:49.94,Default,,0000,0000,0000,,Pull the cord!
+Dialogue: 0,0:57:50.61,0:57:51.79,Default,,0000,0000,0000,,Nothing's happening!
+Dialogue: 0,0:57:51.79,0:57:54.07,Default,,0000,0000,0000,,No, Lionel! Pull it again!
+Dialogue: 0,0:57:54.10,0:57:57.29,Default,,0000,0000,0000,,It won't open! Help! Help!
+Dialogue: 0,0:58:04.27,0:58:05.82,Default,,0000,0000,0000,,Lionel?
+Dialogue: 0,0:58:05.92,0:58:07.46,Default,,0000,0000,0000,,Lionel!
+Dialogue: 0,0:58:07.51,0:58:08.75,Default,,0000,0000,0000,,Can you hear me?
+Dialogue: 0,0:58:08.82,0:58:09.94,Default,,0000,0000,0000,,Can you hear me?
+Dialogue: 0,0:58:09.94,0:58:11.35,Default,,0000,0000,0000,,Oh, wake up, Lionel!
+Dialogue: 0,0:58:11.35,0:58:12.86,Default,,0000,0000,0000,,You must wake up!
+Dialogue: 0,0:58:12.92,0:58:14.60,Default,,0000,0000,0000,,Oh, Lionel! Please!
+Dialogue: 0,0:58:15.32,0:58:16.90,Default,,0000,0000,0000,,You must not die!
+Dialogue: 0,0:58:17.25,0:58:19.76,Default,,0000,0000,0000,,Not here, not now!
+Dialogue: 0,0:58:20.17,0:58:21.76,Default,,0000,0000,0000,,Lionel!
+Dialogue: 0,0:58:26.14,0:58:27.49,Default,,0000,0000,0000,,Hello?
+Dialogue: 0,0:58:29.65,0:58:30.83,Default,,0000,0000,0000,,Where am I?
+Dialogue: 0,0:58:31.84,0:58:33.22,Default,,0000,0000,0000,,Is anybody here?
+Dialogue: 0,0:58:34.19,0:58:35.47,Default,,0000,0000,0000,,Am I dead?
+Dialogue: 0,0:58:46.43,0:58:49.31,Default,,0000,0000,0000,,Hello Lionel!
+Dialogue: 0,0:58:50.22,0:58:52.46,Default,,0000,0000,0000,,How do you like it down here?
+Dialogue: 0,0:58:52.68,0:58:54.22,Default,,0000,0000,0000,,Are you comfortable?
+Dialogue: 0,0:58:54.39,0:58:59.03,Default,,0000,0000,0000,,Because, now it's time\nto think, Lionel.
+Dialogue: 0,0:58:59.67,0:59:01.98,Default,,0000,0000,0000,,Why did you go to Egypt?
+Dialogue: 0,0:59:02.43,0:59:06.05,Default,,0000,0000,0000,,Was it because you cared\nabout your father's wishes?
+Dialogue: 0,0:59:06.48,0:59:08.96,Default,,0000,0000,0000,,Or was it just because you hoped ...
+Dialogue: 0,0:59:09.06,0:59:11.16,Default,,0000,0000,0000,,your heritage would\ncontain more ...
+Dialogue: 0,0:59:11.19,0:59:13.74,Default,,0000,0000,0000,,than just a dusty book?
+Dialogue: 0,0:59:14.61,0:59:17.01,Default,,0000,0000,0000,,Were you hoping for money?
+Dialogue: 0,0:59:17.07,0:59:19.63,Default,,0000,0000,0000,,Gold? Treasures?
+Dialogue: 0,0:59:19.97,0:59:22.05,Default,,0000,0000,0000,,Would you have traveled\nall the way ...
+Dialogue: 0,0:59:22.07,0:59:24.66,Default,,0000,0000,0000,,if you had known\nwhat your heritage was?
+Dialogue: 0,0:59:25.49,0:59:27.01,Default,,0000,0000,0000,,Come on!
+Dialogue: 0,0:59:27.11,0:59:30.55,Default,,0000,0000,0000,,You can admit it, now that it's over.
+Dialogue: 0,0:59:31.18,0:59:34.13,Default,,0000,0000,0000,,Was it worth having one\nof your best friends ...
+Dialogue: 0,0:59:34.15,0:59:38.17,Default,,0000,0000,0000,,kicked out of an airplane\nat five thousand feet?
+Dialogue: 0,0:59:39.49,0:59:41.81,Default,,0000,0000,0000,,Think, Lionel!
+Dialogue: 0,0:59:42.13,0:59:43.99,Default,,0000,0000,0000,,Think!
+Dialogue: 0,0:59:44.93,0:59:45.77,Default,,0000,0000,0000,,But ...
+Dialogue: 0,0:59:46.56,0:59:48.62,Default,,0000,0000,0000,,But, I was ... I was just ...
+Dialogue: 0,0:59:49.86,0:59:51.34,Default,,0000,0000,0000,,Well ... uh ...
+Dialogue: 0,0:59:52.01,0:59:54.12,Default,,0000,0000,0000,,Let me explain, please!
+Dialogue: 0,0:59:55.51,0:59:56.70,Default,,0000,0000,0000,,Lori!
+Dialogue: 0,0:59:58.01,1:00:00.38,Default,,0000,0000,0000,,Lori, please! No!
+Dialogue: 0,1:00:02.96,1:00:04.37,Default,,0000,0000,0000,,Let me explain!
+Dialogue: 0,1:00:05.37,1:00:06.75,Default,,0000,0000,0000,,Poke?
+Dialogue: 0,1:00:07.10,1:00:10.52,Default,,0000,0000,0000,,Woo-hoo! Lionel!
+Dialogue: 0,1:00:10.88,1:00:12.30,Default,,0000,0000,0000,,You da man!
+Dialogue: 0,1:00:12.44,1:00:14.54,Default,,0000,0000,0000,,This crash through the trees!
+Dialogue: 0,1:00:14.54,1:00:16.06,Default,,0000,0000,0000,,Mar-ve-lous!
+Dialogue: 0,1:00:16.28,1:00:18.55,Default,,0000,0000,0000,,Your father would have been\nproud of you!
+Dialogue: 0,1:00:18.73,1:00:20.59,Default,,0000,0000,0000,,If you had survived, that is.
+Dialogue: 0,1:00:20.87,1:00:22.14,Default,,0000,0000,0000,,Hey, come on!
+Dialogue: 0,1:00:22.37,1:00:25.00,Default,,0000,0000,0000,,Now that it's over nothing\nmatters anymore.
+Dialogue: 0,1:00:25.09,1:00:26.51,Default,,0000,0000,0000,,Let's get drunk!
+Dialogue: 0,1:00:26.79,1:00:28.62,Default,,0000,0000,0000,,I'd like to bring out a toast ...
+Dialogue: 0,1:00:28.62,1:00:32.17,Default,,0000,0000,0000,,to the marvelous\nLionel Scruffycat.
+Dialogue: 0,1:00:32.27,1:00:35.45,Default,,0000,0000,0000,,Getting himself killed while\nfoolishly attempting to make up ...
+Dialogue: 0,1:00:35.45,1:00:38.87,Default,,0000,0000,0000,,for the failures of a lifetime\nin less than a week!
+Dialogue: 0,1:00:38.86,1:00:40.03,Default,,0000,0000,0000,,Cheers!
+Dialogue: 0,1:00:40.60,1:00:43.47,Default,,0000,0000,0000,,Poke, Poke! No! It's not true!
+Dialogue: 0,1:00:43.78,1:00:44.80,Default,,0000,0000,0000,,No ...
+Dialogue: 0,1:00:44.99,1:00:47.74,Default,,0000,0000,0000,,At least ... It's only partly true.
+Dialogue: 0,1:00:48.16,1:00:49.55,Default,,0000,0000,0000,,Poke ...
+Dialogue: 0,1:00:50.40,1:00:52.87,Default,,0000,0000,0000,,Why does nobody listen to me?
+Dialogue: 0,1:00:56.11,1:00:57.14,Default,,0000,0000,0000,,Dad?
+Dialogue: 0,1:00:57.45,1:00:59.94,Default,,0000,0000,0000,,Is that you? You're alive?
+Dialogue: 0,1:01:00.74,1:01:03.54,Default,,0000,0000,0000,,You didn't care for the last\nten years ...
+Dialogue: 0,1:01:03.59,1:01:05.74,Default,,0000,0000,0000,,so why would you care now?
+Dialogue: 0,1:01:05.97,1:01:07.34,Default,,0000,0000,0000,,No ... I ...
+Dialogue: 0,1:01:07.39,1:01:09.48,Default,,0000,0000,0000,,Please ... Listen to me!
+Dialogue: 0,1:01:09.60,1:01:11.33,Default,,0000,0000,0000,,We don't have much time.
+Dialogue: 0,1:01:11.53,1:01:13.93,Default,,0000,0000,0000,,You are my son. And for me ...
+Dialogue: 0,1:01:13.94,1:01:15.29,Default,,0000,0000,0000,,you have always been the most ...
+Dialogue: 0,1:01:15.29,1:01:16.75,Default,,0000,0000,0000,,precious thing in the world.
+Dialogue: 0,1:01:16.95,1:01:19.98,Default,,0000,0000,0000,,Leaving you alone like this\nwas the hardest decision ...
+Dialogue: 0,1:01:20.06,1:01:21.58,Default,,0000,0000,0000,,I ever had to make.
+Dialogue: 0,1:01:21.60,1:01:23.35,Default,,0000,0000,0000,,But things were at stake ...
+Dialogue: 0,1:01:23.36,1:01:24.75,Default,,0000,0000,0000,,that were so important ...
+Dialogue: 0,1:01:24.95,1:01:27.89,Default,,0000,0000,0000,,not just for you, but for the\nentire world ...
+Dialogue: 0,1:01:27.95,1:01:29.89,Default,,0000,0000,0000,,that I had no other choice!
+Dialogue: 0,1:01:30.17,1:01:32.34,Default,,0000,0000,0000,,Please, you must trust me!
+Dialogue: 0,1:01:32.38,1:01:34.36,Default,,0000,0000,0000,,It saddens me to see that you have ...
+Dialogue: 0,1:01:34.38,1:01:35.64,Default,,0000,0000,0000,,stopped believing in me.
+Dialogue: 0,1:01:35.83,1:01:37.16,Default,,0000,0000,0000,,But it's not too late!
+Dialogue: 0,1:01:37.41,1:01:39.39,Default,,0000,0000,0000,,You must fulfill my legacy ...
+Dialogue: 0,1:01:39.42,1:01:41.89,Default,,0000,0000,0000,,or otherwise the world\nmay be changed forever!
+Dialogue: 0,1:01:42.04,1:01:44.41,Default,,0000,0000,0000,,Trust me, Lionel, because ...
+Dialogue: 0,1:01:44.43,1:01:45.64,Default,,0000,0000,0000,,I am your father.
+Dialogue: 0,1:01:45.87,1:01:47.59,Default,,0000,0000,0000,,I'm proud of you, Lionel.
+Dialogue: 0,1:01:47.68,1:01:49.20,Default,,0000,0000,0000,,I always was.
+Dialogue: 0,1:01:49.63,1:01:50.94,Default,,0000,0000,0000,,I love you.
+Dialogue: 0,1:01:52.30,1:01:54.76,Default,,0000,0000,0000,,No, Dad Come back!
+Dialogue: 0,1:01:54.87,1:01:56.04,Default,,0000,0000,0000,,Don't leave me!
+Dialogue: 0,1:01:56.47,1:01:57.94,Default,,0000,0000,0000,,Don't leave me again ...
+Dialogue: 0,1:01:58.36,1:02:01.16,Default,,0000,0000,0000,,There's so much I need to tell you\nwhich I never did ...
+Dialogue: 0,1:02:01.16,1:02:02.40,Default,,0000,0000,0000,,even if I should have.
+Dialogue: 0,1:02:02.64,1:02:04.96,Default,,0000,0000,0000,,Dad ... please ...
+Dialogue: 0,1:02:11.76,1:02:13.80,Default,,0000,0000,0000,,Oh, Lionel!
+Dialogue: 0,1:02:13.85,1:02:17.39,Default,,0000,0000,0000,,Now you see where you got\nyourself with logic!
+Dialogue: 0,1:02:17.76,1:02:20.78,Default,,0000,0000,0000,,If only once you had\nfollowed your heart.
+Dialogue: 0,1:02:21.26,1:02:23.28,Default,,0000,0000,0000,,Now you put not only yourself ...
+Dialogue: 0,1:02:23.43,1:02:25.86,Default,,0000,0000,0000,,but all of your friends in danger!
+Dialogue: 0,1:02:26.13,1:02:27.46,Default,,0000,0000,0000,,And why?
+Dialogue: 0,1:02:27.78,1:02:29.75,Default,,0000,0000,0000,,Because, you're a coward!
+Dialogue: 0,1:02:30.23,1:02:33.33,Default,,0000,0000,0000,,The only reason why you never\ntalked to your father was ...
+Dialogue: 0,1:02:33.44,1:02:36.76,Default,,0000,0000,0000,,because you were afraid to\nconfront yourself with him!
+Dialogue: 0,1:02:37.20,1:02:38.98,Default,,0000,0000,0000,,What are you?
+Dialogue: 0,1:02:39.10,1:02:41.16,Default,,0000,0000,0000,,A big, strong lion?
+Dialogue: 0,1:02:41.49,1:02:43.36,Default,,0000,0000,0000,,I will tell you what you are.
+Dialogue: 0,1:02:43.47,1:02:44.81,Default,,0000,0000,0000,,You're a sheep!
+Dialogue: 0,1:02:44.91,1:02:46.79,Default,,0000,0000,0000,,Baaaah! Lionel!
+Dialogue: 0,1:02:46.85,1:02:48.77,Default,,0000,0000,0000,,I bet when you were at school ...
+Dialogue: 0,1:02:48.83,1:02:51.16,Default,,0000,0000,0000,,you were beaten up by the girls!
+Dialogue: 0,1:02:55.92,1:02:56.79,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,1:02:57.00,1:02:58.32,Default,,0000,0000,0000,,That hurt!
+Dialogue: 0,1:02:58.44,1:03:00.19,Default,,0000,0000,0000,,Oh now, come on!
+Dialogue: 0,1:03:00.29,1:03:02.29,Default,,0000,0000,0000,,Do you dare hitting me back?
+Dialogue: 0,1:03:02.34,1:03:05.06,Default,,0000,0000,0000,,Oh, come on!\nYou don't dare hitting me?
+Dialogue: 0,1:03:05.27,1:03:08.97,Default,,0000,0000,0000,,Lionel is a coward!\nLionel is a coward!
+Dialogue: 0,1:03:09.04,1:03:10.23,Default,,0000,0000,0000,,Baaaah!
+Dialogue: 0,1:03:11.83,1:03:14.21,Default,,0000,0000,0000,,Mika, no! Stop hitting me, please!
+Dialogue: 0,1:03:15.08,1:03:18.26,Default,,0000,0000,0000,,You're just getting what\nyou deserve, Lionel!
+Dialogue: 0,1:03:18.47,1:03:21.07,Default,,0000,0000,0000,,Sometimes the truth does hurt!
+Dialogue: 0,1:03:21.17,1:03:23.19,Default,,0000,0000,0000,,Oh, come on! Fight!
+Dialogue: 0,1:03:23.27,1:03:24.37,Default,,0000,0000,0000,,Fight!
+Dialogue: 0,1:03:24.39,1:03:25.53,Default,,0000,0000,0000,,You coward!
+Dialogue: 0,1:03:25.55,1:03:27.54,Default,,0000,0000,0000,,Finally learn how to fight!
+Dialogue: 0,1:03:27.87,1:03:30.64,Default,,0000,0000,0000,,Nobody messes with Mika!
+Dialogue: 0,1:03:30.98,1:03:33.33,Default,,0000,0000,0000,,No, no, no! I don't want to!
+Dialogue: 0,1:03:33.34,1:03:36.89,Default,,0000,0000,0000,,No, please! No! Ouch!
+Dialogue: 0,1:03:37.00,1:03:39.31,Default,,0000,0000,0000,,No, no! Don't hit me, please!
+Dialogue: 0,1:03:42.60,1:03:43.66,Default,,0000,0000,0000,,Lionel!
+Dialogue: 0,1:03:43.97,1:03:45.23,Default,,0000,0000,0000,,Lionel!
+Dialogue: 0,1:03:45.39,1:03:46.84,Default,,0000,0000,0000,,Wake up!
+Dialogue: 0,1:03:46.97,1:03:48.98,Default,,0000,0000,0000,,Please! Oh, come on, Lionel!
+Dialogue: 0,1:03:49.03,1:03:50.57,Default,,0000,0000,0000,,You must not die!
+Dialogue: 0,1:03:50.64,1:03:52.23,Default,,0000,0000,0000,,Lionel!
+Dialogue: 0,1:03:53.66,1:03:55.33,Default,,0000,0000,0000,,We've come this far!
+Dialogue: 0,1:03:55.53,1:03:57.16,Default,,0000,0000,0000,,You can't leave me now!
+Dialogue: 0,1:03:57.28,1:03:58.95,Default,,0000,0000,0000,,Don't leave me!
+Dialogue: 0,1:04:01.04,1:04:02.39,Default,,0000,0000,0000,,Oh no ...
+Dialogue: 0,1:04:02.78,1:04:04.52,Default,,0000,0000,0000,,This can't be true!
+Dialogue: 0,1:04:04.82,1:04:06.16,Default,,0000,0000,0000,,Oh, Lionel!
+Dialogue: 0,1:04:06.45,1:04:08.43,Default,,0000,0000,0000,,I can't live without you!
+Dialogue: 0,1:04:08.80,1:04:11.44,Default,,0000,0000,0000,,And there's so much I wanted\nto tell you, but ...
+Dialogue: 0,1:04:11.71,1:04:13.00,Default,,0000,0000,0000,,but I never dared.
+Dialogue: 0,1:04:13.31,1:04:15.03,Default,,0000,0000,0000,,Oh, please!
+Dialogue: 0,1:04:16.91,1:04:18.68,Default,,0000,0000,0000,,I never had the chance to say ...
+Dialogue: 0,1:04:18.68,1:04:20.15,Default,,0000,0000,0000,,how much I love you!
+Dialogue: 0,1:04:21.55,1:04:23.40,Default,,0000,0000,0000,,What am I going to do now?
+Dialogue: 0,1:04:23.79,1:04:25.78,Default,,0000,0000,0000,,Oh, this is so terrible!
+Dialogue: 0,1:04:29.22,1:04:30.71,Default,,0000,0000,0000,,- Ow!\N- Lionel!
+Dialogue: 0,1:04:30.98,1:04:32.70,Default,,0000,0000,0000,,Lionel! You're alive!
+Dialogue: 0,1:04:32.86,1:04:34.02,Default,,0000,0000,0000,,Lionel!
+Dialogue: 0,1:04:34.22,1:04:37.09,Default,,0000,0000,0000,,No! don't hit me please!\nDon't hit me!
+Dialogue: 0,1:04:38.03,1:04:39.44,Default,,0000,0000,0000,,Are you alright?
+Dialogue: 0,1:04:39.91,1:04:42.12,Default,,0000,0000,0000,,I thought I had lost you forever.
+Dialogue: 0,1:04:44.25,1:04:46.51,Default,,0000,0000,0000,,My head hurts like hell ...
+Dialogue: 0,1:04:46.51,1:04:49.26,Default,,0000,0000,0000,,and I'm feeling kinda dizzy.
+Dialogue: 0,1:04:52.61,1:04:55.23,Default,,0000,0000,0000,,Oh, I'm so glad you're alive!
+Dialogue: 0,1:04:56.96,1:04:58.27,Default,,0000,0000,0000,,So am I.
+Dialogue: 0,1:04:59.36,1:05:00.57,Default,,0000,0000,0000,,What happened?
+Dialogue: 0,1:05:00.88,1:05:02.50,Default,,0000,0000,0000,,Your parachute didn't open.
+Dialogue: 0,1:05:02.72,1:05:04.53,Default,,0000,0000,0000,,But the tree stopped your fall.
+Dialogue: 0,1:05:10.56,1:05:12.38,Default,,0000,0000,0000,,I must have been really lucky.
+Dialogue: 0,1:05:12.38,1:05:14.15,Default,,0000,0000,0000,,No broken bones, I think.
+Dialogue: 0,1:05:16.37,1:05:17.80,Default,,0000,0000,0000,,Oh, Mika ...
+Dialogue: 0,1:05:17.96,1:05:21.53,Default,,0000,0000,0000,,Mika, I'm feeling so miserable about\nhow I treated my father.
+Dialogue: 0,1:05:21.63,1:05:23.33,Default,,0000,0000,0000,,Oh, come on, Lionel.
+Dialogue: 0,1:05:23.36,1:05:25.21,Default,,0000,0000,0000,,Don't be so hard on yourself.
+Dialogue: 0,1:05:25.34,1:05:28.39,Default,,0000,0000,0000,,You are paying your filnal respect\nto him after all.
+Dialogue: 0,1:05:28.66,1:05:30.66,Default,,0000,0000,0000,,And even risked your life for it.
+Dialogue: 0,1:05:30.99,1:05:32.99,Default,,0000,0000,0000,,What more could a father ask for?
+Dialogue: 0,1:05:33.33,1:05:35.82,Default,,0000,0000,0000,,No Mika, you don't understand.
+Dialogue: 0,1:05:36.12,1:05:37.75,Default,,0000,0000,0000,,My father is dead ...
+Dialogue: 0,1:05:38.15,1:05:39.82,Default,,0000,0000,0000,,Nothing I do today can make up ...
+Dialogue: 0,1:05:39.82,1:05:41.09,Default,,0000,0000,0000,,for the things I didn't do ...
+Dialogue: 0,1:05:41.09,1:05:42.51,Default,,0000,0000,0000,,for the last ten years.
+Dialogue: 0,1:05:43.21,1:05:44.80,Default,,0000,0000,0000,,Don't you realize, Mika?
+Dialogue: 0,1:05:44.90,1:05:49.06,Default,,0000,0000,0000,,I was the one only thinking\nabout himself all the time!
+Dialogue: 0,1:05:49.60,1:05:51.08,Default,,0000,0000,0000,,Even coming here was just ...
+Dialogue: 0,1:05:51.08,1:05:52.94,Default,,0000,0000,0000,,because of my curiosity.
+Dialogue: 0,1:05:53.35,1:05:56.42,Default,,0000,0000,0000,,And I even put me and my\nbest friends in danger!
+Dialogue: 0,1:05:56.51,1:05:57.75,Default,,0000,0000,0000,,Look at me!
+Dialogue: 0,1:05:57.84,1:06:00.00,Default,,0000,0000,0000,,The same could have happened to you!
+Dialogue: 0,1:06:00.02,1:06:01.02,Default,,0000,0000,0000,,Or Poke!
+Dialogue: 0,1:06:01.10,1:06:03.34,Default,,0000,0000,0000,,Or has possibly happened to Lori!
+Dialogue: 0,1:06:03.54,1:06:06.35,Default,,0000,0000,0000,,I don't even see them around here!
+Dialogue: 0,1:06:06.44,1:06:08.60,Default,,0000,0000,0000,,Where are they?\nThey could be dead ...
+Dialogue: 0,1:06:08.60,1:06:10.99,Default,,0000,0000,0000,,and it's all my fault!
+Dialogue: 0,1:06:11.01,1:06:14.22,Default,,0000,0000,0000,,Hush ... hush, Lionel. Shhh ...
+Dialogue: 0,1:06:16.48,1:06:19.51,Default,,0000,0000,0000,,Hush ... Calm down. It's alright.
+Dialogue: 0,1:06:19.81,1:06:21.53,Default,,0000,0000,0000,,Don't be so hard on yourself.
+Dialogue: 0,1:06:21.91,1:06:23.26,Default,,0000,0000,0000,,We're your friends!
+Dialogue: 0,1:06:23.34,1:06:26.09,Default,,0000,0000,0000,,You didn't force us to come with you,\nremember?
+Dialogue: 0,1:06:26.90,1:06:29.21,Default,,0000,0000,0000,,Yes ... you're right.
+Dialogue: 0,1:06:29.25,1:06:31.29,Default,,0000,0000,0000,,There, there ...
+Dialogue: 0,1:06:32.04,1:06:34.76,Default,,0000,0000,0000,,You're alive, and I am alive, too.
+Dialogue: 0,1:06:34.89,1:06:38.08,Default,,0000,0000,0000,,And I am sure the others\nare doing fine as well.
+Dialogue: 0,1:06:38.16,1:06:40.25,Default,,0000,0000,0000,,Aww ... Come on, don't cry.
+Dialogue: 0,1:06:40.50,1:06:42.07,Default,,0000,0000,0000,,It's alright.
+Dialogue: 0,1:06:42.38,1:06:43.84,Default,,0000,0000,0000,,Oh, Mika ...
+Dialogue: 0,1:06:43.85,1:06:46.04,Default,,0000,0000,0000,,Mika, I'm so glad that you're here.
+Dialogue: 0,1:06:46.33,1:06:48.07,Default,,0000,0000,0000,,And I am glad that you're here.
+Dialogue: 0,1:06:49.61,1:06:50.83,Default,,0000,0000,0000,,Mika ...
+Dialogue: 0,1:06:51.19,1:06:52.40,Default,,0000,0000,0000,,What shall I do?
+Dialogue: 0,1:06:53.18,1:06:54.53,Default,,0000,0000,0000,,What shall we do?
+Dialogue: 0,1:06:54.85,1:06:57.54,Default,,0000,0000,0000,,We've crashed into the middle\nof the jungle and ...
+Dialogue: 0,1:06:57.77,1:06:59.63,Default,,0000,0000,0000,,Now I'm all confused.
+Dialogue: 0,1:07:00.76,1:07:04.19,Default,,0000,0000,0000,,Until now, I always thought I knew\nwhat I should do ...
+Dialogue: 0,1:07:04.36,1:07:06.57,Default,,0000,0000,0000,,but this time I don't have\nany clue at all ...
+Dialogue: 0,1:07:07.33,1:07:08.88,Default,,0000,0000,0000,,I'm so clueless!
+Dialogue: 0,1:07:10.27,1:07:13.20,Default,,0000,0000,0000,,What - should - I - do?
+Dialogue: 0,1:07:13.69,1:07:16.87,Default,,0000,0000,0000,,Stop hitting my trunk\nwith your head for a start.
+Dialogue: 0,1:07:21.27,1:07:22.54,Default,,0000,0000,0000,,Who's talking?
+Dialogue: 0,1:07:22.79,1:07:25.22,Default,,0000,0000,0000,,The one who saved your life!
+Dialogue: 0,1:07:26.93,1:07:29.39,Default,,0000,0000,0000,,A talking tree?
+Dialogue: 0,1:07:29.66,1:07:32.74,Default,,0000,0000,0000,,Excellent observation, Mr. Holmes.
+Dialogue: 0,1:07:33.28,1:07:37.02,Default,,0000,0000,0000,,And don't even think of thanking me\nfor saving your life ...
+Dialogue: 0,1:07:37.18,1:07:39.97,Default,,0000,0000,0000,,by sacrificing at least two branches ...
+Dialogue: 0,1:07:40.07,1:07:42.82,Default,,0000,0000,0000,,a dozen twigs and countless leaves.
+Dialogue: 0,1:07:43.18,1:07:45.83,Default,,0000,0000,0000,,This will take years to grow back.
+Dialogue: 0,1:07:46.04,1:07:48.13,Default,,0000,0000,0000,,A talking tree!
+Dialogue: 0,1:07:48.15,1:07:49.22,Default,,0000,0000,0000,,Lionel!
+Dialogue: 0,1:07:49.27,1:07:50.93,Default,,0000,0000,0000,,Remember the line from the book?
+Dialogue: 0,1:07:51.22,1:07:54.87,Default,,0000,0000,0000,,"The trees speak to me\nso I listen to them carefully."
+Dialogue: 0,1:07:57.95,1:07:59.74,Default,,0000,0000,0000,,Then we must be on the right track!
+Dialogue: 0,1:08:00.29,1:08:02.50,Default,,0000,0000,0000,,Hey, hey tree! Do you have a name?
+Dialogue: 0,1:08:02.95,1:08:04.59,Default,,0000,0000,0000,,And thanks for saving my life!
+Dialogue: 0,1:08:05.25,1:08:07.61,Default,,0000,0000,0000,,You can call me "Mr. Tree".
+Dialogue: 0,1:08:10.06,1:08:11.41,Default,,0000,0000,0000,,And you're welcome.
+Dialogue: 0,1:08:12.26,1:08:14.91,Default,,0000,0000,0000,,Alright then - uh - Mr. Tree.
+Dialogue: 0,1:08:15.09,1:08:17.47,Default,,0000,0000,0000,,It seems that we need\nyour help one more time.
+Dialogue: 0,1:08:17.84,1:08:19.30,Default,,0000,0000,0000,,We are looking for something ...
+Dialogue: 0,1:08:19.36,1:08:21.55,Default,,0000,0000,0000,,but we don't know exactly what it is.
+Dialogue: 0,1:08:21.71,1:08:23.81,Default,,0000,0000,0000,,It might be a map, a hint,
+Dialogue: 0,1:08:23.82,1:08:25.90,Default,,0000,0000,0000,,an artifact or something else.
+Dialogue: 0,1:08:26.13,1:08:27.86,Default,,0000,0000,0000,,It was mentoioned in a  book ...
+Dialogue: 0,1:08:27.90,1:08:30.07,Default,,0000,0000,0000,,referring to a talking tree, like you.
+Dialogue: 0,1:08:30.58,1:08:32.87,Default,,0000,0000,0000,,Do you know anything that\nmight be of help?
+Dialogue: 0,1:08:33.02,1:08:36.06,Default,,0000,0000,0000,,Oh, yes. How do you know?
+Dialogue: 0,1:08:36.35,1:08:40.44,Default,,0000,0000,0000,,In fact, I am the guardian of a\nvery mighty artifact.
+Dialogue: 0,1:08:40.79,1:08:44.26,Default,,0000,0000,0000,,It was given to me more than\na thousand years ago.
+Dialogue: 0,1:08:44.54,1:08:45.98,Default,,0000,0000,0000,,What is it?
+Dialogue: 0,1:08:46.46,1:08:48.04,Default,,0000,0000,0000,,I can't tell you ...
+Dialogue: 0,1:08:48.14,1:08:50.07,Default,,0000,0000,0000,,unless you can prove ...
+Dialogue: 0,1:08:50.08,1:08:52.88,Default,,0000,0000,0000,,that you're the ones destined\nto receive it.
+Dialogue: 0,1:08:52.94,1:08:55.37,Default,,0000,0000,0000,,And how are we supposed to do that?
+Dialogue: 0,1:08:55.75,1:08:57.87,Default,,0000,0000,0000,,Well, if you are the ones ...
+Dialogue: 0,1:08:57.97,1:09:00.08,Default,,0000,0000,0000,,you are supposed to know.
+Dialogue: 0,1:09:00.39,1:09:01.36,Default,,0000,0000,0000,,Shit!
+Dialogue: 0,1:09:01.69,1:09:03.38,Default,,0000,0000,0000,,That means we're stuck.
+Dialogue: 0,1:09:04.41,1:09:06.44,Default,,0000,0000,0000,,Lionel, do you still have the diary?
+Dialogue: 0,1:09:08.97,1:09:10.49,Default,,0000,0000,0000,,No, I must have lost it ...
+Dialogue: 0,1:09:10.49,1:09:12.41,Default,,0000,0000,0000,,crashing into our friend, Mr. Tree.
+Dialogue: 0,1:09:14.14,1:09:16.85,Default,,0000,0000,0000,,Hey! I can't concentrate like this!
+Dialogue: 0,1:09:16.91,1:09:19.34,Default,,0000,0000,0000,,Will you the heck stop sawing!
+Dialogue: 0,1:09:19.35,1:09:22.30,Default,,0000,0000,0000,,We're trying to hold a\nconversation here!
+Dialogue: 0,1:09:30.03,1:09:31.81,Default,,0000,0000,0000,,Hey you, are you crazy?
+Dialogue: 0,1:09:31.83,1:09:33.29,Default,,0000,0000,0000,,What are you doing here?
+Dialogue: 0,1:09:33.32,1:09:35.70,Default,,0000,0000,0000,,I just wanted to ask you the same thing.
+Dialogue: 0,1:09:35.77,1:09:37.93,Default,,0000,0000,0000,,Can't you see?\nI'm clearing the rain forest.
+Dialogue: 0,1:09:38.31,1:09:39.74,Default,,0000,0000,0000,,Clearing the ...
+Dialogue: 0,1:09:39.74,1:09:41.25,Default,,0000,0000,0000,,Chopping down trees, cutting wood,
+Dialogue: 0,1:09:41.25,1:09:42.86,Default,,0000,0000,0000,,trimming the vegetation, you know?
+Dialogue: 0,1:09:43.59,1:09:46.17,Default,,0000,0000,0000,,And that one is next. Number "696".
+Dialogue: 0,1:09:46.17,1:09:48.86,Default,,0000,0000,0000,,Come on, people, get out of the way.\nThis is dangerous.
+Dialogue: 0,1:09:53.06,1:09:57.36,Default,,0000,0000,0000,,No, you can't do this! Stop! Please!
+Dialogue: 0,1:09:57.76,1:09:59.65,Default,,0000,0000,0000,,Put that thing down!
+Dialogue: 0,1:10:01.33,1:10:02.97,Default,,0000,0000,0000,,Alright, who sent you here?
+Dialogue: 0,1:10:02.97,1:10:05.14,Default,,0000,0000,0000,,Greenpeace? Robin Wood?\nWorld Wildlife Fund?
+Dialogue: 0,1:10:05.14,1:10:07.00,Default,,0000,0000,0000,,United Tree-Huggers of\nOklahoma City?
+Dialogue: 0,1:10:07.03,1:10:08.83,Default,,0000,0000,0000,,The Concerned Parents\nof Minnessota?
+Dialogue: 0,1:10:08.88,1:10:10.95,Default,,0000,0000,0000,,Huh? What are you talking about?
+Dialogue: 0,1:10:10.99,1:10:14.12,Default,,0000,0000,0000,,We're from the "Museum of\nForgotten Arts" in Cairo.
+Dialogue: 0,1:10:15.21,1:10:18.85,Default,,0000,0000,0000,,Can't you just cut down a different\ntree than this one?
+Dialogue: 0,1:10:18.94,1:10:20.83,Default,,0000,0000,0000,,Well, there are lots of trees in\nthe rain forest ...
+Dialogue: 0,1:10:20.83,1:10:22.65,Default,,0000,0000,0000,,Big ones, small ones,\nold ones, young ones,
+Dialogue: 0,1:10:22.65,1:10:24.83,Default,,0000,0000,0000,,some have more leaves,\nsome have less leaves, so ...
+Dialogue: 0,1:10:24.89,1:10:28.41,Default,,0000,0000,0000,,For the highest wood quality we have\nto be a tad more specific, you know.
+Dialogue: 0,1:10:31.38,1:10:32.61,Default,,0000,0000,0000,,Ouch.
+Dialogue: 0,1:10:33.25,1:10:36.39,Default,,0000,0000,0000,,But you can't do that! He's our friend.
+Dialogue: 0,1:10:37.30,1:10:39.08,Default,,0000,0000,0000,,He saved my life!
+Dialogue: 0,1:10:39.15,1:10:41.49,Default,,0000,0000,0000,,Uh ... what the ...
+Dialogue: 0,1:10:41.55,1:10:43.84,Default,,0000,0000,0000,,Well, I've heard enough. Out of my way!
+Dialogue: 0,1:10:45.54,1:10:46.85,Default,,0000,0000,0000,,No!
+Dialogue: 0,1:10:48.54,1:10:49.45,Default,,0000,0000,0000,,No!
+Dialogue: 0,1:10:49.86,1:10:52.50,Default,,0000,0000,0000,,No! You're not getting near this tree!
+Dialogue: 0,1:10:53.87,1:10:56.39,Default,,0000,0000,0000,,Mika, I've learned something.
+Dialogue: 0,1:10:56.39,1:10:59.27,Default,,0000,0000,0000,,There are times where logic\nwill not get you anywhere.
+Dialogue: 0,1:10:59.36,1:11:03.18,Default,,0000,0000,0000,,We can give this guy here as many\nexplanations as we want ...
+Dialogue: 0,1:11:03.18,1:11:05.10,Default,,0000,0000,0000,,he is not going to understand.
+Dialogue: 0,1:11:06.22,1:11:07.95,Default,,0000,0000,0000,,Now listen, Panda!
+Dialogue: 0,1:11:08.04,1:11:09.56,Default,,0000,0000,0000,,You can't chop down this tree ...
+Dialogue: 0,1:11:09.56,1:11:12.04,Default,,0000,0000,0000,,because I have to fulfill\nmy father's legacy.
+Dialogue: 0,1:11:12.12,1:11:15.46,Default,,0000,0000,0000,,I have denied my father long enough,\nbut I tell you ...
+Dialogue: 0,1:11:15.46,1:11:17.53,Default,,0000,0000,0000,,I, Lionel C. Scruffycat,
+Dialogue: 0,1:11:17.52,1:11:20.08,Default,,0000,0000,0000,,am proud to be the son of\nChristopher Scruffycat.
+Dialogue: 0,1:11:20.17,1:11:21.74,Default,,0000,0000,0000,,May he rest in peace!
+Dialogue: 0,1:11:21.76,1:11:24.26,Default,,0000,0000,0000,,And I am defending this tree ...
+Dialogue: 0,1:11:24.35,1:11:25.79,Default,,0000,0000,0000,,in the name of my father.
+Dialogue: 0,1:11:25.81,1:11:27.89,Default,,0000,0000,0000,,And if you want to take it down ...
+Dialogue: 0,1:11:27.89,1:11:30.44,Default,,0000,0000,0000,,you will have to take me down first.
+Dialogue: 0,1:11:30.46,1:11:33.22,Default,,0000,0000,0000,,What? You're the son of\nChristopher Scruffycat?
+Dialogue: 0,1:11:33.28,1:11:36.02,Default,,0000,0000,0000,,The Christpoher Scruffycat?\nThe singer?
+Dialogue: 0,1:11:36.18,1:11:37.32,Default,,0000,0000,0000,,You knew him?
+Dialogue: 0,1:11:37.36,1:11:38.75,Default,,0000,0000,0000,,Well, not in person, but ...
+Dialogue: 0,1:11:38.75,1:11:40.68,Default,,0000,0000,0000,,when I was young, I was a huge fan.
+Dialogue: 0,1:11:40.85,1:11:43.84,Default,,0000,0000,0000,,I still own all his CDs.\nHe's a childhood memory.
+Dialogue: 0,1:11:43.93,1:11:46.47,Default,,0000,0000,0000,,I always wondered what happened\nto him, after he quit.
+Dialogue: 0,1:11:46.52,1:11:49.01,Default,,0000,0000,0000,,Ah, okay ... Okay then ...
+Dialogue: 0,1:11:49.04,1:11:52.37,Default,,0000,0000,0000,,Listen ... my father passed away\nfour days ago ...
+Dialogue: 0,1:11:52.39,1:11:54.46,Default,,0000,0000,0000,,and I'm here to fulfill his last wish.
+Dialogue: 0,1:11:54.80,1:11:57.35,Default,,0000,0000,0000,,I can't explain it to you, but ...
+Dialogue: 0,1:11:57.46,1:11:59.69,Default,,0000,0000,0000,,This tree here is part of it.
+Dialogue: 0,1:11:59.75,1:12:01.02,Default,,0000,0000,0000,,I can't let you kill it.
+Dialogue: 0,1:12:01.37,1:12:02.30,Default,,0000,0000,0000,,Wow!
+Dialogue: 0,1:12:02.32,1:12:05.31,Default,,0000,0000,0000,,You're going through all that trouble\njust for your father's last will.
+Dialogue: 0,1:12:05.34,1:12:06.71,Default,,0000,0000,0000,,Pretty impressive.
+Dialogue: 0,1:12:07.00,1:12:10.16,Default,,0000,0000,0000,,You must have hell of a respect\nfor your father.
+Dialogue: 0,1:12:12.49,1:12:13.74,Default,,0000,0000,0000,,Ouch.
+Dialogue: 0,1:12:14.19,1:12:16.61,Default,,0000,0000,0000,,Well ... I do what I can.
+Dialogue: 0,1:12:16.83,1:12:19.05,Default,,0000,0000,0000,,You know, I'd really love\nto spare this tree but ...
+Dialogue: 0,1:12:19.05,1:12:21.32,Default,,0000,0000,0000,,I have to follow my orders,\nor I lose my job.
+Dialogue: 0,1:12:21.38,1:12:24.92,Default,,0000,0000,0000,,Mh ... wait ... what number did this\ntree have again?
+Dialogue: 0,1:12:25.02,1:12:26.74,Default,,0000,0000,0000,,"696"?
+Dialogue: 0,1:12:30.07,1:12:31.84,Default,,0000,0000,0000,,Let's have a look.
+Dialogue: 0,1:12:41.56,1:12:44.43,Default,,0000,0000,0000,,Ok, look! This must be a mix-up!
+Dialogue: 0,1:12:44.58,1:12:46.69,Default,,0000,0000,0000,,This tree has the number "969".
+Dialogue: 0,1:12:46.72,1:12:48.38,Default,,0000,0000,0000,,And "969" is not on my list.
+Dialogue: 0,1:12:48.43,1:12:51.10,Default,,0000,0000,0000,,Silly me! I nearly cut down\nthe wrong tree!
+Dialogue: 0,1:12:51.41,1:12:53.56,Default,,0000,0000,0000,,Uh ... you mean ...
+Dialogue: 0,1:12:53.66,1:12:56.35,Default,,0000,0000,0000,,Oh, I see! Thank you!
+Dialogue: 0,1:12:57.07,1:12:58.42,Default,,0000,0000,0000,,Sorry for the misunderstanding.
+Dialogue: 0,1:12:58.42,1:12:59.61,Default,,0000,0000,0000,,Have a nice day!
+Dialogue: 0,1:13:12.98,1:13:14.89,Default,,0000,0000,0000,,Phew!
+Dialogue: 0,1:13:15.29,1:13:17.39,Default,,0000,0000,0000,,That was close!
+Dialogue: 0,1:13:17.68,1:13:19.34,Default,,0000,0000,0000,,Yes, it was!
+Dialogue: 0,1:13:19.93,1:13:24.64,Default,,0000,0000,0000,,Okay, this time you saved my life.
+Dialogue: 0,1:13:25.00,1:13:26.30,Default,,0000,0000,0000,,Thank you!
+Dialogue: 0,1:13:26.70,1:13:28.77,Default,,0000,0000,0000,,Now I really owe you one.
+Dialogue: 0,1:13:29.02,1:13:31.09,Default,,0000,0000,0000,,What can I do for you?
+Dialogue: 0,1:13:31.17,1:13:35.27,Default,,0000,0000,0000,,Well, you said, you were guarding\na certain artifact ...
+Dialogue: 0,1:13:35.66,1:13:37.12,Default,,0000,0000,0000,,Alright!
+Dialogue: 0,1:13:37.20,1:13:38.59,Default,,0000,0000,0000,,You shall have it!
+Dialogue: 0,1:13:38.72,1:13:40.76,Default,,0000,0000,0000,,Nobody wanted it for ages ...
+Dialogue: 0,1:13:40.76,1:13:43.23,Default,,0000,0000,0000,,So why shouldn't I give it to you.
+Dialogue: 0,1:14:00.22,1:14:02.41,Default,,0000,0000,0000,,What on earth is that?
+Dialogue: 0,1:14:03.62,1:14:05.78,Default,,0000,0000,0000,,It's a secret artifact.
+Dialogue: 0,1:14:06.95,1:14:08.38,Default,,0000,0000,0000,,The thing about secrets is ...
+Dialogue: 0,1:14:08.38,1:14:10.73,Default,,0000,0000,0000,,that nobody's supposed\nto know about them.
+Dialogue: 0,1:14:12.83,1:14:16.52,Default,,0000,0000,0000,,It was handed to me by some\nsort of high priest ...
+Dialogue: 0,1:14:16.70,1:14:19.29,Default,,0000,0000,0000,,And he simply didn't tell me\nwhat it is.
+Dialogue: 0,1:14:19.36,1:14:21.14,Default,,0000,0000,0000,,So I can't tell you.
+Dialogue: 0,1:14:21.19,1:14:22.56,Default,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,1:14:22.79,1:14:24.80,Default,,0000,0000,0000,,We will find out eventually.
+Dialogue: 0,1:14:24.94,1:14:28.07,Default,,0000,0000,0000,,But, first we'll have to find\nthe rest of our party.
+Dialogue: 0,1:14:28.39,1:14:30.24,Default,,0000,0000,0000,,I bid you farewell, then!
+Dialogue: 0,1:14:30.42,1:14:33.00,Default,,0000,0000,0000,,And thank you again for\nsaving my life.
+Dialogue: 0,1:14:33.25,1:14:35.26,Default,,0000,0000,0000,,I consider you good friends.
+Dialogue: 0,1:14:35.63,1:14:38.43,Default,,0000,0000,0000,,I hope you will return some day.
+Dialogue: 0,1:14:38.66,1:14:40.07,Default,,0000,0000,0000,,Goodbye, Mr. Tree!
+Dialogue: 0,1:14:40.17,1:14:41.36,Default,,0000,0000,0000,,Goodbye!
+Dialogue: 0,1:14:41.61,1:14:43.48,Default,,0000,0000,0000,,Come on, Mika. Let's go.
+Dialogue: 0,1:14:57.56,1:14:59.83,Default,,0000,0000,0000,,United Pawcel Service!
+Dialogue: 0,1:15:00.10,1:15:05.28,Default,,0000,0000,0000,,Package for "Tree, Mr. 696"?
+Dialogue: 0,1:15:10.45,1:15:12.20,Default,,0000,0000,0000,,Hey, hey!
+Dialogue: 0,1:15:12.21,1:15:14.01,Default,,0000,0000,0000,,That's for me!
+Dialogue: 0,1:15:14.28,1:15:16.52,Default,,0000,0000,0000,,Uh, wait! Uh ...
+Dialogue: 0,1:15:31.63,1:15:34.08,Default,,0000,0000,0000,,- Lori?\N- Lori?
+Dialogue: 0,1:15:34.58,1:15:36.63,Default,,0000,0000,0000,,Lori!
+Dialogue: 0,1:15:37.25,1:15:38.59,Default,,0000,0000,0000,,Lori!
+Dialogue: 0,1:15:39.13,1:15:42.36,Default,,0000,0000,0000,,- Lori! Where are you?\N- Lori?
+Dialogue: 0,1:15:46.60,1:15:48.35,Default,,0000,0000,0000,,Lori!
+Dialogue: 0,1:15:49.08,1:15:51.18,Default,,0000,0000,0000,,- Lori?\N- Lori!
+Dialogue: 0,1:15:52.08,1:15:53.03,Default,,0000,0000,0000,,Lori!
+Dialogue: 0,1:15:54.98,1:15:57.83,Default,,0000,0000,0000,,Lionel? Mika!
+Dialogue: 0,1:15:58.43,1:16:01.11,Default,,0000,0000,0000,,Lionel! Where are you?
+Dialogue: 0,1:16:01.24,1:16:03.95,Default,,0000,0000,0000,,Lionel? Mika!
+Dialogue: 0,1:16:05.14,1:16:06.20,Default,,0000,0000,0000,,Lori?
+Dialogue: 0,1:16:07.34,1:16:08.69,Default,,0000,0000,0000,,Lori?
+Dialogue: 0,1:16:11.35,1:16:12.65,Default,,0000,0000,0000,,Aaah! Lionel!
+Dialogue: 0,1:16:12.66,1:16:15.51,Default,,0000,0000,0000,,Woman! Woman! Woman! Woman!
+Dialogue: 0,1:16:15.55,1:16:16.51,Default,,0000,0000,0000,,Mika?
+Dialogue: 0,1:16:16.54,1:16:18.25,Default,,0000,0000,0000,,Mika!
+Dialogue: 0,1:16:21.42,1:16:22.77,Default,,0000,0000,0000,,Lionel?
+Dialogue: 0,1:16:23.94,1:16:24.97,Default,,0000,0000,0000,,Mika!
+Dialogue: 0,1:16:25.16,1:16:26.78,Default,,0000,0000,0000,,Lionel!
+Dialogue: 0,1:16:27.94,1:16:28.96,Default,,0000,0000,0000,,Lori?
+Dialogue: 0,1:16:28.97,1:16:30.76,Default,,0000,0000,0000,,- Lionel?\N- Lori!
+Dialogue: 0,1:16:30.81,1:16:32.48,Default,,0000,0000,0000,,- Lionel!\N- Lori!
+Dialogue: 0,1:16:32.50,1:16:34.71,Default,,0000,0000,0000,,- Lionel!\N- Lori!
+Dialogue: 0,1:16:35.96,1:16:36.82,Default,,0000,0000,0000,,Lionel?
+Dialogue: 0,1:16:36.89,1:16:38.99,Default,,0000,0000,0000,,- Mika?\N- Lionel!
+Dialogue: 0,1:16:39.64,1:16:40.74,Default,,0000,0000,0000,,Mika!
+Dialogue: 0,1:16:40.76,1:16:42.69,Default,,0000,0000,0000,,- Lori!\N- Mika!
+Dialogue: 0,1:16:46.82,1:16:48.59,Default,,0000,0000,0000,,Poke?
+Dialogue: 0,1:16:51.71,1:16:55.20,Default,,0000,0000,0000,,I'm iup here! Here! In the tree!
+Dialogue: 0,1:17:00.02,1:17:01.06,Default,,0000,0000,0000,,Poke!
+Dialogue: 0,1:17:01.33,1:17:03.15,Default,,0000,0000,0000,,What are you doing up there?
+Dialogue: 0,1:17:03.40,1:17:05.91,Default,,0000,0000,0000,,Wow! Outdoor tree bondage!
+Dialogue: 0,1:17:14.93,1:17:16.26,Default,,0000,0000,0000,,Kinky!
+Dialogue: 0,1:17:17.72,1:17:20.13,Default,,0000,0000,0000,,What the fuck do you think I'm doing?
+Dialogue: 0,1:17:20.18,1:17:21.78,Default,,0000,0000,0000,,I've been fucking hanging in this ...
+Dialogue: 0,1:17:21.78,1:17:23.98,Default,,0000,0000,0000,,fucking tree for three fucking hours!
+Dialogue: 0,1:17:24.09,1:17:25.80,Default,,0000,0000,0000,,And it's fucking beginning to get ...
+Dialogue: 0,1:17:25.80,1:17:27.19,Default,,0000,0000,0000,,on my fucking nerves!
+Dialogue: 0,1:17:29.45,1:17:32.72,Default,,0000,0000,0000,,I can see you balls!
+Dialogue: 0,1:17:38.04,1:17:39.27,Default,,0000,0000,0000,,Fuck!
+Dialogue: 0,1:17:39.30,1:17:41.73,Default,,0000,0000,0000,,Will you fucking morons get me the\nfuck out of this fucking tree ...
+Dialogue: 0,1:17:41.73,1:17:43.75,Default,,0000,0000,0000,,so I can cone down and kick\nyour fucking asses?
+Dialogue: 0,1:17:46.30,1:17:47.83,Default,,0000,0000,0000,,I'd sure like to!
+Dialogue: 0,1:17:47.85,1:17:49.99,Default,,0000,0000,0000,,But how are we supposed\nto do that, huh?
+Dialogue: 0,1:17:50.00,1:17:52.61,Default,,0000,0000,0000,,I don't care, just get me down!
+Dialogue: 0,1:17:55.32,1:17:57.97,Default,,0000,0000,0000,,Alright .. alright.\nWe've got to make a plan.
+Dialogue: 0,1:17:57.96,1:17:59.41,Default,,0000,0000,0000,,How do we get him down?
+Dialogue: 0,1:17:59.75,1:18:02.05,Default,,0000,0000,0000,,Preferably without getting\nour asses kicked ...
+Dialogue: 0,1:18:02.05,1:18:03.40,Default,,0000,0000,0000,,got that, Poke?
+Dialogue: 0,1:18:05.01,1:18:07.06,Default,,0000,0000,0000,,Can't we just leave him up there?
+Dialogue: 0,1:18:09.06,1:18:11.04,Default,,0000,0000,0000,,My day has been bad enough already.
+Dialogue: 0,1:18:11.14,1:18:12.38,Default,,0000,0000,0000,,No,
+Dialogue: 0,1:18:13.10,1:18:14.16,Default,,0000,0000,0000,,Okay ...
+Dialogue: 0,1:18:14.63,1:18:17.96,Default,,0000,0000,0000,,How about ... throwing coconuts at him\nuntil he falls down?
+Dialogue: 0,1:18:19.43,1:18:20.62,Default,,0000,0000,0000,,No way!
+Dialogue: 0,1:18:21.55,1:18:25.00,Default,,0000,0000,0000,,Okay, then ... We could rig this\ntree with dynamite and ...
+Dialogue: 0,1:18:25.00,1:18:26.16,Default,,0000,0000,0000,,Boom!
+Dialogue: 0,1:18:26.21,1:18:27.71,Default,,0000,0000,0000,,Instant untangling!
+Dialogue: 0,1:18:27.71,1:18:29.03,Default,,0000,0000,0000,,- No!\N- No!
+Dialogue: 0,1:18:30.12,1:18:31.09,Default,,0000,0000,0000,,Oh well ...
+Dialogue: 0,1:18:31.09,1:18:32.70,Default,,0000,0000,0000,,If you don't like my suggestions ...
+Dialogue: 0,1:18:32.70,1:18:34.19,Default,,0000,0000,0000,,I can just as well shut up.
+Dialogue: 0,1:18:34.22,1:18:36.27,Default,,0000,0000,0000,,Who is going to listen to me anyway?
+Dialogue: 0,1:18:46.92,1:18:49.16,Default,,0000,0000,0000,,Lori, don't start it again!
+Dialogue: 0,1:18:49.17,1:18:51.21,Default,,0000,0000,0000,,I'm completely finished with my nerves,
+Dialogue: 0,1:18:51.20,1:18:53.96,Default,,0000,0000,0000,,and this is the last thing I need now.
+Dialogue: 0,1:18:54.32,1:18:55.88,Default,,0000,0000,0000,,- We really should-\N- Shh!
+Dialogue: 0,1:18:56.58,1:18:58.03,Default,,0000,0000,0000,,Did you hear something?
+Dialogue: 0,1:18:58.43,1:19:00.18,Default,,0000,0000,0000,,I think, someone's coming!
+Dialogue: 0,1:19:02.04,1:19:04.11,Default,,0000,0000,0000,,Aah, that was a good one!
+Dialogue: 0,1:19:09.77,1:19:12.32,Default,,0000,0000,0000,,Okay, it was just Poke.
+Dialogue: 0,1:19:12.34,1:19:13.79,Default,,0000,0000,0000,,Where were we?
+Dialogue: 0,1:19:13.88,1:19:16.53,Default,,0000,0000,0000,,Well, this completely threw me off.
+Dialogue: 0,1:19:16.63,1:19:18.41,Default,,0000,0000,0000,,I think, I was about to say-
+Dialogue: 0,1:19:18.42,1:19:19.27,Default,,0000,0000,0000,,Freeze!
+Dialogue: 0,1:19:19.42,1:19:21.25,Default,,0000,0000,0000,,This is the THX!
+Dialogue: 0,1:19:29.27,1:19:32.51,Default,,0000,0000,0000,,Ah, look who we have here!
+Dialogue: 0,1:19:32.73,1:19:35.17,Default,,0000,0000,0000,,You are under arrest!
+Dialogue: 0,1:19:35.25,1:19:37.61,Default,,0000,0000,0000,,Don't even think of moving ...
+Dialogue: 0,1:19:37.70,1:19:39.40,Default,,0000,0000,0000,,or else ...
+Dialogue: 0,1:19:40.76,1:19:45.02,Default,,0000,0000,0000,,This is really annoying,\nMr. Lionel Scruffycat.
+Dialogue: 0,1:19:45.62,1:19:49.70,Default,,0000,0000,0000,,No matter what we try, you just\nrefuse to die.
+Dialogue: 0,1:19:50.02,1:19:52.53,Default,,0000,0000,0000,,I have no idea how you made it.
+Dialogue: 0,1:19:52.66,1:19:56.03,Default,,0000,0000,0000,,Your parachute was never\nsupposed to open.
+Dialogue: 0,1:19:56.22,1:19:59.82,Default,,0000,0000,0000,,Well, indeed. It didn't.
+Dialogue: 0,1:20:00.18,1:20:02.84,Default,,0000,0000,0000,,You seem to be a really tough guy.
+Dialogue: 0,1:20:03.05,1:20:06.15,Default,,0000,0000,0000,,But that will be no longer\nof help to you.
+Dialogue: 0,1:20:06.25,1:20:08.66,Default,,0000,0000,0000,,Because now you're coming with us!
+Dialogue: 0,1:20:08.89,1:20:12.00,Default,,0000,0000,0000,,Oh you! You tried to kill Lionel?
+Dialogue: 0,1:20:12.08,1:20:13.58,Default,,0000,0000,0000,,You bastards!
+Dialogue: 0,1:20:13.93,1:20:16.57,Default,,0000,0000,0000,,Come here!\nI'll slit your chests open ...
+Dialogue: 0,1:20:16.57,1:20:17.83,Default,,0000,0000,0000,,and drink your blood ...
+Dialogue: 0,1:20:17.83,1:20:19.38,Default,,0000,0000,0000,,while your hearts are still beating!
+Dialogue: 0,1:20:19.39,1:20:22.11,Default,,0000,0000,0000,,I'll kill you! I will kill you!
+Dialogue: 0,1:20:28.25,1:20:32.11,Default,,0000,0000,0000,,Ah, felines are so easy to overcome.
+Dialogue: 0,1:20:32.56,1:20:35.46,Default,,0000,0000,0000,,Just grab them by the\nscruff of their neck ...
+Dialogue: 0,1:20:35.54,1:20:39.13,Default,,0000,0000,0000,,and their carrying reflexes\nwill kick in.
+Dialogue: 0,1:20:40.38,1:20:42.89,Default,,0000,0000,0000,,Now, isn't she cute?
+Dialogue: 0,1:20:42.90,1:20:44.59,Default,,0000,0000,0000,,Kitty! Kitty! Kitty!
+Dialogue: 0,1:20:45.37,1:20:48.31,Default,,0000,0000,0000,,How on earth did you\nmanage to follow us ...
+Dialogue: 0,1:20:48.31,1:20:51.22,Default,,0000,0000,0000,,without a copy of the diary?
+Dialogue: 0,1:20:51.33,1:20:53.51,Default,,0000,0000,0000,,Well, that's easy.
+Dialogue: 0,1:20:53.55,1:20:57.71,Default,,0000,0000,0000,,It's true, you did have the only\ncopy of that book, but ...
+Dialogue: 0,1:20:57.71,1:21:00.52,Default,,0000,0000,0000,,here is a little hint for your\nnext adventure.
+Dialogue: 0,1:21:00.65,1:21:03.07,Default,,0000,0000,0000,,If you browse through\nsecret documents ...
+Dialogue: 0,1:21:03.12,1:21:04.89,Default,,0000,0000,0000,,You should rather not do that ...
+Dialogue: 0,1:21:04.89,1:21:07.12,Default,,0000,0000,0000,,directly underneath a surveillance cam.
+Dialogue: 0,1:21:07.54,1:21:08.87,Default,,0000,0000,0000,,D'oh!
+Dialogue: 0,1:21:10.75,1:21:12.51,Default,,0000,0000,0000,,Okay, enough talking!
+Dialogue: 0,1:21:12.51,1:21:15.69,Default,,0000,0000,0000,,Ladies and Gentlemen,\nyour vacation ends here.
+Dialogue: 0,1:21:15.86,1:21:18.71,Default,,0000,0000,0000,,I don't know what the\nproducer has in mind for you ...
+Dialogue: 0,1:21:18.71,1:21:20.90,Default,,0000,0000,0000,,but it sure won't be pretty.
+Dialogue: 0,1:21:21.21,1:21:22.42,Default,,0000,0000,0000,,Now go.
+Dialogue: 0,1:21:22.81,1:21:24.62,Default,,0000,0000,0000,,I said, "Go"!
+Dialogue: 0,1:21:25.77,1:21:28.95,Default,,0000,0000,0000,,You can't do that! I'm American!
+Dialogue: 0,1:21:29.09,1:21:30.39,Default,,0000,0000,0000,,Shut up!
+Dialogue: 0,1:21:30.92,1:21:32.12,Default,,0000,0000,0000,,Go!
+Dialogue: 0,1:21:45.55,1:22:12.97,Default,,0000,0000,0000,,The journey continues\non disk 2.

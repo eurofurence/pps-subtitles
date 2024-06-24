@@ -1,0 +1,1456 @@
+[Script Info]
+; This script was created by subtitleeditor (0.30.0)
+; http://home.gna.org/subtitleeditor/
+Collisions: Normal
+ScriptType: V4.00+
+Timer: 100
+Title: Untitled
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Sans,18,&H00FFFFFF,&H0000FFFF,&H000078B4,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:19.78,0:00:21.44,Default,,0000,0000,0000,,Einsam.
+Dialogue: 0,0:00:24.48,0:00:26.58,Default,,0000,0000,0000,,Ich fühle mich so einsam.
+Dialogue: 0,0:00:28.09,0:00:32.35,Default,,0000,0000,0000,,Tage, Jahre, Jahrhunderte.
+Dialogue: 0,0:00:33.41,0:00:35.96,Default,,0000,0000,0000,,Ich warte schon so lange ...
+Dialogue: 0,0:00:36.03,0:00:38.51,Default,,0000,0000,0000,,daß Zeit keine Bedeutung\nmehr für mich hat.
+Dialogue: 0,0:00:39.65,0:00:41.70,Default,,0000,0000,0000,,Das einzige, was mein Herz\nnoch erwärmt ...
+Dialogue: 0,0:00:42.02,0:00:45.82,Default,,0000,0000,0000,,sind Erinnerungen an\nlängst vergangene Zeiten.
+Dialogue: 0,0:00:45.98,0:00:49.73,Default,,0000,0000,0000,,Damals, als ich der Welt noch\nSpaß und Freude brachte.
+Dialogue: 0,0:00:50.35,0:00:52.65,Default,,0000,0000,0000,,Warum rufen sie mich nicht mehr?
+Dialogue: 0,0:00:53.23,0:00:54.87,Default,,0000,0000,0000,,Brauchen sie mich nicht mehr?
+Dialogue: 0,0:00:55.61,0:00:57.55,Default,,0000,0000,0000,,Wollen sie mich nicht mehr?
+Dialogue: 0,0:00:58.63,0:01:02.11,Default,,0000,0000,0000,,Die Welt muß ein kalter, übler\nOrt geworden sein.
+Dialogue: 0,0:01:02.84,0:01:05.16,Default,,0000,0000,0000,,Welch neues Zeitalter ist angebrochen,
+Dialogue: 0,0:01:05.48,0:01:08.03,Default,,0000,0000,0000,,jetzt, da das Zeitalter der\nMusik zu Ende gegangen scheint?
+Dialogue: 0,0:01:08.90,0:01:10.79,Default,,0000,0000,0000,,Ist dies mein Ende?
+Dialogue: 0,0:01:11.72,0:01:12.59,Default,,0000,0000,0000,,Einsam.
+Dialogue: 0,0:01:13.28,0:01:15.70,Default,,0000,0000,0000,,Ich fühle mich so einsam.
+Dialogue: 0,0:01:16.40,0:01:18.97,Default,,0000,0000,0000,,Ich will singen!\nIch will tanzen!
+Dialogue: 0,0:01:19.46,0:01:23.30,Default,,0000,0000,0000,,Ich will ... nein!\nIch muß frei sein!
+Dialogue: 0,0:01:23.31,0:01:24.80,Default,,0000,0000,0000,,Oh, Sterbliche!
+Dialogue: 0,0:01:25.21,0:01:28.37,Default,,0000,0000,0000,,Öffnet das Tor und laßt mich frei!
+Dialogue: 0,0:01:28.61,0:01:29.84,Default,,0000,0000,0000,,Bitte!
+Dialogue: 0,0:01:29.95,0:01:31.93,Default,,0000,0000,0000,,Vergeßt mich nicht!
+Dialogue: 0,0:01:46.11,0:01:49.00,Default,,0000,0000,0000,,Sind alle bereit?\nHat jeder was zu trinken?
+Dialogue: 0,0:01:49.09,0:01:50.72,Default,,0000,0000,0000,,- Ja!\N- Klar!
+Dialogue: 0,0:01:51.08,0:01:53.85,Default,,0000,0000,0000,,Macht das Licht aus!\nMacht das Licht aus!
+Dialogue: 0,0:01:54.79,0:01:57.98,Default,,0000,0000,0000,,- Warte! Hast du die CD eingelegt?\N- Schon längst!
+Dialogue: 0,0:02:01.33,0:02:02.61,Default,,0000,0000,0000,,Schnell, schnell!
+Dialogue: 0,0:02:02.99,0:02:05.90,Default,,0000,0000,0000,,Er kann jeden Augenblick kommen!
+Dialogue: 0,0:02:06.12,0:02:07.94,Default,,0000,0000,0000,,Wo ist das Mountain Dew?
+Dialogue: 0,0:02:08.35,0:02:10.22,Default,,0000,0000,0000,,Im Kühlschrank!
+Dialogue: 0,0:02:13.32,0:02:15.27,Default,,0000,0000,0000,,Psst! Psst! Ich glaube er kommt!
+Dialogue: 0,0:02:15.49,0:02:18.49,Default,,0000,0000,0000,,- Wie alt wird er eigentlich?\N- Psst! Sei still!
+Dialogue: 0,0:02:21.70,0:02:24.15,Default,,0000,0000,0000,,Hallo? Hallo?
+Dialogue: 0,0:02:24.59,0:02:25.97,Default,,0000,0000,0000,,Ist jemand zu Hause?
+Dialogue: 0,0:02:26.23,0:02:27.62,Default,,0000,0000,0000,,Warum ist das Licht aus?
+Dialogue: 0,0:02:30.66,0:02:34.40,Default,,0000,0000,0000,,Aua! Was zum ...?\nWarum liegt hier ... Ah!
+Dialogue: 0,0:02:34.87,0:02:36.38,Default,,0000,0000,0000,,Was war das?
+Dialogue: 0,0:02:37.39,0:02:40.69,Default,,0000,0000,0000,,Zum Geburtstag viel Glück!
+Dialogue: 0,0:02:40.81,0:02:43.54,Default,,0000,0000,0000,,Zum Geburtstag viel Glück!
+Dialogue: 0,0:02:43.70,0:02:46.94,Default,,0000,0000,0000,,Zum Geburtstag alles Gute!
+Dialogue: 0,0:02:47.03,0:02:50.41,Default,,0000,0000,0000,,Zum Geburtstag viel Glück!
+Dialogue: 0,0:02:50.81,0:02:52.74,Default,,0000,0000,0000,,Alles Gute zum Geburtstag, Lionel!
+Dialogue: 0,0:02:53.24,0:02:54.29,Default,,0000,0000,0000,,Meine Güte!
+Dialogue: 0,0:02:56.02,0:03:00.57,Default,,0000,0000,0000,,Toll! Eine Überraschungsparty!\nFür mich?
+Dialogue: 0,0:03:00.96,0:03:02.55,Default,,0000,0000,0000,,Och, das wäre doch wirklich\nnicht nötig gewesen!
+Dialogue: 0,0:03:02.82,0:03:05.23,Default,,0000,0000,0000,,Ich weiß nicht, was ich sagen\nsoll, ich ...
+Dialogue: 0,0:03:05.48,0:03:06.63,Default,,0000,0000,0000,,Herzlichen Glückwunsch, Lionel!
+Dialogue: 0,0:03:06.63,0:03:07.55,Default,,0000,0000,0000,,Danke!
+Dialogue: 0,0:03:07.58,0:03:09.36,Default,,0000,0000,0000,,Ja, herzlichen Glückwunsch!
+Dialogue: 0,0:03:09.56,0:03:10.23,Default,,0000,0000,0000,,Danke!
+Dialogue: 0,0:03:11.23,0:03:12.37,Default,,0000,0000,0000,,Vielen Dank!
+Dialogue: 0,0:03:13.01,0:03:14.09,Default,,0000,0000,0000,,Wer hat das alles organisiert?
+Dialogue: 0,0:03:14.52,0:03:15.69,Default,,0000,0000,0000,,Oh, es war Loris Idee.
+Dialogue: 0,0:03:17.23,0:03:18.73,Default,,0000,0000,0000,,Ich hoffe, es gefällt dir.
+Dialogue: 0,0:03:18.91,0:03:20.79,Default,,0000,0000,0000,,Ja, Lori, es ist wundervoll!
+Dialogue: 0,0:03:21.23,0:03:22.16,Default,,0000,0000,0000,,Aber wo ist Poke?
+Dialogue: 0,0:03:22.75,0:03:24.62,Default,,0000,0000,0000,,Hat er schon wieder meinen\nGeburtstag vergessen?
+Dialogue: 0,0:03:25.85,0:03:29.14,Default,,0000,0000,0000,,Ach, hier steigt eine Party.\nNatürlich wird er kommen!
+Dialogue: 0,0:03:29.65,0:03:31.89,Default,,0000,0000,0000,,Allerdings sagte er, er wird\nein wenig später eintreffen.
+Dialogue: 0,0:03:32.30,0:03:33.48,Default,,0000,0000,0000,,Ah, in Ordnung.
+Dialogue: 0,0:03:33.88,0:03:36.55,Default,,0000,0000,0000,,Also dann! Laßt uns Spaß haben!
+Dialogue: 0,0:03:36.82,0:03:39.55,Default,,0000,0000,0000,,Ja!
+Dialogue: 0,0:03:55.24,0:03:58.54,Default,,0000,0000,0000,,He, macht mal bitte die Musik leiser!\nDa ruft mich gerade jemand an!
+Dialogue: 0,0:04:01.42,0:04:03.83,Default,,0000,0000,0000,,Äh, Leute? Bitte, es könnte\nwichtig sein!
+Dialogue: 0,0:04:06.68,0:04:07.88,Default,,0000,0000,0000,,Hallo?
+Dialogue: 0,0:04:08.75,0:04:09.66,Default,,0000,0000,0000,,Ja?
+Dialogue: 0,0:04:10.48,0:04:11.66,Default,,0000,0000,0000,,Ja, das bin ich.
+Dialogue: 0,0:04:15.42,0:04:16.53,Default,,0000,0000,0000,,Was?
+Dialogue: 0,0:04:17.11,0:04:19.47,Default,,0000,0000,0000,,Sind Sie ... Ich ...
+Dialogue: 0,0:04:19.83,0:04:21.19,Default,,0000,0000,0000,,Oh, Scheiße!
+Dialogue: 0,0:04:21.60,0:04:23.11,Default,,0000,0000,0000,,Ja, ja, ich verstehe.
+Dialogue: 0,0:04:23.83,0:04:24.51,Default,,0000,0000,0000,,Wo?
+Dialogue: 0,0:04:25.74,0:04:27.42,Default,,0000,0000,0000,,Was für ein Museum?
+Dialogue: 0,0:04:28.56,0:04:30.64,Default,,0000,0000,0000,,Es tut mir leid, ich bin immer noch-
+Dialogue: 0,0:04:31.33,0:04:32.55,Default,,0000,0000,0000,,Kann ich Sie zurückrufen?
+Dialogue: 0,0:04:32.87,0:04:33.71,Default,,0000,0000,0000,,Danke.
+Dialogue: 0,0:04:34.00,0:04:36.37,Default,,0000,0000,0000,,Ja, ich kümmere mich darum.\nAuf Wiederhören.
+Dialogue: 0,0:04:40.28,0:04:42.80,Default,,0000,0000,0000,,Lionel ... was ist mit dir?
+Dialogue: 0,0:04:43.36,0:04:45.85,Default,,0000,0000,0000,,Ja, hörst dich so an,
+Dialogue: 0,0:04:45.86,0:04:47.68,Default,,0000,0000,0000,,als wäre etwas passiert.
+Dialogue: 0,0:04:48.19,0:04:51.40,Default,,0000,0000,0000,,Ja, Lori. In der Tat.
+Dialogue: 0,0:04:51.77,0:04:53.91,Default,,0000,0000,0000,,Man hat mir gerade mitgeteilt,
+Dialogue: 0,0:04:54.01,0:04:56.15,Default,,0000,0000,0000,,daß mein Vater letzte Nacht\nverstorben ist.
+Dialogue: 0,0:04:58.06,0:05:01.16,Default,,0000,0000,0000,,Oh, Lionel! Das tut mir so leid!
+Dialogue: 0,0:05:01.86,0:05:04.97,Default,,0000,0000,0000,,Wenn ... ich irgendwas tun kann ...
+Dialogue: 0,0:05:05.53,0:05:07.73,Default,,0000,0000,0000,,Nein, nein danke. Danke.
+Dialogue: 0,0:05:07.80,0:05:09.01,Default,,0000,0000,0000,,Es geht schon.
+Dialogue: 0,0:05:09.07,0:05:11.87,Default,,0000,0000,0000,,Es hat mich nur ein wenig\nüberrascht. Macht euch keine Sorgen.
+Dialogue: 0,0:05:12.62,0:05:18.15,Default,,0000,0000,0000,,Lionel, ich weiß nicht, was ich sagen\nsoll. Es tut mir so leid ... Ich ...
+Dialogue: 0,0:05:20.30,0:05:22.98,Default,,0000,0000,0000,,Zum Geburtstag viel Glück!
+Dialogue: 0,0:05:23.49,0:05:25.97,Default,,0000,0000,0000,,Zum Geburtstag viel Glück!
+Dialogue: 0,0:05:26.43,0:05:30.99,Default,,0000,0000,0000,,Zum Geburtstag!\nZum Geburtstag viel Glück!
+Dialogue: 0,0:05:30.99,0:05:31.88,Default,,0000,0000,0000,,He!
+Dialogue: 0,0:05:32.98,0:05:35.81,Default,,0000,0000,0000,,Lionel! Mein Held!
+Dialogue: 0,0:05:35.90,0:05:38.84,Default,,0000,0000,0000,,Ein Jahr älter und immer noch\nto-tal süß!
+Dialogue: 0,0:05:39.20,0:05:42.03,Default,,0000,0000,0000,,Hier! Diese Blumen hab\nich für dich geklaut!
+Dialogue: 0,0:05:43.52,0:05:45.02,Default,,0000,0000,0000,,Poke! Poke, sei still!
+Dialogue: 0,0:05:45.30,0:05:47.49,Default,,0000,0000,0000,,Oh, Lori! Was ist denn mit dir los?
+Dialogue: 0,0:05:47.60,0:05:51.07,Default,,0000,0000,0000,,Das ist eine Geburtstagsfeier,\nkein Begräbnis, klar?
+Dialogue: 0,0:05:51.07,0:05:52.53,Default,,0000,0000,0000,,Fei-er!
+Dialogue: 0,0:05:53.17,0:05:55.37,Default,,0000,0000,0000,,Ich weiß, das ist alles\ntotales Neuland für dich, aber-
+Dialogue: 0,0:05:55.37,0:05:56.80,Default,,0000,0000,0000,,Oh, halt die Klappe!
+Dialogue: 0,0:05:58.04,0:06:00.18,Default,,0000,0000,0000,,Also gut. Was ist passiert?
+Dialogue: 0,0:06:00.55,0:06:02.44,Default,,0000,0000,0000,,Lionels Vater ist tot.
+Dialogue: 0,0:06:04.53,0:06:06.76,Default,,0000,0000,0000,,Was soll das heißen, "tot"?
+Dialogue: 0,0:06:06.86,0:06:09.09,Default,,0000,0000,0000,,Wann ist das passiert? Und wie?
+Dialogue: 0,0:06:09.45,0:06:11.02,Default,,0000,0000,0000,,Ich habe gerade einen\nAnruf bekommen.
+Dialogue: 0,0:06:11.35,0:06:13.55,Default,,0000,0000,0000,,Er ist letzte Nacht im\nSchlaf gestorben.
+Dialogue: 0,0:06:15.58,0:06:19.08,Default,,0000,0000,0000,,Tut mir leid, Leute.\nDie Feier ist vorbei.
+Dialogue: 0,0:06:19.33,0:06:20.72,Default,,0000,0000,0000,,Danke, daß ihr da wart, aber ...
+Dialogue: 0,0:06:21.02,0:06:23.18,Default,,0000,0000,0000,,ich denke, Lionel möchte jetzt\nlieber alleine sein.
+Dialogue: 0,0:06:23.46,0:06:25.07,Default,,0000,0000,0000,,Och ...
+Dialogue: 0,0:06:25.13,0:06:28.28,Default,,0000,0000,0000,,- Tschüs! - Tschüs!\N- Bis dann, Leute!
+Dialogue: 0,0:06:32.47,0:06:33.29,Default,,0000,0000,0000,,Also ...
+Dialogue: 0,0:06:35.57,0:06:36.39,Default,,0000,0000,0000,,Also ...
+Dialogue: 0,0:06:47.94,0:06:51.41,Default,,0000,0000,0000,,Also hat der alte Knacker endlich\nins Gras gebissen.
+Dialogue: 0,0:06:52.37,0:06:54.20,Default,,0000,0000,0000,,Aber das Leben geht weiter.
+Dialogue: 0,0:06:54.29,0:06:55.78,Default,,0000,0000,0000,,Ich habe immer noch Geburtstag,
+Dialogue: 0,0:06:55.85,0:06:59.10,Default,,0000,0000,0000,,und ich würde gerne mit euch\nfeiern, und ...
+Dialogue: 0,0:06:59.98,0:07:00.93,Default,,0000,0000,0000,,Au weia ...
+Dialogue: 0,0:07:01.23,0:07:03.90,Default,,0000,0000,0000,,Ich hätte besser meine Klappe\ngehalten, oder?
+Dialogue: 0,0:07:03.98,0:07:06.11,Default,,0000,0000,0000,,Lionel, das ist schockierend!
+Dialogue: 0,0:07:06.21,0:07:09.09,Default,,0000,0000,0000,,Warum redest du so über ihn?
+Dialogue: 0,0:07:09.09,0:07:12.44,Default,,0000,0000,0000,,Ja, es hört sich fast so an, als\nob dir sein Tod nichts ausmacht.
+Dialogue: 0,0:07:13.49,0:07:16.09,Default,,0000,0000,0000,,Nein, das ist es nicht, es ist nur ...
+Dialogue: 0,0:07:16.83,0:07:19.06,Default,,0000,0000,0000,,Ehrlich gesagt vermisse ich\nihn nicht besonders.
+Dialogue: 0,0:07:19.17,0:07:20.67,Default,,0000,0000,0000,,Seit er vor mehr als zehn Jahren\nfortgegangen ist ...
+Dialogue: 0,0:07:20.67,0:07:23.10,Default,,0000,0000,0000,,habe ich nichts mehr von\nihm gehört.
+Dialogue: 0,0:07:23.29,0:07:25.04,Default,,0000,0000,0000,,Aber er gehört zur Familie!
+Dialogue: 0,0:07:25.19,0:07:27.30,Default,,0000,0000,0000,,Was ist zwischen dir und\nihm denn abgelaufen?
+Dialogue: 0,0:07:27.30,0:07:29.85,Default,,0000,0000,0000,,Nichts! Das ist genau das Problem!
+Dialogue: 0,0:07:30.21,0:07:31.68,Default,,0000,0000,0000,,Es ist gar nichts abgelaufen.
+Dialogue: 0,0:07:31.98,0:07:33.55,Default,,0000,0000,0000,,Er hat sich dazu entschlossen,\nmich zurückzulassen,
+Dialogue: 0,0:07:33.55,0:07:35.78,Default,,0000,0000,0000,,um stattdessen seinen dummen\nHirngespinsten hinterherzujagen.
+Dialogue: 0,0:07:35.95,0:07:38.72,Default,,0000,0000,0000,,Und ich mußte mir selber\neinen Ort zum Leben suchen.
+Dialogue: 0,0:07:38.96,0:07:40.89,Default,,0000,0000,0000,,Und glaubt mir, das war\nnicht leicht ...
+Dialogue: 0,0:07:40.89,0:07:42.68,Default,,0000,0000,0000,,da er mir kein Geld\nhinterlassen hatte.
+Dialogue: 0,0:07:42.82,0:07:45.41,Default,,0000,0000,0000,,Und alles andere, was er besaß,\nhatte er verkauft!
+Dialogue: 0,0:07:45.41,0:07:46.66,Default,,0000,0000,0000,,Das ist schwer zu glauben.
+Dialogue: 0,0:07:46.66,0:07:49.15,Default,,0000,0000,0000,,Ja. Äh, warum ist er gegangen?
+Dialogue: 0,0:07:49.71,0:07:51.11,Default,,0000,0000,0000,,Ich habe keine Ahnung ...
+Dialogue: 0,0:07:51.16,0:07:53.69,Default,,0000,0000,0000,,Er hat mir gesagt, ich würde es\neines Tages verstehen, aber ...
+Dialogue: 0,0:07:53.69,0:07:55.06,Default,,0000,0000,0000,,dieser Tag ist nie gekommen.
+Dialogue: 0,0:07:55.38,0:07:57.66,Default,,0000,0000,0000,,Und jetzt, da er tot ist,\nist es wohl zu spät.
+Dialogue: 0,0:07:58.32,0:08:01.91,Default,,0000,0000,0000,,Ich hätte der Sohn eines berühmten\nMusikers sein können, aber ... Nein!
+Dialogue: 0,0:08:01.91,0:08:04.30,Default,,0000,0000,0000,,Er zog es vor im Dreck zu wühlen!
+Dialogue: 0,0:08:04.25,0:08:06.19,Default,,0000,0000,0000,,Im Dreck?
+Dialogue: 0,0:08:06.19,0:08:07.66,Default,,0000,0000,0000,,Ein Musiker?
+Dialogue: 0,0:08:07.72,0:08:09.40,Default,,0000,0000,0000,,Was hat er denn gemacht?
+Dialogue: 0,0:08:10.45,0:08:12.24,Default,,0000,0000,0000,,Er war ein Sänger und Liedermacher.
+Dialogue: 0,0:08:12.34,0:08:14.12,Default,,0000,0000,0000,,Und er war ziemlich gut!
+Dialogue: 0,0:08:14.44,0:08:17.49,Default,,0000,0000,0000,,Ich schwöre, sein Durchbruch\nwar so nahe!
+Dialogue: 0,0:08:17.78,0:08:19.89,Default,,0000,0000,0000,,Seine Lieder liefen auf allen Sendern!
+Dialogue: 0,0:08:19.89,0:08:22.47,Default,,0000,0000,0000,,Er hatte seinen großen Vertrag\nschon in der Tasche ...
+Dialogue: 0,0:08:22.72,0:08:23.68,Default,,0000,0000,0000,,Und dann warf er es hin!
+Dialogue: 0,0:08:24.14,0:08:25.72,Default,,0000,0000,0000,,Stattdessen wurde er ...
+Dialogue: 0,0:08:25.72,0:08:27.28,Default,,0000,0000,0000,,ein Archäologe!
+Dialogue: 0,0:08:27.48,0:08:29.57,Default,,0000,0000,0000,,Versteht ihr? Ein Archäologe!
+Dialogue: 0,0:08:29.87,0:08:32.32,Default,,0000,0000,0000,,Das muß wohl die allerdümmste\nEntscheidung gewesen sein ...
+Dialogue: 0,0:08:32.32,0:08:33.47,Default,,0000,0000,0000,,die je auf Erden getroffen wurde.
+Dialogue: 0,0:08:33.72,0:08:37.67,Default,,0000,0000,0000,,Er warf eine perfekte Karriere aus\nreinem Egoismus über Bord!
+Dialogue: 0,0:08:38.06,0:08:40.86,Default,,0000,0000,0000,,Es interessierte ihn\nüberhaupt nicht, was das für mich ...
+Dialogue: 0,0:08:40.86,0:08:42.69,Default,,0000,0000,0000,,für Konsequenzen haben würde.
+Dialogue: 0,0:08:43.73,0:08:45.99,Default,,0000,0000,0000,,Und was wollen sie jetzt von dir?
+Dialogue: 0,0:08:46.61,0:08:49.81,Default,,0000,0000,0000,,Sie wollen, daß ich nach Kairo komme\num mein Erbe anzutreten.
+Dialogue: 0,0:08:50.07,0:08:51.97,Default,,0000,0000,0000,,Aus irgendeinem Grund bestand\nmein Vater darauf,
+Dialogue: 0,0:08:51.97,0:08:54.69,Default,,0000,0000,0000,,daß ich es persönlich abholen muß.
+Dialogue: 0,0:08:54.69,0:08:56.48,Default,,0000,0000,0000,,Aber ich bin mir nicht sicher,\nob ich das wirklich will.
+Dialogue: 0,0:08:56.66,0:08:59.92,Default,,0000,0000,0000,,Ich meine, was könnte mir ein Typ\nwie er schon hinterlassen?
+Dialogue: 0,0:09:00.29,0:09:02.07,Default,,0000,0000,0000,,Einen Eimer Sand und eine Schaufel?
+Dialogue: 0,0:09:03.73,0:09:04.79,Default,,0000,0000,0000,,Warum Kairo?
+Dialogue: 0,0:09:05.63,0:09:09.62,Default,,0000,0000,0000,,Offensichtlich war das wohl der Ort\nwo er gelebt hatte.
+Dialogue: 0,0:09:09.82,0:09:12.88,Default,,0000,0000,0000,,Er hatte für das "Museum der\nvergessenen Künste" gearbeitet.
+Dialogue: 0,0:09:12.88,0:09:14.64,Default,,0000,0000,0000,,Was auch immer das sein mag.
+Dialogue: 0,0:09:14.84,0:09:17.48,Default,,0000,0000,0000,,Von dieser Einrichtung habe ich\nnoch nie etwas gehört ...
+Dialogue: 0,0:09:17.65,0:09:19.70,Default,,0000,0000,0000,,aber es klingt ganz nach Papa.
+Dialogue: 0,0:09:20.88,0:09:22.60,Default,,0000,0000,0000,,Was auch immer du über ihn denkst ...
+Dialogue: 0,0:09:22.60,0:09:24.91,Default,,0000,0000,0000,,du mußt ihm die letzte Ehre erweisen.
+Dialogue: 0,0:09:25.11,0:09:27.54,Default,,0000,0000,0000,,Du kannst ihn nicht einfach\nso abschreiben.
+Dialogue: 0,0:09:27.54,0:09:30.06,Default,,0000,0000,0000,,Damit wärst du keinen Deut\nbesser als er.
+Dialogue: 0,0:09:30.00,0:09:32.74,Default,,0000,0000,0000,,Und vielleicht lohnt es sich sogar.
+Dialogue: 0,0:09:32.76,0:09:35.79,Default,,0000,0000,0000,,Ich meine, sie würden dich  nicht\npersönlich dorthin bestellen ...
+Dialogue: 0,0:09:35.95,0:09:38.10,Default,,0000,0000,0000,,wenn es nicht wichtig wäre,\noder was meinst du?
+Dialogue: 0,0:09:38.81,0:09:40.60,Default,,0000,0000,0000,,Ja! Wir fliegen nach Kairo!
+Dialogue: 0,0:09:40.63,0:09:43.05,Default,,0000,0000,0000,,Wir werden wie Ägypter geh'n!
+Dialogue: 0,0:09:43.05,0:09:44.94,Default,,0000,0000,0000,,Wir werden wie Ägypter geh'n!
+Dialogue: 0,0:09:44.94,0:09:46.77,Default,,0000,0000,0000,,Wir werden wie Ägypter geh'n!
+Dialogue: 0,0:09:47.08,0:09:49.63,Default,,0000,0000,0000,,Warte, warte! Einen Moment mal!\nWer sagte was von: "Wir"?
+Dialogue: 0,0:09:49.87,0:09:53.01,Default,,0000,0000,0000,,Ich sagte: "Wir". Ich meine, wir müssen\ndoch zusammenhalten, oder nicht?
+Dialogue: 0,0:09:53.19,0:09:55.38,Default,,0000,0000,0000,,Und da gibt es sicher auch\nganz heiße ... äh ...
+Dialogue: 0,0:09:55.54,0:09:58.16,Default,,0000,0000,0000,,so ganz heiße ... Strände, nicht wahr?
+Dialogue: 0,0:09:58.16,0:09:59.59,Default,,0000,0000,0000,,Sand, und so weiter ...
+Dialogue: 0,0:10:00.30,0:10:01.45,Default,,0000,0000,0000,,Poke ...
+Dialogue: 0,0:10:01.81,0:10:03.86,Default,,0000,0000,0000,,Es gibt keinen Strand in Kairo.
+Dialogue: 0,0:10:04.99,0:10:07.99,Default,,0000,0000,0000,,Ich wollte schon immer das "Museum\nder vergessenen Künste" besuchen!
+Dialogue: 0,0:10:07.99,0:10:12.27,Default,,0000,0000,0000,,Ach, Lori, vor fünf Minuten wußtest\ndu nicht einmal, daß es das gibt!
+Dialogue: 0,0:10:12.58,0:10:13.98,Default,,0000,0000,0000,,Verstehst du es denn nicht?
+Dialogue: 0,0:10:13.98,0:10:16.72,Default,,0000,0000,0000,,Wir sind deine Freunde, und wir\nwollen einfach mit dir mitkommen.
+Dialogue: 0,0:10:17.38,0:10:19.91,Default,,0000,0000,0000,,Ach, Mika, das ist so lieb.
+Dialogue: 0,0:10:20.90,0:10:22.15,Default,,0000,0000,0000,,In Ordnung.
+Dialogue: 0,0:10:22.15,0:10:24.18,Default,,0000,0000,0000,,Ich habe dann wohl\nkeine andere Wahl.
+Dialogue: 0,0:10:24.18,0:10:26.27,Default,,0000,0000,0000,,Aber, bitte denkt daran, Leute ...
+Dialogue: 0,0:10:26.27,0:10:29.40,Default,,0000,0000,0000,,das ist kein Urlaub. Es gibt einige\nernste Angelegenheiten zu erledigen.
+Dialogue: 0,0:10:29.40,0:10:30.75,Default,,0000,0000,0000,,Packen wir unsere Sachen.
+Dialogue: 0,0:10:31.09,0:10:33.41,Default,,0000,0000,0000,,Wir werden wie Ägypter geh'n!
+Dialogue: 0,0:10:33.53,0:10:35.29,Default,,0000,0000,0000,,Wir werden wie Ägypter geh'n!
+Dialogue: 0,0:10:35.40,0:10:37.26,Default,,0000,0000,0000,,Wir werden wie Ägypter geh'n!
+Dialogue: 0,0:10:37.30,0:10:39.39,Default,,0000,0000,0000,,Wir werden wie Ägypter geh'n!
+Dialogue: 0,0:11:04.66,0:11:06.15,Default,,0000,0000,0000,,Mein Produzent!
+Dialogue: 0,0:11:07.52,0:11:08.98,Default,,0000,0000,0000,,Mein Produzent!
+Dialogue: 0,0:11:12.44,0:11:14.02,Default,,0000,0000,0000,,Sie haben mich rufen lassen?
+Dialogue: 0,0:11:14.52,0:11:15.90,Default,,0000,0000,0000,,Ja!
+Dialogue: 0,0:11:16.06,0:11:17.42,Default,,0000,0000,0000,,Es ist Zeit für die Versammlung!
+Dialogue: 0,0:11:17.69,0:11:20.08,Default,,0000,0000,0000,,Bring mir die digitalen\nRechteverwalter!
+Dialogue: 0,0:11:26.46,0:11:28.13,Default,,0000,0000,0000,,Jawohl, mein Produzent!
+Dialogue: 0,0:11:28.91,0:11:29.79,Default,,0000,0000,0000,,Sofort!
+Dialogue: 0,0:11:29.83,0:11:31.59,Default,,0000,0000,0000,,Natürlich, mein Produzent!
+Dialogue: 0,0:11:32.02,0:11:34.56,Default,,0000,0000,0000,,Ich hole sie für Sie,\nmein Produzent!
+Dialogue: 0,0:11:55.47,0:11:58.49,Default,,0000,0000,0000,,Zu Ihren Diensten, o großer Produzent!
+Dialogue: 0,0:12:00.13,0:12:01.27,Default,,0000,0000,0000,,Nun gut!
+Dialogue: 0,0:12:01.47,0:12:04.77,Default,,0000,0000,0000,,Meine Herren! Ich habe Sie zu dieser\nbesonderen Versammlung gerufen ...
+Dialogue: 0,0:12:04.77,0:12:06.82,Default,,0000,0000,0000,,weil ich schwer enttäuscht bin!
+Dialogue: 0,0:12:07.79,0:12:10.28,Default,,0000,0000,0000,,Ich habe gerade den letzten\nVerkaufsbericht gelesen.
+Dialogue: 0,0:12:10.56,0:12:13.94,Default,,0000,0000,0000,,Unser Profit ist um fünfzig\nProzent gestiegen ...
+Dialogue: 0,0:12:14.26,0:12:17.58,Default,,0000,0000,0000,,und das ist weit unterhalb der\nErwartungen für dieses Quartal.
+Dialogue: 0,0:12:18.37,0:12:20.37,Default,,0000,0000,0000,,Dieser Mangel an Wachstum ist ...
+Dialogue: 0,0:12:20.67,0:12:22.05,Default,,0000,0000,0000,,beunruhigend.
+Dialogue: 0,0:12:22.99,0:12:26.22,Default,,0000,0000,0000,,Wie soll ich das denn nun\nunseren Aktionären erklären?
+Dialogue: 0,0:12:28.17,0:12:29.71,Default,,0000,0000,0000,,Mein Produzent ...
+Dialogue: 0,0:12:29.76,0:12:32.23,Default,,0000,0000,0000,,wir ... vielleicht ... nun ja ...
+Dialogue: 0,0:12:33.17,0:12:36.21,Default,,0000,0000,0000,,Wir forschen immer noch\nsehr viel auf diesem Gebiet ...
+Dialogue: 0,0:12:36.23,0:12:39.93,Default,,0000,0000,0000,,und es scheint so, als wären die Leute\nin letzter Zeit seltsam inspiriert.
+Dialogue: 0,0:12:40.16,0:12:43.35,Default,,0000,0000,0000,,Seltsam inspiriert, sagen Sie?
+Dialogue: 0,0:12:43.42,0:12:44.86,Default,,0000,0000,0000,,Das ist schwer zu glauben.
+Dialogue: 0,0:12:44.86,0:12:47.00,Default,,0000,0000,0000,,Womit können Sie Ihre\nBehauptung untermauern?
+Dialogue: 0,0:12:47.30,0:12:50.31,Default,,0000,0000,0000,,Meine Zahlen deuten darauf hin, daß\nviele Leute unlizenziertes Material ...
+Dialogue: 0,0:12:50.37,0:12:53.21,Default,,0000,0000,0000,,unter der Dusche singen!
+Dialogue: 0,0:12:57.65,0:13:01.26,Default,,0000,0000,0000,,Und ich bekam gerade einen Bericht\nüber Fälle, daß Kindern in ...
+Dialogue: 0,0:13:01.26,0:13:04.06,Default,,0000,0000,0000,,Schulen und Kindergärten gemeinfreie\nKinderlieder beigebracht werden.
+Dialogue: 0,0:13:04.06,0:13:06.46,Default,,0000,0000,0000,,Ganz offiziell! Von ihren Lehrern!
+Dialogue: 0,0:13:06.46,0:13:07.94,Default,,0000,0000,0000,,Stellen Sie sich das vor!
+Dialogue: 0,0:13:08.16,0:13:11.10,Default,,0000,0000,0000,,Das ist ekelhaft!\nWas kommt als nächstes?
+Dialogue: 0,0:13:11.10,0:13:14.47,Default,,0000,0000,0000,,Lehrer, die in ihren Klassen\nmp3-Dateien verschenken?
+Dialogue: 0,0:13:17.84,0:13:19.89,Default,,0000,0000,0000,,Wagen Sie es nicht, das\nverbotene Wort auszusprechen!
+Dialogue: 0,0:13:32.74,0:13:35.64,Default,,0000,0000,0000,,Welches? "mp3"?
+Dialogue: 0,0:13:39.10,0:13:40.13,Default,,0000,0000,0000,,Sie Idiot!
+Dialogue: 0,0:13:40.22,0:13:43.71,Default,,0000,0000,0000,,Sagen Sie das nicht noch einmal! Sie\nwissen, welche Strafe darauf steht!
+Dialogue: 0,0:13:45.00,0:13:46.68,Default,,0000,0000,0000,,Jawohl, mein Produzent!
+Dialogue: 0,0:13:48.86,0:13:52.10,Default,,0000,0000,0000,,Ich dachte, die Regel gilt nicht\nfür Mitglieder des Konzerns.
+Dialogue: 0,0:13:52.10,0:13:53.85,Default,,0000,0000,0000,,Seien Sie still! Sie Dummkopf!
+Dialogue: 0,0:13:55.80,0:13:59.31,Default,,0000,0000,0000,,Was wollte ich sagen?\nAh, richtig!
+Dialogue: 0,0:13:59.80,0:14:03.36,Default,,0000,0000,0000,,Anscheinend ist die Macht der\nInspiration wieder auf dem Vormarsch.
+Dialogue: 0,0:14:03.88,0:14:07.58,Default,,0000,0000,0000,,Diese Entwicklung war schon immer\nmeine größte Sorge.
+Dialogue: 0,0:14:07.73,0:14:10.69,Default,,0000,0000,0000,,Alle Quellen der Inspiration\nsind unter unserer Kontrolle.
+Dialogue: 0,0:14:11.04,0:14:13.08,Default,,0000,0000,0000,,Ich verstehe nicht, wie das sein kann.
+Dialogue: 0,0:14:13.46,0:14:15.35,Default,,0000,0000,0000,,Es muß etwas geschehen sein.
+Dialogue: 0,0:14:15.91,0:14:18.00,Default,,0000,0000,0000,,Vielleicht stimmen die Gerüchte doch.
+Dialogue: 0,0:14:18.55,0:14:20.45,Default,,0000,0000,0000,,Wie auch immer,
+Dialogue: 0,0:14:20.92,0:14:23.12,Default,,0000,0000,0000,,wir müssen handeln. Schnellstens.
+Dialogue: 0,0:14:23.87,0:14:26.81,Default,,0000,0000,0000,,Thema eins: Leute, die unter\nder Dusche singen.
+Dialogue: 0,0:14:27.12,0:14:28.85,Default,,0000,0000,0000,,Verständigen Sie unsere\nRechtsabteilung.
+Dialogue: 0,0:14:28.95,0:14:32.06,Default,,0000,0000,0000,,Wir müssen unseren Einfluß geltend\nmachen und neue internationale ...
+Dialogue: 0,0:14:32.06,0:14:35.24,Default,,0000,0000,0000,,Urheberrechtsgesetze schaffen, die es\nuns erlauben, Ausgleichszahlungen ...
+Dialogue: 0,0:14:35.24,0:14:37.41,Default,,0000,0000,0000,,von Badezimmerausstattern\nzu verlangen!
+Dialogue: 0,0:14:41.69,0:14:43.98,Default,,0000,0000,0000,,Ausgezeichnete Idee, mein Produzent!
+Dialogue: 0,0:14:44.40,0:14:46.35,Default,,0000,0000,0000,,Thema zwei: die Kinder.
+Dialogue: 0,0:14:46.71,0:14:49.52,Default,,0000,0000,0000,,Wir müssen unsere Präsenz in Schulen\nund Kindergärten verstärken und ...
+Dialogue: 0,0:14:49.82,0:14:52.73,Default,,0000,0000,0000,,sie lehren, daß das Singen von\ngemeinfreien Kinderliedern die hart ...
+Dialogue: 0,0:14:52.73,0:14:54.52,Default,,0000,0000,0000,,arbeitenden Künstler um das ihnen\nvon Gott gegebene Recht bringt,
+Dialogue: 0,0:14:54.65,0:14:56.58,Default,,0000,0000,0000,,davon zu profitieren!
+Dialogue: 0,0:14:57.33,0:15:00.76,Default,,0000,0000,0000,,Wir müssen ihnen klar machen, daß\nLizenzierung etwas Gutes ...
+Dialogue: 0,0:15:01.05,0:15:03.10,Default,,0000,0000,0000,,und Tauschen etwas Böses ist.
+Dialogue: 0,0:15:04.14,0:15:05.85,Default,,0000,0000,0000,,Wie Sie befehlen, mein Produzent!
+Dialogue: 0,0:15:08.19,0:15:11.96,Default,,0000,0000,0000,,Also ... was machen wir nun mit Ihnen?
+Dialogue: 0,0:15:11.96,0:15:16.81,Default,,0000,0000,0000,,Was schlagen Sie vor, um die Sache\nwieder in Ordnung zu bringen?
+Dialogue: 0,0:15:17.38,0:15:20.77,Default,,0000,0000,0000,,Ich ... ich bitte um Vergebung,\nmein Produzent!
+Dialogue: 0,0:15:20.77,0:15:22.61,Default,,0000,0000,0000,,Ich wollte keinen Schaden anrichten!
+Dialogue: 0,0:15:22.64,0:15:24.25,Default,,0000,0000,0000,,Bitte, lassen Sie Gnade walten!
+Dialogue: 0,0:15:24.27,0:15:28.84,Default,,0000,0000,0000,,Ich habe nur zwei Mal "mp-"\ndieses Wort gesagt ...
+Dialogue: 0,0:15:29.09,0:15:30.44,Default,,0000,0000,0000,,und ... und ...
+Dialogue: 0,0:15:30.52,0:15:32.43,Default,,0000,0000,0000,,Ja. Und?
+Dialogue: 0,0:15:34.11,0:15:37.15,Default,,0000,0000,0000,,Und ich schwöre, ich werde nie\nwieder "mp3" sagen!
+Dialogue: 0,0:15:40.53,0:15:43.72,Default,,0000,0000,0000,,Jetzt reicht es! Drei Mal!
+Dialogue: 0,0:15:43.99,0:15:46.02,Default,,0000,0000,0000,,Ihr Verhalten ist nicht tragbar!
+Dialogue: 0,0:15:46.18,0:15:49.30,Default,,0000,0000,0000,,- Sie werden Ihre Strafe erhalten!\N- Nein!
+Dialogue: 0,0:15:49.45,0:15:52.08,Default,,0000,0000,0000,,Wie lautet Ihr Urteil, mein Produzent?
+Dialogue: 0,0:15:52.38,0:15:54.61,Default,,0000,0000,0000,,Die Strafe für die Verwendung des\nverbotenen Wortes ist ...
+Dialogue: 0,0:15:54.84,0:15:57.28,Default,,0000,0000,0000,,Tod\ndurch Britneys Speer!
+Dialogue: 0,0:16:05.00,0:16:07.38,Default,,0000,0000,0000,,Nein! Bitte! Nicht das!
+Dialogue: 0,0:16:07.38,0:16:10.11,Default,,0000,0000,0000,,Welch gerechte Entscheidung,\nmein Produzent!
+Dialogue: 0,0:16:10.78,0:16:12.24,Default,,0000,0000,0000,,Britney!
+Dialogue: 0,0:16:27.65,0:16:29.39,Default,,0000,0000,0000,,Jawohl, mein Produzent?
+Dialogue: 0,0:16:30.13,0:16:31.14,Default,,0000,0000,0000,,Töte ihn!
+Dialogue: 0,0:16:31.91,0:16:33.94,Default,,0000,0000,0000,,Mit Vergnügen, mein Produzent!
+Dialogue: 0,0:17:03.88,0:17:05.33,Default,,0000,0000,0000,,Ekelhaft!
+Dialogue: 0,0:17:06.64,0:17:08.56,Default,,0000,0000,0000,,Verkaufen wir solche Musik wirklich?
+Dialogue: 0,0:17:08.56,0:17:12.42,Default,,0000,0000,0000,,In der Tat. Und genauer gesagt\nist sie sogar ziemlich erfolgreich.
+Dialogue: 0,0:17:12.42,0:17:14.92,Default,,0000,0000,0000,,Ich hab sie sogar als mp- äh ...
+Dialogue: 0,0:17:14.92,0:17:18.16,Default,,0000,0000,0000,,ich meine Windows Media, ja,\nWindows Media.
+Dialogue: 0,0:17:24.03,0:17:26.67,Default,,0000,0000,0000,,Mein Produzent! Mein Produzent!
+Dialogue: 0,0:17:27.46,0:17:29.57,Default,,0000,0000,0000,,Wir haben ein Telefongespräch vom ...
+Dialogue: 0,0:17:29.57,0:17:32.42,Default,,0000,0000,0000,,"Museum der vergessenen Künste" in\nÄgypten abgefangen!
+Dialogue: 0,0:17:33.50,0:17:37.14,Default,,0000,0000,0000,,Endlich haben wir den Beweis,\ndaß Ihre Theorie wahr ist.
+Dialogue: 0,0:17:37.57,0:17:39.76,Default,,0000,0000,0000,,Das Dokument existiert tatsächlich ...
+Dialogue: 0,0:17:39.91,0:17:44.16,Default,,0000,0000,0000,,und der Sohn des alten Löwen ist schon\nauf dem Weg, sein Erbe anzutreten.
+Dialogue: 0,0:17:45.54,0:17:47.42,Default,,0000,0000,0000,,Wie auf's Stichwort.
+Dialogue: 0,0:17:47.60,0:17:52.11,Default,,0000,0000,0000,,Also hat Mr. Scruffycat Senior\nsie wirklich gefunden.
+Dialogue: 0,0:17:52.42,0:17:53.80,Default,,0000,0000,0000,,Bemerkenswert.
+Dialogue: 0,0:17:54.18,0:17:57.06,Default,,0000,0000,0000,,Und nun versucht er sie an\nseinen Sohn weiterzugeben.
+Dialogue: 0,0:17:57.50,0:18:01.03,Default,,0000,0000,0000,,Ich wußte schon immer, daß er kein\nGeheimnis für sich behalten konnte.
+Dialogue: 0,0:18:01.41,0:18:04.22,Default,,0000,0000,0000,,Schlecht für ihn. Aber gut für uns.
+Dialogue: 0,0:18:04.99,0:18:08.70,Default,,0000,0000,0000,,Schicken Sie zwei unserer besten Leute\nnach Kairo und kommen Sie ihm zuvor!
+Dialogue: 0,0:18:08.89,0:18:12.15,Default,,0000,0000,0000,,Dort liegt der Schlüssel zur Kontrolle\nüber alle Musik dieses Planeten!
+Dialogue: 0,0:18:12.28,0:18:14.67,Default,,0000,0000,0000,,Und diese Gelegenheit dürfen wir\nuns nicht entgehen lassen!
+Dialogue: 0,0:18:15.14,0:18:16.76,Default,,0000,0000,0000,,Jawohl, mein Produzent!
+Dialogue: 0,0:18:18.29,0:18:20.73,Default,,0000,0000,0000,,Christopher Scruffycat!
+Dialogue: 0,0:18:21.57,0:18:25.33,Default,,0000,0000,0000,,Du hast so oft versucht,\nmeine Pläne zu durchkreuzen ...
+Dialogue: 0,0:18:25.61,0:18:26.89,Default,,0000,0000,0000,,Doch dieses Mal nicht!
+Dialogue: 0,0:18:27.43,0:18:31.24,Default,,0000,0000,0000,,Wenn das alles vorbei ist, werde ich\n der reichste Mann der Welt sein!
+Dialogue: 0,0:18:32.18,0:18:34.27,Default,,0000,0000,0000,,Danke, alter Löwe!
+Dialogue: 0,0:18:34.75,0:18:36.92,Default,,0000,0000,0000,,Ohne dich hätte ich es niemals\ngeschafft!
+Dialogue: 0,0:19:14.20,0:19:15.35,Default,,0000,0000,0000,,Salem Aleikum!
+Dialogue: 0,0:19:15.35,0:19:18.84,Default,,0000,0000,0000,,Willkommen im "Museum der\nvergessenen Künste" verehrte Freunde!
+Dialogue: 0,0:19:18.84,0:19:22.42,Default,,0000,0000,0000,,Mein Name ist Yussef Al-Kali.\nIch habe auf euch gewartet.
+Dialogue: 0,0:19:22.80,0:19:24.64,Default,,0000,0000,0000,,Aleikum Salem.
+Dialogue: 0,0:19:24.81,0:19:27.71,Default,,0000,0000,0000,,Hallo Kumpel! Al-Kali?
+Dialogue: 0,0:19:29.04,0:19:31.56,Default,,0000,0000,0000,,Bist du nicht der Typ, der das\nDuracell-Kaninchen erfunden hat?
+Dialogue: 0,0:19:31.56,0:19:34.26,Default,,0000,0000,0000,,Als das Ding das letzte mal nicht\nmehr gehen wollte, hab ich die ...
+Dialogue: 0,0:19:34.26,0:19:36.72,Default,,0000,0000,0000,,Batterien umgedreht, und dann\nkam es, und kam es, und kam es ...
+Dialogue: 0,0:19:38.27,0:19:41.89,Default,,0000,0000,0000,,Poke! So begrüßt man doch\nkeinen Mann wie ihn!
+Dialogue: 0,0:19:41.90,0:19:44.21,Default,,0000,0000,0000,,Ich zeig dir, wie das geht!
+Dialogue: 0,0:19:46.49,0:19:50.88,Default,,0000,0000,0000,,Aleikum Salem, Yussef Al-Kali!\nMein Name ist Loreena McFolkmanis ...
+Dialogue: 0,0:19:50.88,0:19:53.69,Default,,0000,0000,0000,,und meine Freunde und ich danken\nEuch für Euer herzliches Willkommen.
+Dialogue: 0,0:19:54.29,0:19:55.91,Default,,0000,0000,0000,,Das ist doch selbstverständlich.
+Dialogue: 0,0:19:55.91,0:19:58.67,Default,,0000,0000,0000,,Warum kommt Ihr und Eure Freunde\nnicht näher und setzt Euch zu mir?
+Dialogue: 0,0:19:59.02,0:20:02.13,Default,,0000,0000,0000,,Es ist der Brauch meines Volkes, den\nGästen eine leckere Tasse ...
+Dialogue: 0,0:20:02.13,0:20:04.72,Default,,0000,0000,0000,,arabischen Mokkas als Zeichen\nder Gastfreundschaft anzubieten.
+Dialogue: 0,0:20:04.72,0:20:08.15,Default,,0000,0000,0000,,Ah, Kaffee! Genau das\nbrauche ich jetzt!
+Dialogue: 0,0:20:08.20,0:20:09.48,Default,,0000,0000,0000,,Gib her!
+Dialogue: 0,0:20:09.98,0:20:13.58,Default,,0000,0000,0000,,Poke, sei vorsichtig, das ist echter\narabischer Mokka.
+Dialogue: 0,0:20:14.75,0:20:17.94,Default,,0000,0000,0000,,Ja, und das ist die kleinste Tasse\ndie ich je gesehen habe.
+Dialogue: 0,0:20:18.26,0:20:20.74,Default,,0000,0000,0000,,Das ist keine Herausforderung für\nmich! Nennt mich "Starbuck's"!
+Dialogue: 0,0:20:29.77,0:20:33.04,Default,,0000,0000,0000,,Ja! So muß das Zeug sein!
+Dialogue: 0,0:20:33.04,0:20:36.22,Default,,0000,0000,0000,,Da hüpft das Herz und\ndie Pfoten bleiben schwarz!
+Dialogue: 0,0:20:39.32,0:20:44.43,Default,,0000,0000,0000,,Oh oh ... das habe ich\nnoch nie probiert.
+Dialogue: 0,0:20:44.74,0:20:47.06,Default,,0000,0000,0000,,Wenn ich du wäre, würde ich das\nnicht anfassen.
+Dialogue: 0,0:20:47.04,0:20:50.84,Default,,0000,0000,0000,,Das ist kein fett- und koffeinfreies\nSpülwasser, wie du es immer trinkst.
+Dialogue: 0,0:20:51.93,0:20:54.94,Default,,0000,0000,0000,,Das ist für echte Männer, nicht für\nkleine Mädchen wie dich.
+Dialogue: 0,0:20:55.02,0:20:59.33,Default,,0000,0000,0000,,Jetzt mach mal halblang, Machomann!\nWir starken Frauen können das ab!
+Dialogue: 0,0:20:59.62,0:21:03.27,Default,,0000,0000,0000,,Und wir wollen ja auch nicht unhöflich\nsein, nicht wahr, Lori?
+Dialogue: 0,0:21:06.36,0:21:10.21,Default,,0000,0000,0000,,Äh ... nein ... wollen wir nicht.
+Dialogue: 0,0:21:11.13,0:21:13.34,Default,,0000,0000,0000,,Vielleicht ist es ja nicht so schlimm.
+Dialogue: 0,0:21:19.95,0:21:25.50,Default,,0000,0000,0000,,Oh, das ist wirklich lecker\nIch  ... Ich könnte wirklich ...
+Dialogue: 0,0:21:50.72,0:21:52.57,Default,,0000,0000,0000,,Möchte sonst noch jemand\netwas Mokka?
+Dialogue: 0,0:21:52.80,0:21:54.57,Default,,0000,0000,0000,,- Nein!\N- Nein!
+Dialogue: 0,0:22:01.75,0:22:07.25,Default,,0000,0000,0000,,Zwei Würfel Zucker, bitte!
+Dialogue: 0,0:22:10.00,0:22:14.45,Default,,0000,0000,0000,,Also. Ihr wollt sicher wissen, warum\nIhr persönlich herkommen solltet ...
+Dialogue: 0,0:22:14.45,0:22:16.39,Default,,0000,0000,0000,,und was Euer Vater Euch\nhinterlassen haben mag.
+Dialogue: 0,0:22:16.93,0:22:20.28,Default,,0000,0000,0000,,Der Tod Eures Vaters war für\nuns alle ein großer Verlust.
+Dialogue: 0,0:22:20.60,0:22:24.29,Default,,0000,0000,0000,,Er hat große Dinge für das Museum\ngetan und viele Artefakte gefunden ...
+Dialogue: 0,0:22:24.28,0:22:26.92,Default,,0000,0000,0000,,die seit Jahrhunderten als\nverschollen galten.
+Dialogue: 0,0:22:27.46,0:22:31.61,Default,,0000,0000,0000,,Er widmete sein Leben der\nWissenschaft, doch leider ...
+Dialogue: 0,0:22:31.61,0:22:35.10,Default,,0000,0000,0000,,segnete Allah ihn nicht mit\ndem Erfolg, nach dem er strebte.
+Dialogue: 0,0:22:35.34,0:22:39.67,Default,,0000,0000,0000,,Ich war ein guter Freund von ihm, und\ner bat mich, Euch dies zu geben.
+Dialogue: 0,0:22:47.77,0:22:50.34,Default,,0000,0000,0000,,Dies sind sein persönliches Tagebuch\nund seine Forschungsaufzeichnungen.
+Dialogue: 0,0:22:50.62,0:22:54.24,Default,,0000,0000,0000,,Er sagte uns, daß es all sein Wissen\nund seine Erkenntnisse enthält.
+Dialogue: 0,0:22:54.80,0:22:57.46,Default,,0000,0000,0000,,Allerdings ergibt der Inhalt\nfür uns keinen Sinn.
+Dialogue: 0,0:22:57.86,0:23:00.44,Default,,0000,0000,0000,,Euer Vater hat alles getan, um\nsicherzustellen,
+Dialogue: 0,0:23:00.44,0:23:02.95,Default,,0000,0000,0000,,daß es Euch persönlich\nübergeben wird,
+Dialogue: 0,0:23:03.02,0:23:05.98,Default,,0000,0000,0000,,und daß es niemals in die\nfalschen Hände geraten würde.
+Dialogue: 0,0:23:06.43,0:23:10.97,Default,,0000,0000,0000,,Und hier ist es. Er nannte es: "Der\nWeg zum Tempel von Wasweißich".
+Dialogue: 0,0:23:16.98,0:23:20.36,Default,,0000,0000,0000,,In der Tat, das ergibt auch\nfür mich keinen Sinn.
+Dialogue: 0,0:23:21.17,0:23:22.77,Default,,0000,0000,0000,,Ist dieses Buch alles, was\ner mir hinterlassen hat?
+Dialogue: 0,0:23:23.39,0:23:26.15,Default,,0000,0000,0000,,Nein, ich habe noch zwei\nDinge für Euch.
+Dialogue: 0,0:23:27.15,0:23:30.69,Default,,0000,0000,0000,,Laßt mich raten ... Einen Eimer\nSand und eine Schaufel?
+Dialogue: 0,0:23:31.56,0:23:34.72,Default,,0000,0000,0000,,Nein. Er hinterließ Euch zwei Dinge,\ndie ihm sehr wichtig waren.
+Dialogue: 0,0:23:34.72,0:23:38.16,Default,,0000,0000,0000,,Ihr solltet sie in Ehren halten. Er\nging niemals ohne sie fort.
+Dialogue: 0,0:23:43.41,0:23:44.81,Default,,0000,0000,0000,,Eine Peitsche und ein Hut?
+Dialogue: 0,0:23:46.15,0:23:47.73,Default,,0000,0000,0000,,Danke, Papa.
+Dialogue: 0,0:24:04.92,0:24:08.61,Default,,0000,0000,0000,,Psst! Psst! Keine lizenzierte Musik\nin den Hallen des Museums!
+Dialogue: 0,0:24:09.52,0:24:11.72,Default,,0000,0000,0000,,Okay ...
+Dialogue: 0,0:24:12.81,0:24:15.13,Default,,0000,0000,0000,,Worum geht es in diesem\nMuseum überhaupt?
+Dialogue: 0,0:24:15.44,0:24:19.69,Default,,0000,0000,0000,,Dieses Museums beherbergt die\nvergessenen Lieder der alten Zeiten.
+Dialogue: 0,0:24:20.33,0:24:24.10,Default,,0000,0000,0000,,Es gab eine Zeit, in der Musik nicht\nvon Produzenten produziert ...
+Dialogue: 0,0:24:24.20,0:24:25.86,Default,,0000,0000,0000,,und von Konsumenten\nkonsumiert wurde.
+Dialogue: 0,0:24:26.17,0:24:28.59,Default,,0000,0000,0000,,Musik war in jedermanns Herzen.
+Dialogue: 0,0:24:29.07,0:24:31.58,Default,,0000,0000,0000,,Die Leute trafen sich und\nsangen und tanzten ...
+Dialogue: 0,0:24:31.60,0:24:33.09,Default,,0000,0000,0000,,und tauschten ihre Lieder aus.
+Dialogue: 0,0:24:33.26,0:24:35.70,Default,,0000,0000,0000,,Musik war ein Teil\nunseres täglichen Lebens ...
+Dialogue: 0,0:24:36.05,0:24:38.60,Default,,0000,0000,0000,,und es gab Musik für jede Gelegenheit.
+Dialogue: 0,0:24:39.17,0:24:41.35,Default,,0000,0000,0000,,Das müssen wundervolle\nZeiten gewesen sein.
+Dialogue: 0,0:24:42.24,0:24:45.67,Default,,0000,0000,0000,,Heutzutage ist Musik zu geistigem\nEigentum geworden ...
+Dialogue: 0,0:24:45.73,0:24:48.26,Default,,0000,0000,0000,, das offene Herzen in gierige\nGeister verwandelt.
+Dialogue: 0,0:24:48.62,0:24:51.86,Default,,0000,0000,0000,,Und das, was einst eine\nInspiration für alle war ...
+Dialogue: 0,0:24:51.87,0:24:55.62,Default,,0000,0000,0000,,ist jetzt zu einem Weg geworden,\ndie Taschen einiger weniger zu füllen.
+Dialogue: 0,0:24:55.81,0:25:00.50,Default,,0000,0000,0000,,Dieses Museum bewahrt was von den\nLiedern der alten Zeiten übrig ist.
+Dialogue: 0,0:25:00.73,0:25:03.06,Default,,0000,0000,0000,,Oh! Oh, können wir eins davon hören?
+Dialogue: 0,0:25:03.15,0:25:04.67,Default,,0000,0000,0000,,Natürlich! Folgt mir!
+Dialogue: 0,0:25:20.43,0:25:22.70,Default,,0000,0000,0000,,Was für eine wunderschöne Melodie!
+Dialogue: 0,0:25:23.63,0:25:25.81,Default,,0000,0000,0000,,Diese Melodie habe ich\nnoch nie gehört.
+Dialogue: 0,0:25:28.91,0:25:31.47,Default,,0000,0000,0000,,Seht Ihr? Das ist der Grund,\nwarum wir sie bewahren.
+Dialogue: 0,0:25:31.59,0:25:34.74,Default,,0000,0000,0000,,Es gibt eine Menge alter Lieder\ndie sehr schön sind ...
+Dialogue: 0,0:25:34.74,0:25:37.41,Default,,0000,0000,0000,,die aber heutzutage\nniemand mehr kennt.
+Dialogue: 0,0:25:37.56,0:25:38.65,Default,,0000,0000,0000,,Wirklich?
+Dialogue: 0,0:25:38.86,0:25:42.61,Default,,0000,0000,0000,,Und jeder dieser Kisten beinhaltet\neins der vergessenen Lieder?
+Dialogue: 0,0:25:42.76,0:25:46.34,Default,,0000,0000,0000,,Oh, das ist so aufregend! Ich kann es\nnicht erwarten, sie alle zu hören!
+Dialogue: 0,0:25:46.34,0:25:47.86,Default,,0000,0000,0000,,Was ist hier drin?
+Dialogue: 0,0:25:48.64,0:25:50.98,Default,,0000,0000,0000,,Nein! Nein! Faßt die nicht an! Nein!
+Dialogue: 0,0:26:00.04,0:26:02.37,Default,,0000,0000,0000,,Öffnet diese Kiste nie wieder!
+Dialogue: 0,0:26:02.40,0:26:05.07,Default,,0000,0000,0000,,Das ist unsere Sammlung an\nErsatzstimmen.
+Dialogue: 0,0:26:05.09,0:26:07.45,Default,,0000,0000,0000,,Die brauchen wir zu\nRestaurierungszwecken.
+Dialogue: 0,0:26:07.97,0:26:11.17,Default,,0000,0000,0000,,Manchmal finden wir Lieder die\nin schlechter Verfassung sind ...
+Dialogue: 0,0:26:11.17,0:26:13.67,Default,,0000,0000,0000,,und dann benutzen wir\ndiese als Ersatz.
+Dialogue: 0,0:26:17.35,0:26:19.70,Default,,0000,0000,0000,,Das tut mir leid, das wußte ich nicht.
+Dialogue: 0,0:26:20.36,0:26:21.67,Default,,0000,0000,0000,,Darf ich diese hier öffnen?
+Dialogue: 0,0:26:22.05,0:26:23.06,Default,,0000,0000,0000,,Natürlich!
+Dialogue: 0,0:26:27.99,0:26:30.48,Default,,0000,0000,0000,,Ooooh!
+Dialogue: 0,0:26:30.57,0:26:33.85,Default,,0000,0000,0000,,Aaaah!
+Dialogue: 0,0:26:34.69,0:26:36.09,Default,,0000,0000,0000,,He, wartet mal einen Moment!
+Dialogue: 0,0:26:36.80,0:26:38.85,Default,,0000,0000,0000,,Das ist ja nur eine Kiste mit\neinem Licht drin!
+Dialogue: 0,0:26:41.17,0:26:42.85,Default,,0000,0000,0000,,Oh, mein Fehler.
+Dialogue: 0,0:26:48.26,0:26:50.00,Default,,0000,0000,0000,,Nun, wie Ihr seht ...
+Dialogue: 0,0:26:50.00,0:26:53.54,Default,,0000,0000,0000,,kann man mit all diesem alten Zeug\nkein Geld mehr machen.
+Dialogue: 0,0:26:53.60,0:26:55.54,Default,,0000,0000,0000,,Und genau das ist der Grund ...
+Dialogue: 0,0:26:55.54,0:26:57.18,Default,,0000,0000,0000,,warum wir ein Dorn im Auge ...
+Dialogue: 0,0:26:57.18,0:26:59.54,Default,,0000,0000,0000,,der internationalen\nMedienkonzerne sind.
+Dialogue: 0,0:26:59.65,0:27:01.91,Default,,0000,0000,0000,,Wir werden genauestens von\nihnen überwacht.
+Dialogue: 0,0:27:02.04,0:27:05.86,Default,,0000,0000,0000,,Eine falsche Note und es wird hier\nvon ihren Leuten nur so wimmeln.
+Dialogue: 0,0:27:10.30,0:27:10.94,Default,,0000,0000,0000,,Poke!
+Dialogue: 0,0:27:11.81,0:27:13.71,Default,,0000,0000,0000,,Poke, bitte! Poke!
+Dialogue: 0,0:27:14.60,0:27:16.08,Default,,0000,0000,0000,,Bist du wahnsinnig?
+Dialogue: 0,0:27:21.23,0:27:23.28,Default,,0000,0000,0000,,Seht ihr? Sie beobachten uns!
+Dialogue: 0,0:27:27.95,0:27:30.00,Default,,0000,0000,0000,,Oh nein! Da kommen sie!
+Dialogue: 0,0:27:34.80,0:27:37.45,Default,,0000,0000,0000,,Hier ist das THX! Soundcheck!
+Dialogue: 0,0:27:37.48,0:27:39.29,Default,,0000,0000,0000,,Ihr seid Dolby Surrounded!
+Dialogue: 0,0:27:39.53,0:27:41.31,Default,,0000,0000,0000,,Öffnet die Tür!
+Dialogue: 0,0:27:50.16,0:27:52.88,Default,,0000,0000,0000,,Ah, da seid ihr!
+Dialogue: 0,0:27:53.09,0:27:56.92,Default,,0000,0000,0000,,Ihr habt etwas, das uns gehört!
+Dialogue: 0,0:27:56.99,0:27:58.39,Default,,0000,0000,0000,,Ihr habt die Wahl:
+Dialogue: 0,0:27:58.69,0:28:00.66,Default,,0000,0000,0000,,Gebt uns das Tagebuch oder ...
+Dialogue: 0,0:28:01.02,0:28:02.78,Default,,0000,0000,0000,,ihr werdet sterben!
+Dialogue: 0,0:28:02.82,0:28:05.51,Default,,0000,0000,0000,,Ihr habt fünf Sekunden!
+Dialogue: 0,0:28:05.54,0:28:07.43,Default,,0000,0000,0000,,Öh, das Tagebuch?
+Dialogue: 0,0:28:07.48,0:28:10.24,Default,,0000,0000,0000,,Ja, nun, hier! Nehmt es!\nIch brauche es nicht.
+Dialogue: 0,0:28:10.24,0:28:11.43,Default,,0000,0000,0000,,Nein, nein!
+Dialogue: 0,0:28:12.69,0:28:15.13,Default,,0000,0000,0000,,Nein! Wagt es euch nicht,\nnäherzukommen!
+Dialogue: 0,0:28:15.19,0:28:16.84,Default,,0000,0000,0000,,Ihr werdet es nicht bekommen!
+Dialogue: 0,0:28:17.09,0:28:19.98,Default,,0000,0000,0000,,- Aber ... aber ... Mika ...\N- Nein! Nein, Lionel!
+Dialogue: 0,0:28:20.04,0:28:21.59,Default,,0000,0000,0000,,Du darfst es ihnen nicht geben!
+Dialogue: 0,0:28:21.67,0:28:24.17,Default,,0000,0000,0000,,Wir sind nur für dieses Buch den\nganzen Weg nach Ägypten gekommen!
+Dialogue: 0,0:28:24.31,0:28:27.28,Default,,0000,0000,0000,,Und fünf Minuten später taucht\ndie Gedankenpolizei auf ...
+Dialogue: 0,0:28:27.29,0:28:28.75,Default,,0000,0000,0000,,und will es mitnehmen?
+Dialogue: 0,0:28:28.85,0:28:30.80,Default,,0000,0000,0000,,Da ist doch was faul!
+Dialogue: 0,0:28:31.10,0:28:33.84,Default,,0000,0000,0000,,In Ordnung. Ihr hattet eure Chance!
+Dialogue: 0,0:28:34.03,0:28:35.96,Default,,0000,0000,0000,,Jetzt werdet ihr sterben!
+Dialogue: 0,0:28:36.06,0:28:38.03,Default,,0000,0000,0000,,Zum Angriff!
+Dialogue: 0,0:28:38.87,0:28:40.67,Default,,0000,0000,0000,,Nehmt das Tagebuch und lauft!
+Dialogue: 0,0:28:40.78,0:28:43.47,Default,,0000,0000,0000,,Ich halte sie zurück! Lauft! Lauft!
+Dialogue: 0,0:28:43.47,0:28:45.90,Default,,0000,0000,0000,,Nein, Mika, das ist es nicht wert!
+Dialogue: 0,0:28:45.90,0:28:47.84,Default,,0000,0000,0000,,Nicht reden! Lauft einfach!
+Dialogue: 0,0:28:50.67,0:28:52.82,Default,,0000,0000,0000,,Das habe ich kommen sehen ...\nFolgt mir!
+Dialogue: 0,0:28:52.83,0:28:54.71,Default,,0000,0000,0000,,Ich kenne einen geheimen\nWeg hinaus!
+Dialogue: 0,0:29:47.93,0:29:50.15,Default,,0000,0000,0000,,Ah, da sind wir.
+Dialogue: 0,0:29:57.36,0:29:58.64,Default,,0000,0000,0000,,Endlich!
+Dialogue: 0,0:29:59.28,0:30:01.71,Default,,0000,0000,0000,,Wir müssen stundenlang\ngelaufen sein.
+Dialogue: 0,0:30:02.73,0:30:05.42,Default,,0000,0000,0000,,Ich dachte schon ich würde niemals\nmehr das Tageslicht sehen.
+Dialogue: 0,0:30:05.51,0:30:06.70,Default,,0000,0000,0000,,Öh, Tageslicht?
+Dialogue: 0,0:30:06.70,0:30:09.71,Default,,0000,0000,0000,,Es ist Nacht, Schätzchen.\nVollmond.
+Dialogue: 0,0:30:10.51,0:30:12.55,Default,,0000,0000,0000,,Oh nein! Vollmond?
+Dialogue: 0,0:30:12.55,0:30:13.72,Default,,0000,0000,0000,,Und ... schaut!
+Dialogue: 0,0:30:14.15,0:30:16.09,Default,,0000,0000,0000,,Wir sind auf einem Friedhof!
+Dialogue: 0,0:30:16.37,0:30:17.88,Default,,0000,0000,0000,,Kennt ihr nicht die Geschichten ...
+Dialogue: 0,0:30:17.88,0:30:19.52,Default,,0000,0000,0000,,über die Dinge, die auf\nFriedhöfen passieren ...
+Dialogue: 0,0:30:19.52,0:30:20.65,Default,,0000,0000,0000,,wenn Vollmond ist?
+Dialogue: 0,0:30:21.28,0:30:22.72,Default,,0000,0000,0000,,Es könnten Vampire hier sein!
+Dialogue: 0,0:30:22.72,0:30:23.81,Default,,0000,0000,0000,,Werwölfe!
+Dialogue: 0,0:30:23.81,0:30:24.49,Default,,0000,0000,0000,,Zombies!
+Dialogue: 0,0:30:24.48,0:30:27.15,Default,,0000,0000,0000,,Oder andere unheimliche Kreaturen\ndie aus ihren Gräbern kommen ...
+Dialogue: 0,0:30:27.15,0:30:29.74,Default,,0000,0000,0000,,und auf unschuldige Opfer\nwarten, die vorbeikommen!
+Dialogue: 0,0:30:30.18,0:30:33.46,Default,,0000,0000,0000,,Ja, der Vollmond macht\nmich auch immer wuschig.
+Dialogue: 0,0:30:34.91,0:30:37.99,Default,,0000,0000,0000,,Warum bekommt ihr unschuldigen\nLeute immer die guten Dinge ab?
+Dialogue: 0,0:30:38.08,0:30:39.55,Default,,0000,0000,0000,,Ich will auch ein Opfer sein!
+Dialogue: 0,0:30:41.43,0:30:43.38,Default,,0000,0000,0000,,Lori! Wann wirst du endlich erwachsen?
+Dialogue: 0,0:30:43.38,0:30:46.52,Default,,0000,0000,0000,,Vampire und Werwölfe und all die\nanderen unheimlichen Kreaturen ...
+Dialogue: 0,0:30:46.52,0:30:48.58,Default,,0000,0000,0000,,sind nur Produkte deiner Phantasie.
+Dialogue: 0,0:30:48.58,0:30:50.08,Default,,0000,0000,0000,,Sie existieren nicht.
+Dialogue: 0,0:30:50.08,0:30:52.50,Default,,0000,0000,0000,,Genauso wie der Weihnachtsmann\noder der Osterhase.
+Dialogue: 0,0:30:54.31,0:30:55.40,Default,,0000,0000,0000,,Was?
+Dialogue: 0,0:30:56.29,0:30:58.79,Default,,0000,0000,0000,,Es gibt keinen Osterhasen?
+Dialogue: 0,0:31:01.00,0:31:02.23,Default,,0000,0000,0000,,Keinen Weihnachtsmann?
+Dialogue: 0,0:31:02.36,0:31:03.40,Default,,0000,0000,0000,,Aber ...
+Dialogue: 0,0:31:03.80,0:31:06.90,Default,,0000,0000,0000,,Wer bringt die Geschenke und\nversteckt die Eier?
+Dialogue: 0,0:31:09.75,0:31:12.54,Default,,0000,0000,0000,,Lori ... du glaubst immer noch an ...
+Dialogue: 0,0:31:12.57,0:31:13.67,Default,,0000,0000,0000,,Ich weiß nicht, was ich sagen-
+Dialogue: 0,0:31:13.67,0:31:17.14,Default,,0000,0000,0000,,Ha! Haha! Reingelegt! Reingelegt!
+Dialogue: 0,0:31:26.06,0:31:27.83,Default,,0000,0000,0000,,Na los, gib's zu! Gib's zu!
+Dialogue: 0,0:31:27.83,0:31:30.32,Default,,0000,0000,0000,,Du hast wirklich gedacht, daß ich\nnoch an den Weihnachtsmann glaube!
+Dialogue: 0,0:31:30.55,0:31:31.70,Default,,0000,0000,0000,,Oder?
+Dialogue: 0,0:31:32.54,0:31:34.41,Default,,0000,0000,0000,,Ja, ja. Da hast du mich\nwirklich erwischt.
+Dialogue: 0,0:31:34.43,0:31:35.34,Default,,0000,0000,0000,,Ich muß zugeben ...
+Dialogue: 0,0:31:35.67,0:31:37.80,Default,,0000,0000,0000,,es hätte mich nicht überrascht,\nwenn es wahr gewesen wäre.
+Dialogue: 0,0:31:38.98,0:31:41.79,Default,,0000,0000,0000,,Siehst du? Ich bin erwachsener\nals du denkst!
+Dialogue: 0,0:31:41.85,0:31:44.83,Default,,0000,0000,0000,,Wie Mika sagte: Wir starken\nFrauen können das ab.
+Dialogue: 0,0:31:44.83,0:31:45.84,Default,,0000,0000,0000,,Nicht wahr, Mika?
+Dialogue: 0,0:31:46.93,0:31:49.27,Default,,0000,0000,0000,,Äh ... Mika?
+Dialogue: 0,0:31:50.48,0:31:51.46,Default,,0000,0000,0000,,Mika?
+Dialogue: 0,0:31:52.05,0:31:53.98,Default,,0000,0000,0000,,Oh nein! Mika ist weg!
+Dialogue: 0,0:31:54.54,0:31:56.40,Default,,0000,0000,0000,,Wo ist sie? Wo ist sie?
+Dialogue: 0,0:31:56.68,0:31:58.37,Default,,0000,0000,0000,,Die Werwölfe haben sie gefressen!
+Dialogue: 0,0:31:58.40,0:31:59.42,Default,,0000,0000,0000,,Lionel!
+Dialogue: 0,0:32:00.74,0:32:01.79,Default,,0000,0000,0000,,Tu doch was!
+Dialogue: 0,0:32:01.83,0:32:03.98,Default,,0000,0000,0000,,Sie ... sie könnte tot sein!
+Dialogue: 0,0:32:04.41,0:32:05.86,Default,,0000,0000,0000,,Oder schlimmer!
+Dialogue: 0,0:32:12.77,0:32:14.04,Default,,0000,0000,0000,,Ah, da seid ihr.
+Dialogue: 0,0:32:16.90,0:32:19.15,Default,,0000,0000,0000,,Seht! Sie ist von den Toten zurück!
+Dialogue: 0,0:32:19.25,0:32:21.49,Default,,0000,0000,0000,,Die Vampire haben sie in\neinen Zombie verwandelt!
+Dialogue: 0,0:32:22.01,0:32:23.45,Default,,0000,0000,0000,,Wir werden alle sterben!
+Dialogue: 0,0:32:24.05,0:32:26.78,Default,,0000,0000,0000,,Lori? Wovon redest du?
+Dialogue: 0,0:32:27.22,0:32:29.07,Default,,0000,0000,0000,,Tut mir leid, daß es so\nlange gedauert hat, aber ...
+Dialogue: 0,0:32:29.14,0:32:32.97,Default,,0000,0000,0000,,ich mußte die THX-Polizei erst mit\nden drei Tenören bekannt machen ...
+Dialogue: 0,0:32:32.96,0:32:34.28,Default,,0000,0000,0000,,bevor ich zu euch kommen konnte.
+Dialogue: 0,0:32:35.99,0:32:38.10,Default,,0000,0000,0000,,Oh, ich bin so froh, daß du\nes geschafft hast.
+Dialogue: 0,0:32:38.46,0:32:39.91,Default,,0000,0000,0000,,Wir haben uns Sorgen um\ndich gemacht.
+Dialogue: 0,0:32:40.02,0:32:41.43,Default,,0000,0000,0000,,Keine Sorge.
+Dialogue: 0,0:32:41.46,0:32:44.48,Default,,0000,0000,0000,,Der schwarze Gürtel im Hau-Drauf-Miau\nmuß doch zu etwas gut sein.
+Dialogue: 0,0:32:45.97,0:32:46.99,Default,,0000,0000,0000,,Vielen Dank!
+Dialogue: 0,0:32:46.99,0:32:48.73,Default,,0000,0000,0000,,Ohne dich hätten wir\ndas nie geschafft.
+Dialogue: 0,0:32:48.76,0:32:50.00,Default,,0000,0000,0000,,Ach, nicht der Rede wert.
+Dialogue: 0,0:32:52.46,0:32:54.99,Default,,0000,0000,0000,,Bist du sicher, daß sie nicht doch\nein Zombie oder sowas ist?
+Dialogue: 0,0:32:55.12,0:32:57.09,Default,,0000,0000,0000,,Jetzt reiß dich mal zusammen!
+Dialogue: 0,0:32:57.26,0:32:59.02,Default,,0000,0000,0000,,Jetzt schubs mich nicht wieder herum!
+Dialogue: 0,0:32:59.05,0:33:00.84,Default,,0000,0000,0000,,Lori, beruhige dich bitte!
+Dialogue: 0,0:33:00.84,0:33:03.11,Default,,0000,0000,0000,,Ich bin ruhig! Völlig ruhig!
+Dialogue: 0,0:33:04.29,0:33:07.02,Default,,0000,0000,0000,,Weißt du, wie man sich als das jüngste\nMitglied der Gruppe fühlt?
+Dialogue: 0,0:33:07.70,0:33:09.92,Default,,0000,0000,0000,,Wenn man immer gehänselt\nund herumgeschubst wird?
+Dialogue: 0,0:33:09.93,0:33:11.48,Default,,0000,0000,0000,,Und niemand nimmt einen ernst!
+Dialogue: 0,0:33:11.63,0:33:14.17,Default,,0000,0000,0000,,Und anscheinend interessiert es\nniemanden, was ich zu sagen habe ...
+Dialogue: 0,0:33:14.17,0:33:14.68,Default,,0000,0000,0000,,Lori!
+Dialogue: 0,0:33:14.71,0:33:16.26,Default,,0000,0000,0000,,- wenn es drauf ankommt ...\N- Lori!
+Dialogue: 0,0:33:16.26,0:33:17.12,Default,,0000,0000,0000,,Was?
+Dialogue: 0,0:33:26.22,0:33:27.70,Default,,0000,0000,0000,,Danke, Poke!
+Dialogue: 0,0:33:27.81,0:33:29.00,Default,,0000,0000,0000,,Das wurde auch Zeit.
+Dialogue: 0,0:33:35.44,0:33:37.55,Default,,0000,0000,0000,,Ich denke, hier werden wir eine\nWeile sicher sein.
+Dialogue: 0,0:33:37.63,0:33:40.43,Default,,0000,0000,0000,,Die normalen Leute kennen\ndiesen Friedhof nicht.
+Dialogue: 0,0:33:40.84,0:33:43.52,Default,,0000,0000,0000,,Lionel? Hast du das Tagebuch noch?
+Dialogue: 0,0:33:43.63,0:33:46.93,Default,,0000,0000,0000,,Ich bin nämlich neugierig\nauf die Notizen deines Vaters.
+Dialogue: 0,0:33:47.16,0:33:50.20,Default,,0000,0000,0000,,Wenn so viele Leute so sehr\nversuchen, es zu bekommen ...
+Dialogue: 0,0:33:50.30,0:33:53.44,Default,,0000,0000,0000,,und dein Vater so einen Aufstand\num sein Geheimnis gemacht hat ...
+Dialogue: 0,0:33:53.48,0:33:55.36,Default,,0000,0000,0000,,muß es sehr, sehr wichtig sein.
+Dialogue: 0,0:33:56.21,0:33:57.30,Default,,0000,0000,0000,,In Ordnung.
+Dialogue: 0,0:33:57.77,0:34:01.28,Default,,0000,0000,0000,,Also dann. Ich schlage vor, wir\ngehen es Zeile für Zeile durch.
+Dialogue: 0,0:34:04.39,0:34:05.69,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:34:06.24,0:34:07.66,Default,,0000,0000,0000,,Also, der Titel ist:
+Dialogue: 0,0:34:07.72,0:34:10.30,Default,,0000,0000,0000,,"Wie ich den Weg zum Tempel\nvon Wasweißich fand".
+Dialogue: 0,0:34:10.75,0:34:12.78,Default,,0000,0000,0000,,Was auch immer der "Tempel von\nWasweißich" auch sein mag,
+Dialogue: 0,0:34:12.78,0:34:15.03,Default,,0000,0000,0000,,es scheint ein Ort größter\nWichtigkeit zu sein ...
+Dialogue: 0,0:34:15.30,0:34:17.52,Default,,0000,0000,0000,,und dieses Buch ist wohl der\nSchlüssel, um ihn zu finden.
+Dialogue: 0,0:34:18.72,0:34:20.59,Default,,0000,0000,0000,,Auf der ersten Seite steht:
+Dialogue: 0,0:34:21.11,0:34:25.68,Default,,0000,0000,0000,,"Man beschuldigte die Tochter eines\nPolitikers, Wasser getrunken zu haben."
+Dialogue: 0,0:34:25.71,0:34:30.34,Default,,0000,0000,0000,,"Kein Tee oder Tomatensaft.\nEs gibt keinen Kartoffelsaft."
+Dialogue: 0,0:34:30.49,0:34:31.59,Default,,0000,0000,0000,,Was?
+Dialogue: 0,0:34:35.65,0:34:38.85,Default,,0000,0000,0000,,Warte, warte ... Laßt mich weiterlesen.
+Dialogue: 0,0:34:42.34,0:34:47.31,Default,,0000,0000,0000,,"Es gibt keine Kirschlimonade, denn\nsie müssen ihr Soll erfüllen."
+Dialogue: 0,0:34:48.41,0:34:53.06,Default,,0000,0000,0000,,"Und ihre Eier mit Speck würzen\nsie mit Kaffeeketchup."
+Dialogue: 0,0:34:53.49,0:34:55.28,Default,,0000,0000,0000,,Das ist totaler Schwachsinn!
+Dialogue: 0,0:34:56.59,0:34:58.36,Default,,0000,0000,0000,,Dann geht es folgendermaßen weiter:
+Dialogue: 0,0:34:58.60,0:35:02.57,Default,,0000,0000,0000,,"Das ist der rollende Stein,\nnicht zu schnell oder zu langsam."
+Dialogue: 0,0:35:02.65,0:35:06.32,Default,,0000,0000,0000,,"Das ist der rollende Stein,\ndu weißt es, sobald er dich trifft."
+Dialogue: 0,0:35:06.50,0:35:08.25,Default,,0000,0000,0000,,Das ist ja noch schlimmer.
+Dialogue: 0,0:35:08.31,0:35:11.50,Default,,0000,0000,0000,,Wir waren genauso verwirrt, als\nwir an diese Stelle kamen.
+Dialogue: 0,0:35:17.73,0:35:19.40,Default,,0000,0000,0000,,Lori ...
+Dialogue: 0,0:35:20.97,0:35:22.27,Default,,0000,0000,0000,,Was ist los?
+Dialogue: 0,0:35:25.85,0:35:29.67,Default,,0000,0000,0000,,Lori, vergiß es. Wenn du dich nicht\nberuhigst, bleibt der Maulkorb dran.
+Dialogue: 0,0:35:29.67,0:35:32.59,Default,,0000,0000,0000,,Jetzt hör auf zu jammern und laß\nuns unsere Arbeit machen, ja?
+Dialogue: 0,0:35:38.75,0:35:39.97,Default,,0000,0000,0000,,Okay.
+Dialogue: 0,0:35:40.70,0:35:43.08,Default,,0000,0000,0000,,"All die fröhlichen Heiligen kommen\nhereinmarschiert."
+Dialogue: 0,0:35:43.63,0:35:48.04,Default,,0000,0000,0000,,"Und tanzt einer der Heiligen aus der\nReihe, muß er von vorn beginnen."
+Dialogue: 0,0:35:48.63,0:35:51.35,Default,,0000,0000,0000,,Ich weiß nicht, was dein Vater\ngeraucht hat, aber ...
+Dialogue: 0,0:35:53.13,0:35:54.75,Default,,0000,0000,0000,,von dem Zeug will ich auch was.
+Dialogue: 0,0:36:00.12,0:36:04.45,Default,,0000,0000,0000,,"Jakobs goldene Leiter wird nach\noben hin rutschig."
+Dialogue: 0,0:36:05.94,0:36:09.85,Default,,0000,0000,0000,,"Und schon viele fröhliche Heilige\nstürzten tief, tief hinab."
+Dialogue: 0,0:36:12.46,0:36:15.02,Default,,0000,0000,0000,,Ich frage mich wirklich, was\ndas alles bedeuten soll.
+Dialogue: 0,0:36:21.28,0:36:22.27,Default,,0000,0000,0000,,Lori ...
+Dialogue: 0,0:36:28.37,0:36:30.33,Default,,0000,0000,0000,,Das ist alles wirklich seltsam.
+Dialogue: 0,0:36:31.33,0:36:34.52,Default,,0000,0000,0000,,Lori, zum letzten Mal. Bleib sitzen.
+Dialogue: 0,0:36:35.18,0:36:37.68,Default,,0000,0000,0000,,Es gibt keine Monster, es gibt\nkeine Vampire ...
+Dialogue: 0,0:36:37.68,0:36:39.50,Default,,0000,0000,0000,,Werwölfe oder Zombies, klar?
+Dialogue: 0,0:36:39.63,0:36:41.45,Default,,0000,0000,0000,,Und wir haben hier ernsthaft zu tun.
+Dialogue: 0,0:36:41.45,0:36:42.81,Default,,0000,0000,0000,,Hast du das verstanden?
+Dialogue: 0,0:36:43.44,0:36:46.46,Default,,0000,0000,0000,,Oh, ich habe keine Ahnung,\nwas in sie gefahren ist.
+Dialogue: 0,0:36:46.75,0:36:48.37,Default,,0000,0000,0000,,Vielleicht liegt es am Vollmond.
+Dialogue: 0,0:36:48.42,0:36:51.60,Default,,0000,0000,0000,,Ich bin mir ziemlich sicher, daß noch\nnie jemand in sie gefahren ist.
+Dialogue: 0,0:36:53.81,0:36:55.11,Default,,0000,0000,0000,,Also machen wir weiter.
+Dialogue: 0,0:36:56.28,0:37:01.05,Default,,0000,0000,0000,,"Ein riesiges Trugbild in der Ferne,\ndie Jagd nach dem Regenbogen."
+Dialogue: 0,0:37:04.70,0:37:07.70,Default,,0000,0000,0000,,"Ich höre ein Poch-Poch-Pochen\nin meiner Brust ..."
+Dialogue: 0,0:37:08.08,0:37:10.63,Default,,0000,0000,0000,,"Ich höre ein Klopf-klopf-klopfendes\nGeräusch."
+Dialogue: 0,0:37:12.34,0:37:15.37,Default,,0000,0000,0000,,"Klopf-klopf-klopfen an der\nHimmelstür."
+Dialogue: 0,0:37:16.69,0:37:19.86,Default,,0000,0000,0000,,"Die Bäume sprechen zu mir,\nalso höre ich genau hin."
+Dialogue: 0,0:37:19.92,0:37:22.51,Default,,0000,0000,0000,,"Ob sie still stehen oder\nim Wind wehen ..."
+Dialogue: 0,0:37:22.64,0:37:24.05,Default,,0000,0000,0000,,"Ich höre, wie sie singen."
+Dialogue: 0,0:37:24.45,0:37:27.70,Default,,0000,0000,0000,,"Die Bäume sprechen, sie flüstern\neine süße Melodie."
+Dialogue: 0,0:37:27.78,0:37:30.18,Default,,0000,0000,0000,,"Sie bewahren mehr Wissen als\ndu und ich."
+Dialogue: 0,0:37:30.18,0:37:31.66,Default,,0000,0000,0000,,"Also höre ich genau hin."
+Dialogue: 0,0:37:31.83,0:37:32.92,Default,,0000,0000,0000,,Also gut.
+Dialogue: 0,0:37:33.06,0:37:36.11,Default,,0000,0000,0000,,Schön. Wir haben jetzt die ersten\nvier Seiten gelesen.
+Dialogue: 0,0:37:36.25,0:37:37.26,Default,,0000,0000,0000,,Und wißt ihr was?
+Dialogue: 0,0:37:37.41,0:37:39.35,Default,,0000,0000,0000,,Ich habe nicht ein einziges\nWort verstanden!
+Dialogue: 0,0:37:39.55,0:37:41.70,Default,,0000,0000,0000,,Lionel, bist du sicher,\ndaß dein Vater ...
+Dialogue: 0,0:37:41.69,0:37:43.78,Default,,0000,0000,0000,,noch bei Sinnen war?
+Dialogue: 0,0:37:43.95,0:37:45.69,Default,,0000,0000,0000,,Ich bin mir da nicht mehr so sicher.
+Dialogue: 0,0:37:46.16,0:37:49.36,Default,,0000,0000,0000,,Äh, Leute? Habt ihr auch was bemerkt?
+Dialogue: 0,0:37:50.08,0:37:51.81,Default,,0000,0000,0000,,Nein, was meinst du?
+Dialogue: 0,0:37:51.94,0:37:53.94,Default,,0000,0000,0000,,Lori hat aufgehört zu jammern.
+Dialogue: 0,0:37:54.29,0:37:56.56,Default,,0000,0000,0000,,He, jetzt, wo du es sagst ...
+Dialogue: 0,0:37:56.63,0:37:58.85,Default,,0000,0000,0000,,Das wurde aber auch Zeit.
+Dialogue: 0,0:38:00.01,0:38:01.79,Default,,0000,0000,0000,,Nun ...
+Dialogue: 0,0:38:02.64,0:38:05.08,Default,,0000,0000,0000,,Du kannst also doch still sein.
+Dialogue: 0,0:38:05.22,0:38:07.81,Default,,0000,0000,0000,,Siehst du? Das war doch gar\nnicht so schwer, oder?
+Dialogue: 0,0:38:09.76,0:38:11.28,Default,,0000,0000,0000,,Ich nehme dir das Ding mal ab.
+Dialogue: 0,0:38:18.02,0:38:19.89,Default,,0000,0000,0000,,Also gut, Leute. Wir haben keine Wahl.
+Dialogue: 0,0:38:20.60,0:38:22.36,Default,,0000,0000,0000,,Wir müssen es nochmal durchgehen.
+Dialogue: 0,0:38:26.04,0:38:28.32,Default,,0000,0000,0000,,Wir müssen sichergehen, daß wir\nnichts übersehen haben.
+Dialogue: 0,0:38:28.46,0:38:30.05,Default,,0000,0000,0000,,Irgendwas muß es doch bedeuten.
+Dialogue: 0,0:38:31.70,0:38:32.51,Default,,0000,0000,0000,,Wißt ihr ...
+Dialogue: 0,0:38:32.80,0:38:35.63,Default,,0000,0000,0000,,Die Gründe meines Vaters mögen\nschwer zu verstehen sein, aber ...
+Dialogue: 0,0:38:35.63,0:38:37.45,Default,,0000,0000,0000,,ich bin mir sicher, daß er\nnicht verrückt war.
+Dialogue: 0,0:38:37.51,0:38:39.25,Default,,0000,0000,0000,,Das muß eine Art\nVerschlüsselung sein.
+Dialogue: 0,0:38:41.16,0:38:45.52,Default,,0000,0000,0000,,"Man beschuldigte die Tochter eines\nPolitikers, Wasser getrunken zu haben."
+Dialogue: 0,0:38:45.52,0:38:48.43,Default,,0000,0000,0000,,He! He, ich kenne diese Zeile!
+Dialogue: 0,0:38:49.02,0:38:50.32,Default,,0000,0000,0000,,- Wirklich?\N- Was?
+Dialogue: 0,0:38:50.77,0:38:54.09,Default,,0000,0000,0000,,Ja! ich wollte es euch sagen, aber\nihr habt mich ja nicht gelassen!
+Dialogue: 0,0:38:55.05,0:38:55.93,Default,,0000,0000,0000,,Also gut ...
+Dialogue: 0,0:38:57.09,0:38:58.11,Default,,0000,0000,0000,,Nun ...
+Dialogue: 0,0:38:58.31,0:39:02.01,Default,,0000,0000,0000,,Weißt du, Lori, das klingt\nirgendwie vertraut, aber ...
+Dialogue: 0,0:39:02.02,0:39:03.98,Default,,0000,0000,0000,,ich kann mich nicht erinnern, wo\nich es zuerst gehört habe.
+Dialogue: 0,0:39:04.07,0:39:05.23,Default,,0000,0000,0000,,Also, woher kommt es?
+Dialogue: 0,0:39:05.33,0:39:08.14,Default,,0000,0000,0000,,Das ist ein altes Lied, das\nFrank Sinatra gesungen hat.
+Dialogue: 0,0:39:08.57,0:39:10.07,Default,,0000,0000,0000,,Es heißt: "Das Kaffee-Lied".
+Dialogue: 0,0:39:10.58,0:39:12.58,Default,,0000,0000,0000,,Und es geht so:
+Dialogue: 0,0:39:25.73,0:39:29.58,Default,,0000,0000,0000,,"Unten bei den Brasilianern wachsen\nMilliarden Kaffeebohnen."
+Dialogue: 0,0:39:29.58,0:39:32.79,Default,,0000,0000,0000,,"Also müssen sie mehr Tassen\nfinden, die sie füllen können."
+Dialogue: 0,0:39:33.29,0:39:37.03,Default,,0000,0000,0000,,"Es gibt eine riesige Menge\nKaffee in Brasilien!"
+Dialogue: 0,0:39:37.90,0:39:41.77,Default,,0000,0000,0000,,"Es gibt keine Kirschlimonade, denn\nsie müssen ihr Soll erfüllen."
+Dialogue: 0,0:39:41.93,0:39:45.06,Default,,0000,0000,0000,,"Und so wie es aussieht wette ich\nsie werden es niemals schaffen."
+Dialogue: 0,0:39:45.51,0:39:49.05,Default,,0000,0000,0000,,"Es gibt eine riesige Menge\nKaffee in Brasilien!"
+Dialogue: 0,0:39:49.65,0:39:53.36,Default,,0000,0000,0000,,"Kein Tee oder Tomatensaft."
+Dialogue: 0,0:39:53.85,0:39:57.32,Default,,0000,0000,0000,,"Es gibt keinen Kartoffelsaft."
+Dialogue: 0,0:39:58.18,0:40:00.82,Default,,0000,0000,0000,,"Und all die afrikanischen\nBauern rufen:"
+Dialogue: 0,0:40:01.03,0:40:02.31,Default,,0000,0000,0000,,"Hey! Hey! Hey!"
+Dialogue: 0,0:40:02.37,0:40:06.07,Default,,0000,0000,0000,,"Man beschuldigte die Tochter eines\nPolitikers, Wasser getrunken zu haben."
+Dialogue: 0,0:40:06.26,0:40:09.45,Default,,0000,0000,0000,,"Und sie bekam eine saftige\nStrafe von fünfzig Dollar!"
+Dialogue: 0,0:40:09.74,0:40:13.61,Default,,0000,0000,0000,,"Es gibt eine riesige Menge\nKaffee in Brasilien!"
+Dialogue: 0,0:40:14.26,0:40:17.64,Default,,0000,0000,0000,,"Kein Tee oder Tomatensaft."
+Dialogue: 0,0:40:18.16,0:40:21.69,Default,,0000,0000,0000,,"Es gibt keinen Kartoffelsaft."
+Dialogue: 0,0:40:22.61,0:40:24.61,Default,,0000,0000,0000,,"Und all die afrikanischen\nBauern rufen:"
+Dialogue: 0,0:40:24.71,0:40:26.70,Default,,0000,0000,0000,,"Hey! Hey! Hey!"
+Dialogue: 0,0:40:26.93,0:40:28.89,Default,,0000,0000,0000,,"Und ihre Eier mit Speck ..."
+Dialogue: 0,0:40:28.99,0:40:30.95,Default,,0000,0000,0000,,"würzen sie mit Kaffeeketchup."
+Dialogue: 0,0:40:31.04,0:40:33.66,Default,,0000,0000,0000,,"Kaffeegurken verkaufen sich\nbesser als alles Grünzeug."
+Dialogue: 0,0:40:34.18,0:40:37.88,Default,,0000,0000,0000,,"Es gibt eine riesige Menge\nKaffee in Brasilien!"
+Dialogue: 0,0:40:42.34,0:40:45.93,Default,,0000,0000,0000,,"Es gibt eine riesige Menge\nKaffee in Brasilien!"
+Dialogue: 0,0:40:46.58,0:40:47.76,Default,,0000,0000,0000,,"In Brasilien!"
+Dialogue: 0,0:40:48.54,0:40:50.04,Default,,0000,0000,0000,,"In Brasilien!"
+Dialogue: 0,0:40:50.41,0:40:53.79,Default,,0000,0000,0000,,"Es gibt eine riesige Menge\nKaffee in Brasilien!"
+Dialogue: 0,0:40:54.14,0:40:55.61,Default,,0000,0000,0000,,"In Brasilien!"
+Dialogue: 0,0:40:56.65,0:40:57.73,Default,,0000,0000,0000,,"In Brasilien!"
+Dialogue: 0,0:41:14.19,0:41:15.37,Default,,0000,0000,0000,,Brasilien!
+Dialogue: 0,0:41:18.70,0:41:19.87,Default,,0000,0000,0000,,Brasilien!
+Dialogue: 0,0:41:20.60,0:41:22.24,Default,,0000,0000,0000,,- Brasilien!\N- Brasilien!
+Dialogue: 0,0:41:22.38,0:41:24.60,Default,,0000,0000,0000,,Lori! Brasilien! Das ist es!
+Dialogue: 0,0:41:24.60,0:41:26.22,Default,,0000,0000,0000,,Oh, gut gemacht, Lori!
+Dialogue: 0,0:41:26.22,0:41:28.34,Default,,0000,0000,0000,,Du hast den ersten Teil\ndes Rätsels gelöst!
+Dialogue: 0,0:41:29.20,0:41:32.33,Default,,0000,0000,0000,,- Habe ich?\N- Na bitte ...
+Dialogue: 0,0:41:32.46,0:41:34.43,Default,,0000,0000,0000,,Also müssen wir nach Brasilien!
+Dialogue: 0,0:41:34.50,0:41:37.06,Default,,0000,0000,0000,,Aber, Brasilien ist groß.
+Dialogue: 0,0:41:37.09,0:41:39.75,Default,,0000,0000,0000,,Wir müssen herausfinden, wohin\nwir genau gehen müssen.
+Dialogue: 0,0:41:39.99,0:41:43.19,Default,,0000,0000,0000,,Kennt jemand die Namen der\nwichtigsten brasilianischen Städte?
+Dialogue: 0,0:41:43.34,0:41:46.38,Default,,0000,0000,0000,,Sicher! Das sind Brasilia, São Paulo,
+Dialogue: 0,0:41:46.38,0:41:49.19,Default,,0000,0000,0000,,Rio de Janiero, Manaus, Natal,
+Dialogue: 0,0:41:49.20,0:41:51.84,Default,,0000,0000,0000,,- Salvador, São Felix ...\N- Äh, Halt, halt, halt!
+Dialogue: 0,0:41:51.89,0:41:53.46,Default,,0000,0000,0000,,Wie war der letzte Name doch gleich?
+Dialogue: 0,0:41:53.48,0:41:54.77,Default,,0000,0000,0000,,São Felix?
+Dialogue: 0,0:41:54.96,0:41:58.68,Default,,0000,0000,0000,,São Felix könnte man frei als\n"Der Fröhliche Heilige" übersetzen.
+Dialogue: 0,0:41:58.93,0:42:00.69,Default,,0000,0000,0000,,Schaut euch diese Zeile\nim Buch an:
+Dialogue: 0,0:42:00.92,0:42:05.42,Default,,0000,0000,0000,,"Und schon viele fröhliche Heilige\nstürzten tief, tief hinab."
+Dialogue: 0,0:42:07.77,0:42:10.19,Default,,0000,0000,0000,,Also, ich muß schon sagen ...\nNicht schlecht!
+Dialogue: 0,0:42:10.37,0:42:12.64,Default,,0000,0000,0000,,Also müssen wir nach São Felix\nin Brasilien!
+Dialogue: 0,0:42:12.96,0:42:15.22,Default,,0000,0000,0000,,Ah, São Felix.
+Dialogue: 0,0:42:15.28,0:42:18.50,Default,,0000,0000,0000,,Eine schöne, alte Stadt am Rande\ndes brasilianischen Regenwaldes.
+Dialogue: 0,0:42:18.85,0:42:21.24,Default,,0000,0000,0000,,Und was bedeuten die anderen Zeilen?
+Dialogue: 0,0:42:22.59,0:42:25.77,Default,,0000,0000,0000,,"Ich höre ein Poch-Poch-Pochen\nin meiner Brust ..."
+Dialogue: 0,0:42:25.96,0:42:29.62,Default,,0000,0000,0000,,"Das ist der rollende Stein,\ndu weißt es, sobald er dich trifft."
+Dialogue: 0,0:42:29.89,0:42:33.32,Default,,0000,0000,0000,,"Die Bäume sprechen zu mir,\nalso höre ich genau hin."
+Dialogue: 0,0:42:33.37,0:42:35.32,Default,,0000,0000,0000,,Ich weiß es nicht, Lori, aber ...
+Dialogue: 0,0:42:35.32,0:42:37.03,Default,,0000,0000,0000,,wir haben endlich einen Punkt,\nan dem wir ansetzen können.
+Dialogue: 0,0:42:37.16,0:42:39.92,Default,,0000,0000,0000,,Ich hoffe, diese Zeilen ergeben mehr\nSinn, wenn wir erst einmal da sind.
+Dialogue: 0,0:42:41.31,0:42:44.66,Default,,0000,0000,0000,,Bitte nehmt den Rat eines\nerfahrenen Archäologen an:
+Dialogue: 0,0:42:44.70,0:42:46.61,Default,,0000,0000,0000,,Versucht Euch diese Zeilen zu merken.
+Dialogue: 0,0:42:46.61,0:42:49.00,Default,,0000,0000,0000,,Ihr könntet getrennt werden,\noder das Buch verlieren.
+Dialogue: 0,0:42:49.91,0:42:53.44,Default,,0000,0000,0000,,Also ist es entschieden. Wir werden den\nbrasilianischen Regenwald besuchen!
+Dialogue: 0,0:42:55.11,0:42:56.94,Default,,0000,0000,0000,,Ah, Brasilien!
+Dialogue: 0,0:42:56.99,0:43:00.86,Default,,0000,0000,0000,,So ein wundervolles Land voller\nalter Geschichte und Abenteuer.
+Dialogue: 0,0:43:01.04,0:43:02.81,Default,,0000,0000,0000,,Ich wünschte, ich könnte\nmit Euch gehen.
+Dialogue: 0,0:43:03.39,0:43:04.19,Default,,0000,0000,0000,,Nun ...
+Dialogue: 0,0:43:04.43,0:43:06.53,Default,,0000,0000,0000,,Wenn Ihr wollt ... Wir können jede\nHilfe gut gebrauchen!
+Dialogue: 0,0:43:06.60,0:43:08.17,Default,,0000,0000,0000,,Ja! Warum kommt Ihr nicht mit uns?
+Dialogue: 0,0:43:08.54,0:43:10.77,Default,,0000,0000,0000,,Oh, vielen Dank für das Angebot!
+Dialogue: 0,0:43:10.85,0:43:12.54,Default,,0000,0000,0000,,Aber ich kann wirklich nicht\nmit euch gehen.
+Dialogue: 0,0:43:12.69,0:43:14.48,Default,,0000,0000,0000,,Ich bin ein alter Mann ...
+Dialogue: 0,0:43:14.53,0:43:18.05,Default,,0000,0000,0000,,und wenn ich nicht hierbleibe, wer wird\ndann auf das Museum achtgeben?
+Dialogue: 0,0:43:19.55,0:43:22.69,Default,,0000,0000,0000,,Ja, Kleines, es ist Zeit,\nAbschied zu nehmen.
+Dialogue: 0,0:43:22.94,0:43:25.60,Default,,0000,0000,0000,,Aber bevor Ihr geht, habe ich\nnoch etwas für Euch.
+Dialogue: 0,0:43:26.25,0:43:28.16,Default,,0000,0000,0000,,Oh, was ist es? Was ist es?
+Dialogue: 0,0:43:28.59,0:43:30.80,Default,,0000,0000,0000,,Hier! Bitte nehmt diese Flasche ...
+Dialogue: 0,0:43:30.80,0:43:33.45,Default,,0000,0000,0000,,echten arabischen Mokkas als mein\nAbschiedsgeschenk an.
+Dialogue: 0,0:43:36.70,0:43:40.21,Default,,0000,0000,0000,,Vielen ... äh ... Dank ... Ich ...
+Dialogue: 0,0:43:40.26,0:43:43.81,Default,,0000,0000,0000,,He, toll! Ich schulde dir was!\nDas Zeug ist echt gut!
+Dialogue: 0,0:43:45.70,0:43:48.17,Default,,0000,0000,0000,,Danke, Yussef! Das ist\nsehr nett von Euch.
+Dialogue: 0,0:43:48.40,0:43:51.19,Default,,0000,0000,0000,,Aber wir müssen nun los.\nZum brasilianischen Regenwald!
+Dialogue: 0,0:43:51.32,0:43:53.18,Default,,0000,0000,0000,,Aber wie kommen wir dort hin?
+Dialogue: 0,0:43:53.66,0:43:57.43,Default,,0000,0000,0000,,Folgt mir einfach! Ich kenne einen\ngeheimen Weg zum Flughafen.
+Dialogue: 0,0:43:58.34,0:44:00.43,Default,,0000,0000,0000,,Warum wundert mich das nicht ...
+Dialogue: 0,0:44:16.09,0:44:17.72,Default,,0000,0000,0000,,Es passiert etwas!
+Dialogue: 0,0:44:18.18,0:44:19.65,Default,,0000,0000,0000,,Ich weiß nicht, was es ist ...
+Dialogue: 0,0:44:19.75,0:44:21.57,Default,,0000,0000,0000,,aber ich spüre es.
+Dialogue: 0,0:44:21.91,0:44:25.07,Default,,0000,0000,0000,,Mein Verlangen nach Freiheit\nist stärker als jemals zuvor.
+Dialogue: 0,0:44:25.39,0:44:26.65,Default,,0000,0000,0000,,Ich bekomme keine Ruhe.
+Dialogue: 0,0:44:26.92,0:44:29.35,Default,,0000,0000,0000,,Ich laufe in meinem\nGefängnis auf und ab ...
+Dialogue: 0,0:44:29.34,0:44:30.97,Default,,0000,0000,0000,,so wie ein Tier in seinem Käfig.
+Dialogue: 0,0:44:31.77,0:44:33.55,Default,,0000,0000,0000,,Ich wünschte, ich könnte klarer sehen.
+Dialogue: 0,0:44:33.99,0:44:36.53,Default,,0000,0000,0000,,Es scheint, als käme jemand!
+Dialogue: 0,0:44:37.21,0:44:38.38,Default,,0000,0000,0000,,Könnte es sein ...
+Dialogue: 0,0:44:38.43,0:44:40.73,Default,,0000,0000,0000,,daß der Schlüssel nicht\nverloren ging ...
+Dialogue: 0,0:44:40.84,0:44:42.39,Default,,0000,0000,0000,,sondern nur an den falschen Ort geriet?
+Dialogue: 0,0:44:43.07,0:44:44.97,Default,,0000,0000,0000,,Ich fühle Dunkelheit, aber ...
+Dialogue: 0,0:44:45.24,0:44:46.67,Default,,0000,0000,0000,,es gibt auch Licht dort.
+Dialogue: 0,0:44:47.22,0:44:49.15,Default,,0000,0000,0000,,Kommen sie, um mich zu befreien?
+Dialogue: 0,0:44:49.86,0:44:51.74,Default,,0000,0000,0000,,Oder kommen sie, um mich zu töten?
+Dialogue: 0,0:44:53.21,0:44:54.69,Default,,0000,0000,0000,,Sollen sie kommen!
+Dialogue: 0,0:44:55.08,0:44:58.19,Default,,0000,0000,0000,,Ich mag alt sein, aber ich\nbin nicht schwach!
+Dialogue: 0,0:44:58.74,0:45:02.53,Default,,0000,0000,0000,,Ganz gleich ob Kriegslieder\noder Liebeslieder.
+Dialogue: 0,0:45:02.54,0:45:05.06,Default,,0000,0000,0000,,Wenn ich nur singen darf!
+Dialogue: 0,0:45:41.66,0:45:42.59,Default,,0000,0000,0000,,Poke?
+Dialogue: 0,0:45:42.83,0:45:43.83,Default,,0000,0000,0000,,Poke.
+Dialogue: 0,0:45:43.88,0:45:45.91,Default,,0000,0000,0000,,- Poke!\N- Was?
+Dialogue: 0,0:45:45.92,0:45:48.87,Default,,0000,0000,0000,,Während des gesamten Fluges\nhast du dasselbe Lied ...
+Dialogue: 0,0:45:48.88,0:45:51.74,Default,,0000,0000,0000,,wieder und wieder und wieder\nund wieder gehört!
+Dialogue: 0,0:45:52.80,0:45:55.30,Default,,0000,0000,0000,,Da wird man ja verrückt bei!
+Dialogue: 0,0:45:55.56,0:45:59.98,Default,,0000,0000,0000,,Ich hab meine letzten drei Kröten für\ndie Abspiellizenz ausgegeben!
+Dialogue: 0,0:46:00.28,0:46:02.88,Default,,0000,0000,0000,,Allerdings würde die Lizenz, um es\nwieder von meiner Liste zu löschen ...
+Dialogue: 0,0:46:02.88,0:46:04.07,Default,,0000,0000,0000,,weitere fünf Mücken kosten!
+Dialogue: 0,0:46:05.32,0:46:06.45,Default,,0000,0000,0000,,Ich bin aber pleite!
+Dialogue: 0,0:46:07.52,0:46:09.17,Default,,0000,0000,0000,,Also gut, also gut!
+Dialogue: 0,0:46:09.17,0:46:10.76,Default,,0000,0000,0000,,Für das Wohl der Gesellschaft!
+Dialogue: 0,0:46:11.36,0:46:12.74,Default,,0000,0000,0000,,Schaut in eure Taschen.
+Dialogue: 0,0:46:13.18,0:46:15.15,Default,,0000,0000,0000,,Hat jemand von euch etwas\nKleingeld übrig ...
+Dialogue: 0,0:46:15.15,0:46:17.04,Default,,0000,0000,0000,,damit wir das beenden können?
+Dialogue: 0,0:46:21.75,0:46:24.79,Default,,0000,0000,0000,,Gut, dann wollen wir mal.
+Dialogue: 0,0:46:30.65,0:46:33.42,Default,,0000,0000,0000,,Hallo! Hier spricht Ihr Pilot.
+Dialogue: 0,0:46:33.47,0:46:36.85,Default,,0000,0000,0000,,Wir sind jetzt über dem brasilianischen\nRegenwald nahe São Felix.
+Dialogue: 0,0:46:36.91,0:46:38.29,Default,,0000,0000,0000,,Machen Sie sich zum Absprung bereit!
+Dialogue: 0,0:46:38.26,0:46:41.03,Default,,0000,0000,0000,,Ich wiederhole:\nMachen Sie sich zum Absprung bereit!
+Dialogue: 0,0:46:42.27,0:46:43.47,Default,,0000,0000,0000,,Was?
+Dialogue: 0,0:46:45.08,0:46:47.28,Default,,0000,0000,0000,,Machen Sie sich zum ...\nAbsprung bereit?
+Dialogue: 0,0:46:48.08,0:46:50.85,Default,,0000,0000,0000,,Hast du wirklich geglaubt, das\nwären Sicherheitsgurte?
+Dialogue: 0,0:46:50.89,0:46:52.64,Default,,0000,0000,0000,,Na ja, irgendwo sind sie das ja auch.
+Dialogue: 0,0:46:53.51,0:46:55.77,Default,,0000,0000,0000,,Erinnerst du dich nicht an die\nZeile aus dem Buch?
+Dialogue: 0,0:46:55.80,0:47:00.33,Default,,0000,0000,0000,,"Und schon viele fröhliche Heilige\nstürzten tief, tief hinab."
+Dialogue: 0,0:47:00.88,0:47:03.95,Default,,0000,0000,0000,,Die Leitung von Flieg-Mit-Poke wünscht\nIhnen einen angenehmen Flug!
+Dialogue: 0,0:47:06.68,0:47:09.02,Default,,0000,0000,0000,,Zähl bis drei und zieh an der Leine!
+Dialogue: 0,0:47:09.05,0:47:10.11,Default,,0000,0000,0000,,Eins!
+Dialogue: 0,0:47:10.68,0:47:12.00,Default,,0000,0000,0000,,Zwei!
+Dialogue: 0,0:47:13.34,0:47:15.45,Default,,0000,0000,0000,,Drei! Ha ha!
+Dialogue: 0,0:47:16.38,0:47:18.09,Default,,0000,0000,0000,,In Ordnung, Leute. Seid ihr bereit?
+Dialogue: 0,0:47:18.12,0:47:19.27,Default,,0000,0000,0000,,Mika? Poke?
+Dialogue: 0,0:47:19.27,0:47:20.77,Default,,0000,0000,0000,,- Fertig!\N- Laß knacken!
+Dialogue: 0,0:47:41.47,0:47:43.40,Default,,0000,0000,0000,,Oh, wunderbar!
+Dialogue: 0,0:47:47.04,0:47:49.07,Default,,0000,0000,0000,,Das einzige Loch ...
+Dialogue: 0,0:47:49.50,0:47:53.65,Default,,0000,0000,0000,,im Boden des gesamten\ngottverdammten Regenwaldes ...
+Dialogue: 0,0:47:54.09,0:47:56.54,Default,,0000,0000,0000,,und ich falle sofort hinein!
+Dialogue: 0,0:47:58.19,0:48:00.46,Default,,0000,0000,0000,,Großartig ... einfach großartig.
+Dialogue: 0,0:48:00.96,0:48:02.88,Default,,0000,0000,0000,,Ein neuer Weltrekord!
+Dialogue: 0,0:48:02.91,0:48:05.80,Default,,0000,0000,0000,,Ich hab mir acht Krallen abgebrochen,\nmeine Frisur zerstört ...
+Dialogue: 0,0:48:05.93,0:48:08.80,Default,,0000,0000,0000,,meine Klamotten zerrissen und\neine Schulter ausgerenkt ...
+Dialogue: 0,0:48:08.80,0:48:10.55,Default,,0000,0000,0000,,und das in weniger als\nzehn Sekunden!
+Dialogue: 0,0:48:12.26,0:48:14.69,Default,,0000,0000,0000,,Das ist Platz zwei auf meiner Liste\nder zehn schlimmsten Dinge ...
+Dialogue: 0,0:48:14.68,0:48:16.10,Default,,0000,0000,0000,,die mir je passiert sind.
+Dialogue: 0,0:48:16.33,0:48:17.72,Default,,0000,0000,0000,,Gleich hinter Platz eins:
+Dialogue: 0,0:48:17.72,0:48:19.91,Default,,0000,0000,0000,,Mit einem Grabstein auf den\nKopf geschlagen werden!
+Dialogue: 0,0:48:21.76,0:48:23.99,Default,,0000,0000,0000,,Und kann jemand mal dieses\nDing abschneiden?
+Dialogue: 0,0:48:29.32,0:48:30.92,Default,,0000,0000,0000,,Ich würde jetzt gerne heulen ...
+Dialogue: 0,0:48:31.35,0:48:33.45,Default,,0000,0000,0000,,Aber mir steht das alles bis oben hin!
+Dialogue: 0,0:48:37.31,0:48:39.56,Default,,0000,0000,0000,,Ich wurde aus einem\nFlugzeug geworfen ...
+Dialogue: 0,0:48:40.01,0:48:42.49,Default,,0000,0000,0000,,bin in den brasilianischen\nRegenwald gestürzt ...
+Dialogue: 0,0:48:42.57,0:48:44.46,Default,,0000,0000,0000,,und in dieser dunklen Höhle gelandet,
+Dialogue: 0,0:48:44.46,0:48:46.33,Default,,0000,0000,0000,,die offensichtlich keinen\nweiteren Ausgang hat,
+Dialogue: 0,0:48:46.33,0:48:48.26,Default,,0000,0000,0000,,als das Loch, durch\ndas ich gefallen bin,
+Dialogue: 0,0:48:48.32,0:48:50.32,Default,,0000,0000,0000,,und das ich von hier unten\nnicht erreichen kann.
+Dialogue: 0,0:48:51.63,0:48:54.76,Default,,0000,0000,0000,,Es kann unmöglich noch\nschlimmer werden.
+Dialogue: 0,0:48:59.22,0:49:00.53,Default,,0000,0000,0000,,Oh oh ...
+Dialogue: 0,0:49:05.47,0:49:08.90,Default,,0000,0000,0000,,Oh nein! Diesmal nicht! Diesmal nicht!
+Dialogue: 0,0:49:09.31,0:49:10.48,Default,,0000,0000,0000,,Stopp!
+Dialogue: 0,0:49:22.35,0:49:25.55,Default,,0000,0000,0000,,Das ist so deprimierend ...
+Dialogue: 0,0:49:29.27,0:49:32.99,Default,,0000,0000,0000,,Tausend Jahre hab ich gewartet, bis\nder nächste Abenteurer ...
+Dialogue: 0,0:49:33.02,0:49:35.83,Default,,0000,0000,0000,,in meine Höhle kommt, um von mir\nzermalmt zu werden ...
+Dialogue: 0,0:49:36.28,0:49:39.60,Default,,0000,0000,0000,,Und jetzt rennen sie nicht\nmal mehr vor mir weg.
+Dialogue: 0,0:49:40.38,0:49:43.05,Default,,0000,0000,0000,,Das ist so deprimierend.
+Dialogue: 0,0:49:44.68,0:49:47.67,Default,,0000,0000,0000,,Du wirst mich nicht zermalmen?
+Dialogue: 0,0:49:48.21,0:49:51.43,Default,,0000,0000,0000,,Oh, das kann ich immer noch\ntun, wenn du willst.
+Dialogue: 0,0:49:52.06,0:49:53.12,Default,,0000,0000,0000,,Obwohl ...
+Dialogue: 0,0:49:53.19,0:49:55.78,Default,,0000,0000,0000,,Wenn du nicht davonläufst,\nmacht es keinen großen Spaß.
+Dialogue: 0,0:49:56.16,0:49:58.66,Default,,0000,0000,0000,,Halt still. Ich mach es kurz.
+Dialogue: 0,0:49:58.82,0:50:00.41,Default,,0000,0000,0000,,Oh, nein, nein, neinneinnein.
+Dialogue: 0,0:50:00.40,0:50:02.94,Default,,0000,0000,0000,,Ich hab's mir anders überlegt,\ndanke vielmals.
+Dialogue: 0,0:50:04.07,0:50:05.31,Default,,0000,0000,0000,,Wie heißt du?
+Dialogue: 0,0:50:05.59,0:50:07.19,Default,,0000,0000,0000,,Ist das wichtig?
+Dialogue: 0,0:50:07.59,0:50:09.64,Default,,0000,0000,0000,,Für mich? Ja, ist es.
+Dialogue: 0,0:50:09.87,0:50:11.65,Default,,0000,0000,0000,,Ich hatte mal einen Namen ...
+Dialogue: 0,0:50:11.79,0:50:14.69,Default,,0000,0000,0000,,aber ich bin zu deprimiert, um\nmich an ihn zu erinnern.
+Dialogue: 0,0:50:16.16,0:50:18.79,Default,,0000,0000,0000,,Warum bist du so deprimiert?
+Dialogue: 0,0:50:18.91,0:50:22.66,Default,,0000,0000,0000,,Nun, bist du froh, hier unten zu sein?
+Dialogue: 0,0:50:23.85,0:50:25.68,Default,,0000,0000,0000,,Äh, nein. Warum?
+Dialogue: 0,0:50:25.81,0:50:27.26,Default,,0000,0000,0000,,Siehst du!
+Dialogue: 0,0:50:27.58,0:50:30.37,Default,,0000,0000,0000,,Sie haben mich hier in die\nHöhle gebracht und gesagt:
+Dialogue: 0,0:50:30.49,0:50:32.62,Default,,0000,0000,0000,,"Paß auf diesen leuchtenden\nStein auf!"
+Dialogue: 0,0:50:32.80,0:50:35.86,Default,,0000,0000,0000,,"Wenn ihn jemand anfassen will,\nzermalme ihn!"
+Dialogue: 0,0:50:36.07,0:50:38.06,Default,,0000,0000,0000,,Sie redeten mir ein, daß es eine ...
+Dialogue: 0,0:50:38.06,0:50:40.15,Default,,0000,0000,0000,,unglaublich ehrwürdige Aufgabe sei ...
+Dialogue: 0,0:50:40.20,0:50:43.00,Default,,0000,0000,0000,,und daß ich eines Tages reich dafür\nbelohnt werden würde.
+Dialogue: 0,0:50:43.33,0:50:44.49,Default,,0000,0000,0000,,Und dann sagten sie:
+Dialogue: 0,0:50:44.54,0:50:45.73,Default,,0000,0000,0000,,"Lebe wohl!" ...
+Dialogue: 0,0:50:45.75,0:50:48.10,Default,,0000,0000,0000,,und brachten den Eingang der\nHöhle zum Einsturz.
+Dialogue: 0,0:50:48.60,0:50:51.63,Default,,0000,0000,0000,,Ich komme mir so dumm vor!
+Dialogue: 0,0:50:52.62,0:50:53.95,Default,,0000,0000,0000,,Hast du denn nie versucht ...
+Dialogue: 0,0:50:53.95,0:50:56.51,Default,,0000,0000,0000,,die Barriere am Höhleneingang\nzu durchbrechen?
+Dialogue: 0,0:50:56.90,0:50:58.77,Default,,0000,0000,0000,,Das habe ich einmal versucht ...
+Dialogue: 0,0:50:59.07,0:51:02.04,Default,,0000,0000,0000,,Alles, was passierte, war ein lautes\n"Knirsch!"
+Dialogue: 0,0:51:02.35,0:51:04.95,Default,,0000,0000,0000,,Und als ich wieder zur Besinnung\nkam, sah ich,
+Dialogue: 0,0:51:05.11,0:51:08.18,Default,,0000,0000,0000,,daß einige kleine Stücke von\nmir abgefallen waren.
+Dialogue: 0,0:51:08.46,0:51:09.72,Default,,0000,0000,0000,,Hm ... Autsch!
+Dialogue: 0,0:51:09.81,0:51:11.63,Default,,0000,0000,0000,,Das muß sehr weh getan haben.
+Dialogue: 0,0:51:11.78,0:51:12.90,Default,,0000,0000,0000,,Es tat weh.
+Dialogue: 0,0:51:13.18,0:51:15.12,Default,,0000,0000,0000,,Aber das war nicht das Schlimmste.
+Dialogue: 0,0:51:15.70,0:51:17.60,Default,,0000,0000,0000,,Nicht? Was ist passiert?
+Dialogue: 0,0:51:19.16,0:51:21.44,Default,,0000,0000,0000,,Papa! Papa!
+Dialogue: 0,0:51:21.51,0:51:23.38,Default,,0000,0000,0000,,Papa! Papa!
+Dialogue: 0,0:51:23.68,0:51:25.42,Default,,0000,0000,0000,,- Papa!\N- Oh nein ...
+Dialogue: 0,0:51:25.89,0:51:28.09,Default,,0000,0000,0000,,Nicht ihr schon wieder ...
+Dialogue: 0,0:51:36.36,0:51:39.37,Default,,0000,0000,0000,,"Papa ist ein rollender Stein!"
+Dialogue: 0,0:51:40.86,0:51:44.40,Default,,0000,0000,0000,,"Der Abenteurer zermalmt, die in\nsein Heim hineinfallen!"
+Dialogue: 0,0:51:44.63,0:51:46.79,Default,,0000,0000,0000,,"Und wenn sie tot sind,"
+Dialogue: 0,0:51:46.92,0:51:51.39,Default,,0000,0000,0000,,"Bleiben nur gebrochene\nKnochen zurück."
+Dialogue: 0,0:51:59.66,0:52:02.70,Default,,0000,0000,0000,,"Es war am dritten September."
+Dialogue: 0,0:52:03.99,0:52:07.09,Default,,0000,0000,0000,,"An diesen Tag werde ich\nmich ewig erinnern."
+Dialogue: 0,0:52:09.56,0:52:11.59,Default,,0000,0000,0000,,"Denn an diesem Tag ..."
+Dialogue: 0,0:52:12.12,0:52:15.30,Default,,0000,0000,0000,,"verstand ich ..."
+Dialogue: 0,0:52:18.03,0:52:21.47,Default,,0000,0000,0000,,"Daß ich niemals die Chance bekomme\nvon hier zu verschwinden."
+Dialogue: 0,0:52:22.16,0:52:25.96,Default,,0000,0000,0000,,"Ich hab nur Kiesel im Hirn\ndoch ich versuche zu entkommen."
+Dialogue: 0,0:52:26.51,0:52:29.11,Default,,0000,0000,0000,,"Kinder ich brauche eure Hilfe,"
+Dialogue: 0,0:52:29.31,0:52:31.62,Default,,0000,0000,0000,,"um hier herauszukommen!"
+Dialogue: 0,0:52:31.76,0:52:34.58,Default,,0000,0000,0000,,"Aber nein, stattdessen singen sie:"
+Dialogue: 0,0:52:34.86,0:52:37.62,Default,,0000,0000,0000,,"Papa ist ein rollender Stein!"
+Dialogue: 0,0:52:39.21,0:52:42.81,Default,,0000,0000,0000,,"Der Abenteurer zermalmt, die in\nsein Heim hineinfallen!"
+Dialogue: 0,0:52:43.08,0:52:45.09,Default,,0000,0000,0000,,"Und wenn sie tot sind,"
+Dialogue: 0,0:52:45.29,0:52:49.25,Default,,0000,0000,0000,,"Bleiben nur gebrochene\nKnochen zurück."
+Dialogue: 0,0:52:51.50,0:52:54.25,Default,,0000,0000,0000,,"Papa ist ein rollender Stein!"
+Dialogue: 0,0:52:55.99,0:52:59.45,Default,,0000,0000,0000,,"Der Abenteurer zermalmt, die in\nsein Heim hineinfallen!"
+Dialogue: 0,0:52:59.63,0:53:01.58,Default,,0000,0000,0000,,"Und wenn sie tot sind,"
+Dialogue: 0,0:53:01.83,0:53:06.01,Default,,0000,0000,0000,,"Bleiben nur gebrochene\nKnochen zurück."
+Dialogue: 0,0:53:26.03,0:53:26.83,Default,,0000,0000,0000,,Siehst du?
+Dialogue: 0,0:53:27.08,0:53:29.39,Default,,0000,0000,0000,,Das ist das einzige Lied,\nwas sie kennen.
+Dialogue: 0,0:53:29.55,0:53:31.33,Default,,0000,0000,0000,,Und sie singen es jeden Tag ...
+Dialogue: 0,0:53:31.32,0:53:33.07,Default,,0000,0000,0000,,seit tausenden von Jahren.
+Dialogue: 0,0:53:33.50,0:53:36.16,Default,,0000,0000,0000,,Mann, ich bin so deprimiert.
+Dialogue: 0,0:53:36.71,0:53:38.41,Default,,0000,0000,0000,,Ich werde dich jetzt zermalmen.
+Dialogue: 0,0:53:38.42,0:53:41.10,Default,,0000,0000,0000,,Nein! Nein nein nein,\nwarte, warte, warte, warte!
+Dialogue: 0,0:53:41.91,0:53:44.88,Default,,0000,0000,0000,,Du erinnerst mich an etwas,\ndas ich in einem Buch gelesen habe!
+Dialogue: 0,0:53:46.94,0:53:51.16,Default,,0000,0000,0000,,"Das ist der rollende Stein,\nnicht zu schnell oder zu langsam."
+Dialogue: 0,0:53:51.38,0:53:55.51,Default,,0000,0000,0000,,"Das ist der rollende Stein,\ndu weißt es, sobald er dich trifft."
+Dialogue: 0,0:53:55.79,0:53:58.25,Default,,0000,0000,0000,,Man hat ein Buch über\nmich geschrieben?
+Dialogue: 0,0:53:58.24,0:53:58.89,Default,,0000,0000,0000,,Ja!
+Dialogue: 0,0:53:58.96,0:54:01.59,Default,,0000,0000,0000,,Es ist das Tagebuch des\nweltbekannten ...
+Dialogue: 0,0:54:03.05,0:54:04.74,Default,,0000,0000,0000,,Steinkundlers ...
+Dialogue: 0,0:54:04.80,0:54:06.79,Default,,0000,0000,0000,,Dr. Christopher Scruffycat.
+Dialogue: 0,0:54:07.05,0:54:09.23,Default,,0000,0000,0000,,Weißt du was? Du bist berühmt!
+Dialogue: 0,0:54:09.29,0:54:11.03,Default,,0000,0000,0000,,Deswegen kenne ich dich!
+Dialogue: 0,0:54:11.09,0:54:12.64,Default,,0000,0000,0000,,Na großartig!
+Dialogue: 0,0:54:12.63,0:54:14.28,Default,,0000,0000,0000,,Also bin ich jetzt berühmt.
+Dialogue: 0,0:54:14.64,0:54:19.22,Default,,0000,0000,0000,,Aber was nützt mir das, wenn\nich hier nicht herauskomme?
+Dialogue: 0,0:54:19.35,0:54:20.36,Default,,0000,0000,0000,,Danke.
+Dialogue: 0,0:54:20.36,0:54:23.66,Default,,0000,0000,0000,,Jetzt bin ich noch deprimierter\nals jemals zuvor.
+Dialogue: 0,0:54:25.25,0:54:27.86,Default,,0000,0000,0000,,Aber du kannst hier herauskommen!
+Dialogue: 0,0:54:27.96,0:54:30.73,Default,,0000,0000,0000,,Du mußt nur die Barriere durchbrechen.
+Dialogue: 0,0:54:30.88,0:54:33.84,Default,,0000,0000,0000,,Das habe ich schon versucht,\nund es war ein Fehlschlag.
+Dialogue: 0,0:54:33.85,0:54:35.39,Default,,0000,0000,0000,,Jetzt hör mir mal zu!
+Dialogue: 0,0:54:35.76,0:54:38.81,Default,,0000,0000,0000,,Deine Fehlschläge sollten nicht das\nsein, was dich ausmacht!
+Dialogue: 0,0:54:39.24,0:54:41.69,Default,,0000,0000,0000,,Es ist nur dann ein Fehlschlag\nwenn du es nicht versuchst!
+Dialogue: 0,0:54:42.02,0:54:44.77,Default,,0000,0000,0000,,- Aber ich habe es versucht!\N- Dann versuche es nochmal!
+Dialogue: 0,0:54:45.42,0:54:47.25,Default,,0000,0000,0000,,Du bist ein kräftiger Stein ...
+Dialogue: 0,0:54:47.25,0:54:48.87,Default,,0000,0000,0000,,und zum rollen gemacht!
+Dialogue: 0,0:54:50.15,0:54:51.87,Default,,0000,0000,0000,,Glaubst du wirklich?
+Dialogue: 0,0:54:51.99,0:54:54.36,Default,,0000,0000,0000,,Klar, ich muß es wissen.\nIch habe das Buch gelesen!
+Dialogue: 0,0:54:54.63,0:54:56.62,Default,,0000,0000,0000,,Du bist der stärkste Stein der Welt!
+Dialogue: 0,0:54:56.87,0:54:59.24,Default,,0000,0000,0000,,Na los! Sag mir, daß du es kannst!
+Dialogue: 0,0:55:00.09,0:55:01.50,Default,,0000,0000,0000,,Kann ich?
+Dialogue: 0,0:55:01.66,0:55:04.06,Default,,0000,0000,0000,,Komm schon! Ich weiß,\ndaß du es kannst!
+Dialogue: 0,0:55:04.06,0:55:05.52,Default,,0000,0000,0000,,Gib mir ein "S"!
+Dialogue: 0,0:55:05.65,0:55:06.66,Default,,0000,0000,0000,,"S"?
+Dialogue: 0,0:55:07.00,0:55:08.59,Default,,0000,0000,0000,,Gib mir ein "T"!
+Dialogue: 0,0:55:08.67,0:55:10.80,Default,,0000,0000,0000,,- "T"!\N- Gib mir ein "EI"!
+Dialogue: 0,0:55:10.82,0:55:12.82,Default,,0000,0000,0000,,- "EI"!\N- Gib mir ein "N"!
+Dialogue: 0,0:55:12.84,0:55:13.84,Default,,0000,0000,0000,,"N"!
+Dialogue: 0,0:55:13.84,0:55:15.58,Default,,0000,0000,0000,,Wer bist du?
+Dialogue: 0,0:55:15.61,0:55:18.09,Default,,0000,0000,0000,,Ich bin "Der Stein"!
+Dialogue: 0,0:55:18.10,0:55:18.96,Default,,0000,0000,0000,,Ja!
+Dialogue: 0,0:55:19.64,0:55:21.39,Default,,0000,0000,0000,,Und jetzt gehst du da raus ...
+Dialogue: 0,0:55:21.39,0:55:22.62,Default,,0000,0000,0000,,und zeigst es ihnen!
+Dialogue: 0,0:55:22.64,0:55:24.92,Default,,0000,0000,0000,,- Ja!\N- Niemand kann dich aufhalten!
+Dialogue: 0,0:55:24.94,0:55:27.04,Default,,0000,0000,0000,,Los, los los!
+Dialogue: 0,0:55:27.06,0:55:30.07,Default,,0000,0000,0000,,- Los geht's!\N- Ja!
+Dialogue: 0,0:55:37.86,0:55:40.49,Default,,0000,0000,0000,,Ja! Du hast es geschafft! Du bist toll!
+Dialogue: 0,0:55:40.49,0:55:42.90,Default,,0000,0000,0000,,- Fantastisch!\N- Ja!
+Dialogue: 0,0:55:44.40,0:55:46.84,Default,,0000,0000,0000,,Die Macht der positiven Gedanken!
+Dialogue: 0,0:55:49.01,0:55:50.51,Default,,0000,0000,0000,,Es steckt doch viel Wahrheit in:
+Dialogue: 0,0:55:50.50,0:55:51.72,Default,,0000,0000,0000,,"Er hat nur Kiesel im Hirn."
+Dialogue: 0,0:55:51.98,0:55:53.48,Default,,0000,0000,0000,,Ich bin frei!
+Dialogue: 0,0:55:53.59,0:55:55.29,Default,,0000,0000,0000,,Wie wundervoll!
+Dialogue: 0,0:55:55.39,0:55:58.59,Default,,0000,0000,0000,,Die Blumen blühen und\ndie Vögel singen!
+Dialogue: 0,0:55:58.68,0:56:00.81,Default,,0000,0000,0000,,Und ... und ...
+Dialogue: 0,0:56:00.92,0:56:03.24,Default,,0000,0000,0000,,Oh, und ich bin auf einem\nAbhang gelandet!
+Dialogue: 0,0:56:04.50,0:56:07.05,Default,,0000,0000,0000,,Aus dem Weg! Ich kann nicht anhalten!
+Dialogue: 0,0:56:07.14,0:56:08.69,Default,,0000,0000,0000,,Es geht abwärts!
+Dialogue: 0,0:56:10.07,0:56:12.56,Default,,0000,0000,0000,,Nein, nein! Nicht der Baum!
+Dialogue: 0,0:56:12.81,0:56:14.40,Default,,0000,0000,0000,,Vorsicht!
+Dialogue: 0,0:56:15.04,0:56:16.27,Default,,0000,0000,0000,,Entschuldigung!
+Dialogue: 0,0:56:16.45,0:56:18.87,Default,,0000,0000,0000,,Oh nein! Vorsicht, Mütterchen!
+Dialogue: 0,0:56:18.88,0:56:20.15,Default,,0000,0000,0000,,Aus dem Weg!
+Dialogue: 0,0:56:23.65,0:56:27.31,Default,,0000,0000,0000,,Oh nein, nein! Nicht der Kerl\nmit dem Obststand!
+Dialogue: 0,0:56:28.27,0:56:30.89,Default,,0000,0000,0000,,Vaffanculo! Puttano! Bastardo!\nPompino! Cabeza de mierda!
+Dialogue: 0,0:56:30.88,0:56:32.32,Default,,0000,0000,0000,,Melonas! Ananas! Bananas!
+Dialogue: 0,0:56:32.42,0:56:33.73,Default,,0000,0000,0000,,Tut mir leid!
+Dialogue: 0,0:56:40.55,0:56:42.42,Default,,0000,0000,0000,,Das ist also das leuchtende Ding ...
+Dialogue: 0,0:56:42.42,0:56:44.26,Default,,0000,0000,0000,,das der Stein beschützen sollte.
+Dialogue: 0,0:56:45.16,0:56:47.17,Default,,0000,0000,0000,,Ich frage mich, wozu es gut sein mag.
+Dialogue: 0,0:57:04.04,0:57:06.11,Default,,0000,0000,0000,,Und es macht seltsame Geräusche.
+Dialogue: 0,0:57:06.59,0:57:09.12,Default,,0000,0000,0000,,Ich nehme es besser mit,\nman weiß ja nie.
+Dialogue: 0,0:57:10.62,0:57:13.26,Default,,0000,0000,0000,,Oh schaut! Schaut!\nSie stiehlt den leuchtenden Stein!
+Dialogue: 0,0:57:13.27,0:57:14.48,Default,,0000,0000,0000,,Wir müssen sie zermalmen!
+Dialogue: 0,0:57:14.91,0:57:16.12,Default,,0000,0000,0000,,Wir müssen sie zermalmen!
+Dialogue: 0,0:57:20.02,0:57:21.31,Default,,0000,0000,0000,,Ich werde sie zermalmen!
+Dialogue: 0,0:57:45.10,0:57:48.37,Default,,0000,0000,0000,,Eins! Zwei! Drei!
+Dialogue: 0,0:57:48.37,0:57:49.94,Default,,0000,0000,0000,,Zieh an der Leine!
+Dialogue: 0,0:57:50.61,0:57:51.79,Default,,0000,0000,0000,,Es passiert nichts!
+Dialogue: 0,0:57:51.79,0:57:54.07,Default,,0000,0000,0000,,Nein, Lionel! Zieh nochmal!
+Dialogue: 0,0:57:54.10,0:57:57.29,Default,,0000,0000,0000,,Er geht nicht auf! Hilfe! Hilfe!
+Dialogue: 0,0:58:04.27,0:58:05.82,Default,,0000,0000,0000,,Lionel?
+Dialogue: 0,0:58:05.92,0:58:07.46,Default,,0000,0000,0000,,Lionel!
+Dialogue: 0,0:58:07.51,0:58:08.75,Default,,0000,0000,0000,,Kannst du mich hören?
+Dialogue: 0,0:58:08.82,0:58:09.94,Default,,0000,0000,0000,,Kannst du mich hören?
+Dialogue: 0,0:58:09.94,0:58:11.35,Default,,0000,0000,0000,,Oh, wach auf, Lionel!
+Dialogue: 0,0:58:11.35,0:58:12.86,Default,,0000,0000,0000,,Du mußt aufwachen!
+Dialogue: 0,0:58:12.92,0:58:14.60,Default,,0000,0000,0000,,Oh, bitte, Lionel!
+Dialogue: 0,0:58:15.32,0:58:16.90,Default,,0000,0000,0000,,Du darfst nicht sterben!
+Dialogue: 0,0:58:17.25,0:58:19.76,Default,,0000,0000,0000,,Nicht hier, nicht jetzt!
+Dialogue: 0,0:58:20.17,0:58:21.76,Default,,0000,0000,0000,,Lionel!
+Dialogue: 0,0:58:26.14,0:58:27.49,Default,,0000,0000,0000,,Hallo?
+Dialogue: 0,0:58:29.65,0:58:30.83,Default,,0000,0000,0000,,Wo bin ich?
+Dialogue: 0,0:58:31.84,0:58:33.22,Default,,0000,0000,0000,,Ist hier jemand?
+Dialogue: 0,0:58:34.19,0:58:35.47,Default,,0000,0000,0000,,Bin ich tot?
+Dialogue: 0,0:58:46.43,0:58:49.31,Default,,0000,0000,0000,,Hallo Lionel!
+Dialogue: 0,0:58:50.22,0:58:52.46,Default,,0000,0000,0000,,Wie gefällt es dir hier unten?
+Dialogue: 0,0:58:52.68,0:58:54.22,Default,,0000,0000,0000,,Fühlst du dich wohl?
+Dialogue: 0,0:58:54.39,0:58:59.03,Default,,0000,0000,0000,,Denn jetzt ist es an der Zeit\nnachzudenken, Lionel!
+Dialogue: 0,0:58:59.67,0:59:01.98,Default,,0000,0000,0000,,Warum bist du nach\nÄgypten geflogen?
+Dialogue: 0,0:59:02.43,0:59:06.05,Default,,0000,0000,0000,,Etwa, weil du den Wunsch deines\nVaters respektiert hast?
+Dialogue: 0,0:59:06.48,0:59:08.96,Default,,0000,0000,0000,,Oder eher, weil du gehofft hast,
+Dialogue: 0,0:59:09.06,0:59:11.16,Default,,0000,0000,0000,,daß dein Erbe mehr\nbeinhalten würde ...
+Dialogue: 0,0:59:11.19,0:59:13.74,Default,,0000,0000,0000,,als nur ein staubiges Buch?
+Dialogue: 0,0:59:14.61,0:59:17.01,Default,,0000,0000,0000,,Hast du auf Geld gehofft?
+Dialogue: 0,0:59:17.07,0:59:19.63,Default,,0000,0000,0000,,Gold? Schätze?
+Dialogue: 0,0:59:19.97,0:59:22.05,Default,,0000,0000,0000,,Hättest du den Weg auf dich\ngenommen ...
+Dialogue: 0,0:59:22.07,0:59:24.66,Default,,0000,0000,0000,,wenn du gewußt hättest, was\ndein Erbe sein würde?
+Dialogue: 0,0:59:25.49,0:59:27.01,Default,,0000,0000,0000,,Na komm!
+Dialogue: 0,0:59:27.11,0:59:30.55,Default,,0000,0000,0000,,Jetzt, da alles vorbei ist,\nkannst du es zugeben.
+Dialogue: 0,0:59:31.18,0:59:34.13,Default,,0000,0000,0000,,War es die Sache Wert, daß\neiner deiner besten Freunde ...
+Dialogue: 0,0:59:34.15,0:59:38.17,Default,,0000,0000,0000,,bei 5000 Fuß aus einem\nFlugzeug geworfen wurde?
+Dialogue: 0,0:59:39.49,0:59:41.81,Default,,0000,0000,0000,,Denk nach, Lionel!
+Dialogue: 0,0:59:42.13,0:59:43.99,Default,,0000,0000,0000,,Denk nach!
+Dialogue: 0,0:59:44.93,0:59:45.77,Default,,0000,0000,0000,,Aber ...
+Dialogue: 0,0:59:46.56,0:59:48.62,Default,,0000,0000,0000,,Aber ich ... ich habe nur ...
+Dialogue: 0,0:59:49.86,0:59:51.34,Default,,0000,0000,0000,,Nun ...
+Dialogue: 0,0:59:52.01,0:59:54.12,Default,,0000,0000,0000,,Laß mich bitte erklären ...
+Dialogue: 0,0:59:55.51,0:59:56.70,Default,,0000,0000,0000,,Lori!
+Dialogue: 0,0:59:58.01,1:00:00.38,Default,,0000,0000,0000,,Lori, bitte! Nein!
+Dialogue: 0,1:00:02.96,1:00:04.37,Default,,0000,0000,0000,,Laß mich erklären!
+Dialogue: 0,1:00:05.37,1:00:06.75,Default,,0000,0000,0000,,Poke?
+Dialogue: 0,1:00:07.10,1:00:10.52,Default,,0000,0000,0000,,Juchu! Lionel!
+Dialogue: 0,1:00:10.88,1:00:12.30,Default,,0000,0000,0000,,Mein Held!
+Dialogue: 0,1:00:12.44,1:00:14.54,Default,,0000,0000,0000,,Dieser Sturz durch die Bäume ...
+Dialogue: 0,1:00:14.54,1:00:16.06,Default,,0000,0000,0000,,Traum-haft!
+Dialogue: 0,1:00:16.28,1:00:18.55,Default,,0000,0000,0000,,Dein Vater wäre stolz\nauf dich gewesen.
+Dialogue: 0,1:00:18.73,1:00:20.59,Default,,0000,0000,0000,,Das heißt, wenn du\nüberlebt hättest.
+Dialogue: 0,1:00:20.87,1:00:22.14,Default,,0000,0000,0000,,Na komm!
+Dialogue: 0,1:00:22.37,1:00:25.00,Default,,0000,0000,0000,,Jetzt, da es vorbei ist,\nist doch alles egal!
+Dialogue: 0,1:00:25.09,1:00:26.51,Default,,0000,0000,0000,,Besaufen wir uns!
+Dialogue: 0,1:00:26.79,1:00:28.62,Default,,0000,0000,0000,,Ich möchte ein Hoch aussprechen ...
+Dialogue: 0,1:00:28.62,1:00:32.17,Default,,0000,0000,0000,,auf den traumhaften\nLionel Scruffycat!
+Dialogue: 0,1:00:32.27,1:00:35.45,Default,,0000,0000,0000,,Er kam ums Leben während er\ndumm genug war zu versuchen,
+Dialogue: 0,1:00:35.45,1:00:38.87,Default,,0000,0000,0000,,die Versäumnisse eines ganzen\nLebens in einer Woche nachzuholen.
+Dialogue: 0,1:00:38.86,1:00:40.03,Default,,0000,0000,0000,,Prost!
+Dialogue: 0,1:00:40.60,1:00:43.47,Default,,0000,0000,0000,,Poke, Poke! Das ist nicht wahr!
+Dialogue: 0,1:00:43.78,1:00:44.80,Default,,0000,0000,0000,,Nein ...
+Dialogue: 0,1:00:44.99,1:00:47.74,Default,,0000,0000,0000,,Zumindest nicht ... ganz.
+Dialogue: 0,1:00:48.16,1:00:49.55,Default,,0000,0000,0000,,Poke ...
+Dialogue: 0,1:00:50.40,1:00:52.87,Default,,0000,0000,0000,,Warum hört mir denn niemand zu?
+Dialogue: 0,1:00:56.11,1:00:57.14,Default,,0000,0000,0000,,Vater?
+Dialogue: 0,1:00:57.45,1:00:59.94,Default,,0000,0000,0000,,Bist du es? Du lebst?
+Dialogue: 0,1:01:00.74,1:01:03.54,Default,,0000,0000,0000,,Das hat dich die letzten\nzehn Jahre nicht interessiert,
+Dialogue: 0,1:01:03.59,1:01:05.74,Default,,0000,0000,0000,,also warum interessiert es dich jetzt?
+Dialogue: 0,1:01:05.97,1:01:07.34,Default,,0000,0000,0000,,Nein, ich ...
+Dialogue: 0,1:01:07.39,1:01:09.48,Default,,0000,0000,0000,,Hör mich an ... bitte!
+Dialogue: 0,1:01:09.60,1:01:11.33,Default,,0000,0000,0000,,Wir haben nicht viel Zeit.
+Dialogue: 0,1:01:11.53,1:01:13.93,Default,,0000,0000,0000,,Du bist mein Sohn, und für mich ...
+Dialogue: 0,1:01:13.94,1:01:15.29,Default,,0000,0000,0000,,warst du immer das Wertvollste ...
+Dialogue: 0,1:01:15.29,1:01:16.75,Default,,0000,0000,0000,,auf der ganzen Welt.
+Dialogue: 0,1:01:16.95,1:01:19.98,Default,,0000,0000,0000,,Daß ich dich so alleine lassen mußte\nwar die schwerste Entscheidung,
+Dialogue: 0,1:01:20.06,1:01:21.58,Default,,0000,0000,0000,,die ich jemals treffen mußte.
+Dialogue: 0,1:01:21.60,1:01:23.35,Default,,0000,0000,0000,,Aber es standen Dinge auf dem Spiel ...
+Dialogue: 0,1:01:23.36,1:01:24.75,Default,,0000,0000,0000,,die so wichtig waren ...
+Dialogue: 0,1:01:24.95,1:01:27.89,Default,,0000,0000,0000,,nicht nur für dich, sondern\nfür die ganze Welt ...
+Dialogue: 0,1:01:27.95,1:01:29.89,Default,,0000,0000,0000,,daß ich keine andere Wahl hatte.
+Dialogue: 0,1:01:30.17,1:01:32.34,Default,,0000,0000,0000,,Du mußt mir vertrauen. Bitte!
+Dialogue: 0,1:01:32.38,1:01:34.36,Default,,0000,0000,0000,,Es macht mich traurig, daß ...
+Dialogue: 0,1:01:34.38,1:01:35.64,Default,,0000,0000,0000,,du nicht mehr an mich glaubst.
+Dialogue: 0,1:01:35.83,1:01:37.16,Default,,0000,0000,0000,,Doch es ist nicht zu spät!
+Dialogue: 0,1:01:37.41,1:01:39.39,Default,,0000,0000,0000,,Du mußt mein Erbe vollenden ...
+Dialogue: 0,1:01:39.42,1:01:41.89,Default,,0000,0000,0000,,oder die Welt könnte für immer\nverändert werden!
+Dialogue: 0,1:01:42.04,1:01:44.41,Default,,0000,0000,0000,,Vertraue mir, Lionel! Denn ...
+Dialogue: 0,1:01:44.43,1:01:45.64,Default,,0000,0000,0000,,ich bin dein Vater.
+Dialogue: 0,1:01:45.87,1:01:47.59,Default,,0000,0000,0000,,Ich bin stolz auf dich, Lionel.
+Dialogue: 0,1:01:47.68,1:01:49.20,Default,,0000,0000,0000,,Und das war ich immer.
+Dialogue: 0,1:01:49.63,1:01:50.94,Default,,0000,0000,0000,,Ich liebe dich.
+Dialogue: 0,1:01:52.30,1:01:54.76,Default,,0000,0000,0000,,Nein! Vater! Komm zurück!
+Dialogue: 0,1:01:54.87,1:01:56.04,Default,,0000,0000,0000,,Verlaß mich nicht!
+Dialogue: 0,1:01:56.47,1:01:57.94,Default,,0000,0000,0000,, Verlaß mich nicht wieder.
+Dialogue: 0,1:01:58.36,1:02:01.16,Default,,0000,0000,0000,,Es gibt so vieles, was ich dir sagen\nmuß und es nie getan habe ...
+Dialogue: 0,1:02:01.16,1:02:02.40,Default,,0000,0000,0000,,auch wenn ich es gesollt hätte.
+Dialogue: 0,1:02:02.64,1:02:04.96,Default,,0000,0000,0000,,Vater ... bitte ...
+Dialogue: 0,1:02:11.76,1:02:13.80,Default,,0000,0000,0000,,Oh, Lionel!
+Dialogue: 0,1:02:13.85,1:02:17.39,Default,,0000,0000,0000,,Jetzt siehst du, wohin du dich\nmit Logik gebracht hast!
+Dialogue: 0,1:02:17.76,1:02:20.78,Default,,0000,0000,0000,,Wenn du doch nur einmal\ndeinem Herzen gefolgt wärst.
+Dialogue: 0,1:02:21.26,1:02:23.28,Default,,0000,0000,0000,,Jetzt hast du nicht nur dich selbst,
+Dialogue: 0,1:02:23.43,1:02:25.86,Default,,0000,0000,0000,,sondern all deine Freunde in\nGefahr gebracht!
+Dialogue: 0,1:02:26.13,1:02:27.46,Default,,0000,0000,0000,,Und warum?
+Dialogue: 0,1:02:27.78,1:02:29.75,Default,,0000,0000,0000,,Weil du ein Feigling bist!
+Dialogue: 0,1:02:30.23,1:02:33.33,Default,,0000,0000,0000,,Der einzige Grund, warum du nie mit\ndeinem Vater gesprochen hast, war ...
+Dialogue: 0,1:02:33.44,1:02:36.76,Default,,0000,0000,0000,,daß du Angst hattest, dich mit\nihm zu konfrontieren.
+Dialogue: 0,1:02:37.20,1:02:38.98,Default,,0000,0000,0000,,Was bist du?
+Dialogue: 0,1:02:39.10,1:02:41.16,Default,,0000,0000,0000,,Ein großer, starker Löwe?
+Dialogue: 0,1:02:41.49,1:02:43.36,Default,,0000,0000,0000,,Ich werde dir sagen, was du bist:
+Dialogue: 0,1:02:43.47,1:02:44.81,Default,,0000,0000,0000,,Du bist ein Schaf!
+Dialogue: 0,1:02:44.91,1:02:46.79,Default,,0000,0000,0000,,Määääh! Lionel!
+Dialogue: 0,1:02:46.85,1:02:48.77,Default,,0000,0000,0000,,Ich wette, als du in der Schule warst,
+Dialogue: 0,1:02:48.83,1:02:51.16,Default,,0000,0000,0000,,da haben dich die Mädchen verhauen!
+Dialogue: 0,1:02:55.92,1:02:56.79,Default,,0000,0000,0000,,Autsch!
+Dialogue: 0,1:02:57.00,1:02:58.32,Default,,0000,0000,0000,,Das tat weh!
+Dialogue: 0,1:02:58.44,1:03:00.19,Default,,0000,0000,0000,,Och, jetzt komm!
+Dialogue: 0,1:03:00.29,1:03:02.29,Default,,0000,0000,0000,,Traust du dich, zurückzuschlagen?
+Dialogue: 0,1:03:02.34,1:03:05.06,Default,,0000,0000,0000,,Och, komm! Du traust dich\nnicht, mich zu schlagen?
+Dialogue: 0,1:03:05.27,1:03:08.97,Default,,0000,0000,0000,,Lionel ist ein Feigling!\nLionel ist ein Feigling!
+Dialogue: 0,1:03:09.04,1:03:10.23,Default,,0000,0000,0000,,Määääh!
+Dialogue: 0,1:03:11.83,1:03:14.21,Default,,0000,0000,0000,,Mika, nicht! Hör bitte auf\nmich zu schlagen!
+Dialogue: 0,1:03:15.08,1:03:18.26,Default,,0000,0000,0000,,Du bekommst nur, was du\nverdienst, Lionel!
+Dialogue: 0,1:03:18.47,1:03:21.07,Default,,0000,0000,0000,,Manchmal tut die\nWahrheit eben weh!
+Dialogue: 0,1:03:21.17,1:03:23.19,Default,,0000,0000,0000,,Och, komm! Kämpfe!
+Dialogue: 0,1:03:23.27,1:03:24.37,Default,,0000,0000,0000,,Kämpfe!
+Dialogue: 0,1:03:24.39,1:03:25.53,Default,,0000,0000,0000,,Du Feigling!
+Dialogue: 0,1:03:25.55,1:03:27.54,Default,,0000,0000,0000,,Lerne endlich zu kämpfen!
+Dialogue: 0,1:03:27.87,1:03:30.64,Default,,0000,0000,0000,,Niemand legt sich mit Mika an!
+Dialogue: 0,1:03:30.98,1:03:33.33,Default,,0000,0000,0000,,Nein, nein, nein! Ich will nicht!
+Dialogue: 0,1:03:33.34,1:03:36.89,Default,,0000,0000,0000,,Bitte nicht! Nein! Autsch!
+Dialogue: 0,1:03:37.00,1:03:39.31,Default,,0000,0000,0000,,Nein, nicht! Schlag mich bitte nicht!
+Dialogue: 0,1:03:42.60,1:03:43.66,Default,,0000,0000,0000,,Lionel!
+Dialogue: 0,1:03:43.97,1:03:45.23,Default,,0000,0000,0000,,Lionel!
+Dialogue: 0,1:03:45.39,1:03:46.84,Default,,0000,0000,0000,,Wach auf!
+Dialogue: 0,1:03:46.97,1:03:48.98,Default,,0000,0000,0000,,Bitte! Komm schon, Lionel!
+Dialogue: 0,1:03:49.03,1:03:50.57,Default,,0000,0000,0000,,Du darfst nicht sterben!
+Dialogue: 0,1:03:50.64,1:03:52.23,Default,,0000,0000,0000,,Lionel!
+Dialogue: 0,1:03:53.66,1:03:55.33,Default,,0000,0000,0000,,Wir sind so weit gekommen!
+Dialogue: 0,1:03:55.53,1:03:57.16,Default,,0000,0000,0000,,Du darfst mich jetzt nicht verlassen!
+Dialogue: 0,1:03:57.28,1:03:58.95,Default,,0000,0000,0000,,Verlaß mich nicht!
+Dialogue: 0,1:04:01.04,1:04:02.39,Default,,0000,0000,0000,,Oh nein ...
+Dialogue: 0,1:04:02.78,1:04:04.52,Default,,0000,0000,0000,,Das darf nicht wahr sein!
+Dialogue: 0,1:04:04.82,1:04:06.16,Default,,0000,0000,0000,,Oh, Lionel!
+Dialogue: 0,1:04:06.45,1:04:08.43,Default,,0000,0000,0000,,Ich kann ohne dich nicht leben!
+Dialogue: 0,1:04:08.80,1:04:11.44,Default,,0000,0000,0000,,Und es gibt so vieles, was\nich dir sagen wollte, aber ...
+Dialogue: 0,1:04:11.71,1:04:13.00,Default,,0000,0000,0000,,ich habe mich nie getraut.
+Dialogue: 0,1:04:13.31,1:04:15.03,Default,,0000,0000,0000,,Oh, bitte!
+Dialogue: 0,1:04:16.91,1:04:18.68,Default,,0000,0000,0000,,Ich hatte nie die Gelegenheit,\ndir zu sagen ...
+Dialogue: 0,1:04:18.68,1:04:20.15,Default,,0000,0000,0000,,wie sehr ich dich liebe!
+Dialogue: 0,1:04:21.55,1:04:23.40,Default,,0000,0000,0000,,Was soll ich jetzt tun?
+Dialogue: 0,1:04:23.79,1:04:25.78,Default,,0000,0000,0000,,Oh, das ist so furchtbar!
+Dialogue: 0,1:04:29.22,1:04:30.71,Default,,0000,0000,0000,,- Au!\N- Lionel!
+Dialogue: 0,1:04:30.98,1:04:32.70,Default,,0000,0000,0000,,Lionel! Du lebst!
+Dialogue: 0,1:04:32.86,1:04:34.02,Default,,0000,0000,0000,,Lionel!
+Dialogue: 0,1:04:34.22,1:04:37.09,Default,,0000,0000,0000,,Nein! Schlag mich nicht!\nBitte! Schlag mich nicht!
+Dialogue: 0,1:04:38.03,1:04:39.44,Default,,0000,0000,0000,,Bist du in Ordnung?
+Dialogue: 0,1:04:39.91,1:04:42.12,Default,,0000,0000,0000,,Ich dachte ich hätte dich für\nimmer verloren!
+Dialogue: 0,1:04:44.25,1:04:46.51,Default,,0000,0000,0000,,Mein Kopf tut höllisch weh ...
+Dialogue: 0,1:04:46.51,1:04:49.26,Default,,0000,0000,0000,,und mir ist ziemlich schwindlig.
+Dialogue: 0,1:04:52.61,1:04:55.23,Default,,0000,0000,0000,,Oh, ich bin so froh, daß\ndu am Leben bist!
+Dialogue: 0,1:04:56.96,1:04:58.27,Default,,0000,0000,0000,,Ich auch.
+Dialogue: 0,1:04:59.36,1:05:00.57,Default,,0000,0000,0000,,Was ist passiert?
+Dialogue: 0,1:05:00.88,1:05:02.50,Default,,0000,0000,0000,,Dein Fallschirm ging nicht auf.
+Dialogue: 0,1:05:02.72,1:05:04.53,Default,,0000,0000,0000,,Aber der Baum hat\ndeinen Sturz gebremst.
+Dialogue: 0,1:05:10.56,1:05:12.38,Default,,0000,0000,0000,,Ich muß riesiges Glück gehabt haben.
+Dialogue: 0,1:05:12.38,1:05:14.15,Default,,0000,0000,0000,,Ich glaube, ich habe mir\nnichts gebrochen.
+Dialogue: 0,1:05:16.37,1:05:17.80,Default,,0000,0000,0000,,Oh, Mika ...
+Dialogue: 0,1:05:17.96,1:05:21.53,Default,,0000,0000,0000,,Mika, ich finde es so furchtbar,\nwie ich meinen Vater behandelt habe.
+Dialogue: 0,1:05:21.63,1:05:23.33,Default,,0000,0000,0000,,Ach komm, Lionel.
+Dialogue: 0,1:05:23.36,1:05:25.21,Default,,0000,0000,0000,,Mach dich nicht selber fertig.
+Dialogue: 0,1:05:25.34,1:05:28.39,Default,,0000,0000,0000,,Immerhin erweist du ihm jetzt\ndie letzte Ehre.
+Dialogue: 0,1:05:28.66,1:05:30.66,Default,,0000,0000,0000,,Und du hast sogar\ndein Leben dafür riskiert.
+Dialogue: 0,1:05:30.99,1:05:32.99,Default,,0000,0000,0000,,Was könnte ein Vater mehr verlangen?
+Dialogue: 0,1:05:33.33,1:05:35.82,Default,,0000,0000,0000,,Nein, Mika, du verstehst nicht!
+Dialogue: 0,1:05:36.12,1:05:37.75,Default,,0000,0000,0000,,Mein Vater ist tot ...
+Dialogue: 0,1:05:38.15,1:05:39.82,Default,,0000,0000,0000,,Nichts, was ich heute tue\nkann das wieder gutmachen,
+Dialogue: 0,1:05:39.82,1:05:41.09,Default,,0000,0000,0000,,was ich die vergangenen zehn Jahre ...
+Dialogue: 0,1:05:41.09,1:05:42.51,Default,,0000,0000,0000,,nicht getan habe.
+Dialogue: 0,1:05:43.21,1:05:44.80,Default,,0000,0000,0000,,Verstehst du nicht, Mika?
+Dialogue: 0,1:05:44.90,1:05:49.06,Default,,0000,0000,0000,,Ich war derjenige, der die ganze Zeit\nnur an sich selbst gedacht hat.
+Dialogue: 0,1:05:49.60,1:05:51.08,Default,,0000,0000,0000,,Ich bin sogar nur hierhergekommen ...
+Dialogue: 0,1:05:51.08,1:05:52.94,Default,,0000,0000,0000,,um meine Neugier zu befriedigen.
+Dialogue: 0,1:05:53.35,1:05:56.42,Default,,0000,0000,0000,,Und damit habe ich mich und meine\nbesten Freunde in Gefahr gebracht
+Dialogue: 0,1:05:56.51,1:05:57.75,Default,,0000,0000,0000,,Schau mich an!
+Dialogue: 0,1:05:57.84,1:06:00.00,Default,,0000,0000,0000,,Dasselbe hätte dir passieren können!
+Dialogue: 0,1:06:00.02,1:06:01.02,Default,,0000,0000,0000,,Oder Poke!
+Dialogue: 0,1:06:01.10,1:06:03.34,Default,,0000,0000,0000,,Oder ist vielleicht Lori passiert!
+Dialogue: 0,1:06:03.54,1:06:06.35,Default,,0000,0000,0000,,Ich sehe sie nicht einmal hier!
+Dialogue: 0,1:06:06.44,1:06:08.60,Default,,0000,0000,0000,,Wo sind sie? Sie könnten tot sein ...
+Dialogue: 0,1:06:08.60,1:06:10.99,Default,,0000,0000,0000,,und es ist alles meine Schuld!
+Dialogue: 0,1:06:11.01,1:06:14.22,Default,,0000,0000,0000,,Ruhig ... ruhig, Lionel ... Schh ...
+Dialogue: 0,1:06:16.48,1:06:19.51,Default,,0000,0000,0000,,Ruhig ... Beruhige dich.\nEs ist schon gut.
+Dialogue: 0,1:06:19.81,1:06:21.53,Default,,0000,0000,0000,,Mach dich nicht selber fertig.
+Dialogue: 0,1:06:21.91,1:06:23.26,Default,,0000,0000,0000,,Wir sind deine Freunde!
+Dialogue: 0,1:06:23.34,1:06:26.09,Default,,0000,0000,0000,,Du hast uns nicht gezwungen, mit\ndir zu kommen, erinnerst du dich?
+Dialogue: 0,1:06:26.90,1:06:29.21,Default,,0000,0000,0000,,Ja ... du hast recht.
+Dialogue: 0,1:06:29.25,1:06:31.29,Default,,0000,0000,0000,,Siehst du ...
+Dialogue: 0,1:06:32.04,1:06:34.76,Default,,0000,0000,0000,,Du lebst, und ich lebe auch.
+Dialogue: 0,1:06:34.89,1:06:38.08,Default,,0000,0000,0000,,Und ich bin sicher, den anderen\ngeht es ebenfalls gut.
+Dialogue: 0,1:06:38.16,1:06:40.25,Default,,0000,0000,0000,,Och, komm! Nicht weinen.
+Dialogue: 0,1:06:40.50,1:06:42.07,Default,,0000,0000,0000,,Es ist gut.
+Dialogue: 0,1:06:42.38,1:06:43.84,Default,,0000,0000,0000,,Oh, Mika ...
+Dialogue: 0,1:06:43.85,1:06:46.04,Default,,0000,0000,0000,,Mika, ich bin so froh, daß du da bist.
+Dialogue: 0,1:06:46.33,1:06:48.07,Default,,0000,0000,0000,,Und ich bin froh, daß du da bist.
+Dialogue: 0,1:06:49.61,1:06:50.83,Default,,0000,0000,0000,,Mika ...
+Dialogue: 0,1:06:51.19,1:06:52.40,Default,,0000,0000,0000,,Was soll ich tun?
+Dialogue: 0,1:06:53.18,1:06:54.53,Default,,0000,0000,0000,,Was sollen wir tun?
+Dialogue: 0,1:06:54.85,1:06:57.54,Default,,0000,0000,0000,,Wir sind mitten in den Dschungel\ngestürzt und ...
+Dialogue: 0,1:06:57.77,1:06:59.63,Default,,0000,0000,0000,,Jetzt verstehe ich gar nichts mehr.
+Dialogue: 0,1:07:00.76,1:07:04.19,Default,,0000,0000,0000,,Bisher dachte ich immer, ich wüßte,\nwas ich tun muß ...
+Dialogue: 0,1:07:04.36,1:07:06.57,Default,,0000,0000,0000,,aber diesesmal habe ich keinen\nblassen Schimmer ...
+Dialogue: 0,1:07:07.33,1:07:08.88,Default,,0000,0000,0000,, Ich verstehe gar nichts mehr.
+Dialogue: 0,1:07:10.27,1:07:13.20,Default,,0000,0000,0000,,Was - soll - ich - tun?
+Dialogue: 0,1:07:13.69,1:07:16.87,Default,,0000,0000,0000,,Zuerst einmal damit aufhören, meinen\nStamm mit deinem Kopf zu bearbeiten.
+Dialogue: 0,1:07:21.27,1:07:22.54,Default,,0000,0000,0000,,Wer spricht da?
+Dialogue: 0,1:07:22.79,1:07:25.22,Default,,0000,0000,0000,,Derjenige, der dein Leben gerettet hat.
+Dialogue: 0,1:07:26.93,1:07:29.39,Default,,0000,0000,0000,,Ein sprechender Baum?
+Dialogue: 0,1:07:29.66,1:07:32.74,Default,,0000,0000,0000,,Gut beobachtet, Mister Holmes.
+Dialogue: 0,1:07:33.28,1:07:37.02,Default,,0000,0000,0000,,Und denkt einfach gar nicht daran,\nmir für deine Rettung zu danken,
+Dialogue: 0,1:07:37.18,1:07:39.97,Default,,0000,0000,0000,,für die ich mindestens zwei Äste ...
+Dialogue: 0,1:07:40.07,1:07:42.82,Default,,0000,0000,0000,,ein Dutzend Zweige und zahllose\nBlätter geopfert habe.
+Dialogue: 0,1:07:43.18,1:07:45.83,Default,,0000,0000,0000,,Es wird Jahre dauern, bis das\nnachgewachsen ist.
+Dialogue: 0,1:07:46.04,1:07:48.13,Default,,0000,0000,0000,,Ein sprechender Baum!
+Dialogue: 0,1:07:48.15,1:07:49.22,Default,,0000,0000,0000,,Lionel!
+Dialogue: 0,1:07:49.27,1:07:50.93,Default,,0000,0000,0000,,Erinnerst du dich an die\nZeile aus dem Buch?
+Dialogue: 0,1:07:51.22,1:07:54.87,Default,,0000,0000,0000,,"Die Bäume sprechen zu mir,\nalso höre ich genau hin."
+Dialogue: 0,1:07:57.95,1:07:59.74,Default,,0000,0000,0000,,Dann sind wir auf der\nrichtigen Fährte!
+Dialogue: 0,1:08:00.29,1:08:02.50,Default,,0000,0000,0000,,He! He, Baum! Hast du einen Namen?
+Dialogue: 0,1:08:02.95,1:08:04.59,Default,,0000,0000,0000,, Und danke, daß du mir\ndas Leben gerettet hast!
+Dialogue: 0,1:08:05.25,1:08:07.61,Default,,0000,0000,0000,,Ihr könnt mich "Herr Baum" nennen.
+Dialogue: 0,1:08:10.06,1:08:11.41,Default,,0000,0000,0000,,Und, gerne geschehen.
+Dialogue: 0,1:08:12.26,1:08:14.91,Default,,0000,0000,0000,,Also dann - äh - Herr Baum.
+Dialogue: 0,1:08:15.09,1:08:17.47,Default,,0000,0000,0000,,Anscheinend brauchen wir \nnoch einmal deine Hilfe.
+Dialogue: 0,1:08:17.84,1:08:19.30,Default,,0000,0000,0000,,Wir suchen etwas ...
+Dialogue: 0,1:08:19.36,1:08:21.55,Default,,0000,0000,0000,,aber wir wissen nicht\ngenau, was es ist.
+Dialogue: 0,1:08:21.71,1:08:23.81,Default,,0000,0000,0000,,Es könnte eine Karte sein,\nein Hinweis,
+Dialogue: 0,1:08:23.82,1:08:25.90,Default,,0000,0000,0000,,ein Artefakt oder etwas in der Art.
+Dialogue: 0,1:08:26.13,1:08:27.86,Default,,0000,0000,0000,,Es wurde in einem Buch erwähnt ...
+Dialogue: 0,1:08:27.90,1:08:30.07,Default,,0000,0000,0000,,und da ging es um einen\nsprechenden Baum, wie dich.
+Dialogue: 0,1:08:30.58,1:08:32.87,Default,,0000,0000,0000,,Weißt du vielleicht irgendwas,\ndas uns weiterhelfen könnte?
+Dialogue: 0,1:08:33.02,1:08:36.06,Default,,0000,0000,0000,,Oh, ja. Woher wißt ihr das?
+Dialogue: 0,1:08:36.35,1:08:40.44,Default,,0000,0000,0000,,In der Tat bin ich der Hüter\neines sehr mächtigen Artefakts.
+Dialogue: 0,1:08:40.79,1:08:44.26,Default,,0000,0000,0000,,Man gab es mir vor mehr\nals tausend Jahren.
+Dialogue: 0,1:08:44.54,1:08:45.98,Default,,0000,0000,0000,,Was ist es?
+Dialogue: 0,1:08:46.46,1:08:48.04,Default,,0000,0000,0000,,Das darf ich euch nicht sagen ...
+Dialogue: 0,1:08:48.14,1:08:50.07,Default,,0000,0000,0000,,es sei denn, ihr könnt beweisen ...
+Dialogue: 0,1:08:50.08,1:08:52.88,Default,,0000,0000,0000,,daß ihr diejenigen seid,\nfür die es bestimmt ist.
+Dialogue: 0,1:08:52.94,1:08:55.37,Default,,0000,0000,0000,,Und wie sollen wir das machen?
+Dialogue: 0,1:08:55.75,1:08:57.87,Default,,0000,0000,0000,,Nun, wenn ihr es seid ...
+Dialogue: 0,1:08:57.97,1:09:00.08,Default,,0000,0000,0000,,dann solltet ihr das wissen.
+Dialogue: 0,1:09:00.39,1:09:01.36,Default,,0000,0000,0000,,Scheiße.
+Dialogue: 0,1:09:01.69,1:09:03.38,Default,,0000,0000,0000,,Das bedeutet, wir stecken fest.
+Dialogue: 0,1:09:04.41,1:09:06.44,Default,,0000,0000,0000,,Lionel, hast du das Tagebuch noch?
+Dialogue: 0,1:09:08.97,1:09:10.49,Default,,0000,0000,0000,,Nein, ich muß es verloren haben ...
+Dialogue: 0,1:09:10.49,1:09:12.41,Default,,0000,0000,0000,,als ich in Herrn Baum, unserem\nFreund, gestürzt bin.
+Dialogue: 0,1:09:14.14,1:09:16.85,Default,,0000,0000,0000,,He! So kann ich mich\nnicht konzentrieren!
+Dialogue: 0,1:09:16.91,1:09:19.34,Default,,0000,0000,0000,,Hört das Gesäge mal langsam auf?
+Dialogue: 0,1:09:19.35,1:09:22.30,Default,,0000,0000,0000,,Wir versuchen uns hier\nzu unterhalten!
+Dialogue: 0,1:09:30.03,1:09:31.81,Default,,0000,0000,0000,,Hey ihr! Seid ihr verrückt?
+Dialogue: 0,1:09:31.83,1:09:33.29,Default,,0000,0000,0000,,Was macht ihr hier?
+Dialogue: 0,1:09:33.32,1:09:35.70,Default,,0000,0000,0000,,Ich wollte dich gerade dasselbe fragen.
+Dialogue: 0,1:09:35.77,1:09:37.93,Default,,0000,0000,0000,,Sieht man das nicht?\nIch rode den Regenwald.
+Dialogue: 0,1:09:38.31,1:09:39.74,Default,,0000,0000,0000,,Du rodest ...
+Dialogue: 0,1:09:39.74,1:09:41.25,Default,,0000,0000,0000,,Ich fälle Bäume, schlage Holz,
+Dialogue: 0,1:09:41.25,1:09:42.86,Default,,0000,0000,0000,,lichte das Unterholz und so weiter.
+Dialogue: 0,1:09:43.59,1:09:46.17,Default,,0000,0000,0000,,Und der da ist der nächste.\nNummer "696".
+Dialogue: 0,1:09:46.17,1:09:48.86,Default,,0000,0000,0000,,Also dann, Leute, geht aus dem Weg.\nDas ist gefährlich.
+Dialogue: 0,1:09:53.06,1:09:57.36,Default,,0000,0000,0000,,Nein! Das darfst du nicht tun!\nHör auf! Bitte!
+Dialogue: 0,1:09:57.76,1:09:59.65,Default,,0000,0000,0000,,Leg das Ding weg!
+Dialogue: 0,1:10:01.33,1:10:02.97,Default,,0000,0000,0000,,Also gut. Wer hat euch geschickt?
+Dialogue: 0,1:10:02.97,1:10:05.14,Default,,0000,0000,0000,,Greenpeace? Robin Wood?\nWorld Wildlife Fund?
+Dialogue: 0,1:10:05.14,1:10:07.00,Default,,0000,0000,0000,,Der Baumknuddlerverein\naus Oklahoma City?
+Dialogue: 0,1:10:07.03,1:10:08.83,Default,,0000,0000,0000,,Die Vereinigung besorgter Eltern\naus Minnesota?
+Dialogue: 0,1:10:08.88,1:10:10.95,Default,,0000,0000,0000,,Hä? Wovon sprichst du?
+Dialogue: 0,1:10:10.99,1:10:14.12,Default,,0000,0000,0000,,Wir kommen vom "Museum der\nvergessenen Künste" in Kairo.
+Dialogue: 0,1:10:15.21,1:10:18.85,Default,,0000,0000,0000,,Kannst du nicht einen anderen Baum\nals diesen fällen?
+Dialogue: 0,1:10:18.94,1:10:20.83,Default,,0000,0000,0000,,Nun, es gibt eine Menge\nBäume im Regenwald ...
+Dialogue: 0,1:10:20.83,1:10:22.65,Default,,0000,0000,0000,,Große, kleine, alte, junge,
+Dialogue: 0,1:10:22.65,1:10:24.83,Default,,0000,0000,0000,,manche haben mehr Blätter,\nandere haben weniger Blätter, also ...
+Dialogue: 0,1:10:24.89,1:10:28.41,Default,,0000,0000,0000,,müssen wir für die beste Holzqualität\nschon etwas genauer herangehen.
+Dialogue: 0,1:10:31.38,1:10:32.61,Default,,0000,0000,0000,,Autsch.
+Dialogue: 0,1:10:33.25,1:10:36.39,Default,,0000,0000,0000,,Aber das darfst du nicht tun!\nEr ist unser Freund.
+Dialogue: 0,1:10:37.30,1:10:39.08,Default,,0000,0000,0000,,Er hat mir das Leben gerettet.
+Dialogue: 0,1:10:39.15,1:10:41.49,Default,,0000,0000,0000,,Äh ... was zum ...
+Dialogue: 0,1:10:41.55,1:10:43.84,Default,,0000,0000,0000,,Ach, egal. Ich habe genug\ngehört. Aus dem Weg!
+Dialogue: 0,1:10:45.54,1:10:46.85,Default,,0000,0000,0000,,Nein!
+Dialogue: 0,1:10:48.54,1:10:49.45,Default,,0000,0000,0000,,Nicht!
+Dialogue: 0,1:10:49.86,1:10:52.50,Default,,0000,0000,0000,,Nein! Du wirst dich diesem\nBaum nicht nähern!
+Dialogue: 0,1:10:53.87,1:10:56.39,Default,,0000,0000,0000,,Mika, ich habe etwas gelernt.
+Dialogue: 0,1:10:56.39,1:10:59.27,Default,,0000,0000,0000,,Manchmal kommt man mit\nLogik einfach nicht weiter.
+Dialogue: 0,1:10:59.36,1:11:03.18,Default,,0000,0000,0000,,Wir können diesem Kerl hier so viel\nerzählen, wie wir wollen ...
+Dialogue: 0,1:11:03.18,1:11:05.10,Default,,0000,0000,0000,,er wird es nicht verstehen.
+Dialogue: 0,1:11:06.22,1:11:07.95,Default,,0000,0000,0000,,Jetzt hör mir mal zu, Panda!
+Dialogue: 0,1:11:08.04,1:11:09.56,Default,,0000,0000,0000,,Du darfst diesen Baum nicht fällen ...
+Dialogue: 0,1:11:09.56,1:11:12.04,Default,,0000,0000,0000,,weil ich meines Vaters Erbe\nerfüllen muß.
+Dialogue: 0,1:11:12.12,1:11:15.46,Default,,0000,0000,0000,,Ich habe mich zu lange von meinem\nVater distanziert, aber ich sage dir,
+Dialogue: 0,1:11:15.46,1:11:17.53,Default,,0000,0000,0000,,Ich, Lionel C. Scruffycat,
+Dialogue: 0,1:11:17.52,1:11:20.08,Default,,0000,0000,0000,,bin stolz darauf, der Sohn von\nChristopher Scruffycat zu sein.
+Dialogue: 0,1:11:20.17,1:11:21.74,Default,,0000,0000,0000,,Möge er in Frieden ruhen!
+Dialogue: 0,1:11:21.76,1:11:24.26,Default,,0000,0000,0000,,Und ich verteidige diesen Baum ...
+Dialogue: 0,1:11:24.35,1:11:25.79,Default,,0000,0000,0000,,im Namen meines Vaters.
+Dialogue: 0,1:11:25.81,1:11:27.89,Default,,0000,0000,0000,,Und wenn du ihn\nniederstrecken willst ...
+Dialogue: 0,1:11:27.89,1:11:30.44,Default,,0000,0000,0000,,mußt du zuerst mich niederstrecken.
+Dialogue: 0,1:11:30.46,1:11:33.22,Default,,0000,0000,0000,,Was? Du bist der Sohn von\nChristopher Scruffycat?
+Dialogue: 0,1:11:33.28,1:11:36.02,Default,,0000,0000,0000,,Dem Christopher Scruffycat?\nDem Sänger?
+Dialogue: 0,1:11:36.18,1:11:37.32,Default,,0000,0000,0000,,Du kanntest ihn?
+Dialogue: 0,1:11:37.36,1:11:38.75,Default,,0000,0000,0000,,Na ja, nicht persönlich, aber ...
+Dialogue: 0,1:11:38.75,1:11:40.68,Default,,0000,0000,0000,,als ich klein war, war ich\nein großer Fan.
+Dialogue: 0,1:11:40.85,1:11:43.84,Default,,0000,0000,0000,,Ich besitze immer noch alle seine CDs.\nEr ist eine Kindheitserinnerung.
+Dialogue: 0,1:11:43.93,1:11:46.47,Default,,0000,0000,0000,,Ich habe mich immer gefragt, was nach\n seinem Abschied aus ihm geworden ist.
+Dialogue: 0,1:11:46.52,1:11:49.01,Default,,0000,0000,0000,,Ah, okay ... Okay, dann ...
+Dialogue: 0,1:11:49.04,1:11:52.37,Default,,0000,0000,0000,,Hör zu ... Mein Vater ist\nvor vier Tagen gestorben ...
+Dialogue: 0,1:11:52.39,1:11:54.46,Default,,0000,0000,0000,,und ich bin hier, um seinen\nletzten Willen zu erfüllen.
+Dialogue: 0,1:11:54.80,1:11:57.35,Default,,0000,0000,0000,,Ich kann es dir nicht\nerklären, aber ...
+Dialogue: 0,1:11:57.46,1:11:59.69,Default,,0000,0000,0000,,Dieser Baum ist ein Teil davon.
+Dialogue: 0,1:11:59.75,1:12:01.02,Default,,0000,0000,0000,,Ich darf dich ihn nicht töten lassen.
+Dialogue: 0,1:12:01.37,1:12:02.30,Default,,0000,0000,0000,,Alle Achtung!
+Dialogue: 0,1:12:02.32,1:12:05.31,Default,,0000,0000,0000,,Du machst das alles hier nur wegen\ndeines Vaters letzten Willens durch.
+Dialogue: 0,1:12:05.34,1:12:06.71,Default,,0000,0000,0000,,Ziemlich beeindruckend.
+Dialogue: 0,1:12:07.00,1:12:10.16,Default,,0000,0000,0000,,Du mußt ja einen Riesenrespekt\nvor deinem Vater haben.
+Dialogue: 0,1:12:12.49,1:12:13.74,Default,,0000,0000,0000,,Autsch.
+Dialogue: 0,1:12:14.19,1:12:16.61,Default,,0000,0000,0000,,Na ja ... Ich tue was ich kann.
+Dialogue: 0,1:12:16.83,1:12:19.05,Default,,0000,0000,0000,,WIßt ihr, ich würde diesen Baum\nwirklich gerne verschonen, aber ...
+Dialogue: 0,1:12:19.05,1:12:21.32,Default,,0000,0000,0000,,ich muß mich an meinen Auftrag halten,\noder ich verliere meinen Job.
+Dialogue: 0,1:12:21.38,1:12:24.92,Default,,0000,0000,0000,,Hm ... wartet ... Welche Nummer\nhatte dieser Baum noch gleich?
+Dialogue: 0,1:12:25.02,1:12:26.74,Default,,0000,0000,0000,,"696"?
+Dialogue: 0,1:12:30.07,1:12:31.84,Default,,0000,0000,0000,,Laßt mal sehen.
+Dialogue: 0,1:12:41.56,1:12:44.43,Default,,0000,0000,0000,,Oh, wartet mal! Da muß eine\nVerwechslung vorliegen!
+Dialogue: 0,1:12:44.58,1:12:46.69,Default,,0000,0000,0000,,Dieser Baum hat die Nummer "969".
+Dialogue: 0,1:12:46.72,1:12:48.38,Default,,0000,0000,0000,,Und "969" steht nicht auf meiner Liste.
+Dialogue: 0,1:12:48.43,1:12:51.10,Default,,0000,0000,0000,,Ich Dummkopf hätte fast\nden falschen Baum gefällt!
+Dialogue: 0,1:12:51.41,1:12:53.56,Default,,0000,0000,0000,,Äh ... du meinst ...
+Dialogue: 0,1:12:53.66,1:12:56.35,Default,,0000,0000,0000,,Oh, ich verstehe. Vielen Dank!
+Dialogue: 0,1:12:57.07,1:12:58.42,Default,,0000,0000,0000,,Entschuldigt das Mißverständnis.
+Dialogue: 0,1:12:58.42,1:12:59.61,Default,,0000,0000,0000,,Schönen Tag noch!
+Dialogue: 0,1:13:12.98,1:13:14.89,Default,,0000,0000,0000,,Puh!
+Dialogue: 0,1:13:15.29,1:13:17.39,Default,,0000,0000,0000,,Das war knapp!
+Dialogue: 0,1:13:17.68,1:13:19.34,Default,,0000,0000,0000,,In der Tat.
+Dialogue: 0,1:13:19.93,1:13:24.64,Default,,0000,0000,0000,,Nun gut, dieses Mal habt ihr\nmein Leben gerettet.
+Dialogue: 0,1:13:25.00,1:13:26.30,Default,,0000,0000,0000,,Danke!
+Dialogue: 0,1:13:26.70,1:13:28.77,Default,,0000,0000,0000,,Jetzt habt ihr etwas gut bei mir.
+Dialogue: 0,1:13:29.02,1:13:31.09,Default,,0000,0000,0000,,Was kann ich für euch tun?
+Dialogue: 0,1:13:31.17,1:13:35.27,Default,,0000,0000,0000,,Nun, du sagtest, du wärst der Hüter\neines gewissen Artefaktes ...
+Dialogue: 0,1:13:35.66,1:13:37.12,Default,,0000,0000,0000,,In Ordnung!
+Dialogue: 0,1:13:37.20,1:13:38.59,Default,,0000,0000,0000,,Ihr sollt es haben.
+Dialogue: 0,1:13:38.72,1:13:40.76,Default,,0000,0000,0000,,Es hat schon ewig niemand\nmehr danach gefragt.
+Dialogue: 0,1:13:40.76,1:13:43.23,Default,,0000,0000,0000,,Also warum sollte ich es\neuch nicht geben?
+Dialogue: 0,1:14:00.22,1:14:02.41,Default,,0000,0000,0000,,Was um aller Welt ist das?
+Dialogue: 0,1:14:03.62,1:14:05.78,Default,,0000,0000,0000,,Es ist ein geheimes Artefakt.
+Dialogue: 0,1:14:06.95,1:14:08.38,Default,,0000,0000,0000,,Das Problem mit Geheimnissen ist ...
+Dialogue: 0,1:14:08.38,1:14:10.73,Default,,0000,0000,0000,,daß niemand davon wissen soll.
+Dialogue: 0,1:14:12.83,1:14:16.52,Default,,0000,0000,0000,,Es wurde mir von sowas wie einem\nHohepriester gegeben ...
+Dialogue: 0,1:14:16.70,1:14:19.29,Default,,0000,0000,0000,,Und er hat mir einfach nicht gesagt,\nwas es ist.
+Dialogue: 0,1:14:19.36,1:14:21.14,Default,,0000,0000,0000,,Also kann ich es euch\nauch nicht sagen.
+Dialogue: 0,1:14:21.19,1:14:22.56,Default,,0000,0000,0000,,Tut mir leid.
+Dialogue: 0,1:14:22.79,1:14:24.80,Default,,0000,0000,0000,,Wir werden es noch herausfinden.
+Dialogue: 0,1:14:24.94,1:14:28.07,Default,,0000,0000,0000,,Aber zuerst müssen wir den\nRest unserer Gruppe finden.
+Dialogue: 0,1:14:28.39,1:14:30.24,Default,,0000,0000,0000,,Dann lebt wohl.
+Dialogue: 0,1:14:30.42,1:14:33.00,Default,,0000,0000,0000,,Und nochmals vielen Dank dafür,\ndaß ihr mir das Leben gerettet habt.
+Dialogue: 0,1:14:33.25,1:14:35.26,Default,,0000,0000,0000,,Ich werde mich als gute Freunde\nan euch erinnern.
+Dialogue: 0,1:14:35.63,1:14:38.43,Default,,0000,0000,0000,,Ich hoffe ihr kommt eines Tages wieder.
+Dialogue: 0,1:14:38.66,1:14:40.07,Default,,0000,0000,0000,,Auf Wiedersehen, Herr Baum!
+Dialogue: 0,1:14:40.17,1:14:41.36,Default,,0000,0000,0000,,Auf Wiedersehen!
+Dialogue: 0,1:14:41.61,1:14:43.48,Default,,0000,0000,0000,,Komm Mika, laß uns gehen.
+Dialogue: 0,1:14:57.56,1:14:59.83,Default,,0000,0000,0000,,United Pawcel Service!
+Dialogue: 0,1:15:00.10,1:15:05.28,Default,,0000,0000,0000,,Paket für "Baum, Herr, 696"?
+Dialogue: 0,1:15:10.45,1:15:12.20,Default,,0000,0000,0000,,He, he!
+Dialogue: 0,1:15:12.21,1:15:14.01,Default,,0000,0000,0000,,Das ist für mich!
+Dialogue: 0,1:15:14.28,1:15:16.52,Default,,0000,0000,0000,,Äh, warten Sie! Uff ...
+Dialogue: 0,1:15:31.63,1:15:34.08,Default,,0000,0000,0000,, - Lori?\N- Lori?
+Dialogue: 0,1:15:34.58,1:15:36.63,Default,,0000,0000,0000,,Lori!
+Dialogue: 0,1:15:37.25,1:15:38.59,Default,,0000,0000,0000,,Lori!
+Dialogue: 0,1:15:39.13,1:15:42.36,Default,,0000,0000,0000,,- Lori! Wo bist du?\N- Lori?
+Dialogue: 0,1:15:46.60,1:15:48.35,Default,,0000,0000,0000,,Lori!
+Dialogue: 0,1:15:49.08,1:15:51.18,Default,,0000,0000,0000,,- Lori?\N- Lori!
+Dialogue: 0,1:15:52.08,1:15:53.03,Default,,0000,0000,0000,,Lori!
+Dialogue: 0,1:15:54.98,1:15:57.83,Default,,0000,0000,0000,,Lionel? Mika!
+Dialogue: 0,1:15:58.43,1:16:01.11,Default,,0000,0000,0000,,Lionel! Wo seid ihr?
+Dialogue: 0,1:16:01.24,1:16:03.95,Default,,0000,0000,0000,,Lionel? Mika!
+Dialogue: 0,1:16:05.14,1:16:06.20,Default,,0000,0000,0000,,Lori?
+Dialogue: 0,1:16:07.34,1:16:08.69,Default,,0000,0000,0000,,Lori?
+Dialogue: 0,1:16:11.35,1:16:12.65,Default,,0000,0000,0000,,Aaah! Lionel!
+Dialogue: 0,1:16:12.66,1:16:15.51,Default,,0000,0000,0000,,Weibchen! Weibchen! Weibchen!
+Dialogue: 0,1:16:15.55,1:16:16.51,Default,,0000,0000,0000,,Mika?
+Dialogue: 0,1:16:16.54,1:16:18.25,Default,,0000,0000,0000,,Mika!
+Dialogue: 0,1:16:21.42,1:16:22.77,Default,,0000,0000,0000,,Lionel?
+Dialogue: 0,1:16:23.94,1:16:24.97,Default,,0000,0000,0000,,Mika!
+Dialogue: 0,1:16:25.16,1:16:26.78,Default,,0000,0000,0000,,Lionel!
+Dialogue: 0,1:16:27.94,1:16:28.96,Default,,0000,0000,0000,,Lori?
+Dialogue: 0,1:16:28.97,1:16:30.76,Default,,0000,0000,0000,,- Lionel?\N- Lori!
+Dialogue: 0,1:16:30.81,1:16:32.48,Default,,0000,0000,0000,,- Lionel!\N- Lori!
+Dialogue: 0,1:16:32.50,1:16:34.71,Default,,0000,0000,0000,,- Lionel\N- Lori!
+Dialogue: 0,1:16:35.96,1:16:36.82,Default,,0000,0000,0000,,Lionel?
+Dialogue: 0,1:16:36.89,1:16:38.99,Default,,0000,0000,0000,,- Mika?\N- Lionel!
+Dialogue: 0,1:16:39.64,1:16:40.74,Default,,0000,0000,0000,,Mika!
+Dialogue: 0,1:16:40.76,1:16:42.69,Default,,0000,0000,0000,,- Lori!\N- Mika!
+Dialogue: 0,1:16:46.82,1:16:48.59,Default,,0000,0000,0000,,- Poke?\N- Poke?
+Dialogue: 0,1:16:51.71,1:16:55.20,Default,,0000,0000,0000,,Ich bin hier oben! Hier! Im Baum!
+Dialogue: 0,1:17:00.02,1:17:01.06,Default,,0000,0000,0000,,Poke!
+Dialogue: 0,1:17:01.33,1:17:03.15,Default,,0000,0000,0000,,Was machst du da oben?
+Dialogue: 0,1:17:03.40,1:17:05.91,Default,,0000,0000,0000,,Klasse! Baumfesselspiele im Freien!
+Dialogue: 0,1:17:14.93,1:17:16.26,Default,,0000,0000,0000,,Wie unartig!
+Dialogue: 0,1:17:17.72,1:17:20.13,Default,,0000,0000,0000,,Was zum Teufel glaubt ihr wohl,\nwas ich hier mache?
+Dialogue: 0,1:17:20.18,1:17:21.78,Default,,0000,0000,0000,,Ich hänge seit drei\nbeschissenen Stunden ...
+Dialogue: 0,1:17:21.78,1:17:23.98,Default,,0000,0000,0000,,in diesem beschissenen Baum!
+Dialogue: 0,1:17:24.09,1:17:25.80,Default,,0000,0000,0000,,Und es geht mir langsam ...
+Dialogue: 0,1:17:25.80,1:17:27.19,Default,,0000,0000,0000,,auf den verdammten Senkel!
+Dialogue: 0,1:17:29.45,1:17:32.72,Default,,0000,0000,0000,,Ich kann deine Bällchen sehen!
+Dialogue: 0,1:17:38.04,1:17:39.27,Default,,0000,0000,0000,,Scheiße!
+Dialogue: 0,1:17:39.30,1:17:41.73,Default,,0000,0000,0000,,Ihr blöden Idioten! Holt mich\ngefälligst aus diesem Scheißbaum ...
+Dialogue: 0,1:17:41.73,1:17:43.75,Default,,0000,0000,0000,,damit ich runterkommen und euch\nin eure blöden Ärsche treten kann!
+Dialogue: 0,1:17:46.30,1:17:47.83,Default,,0000,0000,0000,,Das würde ich gerne tun!
+Dialogue: 0,1:17:47.85,1:17:49.99,Default,,0000,0000,0000,,Aber wie sollen wir das machen, hä?
+Dialogue: 0,1:17:50.00,1:17:52.61,Default,,0000,0000,0000,,Mir furzegal, holt mich einfach runter!
+Dialogue: 0,1:17:55.32,1:17:57.97,Default,,0000,0000,0000,,Also gut, also gut. Wir\nmüssen uns was einfallen lassen.
+Dialogue: 0,1:17:57.96,1:17:59.41,Default,,0000,0000,0000,,Wie holen wir ihn da runter?
+Dialogue: 0,1:17:59.75,1:18:02.05,Default,,0000,0000,0000,,Vorzugsweise ohne Arschtritt ...
+Dialogue: 0,1:18:02.05,1:18:03.40,Default,,0000,0000,0000,,verstanden, Poke?
+Dialogue: 0,1:18:05.01,1:18:07.06,Default,,0000,0000,0000,,Können wir ihn nicht\neinfach da oben lassen?
+Dialogue: 0,1:18:09.06,1:18:11.04,Default,,0000,0000,0000,,Mein Tag war so schon schlimm genug.
+Dialogue: 0,1:18:11.14,1:18:12.38,Default,,0000,0000,0000,,Nein!
+Dialogue: 0,1:18:13.10,1:18:14.16,Default,,0000,0000,0000,,Na gut ...
+Dialogue: 0,1:18:14.63,1:18:17.96,Default,,0000,0000,0000,,Wir könnten ... Kokosnüsse\nwerfen, bis er herunterfällt.
+Dialogue: 0,1:18:19.43,1:18:20.62,Default,,0000,0000,0000,,Vergiß es!
+Dialogue: 0,1:18:21.55,1:18:25.00,Default,,0000,0000,0000,,Na gut, dann ... binden wir Dynamit\nan den Baum und ...
+Dialogue: 0,1:18:25.00,1:18:26.16,Default,,0000,0000,0000,,Ka-Wumm!
+Dialogue: 0,1:18:26.21,1:18:27.71,Default,,0000,0000,0000,,Sofortige Entfesselung!
+Dialogue: 0,1:18:27.71,1:18:29.03,Default,,0000,0000,0000,,- Nein!\N- Nein!
+Dialogue: 0,1:18:30.12,1:18:31.09,Default,,0000,0000,0000,,Na dann ...
+Dialogue: 0,1:18:31.09,1:18:32.70,Default,,0000,0000,0000,,Wenn ihr meine\nVorschläge nicht mögt ...
+Dialogue: 0,1:18:32.70,1:18:34.19,Default,,0000,0000,0000,,kann ich auch gleich die Klappe halten.
+Dialogue: 0,1:18:34.22,1:18:36.27,Default,,0000,0000,0000,,Mir hört ja sowieso keiner zu.
+Dialogue: 0,1:18:46.92,1:18:49.16,Default,,0000,0000,0000,,Lori, fang nicht wieder damit an.
+Dialogue: 0,1:18:49.17,1:18:51.21,Default,,0000,0000,0000,,Ich bin mit meinen Nerven am Ende,
+Dialogue: 0,1:18:51.20,1:18:53.96,Default,,0000,0000,0000,,und das kann ich jetzt als\nallerletztes gebrauchen.
+Dialogue: 0,1:18:54.32,1:18:55.88,Default,,0000,0000,0000,,- Wir sollten wirklich-\N- Psst!
+Dialogue: 0,1:18:56.58,1:18:58.03,Default,,0000,0000,0000,,Habt ihr das gehört?
+Dialogue: 0,1:18:58.43,1:19:00.18,Default,,0000,0000,0000,,Ich glaube, da kommt jemand!
+Dialogue: 0,1:19:02.04,1:19:04.11,Default,,0000,0000,0000,,Aah, der tat gut!
+Dialogue: 0,1:19:09.77,1:19:12.32,Default,,0000,0000,0000,,Okay, es war nur Poke.
+Dialogue: 0,1:19:12.34,1:19:13.79,Default,,0000,0000,0000,,Wo waren wir?
+Dialogue: 0,1:19:13.88,1:19:16.53,Default,,0000,0000,0000,,Also, das hat mich jetzt\ntotal rausgebracht.
+Dialogue: 0,1:19:16.63,1:19:18.41,Default,,0000,0000,0000,,Ich glaube, ich wollte sagen-
+Dialogue: 0,1:19:18.42,1:19:19.27,Default,,0000,0000,0000,,Keine Bewegung!
+Dialogue: 0,1:19:19.42,1:19:21.25,Default,,0000,0000,0000,,Hier ist das THX!
+Dialogue: 0,1:19:29.27,1:19:32.51,Default,,0000,0000,0000,,Na schau an, wen haben wir denn da?
+Dialogue: 0,1:19:32.73,1:19:35.17,Default,,0000,0000,0000,,Ihr seid verhaftet!
+Dialogue: 0,1:19:35.25,1:19:37.61,Default,,0000,0000,0000,,Keine falsche Bewegung ...
+Dialogue: 0,1:19:37.70,1:19:39.40,Default,,0000,0000,0000,,sonst ...
+Dialogue: 0,1:19:40.76,1:19:45.02,Default,,0000,0000,0000,,Es ist wirklich ärgerlich,\nMr. Lionel Scruffycat.
+Dialogue: 0,1:19:45.62,1:19:49.70,Default,,0000,0000,0000,,Was auch immer wir versuchen,\nSie wollen einfach nicht sterben.
+Dialogue: 0,1:19:50.02,1:19:52.53,Default,,0000,0000,0000,,Ich habe keine Ahnung, wie Sie\nes geschafft haben.
+Dialogue: 0,1:19:52.66,1:19:56.03,Default,,0000,0000,0000,,Ihr Fallschirm hätte sich\nniemals öffnen sollen.
+Dialogue: 0,1:19:56.22,1:19:59.82,Default,,0000,0000,0000,,In der Tat. Das hat er nicht.
+Dialogue: 0,1:20:00.18,1:20:02.84,Default,,0000,0000,0000,,Sie scheinen ein ziemlich\nzäher Bursche zu sein.
+Dialogue: 0,1:20:03.05,1:20:06.15,Default,,0000,0000,0000,,Aber das wird Ihnen auch\nnichts mehr nützen.
+Dialogue: 0,1:20:06.25,1:20:08.66,Default,,0000,0000,0000,,Denn jetzt werden Sie\nmit uns mitkommen!
+Dialogue: 0,1:20:08.89,1:20:12.00,Default,,0000,0000,0000,,Oh, Sie! Sie haben versucht,\nLionel umzubringen?
+Dialogue: 0,1:20:12.08,1:20:13.58,Default,,0000,0000,0000,,Sie Mistkerl!
+Dialogue: 0,1:20:13.93,1:20:16.57,Default,,0000,0000,0000,,Warten Sie nur ab! Ich werde\nIhnen den Bauch aufschlitzen ...
+Dialogue: 0,1:20:16.57,1:20:17.83,Default,,0000,0000,0000,, und Ihr Blut trinken ...
+Dialogue: 0,1:20:17.83,1:20:19.38,Default,,0000,0000,0000,,während Ihr Herz noch schlägt!
+Dialogue: 0,1:20:19.39,1:20:22.11,Default,,0000,0000,0000,,Ich bringe Sie um! Ich bringe Sie um!
+Dialogue: 0,1:20:28.25,1:20:32.11,Default,,0000,0000,0000,,Ah, Katzen kann man so\nleicht überwältigen.
+Dialogue: 0,1:20:32.56,1:20:35.46,Default,,0000,0000,0000,,Man packt sie einfach im Genick ...
+Dialogue: 0,1:20:35.54,1:20:39.13,Default,,0000,0000,0000,,und löst die Tragstarre aus.
+Dialogue: 0,1:20:40.38,1:20:42.89,Default,,0000,0000,0000,,Ach, ist sie nicht süß?
+Dialogue: 0,1:20:42.90,1:20:44.59,Default,,0000,0000,0000,,Katzitatzischatzi!
+Dialogue: 0,1:20:45.37,1:20:48.31,Default,,0000,0000,0000,,Wie um alles in der Welt ist es Ihnen\ngelungen, uns zu folgen ...
+Dialogue: 0,1:20:48.31,1:20:51.22,Default,,0000,0000,0000,,ohne eine Kopie des Buches zu haben?
+Dialogue: 0,1:20:51.33,1:20:53.51,Default,,0000,0000,0000,,Nun, das war einfach.
+Dialogue: 0,1:20:53.55,1:20:57.71,Default,,0000,0000,0000,,Es ist wahr, Sie haben die einzige\nKopie dieses Buches, aber ...
+Dialogue: 0,1:20:57.71,1:21:00.52,Default,,0000,0000,0000,,hier ist ein kleiner Tipp\nfür Ihr nächstes Abenteuer:
+Dialogue: 0,1:21:00.65,1:21:03.07,Default,,0000,0000,0000,,Wenn Sie sich geheime\nDokumente ansehen ...
+Dialogue: 0,1:21:03.12,1:21:04.89,Default,,0000,0000,0000,,dann sollte Sie das besser nicht ...
+Dialogue: 0,1:21:04.89,1:21:07.12,Default,,0000,0000,0000,,direkt unter einer\nÜberwachungskamera tun.
+Dialogue: 0,1:21:07.54,1:21:08.87,Default,,0000,0000,0000,,Nein!
+Dialogue: 0,1:21:10.75,1:21:12.51,Default,,0000,0000,0000,,Nun gut. Genug geredet!
+Dialogue: 0,1:21:12.51,1:21:15.69,Default,,0000,0000,0000,,Meine Damen und Herren,\nIhre Reise ist hier zu Ende.
+Dialogue: 0,1:21:15.86,1:21:18.71,Default,,0000,0000,0000,,Ich weiß nicht, was der Produzent\nmit Ihnen vor hat ...
+Dialogue: 0,1:21:18.71,1:21:20.90,Default,,0000,0000,0000,,aber es wird sicher nicht angenehm.
+Dialogue: 0,1:21:21.21,1:21:22.42,Default,,0000,0000,0000,,Also vorwärts.
+Dialogue: 0,1:21:22.81,1:21:24.62,Default,,0000,0000,0000,,Ich sagte: "Vorwärts"!
+Dialogue: 0,1:21:25.77,1:21:28.95,Default,,0000,0000,0000,,Das können Sie nicht machen,\nich bin Amerikanerin!
+Dialogue: 0,1:21:29.09,1:21:30.39,Default,,0000,0000,0000,,Schnauze!
+Dialogue: 0,1:21:30.92,1:21:32.12,Default,,0000,0000,0000,,Vorwärts!
+Dialogue: 0,1:21:45.55,1:22:12.97,Default,,0000,0000,0000,,Die Reise geht weiter\nauf DVD 2.
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0000,0000,0000,,
+Dialogue: 0,1:21:45.55,1:22:12.97,Default,,0000,0000,0000,,

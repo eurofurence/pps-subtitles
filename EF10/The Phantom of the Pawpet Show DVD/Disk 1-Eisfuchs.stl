@@ -1,0 +1,1476 @@
+//Font select and font size
+$FontName       = Arial
+$FontSize       = 30
+
+//Character attributes (global)
+$Bold           = FALSE
+$UnderLined     = FALSE
+$Italic         = FALSE
+
+//Position Control
+$HorzAlign      = Center
+$VertAlign      = Bottom
+$XOffset        = 0
+$YOffset        = 0
+
+//Contrast Control
+$TextContrast           = 15
+$Outline1Contrast       = 8
+$Outline2Contrast       = 15
+$BackgroundContrast     = 0
+
+//Effects Control
+$ForceDisplay   = FALSE
+$FadeIn         = 0
+$FadeOut        = 0
+
+//Other Controls
+$TapeOffset          = FALSE
+//$SetFilePathToken  = <<:>>
+
+//Colors
+$ColorIndex1    = 0
+$ColorIndex2    = 1
+$ColorIndex3    = 2
+$ColorIndex4    = 3
+
+//Subtitles
+00:00:19:20,00:00:21:11,Lonely.
+00:00:24:12,00:00:26:14,I feel so lonely.
+00:00:28:02,00:00:32:09,Days, years, centuries.
+00:00:33:10,00:00:35:24,I've been waiting for so long ...
+00:00:36:01,00:00:38:13,that time has become indifferent to me
+00:00:39:16,00:00:41:18,All that still warms my heart ...
+00:00:42:00,00:00:45:20,are memories of days that long passed.
+00:00:45:24,00:00:49:18,The days when I used to bring|joy and happiness to the world
+00:00:50:09,00:00:52:16,Why do they no longer call me?
+00:00:53:06,00:00:54:22,Do they no longer need me?
+00:00:55:15,00:00:57:14,Do they no longer want me?
+00:00:58:16,00:01:02:03,What a cold, cruel place|the world must have become.
+00:01:02:21,00:01:05:04,What new age is dawning ...
+00:01:05:12,00:01:08:01,now the age of song|seems to have ended?
+00:01:08:22,00:01:10:20,Is this my end?
+00:01:11:18,00:01:12:15,Lonely.
+00:01:13:07,00:01:15:18,I feel so lonely.
+00:01:16:10,00:01:18:24,I want to sing!|I want to dance!
+00:01:19:12,00:01:23:08,I want to ... no!|I must be free!
+00:01:23:08,00:01:24:20,Oh, mortals!
+00:01:25:05,00:01:28:09,Unlock the gate and let me free!
+00:01:28:15,00:01:29:21,Please!
+00:01:29:24,00:01:31:23,Don't let me be forgotten!
+00:01:46:03,00:01:49:00,Is everyone ready?|Does everybody have a drink?
+00:01:49:02,00:01:50:18,- Yes!|- Sure!
+00:01:51:02,00:01:53:21,Switch the lights off!|Switch the lights off!
+00:01:54:20,00:01:57:24,- Wait, is the CD in the player?|- Way ahead of you!
+00:02:01:08,00:02:02:15,Quick, quick!
+00:02:02:25,00:02:05:22,He could be here any minute!
+00:02:06:03,00:02:07:24,Where is the Mountain Dew?
+00:02:08:09,00:02:10:06,It's in the fridge.
+00:02:13:08,00:02:15:07,Shh! Shh! I think he's coming!
+00:02:15:12,00:02:18:12,- How old is he getting anyway?|- Shh! Quiet!
+00:02:21:18,00:02:24:04,Hello? Hello?
+00:02:24:15,00:02:25:24,Is anybody home?
+00:02:26:06,00:02:27:16,Why are the lights out?
+00:02:30:16,00:02:34:10,Ouch! Uh! What the ...?|Who left this ... Uh ...
+00:02:34:22,00:02:36:10,What was this?
+00:02:37:10,00:02:40:17,Happy Birthday to you!
+00:02:40:20,00:02:43:14,Happy Birthday to you!
+00:02:43:18,00:02:46:24,Happy Birthday, dear Lionel!
+00:02:47:01,00:02:50:10,Happy Birthday to you!
+00:02:50:20,00:02:52:18,Happy Birthday, Lionel!
+00:02:53:06,00:02:54:07,Wow!
+00:02:56:00,00:03:00:14,Wow, you guys are throwing a|surprise party! Just for me?
+00:03:00:24,00:03:02:14,Aww ... you shouldn't have.
+00:03:02:20,00:03:05:06,I don't know what to say, I ... I ...
+00:03:05:12,00:03:06:16,Congratulations, Lionel!
+00:03:06:16,00:03:07:14,Thank you!
+00:03:07:14,00:03:09:09,Yeah, congratulations!
+00:03:09:14,00:03:10:06,Thank you!
+00:03:11:06,00:03:12:09,Thank you very much!
+00:03:13:00,00:03:14:02,Who arranged all this?
+00:03:14:13,00:03:15:17,Oh, it was Lori's idea.
+00:03:17:06,00:03:18:18,I hope you like it.
+00:03:18:23,00:03:20:20,Yes, Lori, it's wonderful!
+00:03:21:06,00:03:22:04,But where is Poke?
+00:03:22:19,00:03:24:16,Did he forget my birthday again?
+00:03:25:21,00:03:29:04,Oh, this is a party.|Of course he's going to come!
+00:03:29:16,00:03:31:22,He said he's going to be|a little late, though.
+00:03:32:08,00:03:33:12,Ah, okay.
+00:03:33:22,00:03:36:14,So, who wants to have some fun?
+00:03:36:20,00:03:39:14,Yeah!
+00:03:55:06,00:03:58:14,Hey, turn the music down, please!|I got a phone call!
+00:04:01:10,00:04:03:21,Uh, guys? This could be important!|Please!
+00:04:06:17,00:04:07:22,Hello?
+00:04:08:19,00:04:09:16,Yes?
+00:04:10:12,00:04:11:16,Yes, that's me!
+00:04:15:10,00:04:16:13,What?
+00:04:17:03,00:04:19:12,Do you ... I ...
+00:04:19:21,00:04:21:05,Oh, shit!
+00:04:21:15,00:04:23:03,Yes, yes, I understand.
+00:04:23:21,00:04:24:13,Where?
+00:04:25:18,00:04:27:10,The museum of - what?
+00:04:28:14,00:04:30:16,I'm sorry, I'm still a bit ...
+00:04:31:08,00:04:32:14,Can I call you back?
+00:04:32:22,00:04:33:18,Thank you.
+00:04:34:00,00:04:36:09,Yes, I'll see into it. Goodbye!
+00:04:40:07,00:04:42:20,Lionel ... what's up with you?
+00:04:43:09,00:04:45:21,Yes. Yes, you sound like,
+00:04:45:22,00:04:47:17,there's something wrong.
+00:04:48:05,00:04:51:10,Yes, Lori. Actually there is.
+00:04:51:19,00:04:53:23,I've just been informed that my ...
+00:04:54:00,00:04:56:04,father has passed away last night.
+00:04:58:02,00:05:01:04,Oh Lionel! I'm so sorry!
+00:05:01:22,00:05:04:24,If ... If there's anything I can do ...
+00:05:05:13,00:05:07:18,N-No. No thank you. Thank you.
+00:05:07:20,00:05:09:00,It's alright.
+00:05:09:02,00:05:11:22,It just took me a bit by surprise.|Don't worry.
+00:05:12:16,00:05:18:04,Lionel ... I don't know what to say.|I'm so sorry! I ...
+00:05:20:08,00:05:22:24,Happy Birthday to you!
+00:05:23:12,00:05:25:24,Happy Birthday to you!
+00:05:26:11,00:05:30:25,Happy Birthday!|Happy Birthday to you!
+00:05:30:25,00:05:31:22,Hey!
+00:05:32:24,00:05:35:20,Lionel! You da man!
+00:05:35:22,00:05:38:21,One year more and you still|look beau-ti-ful!
+00:05:39:05,00:05:42:01,Look!|I just stole those flowers for you!
+00:05:43:13,00:05:45:00,Poke! Poke, shut up!
+00:05:45:08,00:05:47:12,Oh, Lori! What's up with you?
+00:05:47:15,00:05:51:02,This is his birthday party,|not a funeral, you know?
+00:05:51:02,00:05:52:13,Par-ty!
+00:05:53:04,00:05:55:09,I know this whole concept is|new to you, but ...
+00:05:55:09,00:05:56:20,Oh, cut it out!
+00:05:58:01,00:06:00:04,Alright. What's wrong?
+00:06:00:14,00:06:02:11,Lionel's father is dead.
+00:06:04:13,00:06:06:19,What do you mean, "dead"?
+00:06:06:22,00:06:09:02,When did that happen? And how?
+00:06:09:11,00:06:11:00,I just got a phone call.
+00:06:11:09,00:06:13:14,He passed away in his sleep last night.
+00:06:15:14,00:06:19:02,I'm sorry folks. The party is over.
+00:06:19:08,00:06:20:18,Thank you all for coming but ...
+00:06:21:00,00:06:23:04,I think Lionel wants to be alone now.
+00:06:23:12,00:06:25:02,Aww ...
+00:06:25:03,00:06:28:07,- Bye! -Bye!|- See you guys!
+00:06:32:12,00:06:33:07,So ...
+00:06:35:14,00:06:36:10,So ...
+00:06:47:24,00:06:51:10,So the old fart has|finally hit the bucket!
+00:06:52:09,00:06:54:05,But life goes on!
+00:06:54:07,00:06:55:20,It's still my birthday.
+00:06:55:21,00:06:59:02,and I'd really like to celebrate|with you guys and ...
+00:06:59:24,00:07:00:23,Oh, dear.
+00:07:01:06,00:07:03:22,I should have kept my mouth shut,|shouldn't I?
+00:07:03:24,00:07:06:03,Lionel, I'm shocked!
+00:07:06:05,00:07:09:02,Why are you talking about him|like that?
+00:07:09:02,00:07:12:11,Yes! You almost sound like|you don't care he's dead.
+00:07:13:12,00:07:16:02,No, it's not that it's just ...
+00:07:16:21,00:07:19:02,Frankly, I don't miss him that much.
+00:07:19:04,00:07:20:17,I haven't heard anything from him ...
+00:07:20:17,00:07:23:02,since he left more than ten years ago.
+00:07:23:07,00:07:25:01,But he's family!
+00:07:25:05,00:07:27:08,What's been going on|between you and him?
+00:07:27:08,00:07:29:21,Nothing! That's exactly the problem!
+00:07:30:05,00:07:31:17,Nothing has been going on.
+00:07:31:24,00:07:33:14,He decided to leave me behind ...
+00:07:33:14,00:07:35:20,and chase his stupid fantasies instead.
+00:07:35:24,00:07:38:18,And I had to find a place|to live for myself.
+00:07:38:24,00:07:40:22,And believe me, that wasn't easy ...
+00:07:40:22,00:07:42:17,since he didn't leave me any money.
+00:07:42:20,00:07:45:10,And everything else he owned, he sold!
+00:07:45:10,00:07:46:16,That's hard to believe.
+00:07:46:16,00:07:49:04,Yes. Uh, why did he go?
+00:07:49:18,00:07:51:03,I don't know ...
+00:07:51:04,00:07:53:17,He told me I would understand|some day but...
+00:07:53:17,00:07:55:02,that day hasn't come yet.
+00:07:55:10,00:07:57:16,And now that he's dead|it's probably too late.
+00:07:58:08,00:08:01:23,I could have been the son of a|famous musician but ... No!
+00:08:01:23,00:08:04:08,He prefered digging in the dirt instead!
+00:08:04:06,00:08:06:05,In the dirt?
+00:08:06:05,00:08:07:16,A musician?
+00:08:07:18,00:08:09:10,What was your father's job?
+00:08:10:11,00:08:12:06,He was a singer and a songwriter.
+00:08:12:08,00:08:14:03,And he was doing really well!
+00:08:14:11,00:08:17:12,I swear, he was that close|to his breakthrough!
+00:08:17:20,00:08:19:22,His songs were playing on all stations!
+00:08:19:22,00:08:22:12,He was just about to sign|the big contract ...
+00:08:22:18,00:08:23:17,And then he quit!
+00:08:24:04,00:08:25:18,He decided to become ...
+00:08:25:18,00:08:27:07,an archaeologist!
+00:08:27:12,00:08:29:14,Got that? An archaeologist!
+00:08:29:22,00:08:32:08,That must have been the|single most stupid decision ...
+00:08:32:08,00:08:33:12,ever made on earth!
+00:08:33:18,00:08:37:17,He threw away a perfect carrer|out of pure selfishness!
+00:08:38:02,00:08:40:22,He didn't care the slightest bit|about the consequences ...
+00:08:40:22,00:08:42:17,I had to face!
+00:08:43:18,00:08:45:25,And what are you supposed to do now?
+00:08:46:15,00:08:49:20,They want me to come to Cairo|to accept my heritage.
+00:08:50:02,00:08:51:24,For some reason my father insisted ...
+00:08:51:24,00:08:54:17,that I have to go and|pick it up in person.
+00:08:54:17,00:08:56:12,But I'm not sure I really want to.
+00:08:56:16,00:08:59:23,I mean, what could a guy like him|leave me anyway?
+00:09:00:07,00:09:02:02,A bucket of sand and a shovel?
+00:09:03:18,00:09:04:20,Why Cairo?
+00:09:05:16,00:09:09:16,Because, obviously that was the place|where he used to live.
+00:09:09:20,00:09:12:22,He was working for the|"Museum of Forgotten Arts".
+00:09:12:22,00:09:14:16,Whatever that might be.
+00:09:14:21,00:09:17:12,I've never heard about this|institution before ...
+00:09:17:16,00:09:19:18,but ist sure sounds like Dad.
+00:09:20:22,00:09:22:15,No matter what you think of him ...
+00:09:22:15,00:09:24:23,You've got to pay your last|respect to him.
+00:09:25:03,00:09:27:14,You can't just dismiss him like that.
+00:09:27:14,00:09:30:02,This wouldn't make you|any better than him.
+00:09:30:00,00:09:32:18,And maybe it is worth the effort.
+00:09:32:19,00:09:35:20,I mean, they wouldn't make you|show up personally ...
+00:09:35:24,00:09:38:02,if it wan't important, don't you think?
+00:09:38:20,00:09:40:15,Yes! We're going to Cairo!
+00:09:40:16,00:09:43:01,We're going to|walk like an Egyptian!
+00:09:43:01,00:09:44:24,Walk like an Egyptian!
+00:09:44:24,00:09:46:19,Walk like an Egyptian!
+00:09:47:02,00:09:49:16,Wait wait! Wait a minute!|Who said, "we"?
+00:09:49:22,00:09:53:00,I said, "we". I mean,|we ought to stick together, right?
+00:09:53:05,00:09:55:10,And I can't wait to meet the bit- uh,
+00:09:55:14,00:09:58:04,see the lovely beaches, you know ...
+00:09:58:04,00:09:59:15,sand ... and the like ...
+00:10:00:08,00:10:01:11,Poke ...
+00:10:01:20,00:10:03:22,There is no beach in Cairo.
+00:10:04:25,00:10:07:25,I always wanted to see the|"Museum of Forgotten Arts".
+00:10:07:25,00:10:12:07,Oh Lori, five minutes ago you didn't|even know this museum existed!
+00:10:12:14,00:10:13:24,Don't you get it?
+00:10:13:24,00:10:16:18,We're your friends, and we just|want to be with you.
+00:10:17:10,00:10:19:23,Oh Mika, that's so sweet.
+00:10:20:22,00:10:22:04,Alright.
+00:10:22:04,00:10:24:04,I guess I don't have another|choice then.
+00:10:24:04,00:10:26:07,But, guys, please keep in mind ...
+00:10:26:07,00:10:29:10,that this is not a vacation.|We've got serious business to do.
+00:10:29:10,00:10:30:19,Let's get packing.
+00:10:31:02,00:10:33:10,Walk like an Egyptian!
+00:10:33:13,00:10:35:07,Walk like an Egyptian!
+00:10:35:10,00:10:37:06,Walk like an Egyptian!
+00:10:37:08,00:10:39:10,Walk like an Egyptian!
+00:11:04:16,00:11:06:04,My Producer!
+00:11:07:13,00:11:08:24,My Producer!
+00:11:12:11,00:11:14:00,You called for me?
+00:11:14:13,00:11:15:22,Yes!
+00:11:16:02,00:11:17:10,The meeting is due!
+00:11:17:17,00:11:20:02,Send in the|Digital Rights Managers!
+00:11:26:12,00:11:28:03,Ja, my Producer!
+00:11:28:23,00:11:29:20,At once!
+00:11:29:21,00:11:31:15,Of course, my Producer!
+00:11:32:00,00:11:34:14,I'll get them for you,|my Producer!
+00:11:55:12,00:11:58:12,At your service, oh mighty Producer!
+00:12:00:03,00:12:01:07,Very well!
+00:12:01:12,00:12:04:19,Gentlemen, I have called you|to this special meeting ...
+00:12:04:19,00:12:06:20,because I'm deeply disappointed!
+00:12:07:20,00:12:10:07,I have just read the latest|sales report.
+00:12:10:14,00:12:13:24,Our profit has increased by|fifty percent ...
+00:12:14:06,00:12:17:14,and this is way below the|expectations for this quarter.
+00:12:18:09,00:12:20:09,I find this lack of growth ...
+00:12:20:17,00:12:22:01,disturbing.
+00:12:22:25,00:12:26:06,How do you expect me to explain|this to our shareholders?
+00:12:28:04,00:12:29:18,My Producer ...
+00:12:29:19,00:12:32:06,we ... perhaps ...well ...
+00:12:33:04,00:12:36:05,We are still doing a lot of|research in this field ...
+00:12:36:06,00:12:39:23,and it seems, people have become|strangely inspired lately.
+00:12:40:04,00:12:43:09,Strangely inspired, you say ...
+00:12:43:10,00:12:44:22,That's hard to believe.
+00:12:44:22,00:12:47:00,What do you have to|back up your claim?
+00:12:47:08,00:12:50:08,My numbers indicate that|a lot of people are singing ...
+00:12:50:09,00:12:53:05,unlicenced material under the shower!
+00:12:57:16,00:13:01:06,And I just received a report|of incidences of children ...
+00:13:01:06,00:13:04:02,in kindergartens being taught|public domain nursery songs.
+00:13:04:02,00:13:06:12,Officially! By their teachers!
+00:13:06:12,00:13:07:24,Imagine that!
+00:13:08:04,00:13:11:02,Tsk ... Disgusting! What's next?
+00:13:11:02,00:13:14:12,Teachers giving away mp3 files|in their classrooms?
+00:13:17:21,00:13:19:22,Don't you dare speak the|forbidden word!
+00:13:32:18,00:13:35:16,Which one? "mp3"?
+00:13:39:02,00:13:40:03,Idiot!
+00:13:40:06,00:13:43:18,Don't say this again! You know what|the punishment is!
+00:13:45:00,00:13:46:17,Ja, my Producer!
+00:13:48:22,00:13:52:02,I thought that rule excludes|members of the corporation.
+00:13:52:02,00:13:53:21,Silence, you fool!
+00:13:55:20,00:13:59:08,What was I about to say?|Ah, yes!
+00:13:59:20,00:14:03:09,It seems that the power of inspiration|is on the rise again.
+00:14:03:22,00:14:07:14,This development has always been|my deepest concern.
+00:14:07:18,00:14:10:17,All sources of inspiration are|under our control.
+00:14:11:01,00:14:13:02,I don't understand how this can be.
+00:14:13:12,00:14:15:09,Something must have happened.
+00:14:15:23,00:14:18:00,Perhaps the rumors are true.
+00:14:18:14,00:14:20:11,But no matter what,
+00:14:20:23,00:14:23:03,we must take action. Quickly.
+00:14:23:22,00:14:26:20,Firstly, about the people|singing under the shower.
+00:14:27:03,00:14:28:21,Call our legal department.
+00:14:28:24,00:14:32:02,We must exert our influence in|establishing new international ...
+00:14:32:02,00:14:35:06,copyright laws that will allow us to|demand compensation ...
+00:14:35:06,00:14:37:10,from the manufacturers of|bathroom equipment!
+00:14:41:17,00:14:43:24,Brilliant idea, my Producer!
+00:14:44:10,00:14:46:09,Then, about the children.
+00:14:46:18,00:14:49:13,We must increase our presence|in schools and kindergartens ...
+00:14:49:20,00:14:52:18,teaching them that singing|public domain songs ...
+00:14:52:18,00:14:54:13,means depriving hard working|artists ...
+00:14:54:16,00:14:56:14,from their God-given right to profit!
+00:14:57:08,00:15:00:19,We must educate them that|licencing is good ...
+00:15:01:01,00:15:03:02,and sharing is evil.
+00:15:04:04,00:15:05:21,As you command, my Producer!
+00:15:08:05,00:15:11:24,Okay ... Now what are we going|to do with you?
+00:15:11:24,00:15:16:20,What are you suggesting in order|to redeem yourself?
+00:15:17:10,00:15:20:19,I ... I beg your forgiveness,|my Producer!
+00:15:20:19,00:15:22:15,I didn't mean to cause any harm!
+00:15:22:16,00:15:24:06,Please! Have mercy!
+00:15:24:07,00:15:28:21,I only said "mp..." that word two times ...
+00:15:29:02,00:15:30:11,and ... and ...
+00:15:30:13,00:15:32:11,Yes. And?
+00:15:34:03,00:15:37:04,And I promise, I will never|say "mp3" again!
+00:15:40:13,00:15:43:18,Okay, that's enough! Three times!
+00:15:43:25,00:15:46:00,Your behavior is intolerable!
+00:15:46:04,00:15:49:08,- You shall receive your punishment!|- No!
+00:15:49:11,00:15:52:02,What is your verdict, my Producer?
+00:15:52:10,00:15:54:15,The punishment for saying the|forbidden word is ...
+00:15:54:21,00:15:57:07,Death!|By Britney's Spear!
+00:16:05:00,00:16:07:10,No! No, not that! Please!
+00:16:07:10,00:16:10:03,What a just decision, my Producer!
+00:16:10:20,00:16:12:06,Britney!
+00:16:27:16,00:16:29:10,Ja, my Producer?
+00:16:30:03,00:16:31:04,Kill him!
+00:16:31:23,00:16:33:24,My pleasure, my Producer!
+00:17:03:22,00:17:05:08,Despicable!
+00:17:06:16,00:17:08:14,Do we really sell this kind of music?
+00:17:08:14,00:17:12:10,Yes, we do. And actually it's|quite successful!
+00:17:12:10,00:17:14:23,I even got it as mp... uh ...
+00:17:14:23,00:17:18:04,I mean, Windows Media, yes,|Windows Media.
+00:17:24:01,00:17:26:17,My Producer! My Producer!
+00:17:27:12,00:17:29:14,We have tapped into a phone call ...
+00:17:29:14,00:17:32:10,from the "Museum of Forgotten Arts"|in Egypt.
+00:17:33:12,00:17:37:04,We finally have the proof|that your theory is true.
+00:17:37:14,00:17:39:19,The document really exists ...
+00:17:39:23,00:17:44:04,and the old Lion's son is already on|his way to claim his heritage.
+00:17:45:14,00:17:47:10,Right on cue!
+00:17:47:15,00:17:52:03,So ... Mr. Scruffycat senior|really found it!
+00:17:52:10,00:17:53:20,Remarkable.
+00:17:54:04,00:17:57:02,And now he's trying to pass it on|to his son.
+00:17:57:12,00:18:01:01,I always knew he couldn't keep|a secret to himself.
+00:18:01:10,00:18:04:06,Too bad for him. Good for us, though.
+00:18:04:25,00:18:08:18,Send two of our best men to Cairo|and get it before he does!
+00:18:08:22,00:18:12:04,It's the key to gaining control over|all music on this planet!
+00:18:12:07,00:18:14:17,And we must not miss this opportunity!
+00:18:15:04,00:18:16:19,Ja, my Producer!
+00:18:18:07,00:18:20:18,Christopher Scruffycat!
+00:18:21:14,00:18:25:08,You have tried to cross my plans|so many times ...
+00:18:25:15,00:18:26:22,but not tis time!
+00:18:27:11,00:18:31:06,When all this is over I'll be|the richest man in the world!
+00:18:32:04,00:18:34:07,Thank you, old Lion.
+00:18:34:19,00:18:36:23,I wouldn't have made it without you!
+00:19:14:05,00:19:15:09,Salaam Alaykum!
+00:19:15:09,00:19:18:21,Welcome to the "Museum of|Forgotten Arts" my honored friends.
+00:19:18:21,00:19:22:10,My name is Yussef Al-Kali.|I have been waiting for you.
+00:19:22:20,00:19:24:16,Alaykum Salaam.
+00:19:24:20,00:19:27:18,Hi dude! Al-Kali?
+00:19:29:01,00:19:31:14,Aren't you that guy who invented|the Energizer Bunny?
+00:19:31:14,00:19:34:06,I mean last time I put the|batteries in backwards ...
+00:19:34:06,00:19:36:18,and it kept coming, and coming,|and coming ...
+00:19:38:07,00:19:41:22,Poke! That's not the way to|greet a man like him!
+00:19:41:22,00:19:44:05,Let me show you how it's done.
+00:19:46:12,00:19:50:22,Alaykum Salaam, Yussef Al-Kali!|My name is Loreena McFolkmanis ...
+00:19:50:22,00:19:53:17,and my friends and I thank you|for your warm welcome.
+00:19:54:07,00:19:55:23,You are equally welcome!
+00:19:55:23,00:19:58:17,Why don't you and your friends|come over and sit down with me?
+00:19:59:00,00:20:02:03,It's the customs of my people|to offer guests a nice cup of ...
+00:20:02:03,00:20:04:18,arabian mocha as a gesture|of hospitality.
+00:20:04:18,00:20:08:04,Ah, coffee! Just what I need right now!
+00:20:08:05,00:20:09:12,Gimme that!
+00:20:09:24,00:20:13:14,Poke, be careful! This is real|arabian mocha!
+00:20:14:19,00:20:17:24,Yes, and it's inside the smallest cup|I've ever seen.
+00:20:18:06,00:20:20:18,No challenge for me. Starbuck's is|my middle name!
+00:20:29:19,00:20:33:01,Yeah! That's the real stuff!
+00:20:33:01,00:20:36:06,Keeps your heart beating|and your paws black!
+00:20:39:08,00:20:44:11,Uh oh ... I never tried this before.
+00:20:44:18,00:20:47:02,I wouldn't touch it if I were you.
+00:20:47:01,00:20:50:21,This is not the decaf, fat-free,|low-carb dish water you always sip on!
+00:20:51:23,00:20:54:24,This is for real men, not for|little girls like you.
+00:20:55:00,00:20:59:08,Hey, calm down macho-man! We're|tough girls, we can handle this!
+00:20:59:16,00:21:03:07,And we don't want to be impolite,|do we, Lori?
+00:21:06:09,00:21:10:05,Uh ... I guess ... no.
+00:21:11:03,00:21:13:08,Maybe it's not so bad.
+00:21:19:24,00:21:25:12,Hey ... Hey, that's really nice!|I ... I could really ...
+00:21:50:18,00:21:52:14,Anybody else want some mocha?
+00:21:52:20,00:21:54:14,- No!|- No!
+00:22:01:19,00:22:07:06,Two cubes of sugar, please!
+00:22:10:00,00:22:14:11,All right. I'm sure you're curious|why you had to come here in person ...
+00:22:14:11,00:22:16:10,and what your father might|have left you.
+00:22:16:23,00:22:20:07,The passing of your father has been|a great loss to all of us.
+00:22:20:15,00:22:24:07,He did great things for the museum|and found many artifacts ...
+00:22:24:07,00:22:26:23,that were believed to be|lost for centuries.
+00:22:27:12,00:22:31:15,He devoted his life to scientific|research, but unfortunately...
+00:22:31:15,00:22:35:02,Allah did not bless him|with the success he strived for.
+00:22:35:08,00:22:39:17,I used to be a good friend of him,|and he asked me to give you this.
+00:22:47:19,00:22:50:08,This is his personal diary|and research journal.
+00:22:50:16,00:22:54:06,He told us that it contains|all his knowledge and findings.
+00:22:54:20,00:22:57:12,However, we couldn't make any|sense of it.
+00:22:57:22,00:23:00:11,Your father went a very long way|to make sure...
+00:23:00:11,00:23:02:24,that it would be handed over|to you personally ...
+00:23:03:00,00:23:05:24,and that it may never get|into the wrong hands.
+00:23:06:11,00:23:10:24,And here it is. He titled it: "Finding|my Way to the Temple of Dunnowhat."
+00:23:16:24,00:23:20:09,Indeed, this doesn't make any sense|to me either.
+00:23:21:04,00:23:22:19,Is this book all he left me?
+00:23:23:10,00:23:26:04,No, I have two more items for you.
+00:23:27:04,00:23:30:17,Let me guess ... A bucket of|sand and a shovel?
+00:23:31:14,00:23:34:18,No. He left you two things that|were very dear to him.
+00:23:34:18,00:23:38:04,You should cherish them.|He never left home without them.
+00:23:43:10,00:23:44:20,A whip and a hat?
+00:23:46:04,00:23:47:18,Thank you, Daddy.
+00:24:04:23,00:24:08:15,Shh! Shh! No licenced music|in the halls of the museum!
+00:24:09:13,00:24:11:18,Okaaaay ...
+00:24:12:20,00:24:15:03,What is this museum about, anyway?
+00:24:15:11,00:24:19:17,The exhibits in this museum are the|forgotten songs of the old ages.
+00:24:20:08,00:24:24:02,There was a time when music was|not produced by producers ...
+00:24:24:05,00:24:25:22,and consumed by consumers.
+00:24:26:04,00:24:28:15,Music was in the heart of everyone.
+00:24:29:02,00:24:31:14,People would come together and|sing and dance ...
+00:24:31:15,00:24:33:02,and share their songs.
+00:24:33:06,00:24:35:18,Music was a part of our|everyday lives ...
+00:24:36:01,00:24:38:15,and there used to be songs|for every occasion.
+00:24:39:04,00:24:41:09,Those must have been wonderful times.
+00:24:42:06,00:24:45:17,Nowadays, songs have become|intellectual property ...
+00:24:45:18,00:24:48:06,turning open hearts into greedy minds.
+00:24:48:16,00:24:51:22,And what has once been an|inspiration for everyone ...
+00:24:51:22,00:24:55:16,has now become a means to fill the|pockets of just a few.
+00:24:55:20,00:25:00:12,This museum preserves what is left|of the songs of the old ages.
+00:25:00:18,00:25:03:02,Oh! Oh, can we hear one of them?
+00:25:03:04,00:25:04:17,Sure! Follow me.
+00:25:20:11,00:25:22:18,What a beautiful melody.
+00:25:23:16,00:25:25:20,I've never heard that melody before.
+00:25:28:23,00:25:31:12,See? That's why we are|preserving them.
+00:25:31:15,00:25:34:18,There is a wealth of old songs|that are very beautifiul ...
+00:25:34:18,00:25:37:10,but nobody knows about anymore|today.
+00:25:37:14,00:25:38:16,Really?
+00:25:38:22,00:25:42:15,And each of these boxes|holds one of the forgotten songs?
+00:25:42:19,00:25:46:08,Oh, this is so exciting! I can't wait|to hear all of them!
+00:25:46:08,00:25:47:22,What is inside this one?
+00:25:48:16,00:25:50:24,No! No! Don't touch that one! No!
+00:26:00:01,00:26:02:09,Do not open this box again!
+00:26:02:10,00:26:05:02,This is our collection of|spare vocals.
+00:26:05:02,00:26:07:11,We need them for|restauration purposes.
+00:26:07:24,00:26:11:04,Sometimes we find songs|that are not in good shape ...
+00:26:11:04,00:26:13:17,and then we use these for replacement.
+00:26:17:09,00:26:19:18,I'm sorry, I didn't know.
+00:26:20:09,00:26:21:17,May I open this one?
+00:26:22:01,00:26:23:02,Sure!
+00:26:27:25,00:26:30:12,Ooooh!
+00:26:30:14,00:26:33:21,Aaaah!
+00:26:34:17,00:26:36:02,Hey, wait a minute!
+00:26:36:20,00:26:38:21,That's just a box with a light in it.
+00:26:41:04,00:26:42:21,Oh, my mistake!
+00:26:48:06,00:26:50:00,Well, as you can see...
+00:26:50:00,00:26:53:14,there is no way to make big money|with all this old stuff.
+00:26:53:15,00:26:55:14,And exactly that is the reason...
+00:26:55:14,00:26:57:04,why we are a thorn in the side...
+00:26:57:04,00:26:59:14,of the international media|corporations.
+00:26:59:16,00:27:01:23,We are under their strict supervision.
+00:27:02:01,00:27:05:22,One wrong note and this place will|be swarming with their minions.
+00:27:10:08,00:27:10:24,Poke!
+00:27:11:20,00:27:13:18,Poke, please! Poke!
+00:27:14:15,00:27:16:02,Are you crazy?
+00:27:21:06,00:27:23:07,Look, they're watching us!
+00:27:27:24,00:27:30:00,Oh no! They are coming!
+00:27:34:20,00:27:37:11,This is the THX! Sound check!
+00:27:37:12,00:27:39:07,You are Dolby surrounded!
+00:27:39:13,00:27:41:08,Open the door!
+00:27:50:04,00:27:52:22,Ah, there you are!
+00:27:53:02,00:27:56:23,You've got something|that belongs to us!
+00:27:56:25,00:27:58:10,You've got the choice!
+00:27:58:17,00:28:00:16,Hand over the diary or ...
+00:28:01:00,00:28:02:20,certain death!
+00:28:02:20,00:28:05:13,You've got five seconds!
+00:28:05:14,00:28:07:11,Uh, the diary?
+00:28:07:12,00:28:10:06,Uh, well here! Take it!|I don't need it.
+00:28:10:06,00:28:11:11,No, no!
+00:28:12:17,00:28:15:03,No! Don't you dare come any closer!
+00:28:15:05,00:28:16:21,You shall not have it!
+00:28:17:02,00:28:19:24,- But ... but ... Mika ...|- No! No, Lionel!
+00:28:20:01,00:28:21:15,You can't give it to them!
+00:28:21:17,00:28:24:04,We went all the way to Egypt|to get this book!
+00:28:24:08,00:28:27:07,And five minutes later|the thought police turns up ...
+00:28:27:07,00:28:28:19,and wants to take it away?
+00:28:28:21,00:28:30:20,Don't you smell anything fishy?
+00:28:31:02,00:28:33:21,Alright! You've had your chance!
+00:28:34:01,00:28:35:24,Now, prepare to die!
+00:28:36:02,00:28:38:01,Attack!
+00:28:38:22,00:28:40:17,Take the diary and run!
+00:28:40:20,00:28:43:12,I'll hold them back! Run! Run!
+00:28:43:12,00:28:45:22,No Mika! Mika! It's not worth it!
+00:28:45:22,00:28:47:21,Stop talking! Just run!
+00:28:50:17,00:28:52:20,I've seen this coming ... Follow me!
+00:28:52:21,00:28:54:18,I know a secret way out of here!
+00:29:47:23,00:29:50:04,Ah, there we are.
+00:29:57:09,00:29:58:16,Finally!
+00:29:59:07,00:30:01:18,We must have been walking for hours.
+00:30:02:18,00:30:05:10,I thought I would never see|the light of another day.
+00:30:05:13,00:30:06:18,Uh, day?
+00:30:06:18,00:30:09:18,You mean night, sweetie-pie.|It's full moon!
+00:30:10:13,00:30:12:14,Oh no! Full moon?
+00:30:12:14,00:30:13:18,And ... And look!
+00:30:14:04,00:30:16:02,This is a graveyard!
+00:30:16:09,00:30:17:22,Have you never heard the stories ...
+00:30:17:22,00:30:19:13,about what can happen|on a graveyard ...
+00:30:19:13,00:30:20:16,under a full moon?
+00:30:21:07,00:30:22:18,There migt be vampires!
+00:30:22:18,00:30:23:20,Werewolves!
+00:30:23:20,00:30:24:12,Zombies!
+00:30:24:12,00:30:27:04,Or other unthinkable creatures|creeping out of their graves ...
+00:30:27:04,00:30:29:18,just waiting for innocent victims|walking by!
+00:30:30:04,00:30:33:12,Yeah! The full moon always|makes me horny, too.
+00:30:34:23,00:30:37:25,Why is it that you innocent guys|always get the good stuff?
+00:30:38:02,00:30:39:14,I wanna be a victim, too!
+00:30:41:11,00:30:43:10,Lori! When will you finally grow up?
+00:30:43:10,00:30:46:13,Vampires and Werewolves and all the|other unthinkable creatures ...
+00:30:46:13,00:30:48:14,are just a figment of your imagination.
+00:30:48:14,00:30:50:02,They don't exist.
+00:30:50:02,00:30:52:12,Just like Santa Claus|or the Easter Bunny.
+00:30:54:08,00:30:55:10,What?
+00:30:56:07,00:30:58:20,There is no Easter Bunny?
+00:31:01:00,00:31:02:06,No Santa?
+00:31:02:09,00:31:03:10,But then ...
+00:31:03:20,00:31:06:22,Who brings the presents|and hides the eggs?
+00:31:09:19,00:31:12:14,Lori ... you still believe in ...
+00:31:12:14,00:31:13:17,I don't know what to-
+00:31:13:17,00:31:17:04,Ha! Haha! Got ya! Got ya!
+00:31:26:02,00:31:27:21,Come on, admit it! Admit it!
+00:31:27:21,00:31:30:08,You really thought I still believed|in Santa Claus, didn't you?
+00:31:30:14,00:31:31:18,Didn't you?
+00:31:32:14,00:31:34:10,Yeah, yeah. You really got me there.
+00:31:34:11,00:31:35:08,I must admit ...
+00:31:35:17,00:31:37:20,I wouldn't have been surprised|if it had been true.
+00:31:38:24,00:31:41:20,See? I'm more grown-up|than you think!
+00:31:41:21,00:31:44:21,As Mika said, we are tough girls,|we can handle this.
+00:31:44:21,00:31:45:21,Right, Mika?
+00:31:46:23,00:31:49:07,Uh ... Mika?
+00:31:50:12,00:31:51:12,Mika?
+00:31:52:01,00:31:53:24,Oh no! No, Mika is gone!
+00:31:54:14,00:31:56:10,Where is she? Where is she?
+00:31:56:17,00:31:58:09,She got eaten by the werevolves!
+00:31:58:10,00:31:59:10,Lionel!
+00:32:00:18,00:32:01:20,Do something!
+00:32:01:21,00:32:03:24,She ... she could be dead!
+00:32:04:10,00:32:05:22,Or worse!
+00:32:12:19,00:32:14:01,Ah, there you are.
+00:32:16:22,00:32:19:04,Look! She's back from the dead!
+00:32:19:06,00:32:21:12,The vampires have turned her into a zombie!
+00:32:22:00,00:32:23:11,We're all gonna die!
+00:32:24:01,00:32:26:20,Lori? What are you talking about?
+00:32:27:06,00:32:29:02,I'm sorry it took me so long ...
+00:32:29:04,00:32:32:24,but I had to get the THX police guys|acquainted with the three tenors ...
+00:32:32:24,00:32:34:07,before I could join you.
+00:32:35:25,00:32:38:02,Oh, I'm so glad you made it!
+00:32:38:12,00:32:39:23,We were worried about you.
+00:32:40:00,00:32:41:11,No need to worry.
+00:32:41:12,00:32:44:12,Having the black belt in cat-fighting|must be good for something.
+00:32:45:24,00:32:46:25,Thank you so much.
+00:32:46:25,00:32:48:18,We wouldn't have made it|without your help.
+00:32:48:19,00:32:50:00,Ah, don't mention it.
+00:32:52:12,00:32:54:25,Are you sure she's not|a zombie or something?
+00:32:55:03,00:32:57:02,Ah, come on! Get a grip!
+00:32:57:06,00:32:59:00,Will you stop pushing me around?
+00:32:59:01,00:33:00:21,Lori, calm down, please!
+00:33:00:21,00:33:03:03,I am calm! I am perfectly calm!
+00:33:04:07,00:33:07:00,Do you know how it feels to be the|youngest member of the party?
+00:33:07:18,00:33:09:23,Always been picked on|and pushed around ...
+00:33:09:23,00:33:11:12,never taken seriously!
+00:33:11:16,00:33:14:04,And nobody seems to care at all,|what I have to say ...
+00:33:14:04,00:33:14:17,Lori!
+00:33:14:18,00:33:16:06,- when it comes to ...|- Lori!
+00:33:16:06,00:33:17:03,What?
+00:33:26:06,00:33:27:18,Thank you, Poke!
+00:33:27:20,00:33:29:00,Was about time!
+00:33:35:11,00:33:37:14,I think, we'll be safe here for a while.
+00:33:37:16,00:33:40:11,This graveyard is not known|to the common people.
+00:33:40:21,00:33:43:13,Lionel? Do you still have the diary?
+00:33:43:16,00:33:46:23,Because now I'm really curious|about your father's notes.
+00:33:47:04,00:33:50:05,If there are so many people|trying so hard to get it ...
+00:33:50:08,00:33:53:11,and your father making such a|fuss about its secrecy ...
+00:33:53:12,00:33:55:09,it must be very very important.
+00:33:56:05,00:33:57:08,Alright.
+00:33:57:19,00:34:01:07,Alright, then. I would suggest we go|through it together, line by line.
+00:34:04:10,00:34:05:17,Okay.
+00:34:06:06,00:34:07:16,So, it's titled:
+00:34:07:18,00:34:10:08,"Finding my way to the|Temple of Dunnowhat."
+00:34:10:19,00:34:12:20,Whatever the|"Temple of Dunnowhat" might be,
+00:34:12:20,00:34:15:01,it seems to be a place of|utmost importance ...
+00:34:15:08,00:34:17:13,and this book is probably the|key to finding it.
+00:34:18:18,00:34:20:15,This is what it says|on the first page:
+00:34:21:03,00:34:25:17,"The politician's daughter|was accused of drinking water."
+00:34:25:18,00:34:30:08,"No tea or tomato juice.|You'll see no potato juice."
+00:34:30:12,00:34:31:15,What?
+00:34:35:16,00:34:38:21,Wait, wait ... Let me continue reading.
+00:34:42:08,00:34:47:08,"You can't get cherry soda,|because they got to fill that quota."
+00:34:48:10,00:34:53:02,"And when ham and eggs need savor,|coffee ketchup gives them flavor."
+00:34:53:12,00:34:55:07,This is total bullshit!
+00:34:56:15,00:34:58:09,Then it goes on like this:
+00:34:58:15,00:35:02:14,"This is the rock that rolls,|not moving too fast or too slow."
+00:35:02:16,00:35:06:08,"This is the rock that rolls,|as soon as it hits you, you'll know."
+00:35:06:12,00:35:08:06,That's even worse.
+00:35:08:08,00:35:11:12,Yes, we were equally confused|when we got to that part.
+00:35:17:18,00:35:19:10,Lori ...
+00:35:20:24,00:35:22:07,What's the matter?
+00:35:25:21,00:35:29:17,Lori, forget it! If you refuse to calm|down, that muzzle will stay on!
+00:35:29:17,00:35:32:15,Now stop whining and let us|do our work, okay?
+00:35:38:19,00:35:39:24,Okay.
+00:35:40:18,00:35:43:02,"All the happy saints go marching in."
+00:35:43:16,00:35:48:01,"And if one of those saints steps out|of line, he'll have to start again."
+00:35:48:16,00:35:51:09,I don't know what your Dad|has been smoking, but ...
+00:35:53:03,00:35:54:19,I want some of that shit.
+00:36:00:03,00:36:04:11,"Jacobs golden ladder|gets slippery at the top."
+00:36:05:24,00:36:09:21,"And many-a happy-go-lucky saint|has made that long long drop."
+00:36:12:12,00:36:15:00,I really wonder what this is all about.
+00:36:21:07,00:36:22:07,Lori ...
+00:36:28:09,00:36:30:08,This is really strange, here ...
+00:36:31:08,00:36:34:13,Lori, one last time, stay put!
+00:36:35:04,00:36:37:17,There are no monsters, there are|no vampires,
+00:36:37:17,00:36:39:12,werewolves or zombies. Okay?
+00:36:39:16,00:36:41:11,And we have serious business|to do here.
+00:36:41:11,00:36:42:20,Do you understand?
+00:36:43:11,00:36:46:12,Oh, I have no idea|what has gotten into her.
+00:36:46:19,00:36:48:09,Maybe it's the full moon.
+00:36:48:10,00:36:51:15,Nah, I bet nobody ever got|into her, anyway.
+00:36:53:20,00:36:55:03,Okay, let's continue.
+00:36:56:07,00:37:01:01,"A giant vision in the distance,|chase that rainbow down."
+00:37:04:18,00:37:07:18,"I hear a pound pound|pounding in my chest ..."
+00:37:08:02,00:37:10:16,"I hear a knock knock|knocking sound."
+00:37:12:08,00:37:15:09,"Knock knock knocking|on heaven's door."
+00:37:16:17,00:37:19:22,"The trees speak to me,|and I listen to them carefully."
+00:37:19:23,00:37:22:13,"Whether standing still or|blowing in the wind,
+00:37:22:16,00:37:24:01,I hear them singing."
+00:37:24:11,00:37:27:18,"The trees speak, they whisper|a sweet melody."
+00:37:27:20,00:37:30:04,"The keepers of more wisdom|than you and I."
+00:37:30:04,00:37:31:16,"So listen to them carefully."
+00:37:31:21,00:37:32:23,Alright.
+00:37:33:02,00:37:36:03,Okay. We have read through the|first four pages.
+00:37:36:06,00:37:37:06,And you know what?
+00:37:37:10,00:37:39:09,I didn't understand a single word!
+00:37:39:14,00:37:41:18,Lionel, are you sure your Dad ...
+00:37:41:17,00:37:43:20,still had his wits together?
+00:37:43:24,00:37:45:17,I'm not so sure anymore.
+00:37:46:04,00:37:49:09,Hey, guys? You noticed anything?
+00:37:50:02,00:37:51:20,No, what do you mean?
+00:37:51:24,00:37:53:24,Lori has stopped whining.
+00:37:54:07,00:37:56:14,Hey, now that you mention it ...
+00:37:56:16,00:37:58:21,Oh, was about time!
+00:38:00:00,00:38:01:20,Sooo ...
+00:38:02:16,00:38:05:02,You can be quiet after all.
+00:38:05:06,00:38:07:20,See? It wasn't that hard, was it?
+00:38:09:19,00:38:11:07,Come on, let me remove this.
+00:38:18:00,00:38:19:22,Okay guys, we have no choice.
+00:38:20:15,00:38:22:09,We'll have to go through it again.
+00:38:26:01,00:38:28:08,Let's see if there's something|we've been missing.
+00:38:28:12,00:38:30:01,There must be a meaning to this.
+00:38:31:18,00:38:32:13,You know ...
+00:38:32:20,00:38:35:16,The reasons of my father might be|hard to understand, but ...
+00:38:35:16,00:38:37:11,I'm quite sure he wasn't crazy.
+00:38:37:13,00:38:39:06,This must be some kind of code.
+00:38:41:04,00:38:45:13,"The politician's daughter|was accused of drinking water."
+00:38:45:13,00:38:48:11,Hey! Hey, I know that line!
+00:38:49:00,00:38:50:08,- Really?|- What?
+00:38:50:19,00:38:54:02,Yes, I tried to tell you guys,|but you wouldn't let me!
+00:38:55:01,00:38:55:23,Okay ...
+00:38:57:02,00:38:58:03,Well ...
+00:38:58:08,00:39:02:00,You know Lori, it does sound|vaguely familiar to me but ...
+00:39:02:00,00:39:03:24,I can't really remember|where I first heard it.
+00:39:04:02,00:39:05:06,So, where is it from?
+00:39:05:08,00:39:08:04,It's an old song done by|Frank Sinatra.
+00:39:08:14,00:39:10:02,It's the "Coffee Song".
+00:39:10:14,00:39:12:14,And it goes like this.
+00:39:25:18,00:39:29:14,"Way down among Brazilians|coffee beans grow by the billions."
+00:39:29:14,00:39:32:20,"So they've got to find|Those extra cups to fill."
+00:39:33:07,00:39:37:01,"They got an awful lot of|coffee in Brazil"
+00:39:37:22,00:39:41:19,"You can't get cherry soda|Cause they've got to fill that quota."
+00:39:41:23,00:39:45:02,"And the way things are I bet|They never will."
+00:39:45:13,00:39:49:01,"They got an awful lot of|coffee in Brazil."
+00:39:49:16,00:39:53:09,"No tea or tomato juice."
+00:39:53:21,00:39:57:08,"You'll see no potato juice."
+00:39:58:04,00:40:00:20,"And all the farmers in Africa say:"
+00:40:01:01,00:40:02:08,"Hey! Hey! Hey!"
+00:40:02:09,00:40:06:02,"The politicians daughter|Was accused of drinking water."
+00:40:06:06,00:40:09:11,"And was fined a great big|Fifty Dollar bill."
+00:40:09:18,00:40:13:15,"They got an awful lot of|coffee in Brazil."
+00:40:14:06,00:40:17:16,"No tea or tomato juice."
+00:40:18:04,00:40:21:17,"You'll see no tomato juice."
+00:40:22:15,00:40:24:15,"And all the farmers in Africa say:"
+00:40:24:18,00:40:26:18,"Hey! Hey! Hey!"
+00:40:26:23,00:40:28:22,"And when their ham and|eggs need savor,"
+00:40:28:25,00:40:30:24,"Coffee ketchup gives them flavor."
+00:40:31:01,00:40:33:16,"Coffee pickles way outsell the dill."
+00:40:34:04,00:40:37:22,"They got an awful lot of|coffee in Brazil."
+00:40:42:08,00:40:45:23,"They got an awful lot of|coffee in Brazil."
+00:40:46:14,00:40:47:19,"In Brazil!"
+00:40:48:14,00:40:50:01,"In Brazil!"
+00:40:50:10,00:40:53:20,"They got an awful lot of|coffee in Brazil."
+00:40:54:04,00:40:55:15,"In Brazil!"
+00:40:56:16,00:40:57:18,"In Brazil!"
+00:41:14:05,00:41:15:09,Brazil!
+00:41:18:18,00:41:19:22,Brazil!
+00:41:20:15,00:41:22:06,- Brazil!|- Brazil!
+00:41:22:10,00:41:24:15,Lori! Brazil! That's it!
+00:41:24:15,00:41:26:06,Oh, well done, Lori!
+00:41:26:06,00:41:28:08,You solved the first part|of the puzzle!
+00:41:29:05,00:41:32:08,- Ooookay.|- Did I?
+00:41:32:12,00:41:34:11,So we have to go to Brazil.
+00:41:34:12,00:41:37:02,But, Brazil is a big country.
+00:41:37:02,00:41:39:19,We need to figure out|where exactly we need to go.
+00:41:39:25,00:41:43:05,Does anybody know the names of the|most important cities in Brazil?
+00:41:43:08,00:41:46:10,Sure! There are: Brazilia, São Paulo,
+00:41:46:10,00:41:49:05,Rio de Janeiro, Manaus, Natal,
+00:41:49:05,00:41:51:21,- Salvador, São Felix ...|- Uh, stop, stop, stop!
+00:41:51:22,00:41:53:12,What was the last one again?
+00:41:53:12,00:41:54:19,São Felix?
+00:41:54:24,00:41:58:17,São Felix loosely translates to,|"The Lucky Saint."
+00:41:58:23,00:42:00:17,Look at this line in the book:
+00:42:00:23,00:42:05:10,"And many a-happy-go-lucky saint|has made that long long drop."
+00:42:07:19,00:42:10:05,Well, I must say ... not bad!
+00:42:10:09,00:42:12:16,So we need to go to São Felix|in Brazil!
+00:42:12:24,00:42:15:06,Mmh ... São Felix.
+00:42:15:07,00:42:18:12,A nice old town at the edge|of the brazilian rainforest.
+00:42:18:21,00:42:21:06,And what do the other lines mean?
+00:42:22:15,00:42:25:19,"I hear a pound pound|pounding in my chest."
+00:42:25:24,00:42:29:16,"This is the rock that rolls,|as soon as it hits you, you'll know."
+00:42:29:22,00:42:33:08,"The trees speak to me,|so I listen to them carefully."
+00:42:33:09,00:42:35:08,I don't have a clue Lori but ...
+00:42:35:08,00:42:37:01,we finally have a starting point.
+00:42:37:04,00:42:39:23,I hope those lines will make|more sense once we get there.
+00:42:41:08,00:42:44:16,Please accept the advice of an|experienced archaeologist.
+00:42:44:18,00:42:46:15,Try to memorize those lines.
+00:42:46:15,00:42:49:00,You might get separated|or lose the book.
+00:42:49:23,00:42:53:11,So it's decided! We are going to|visit the brazilian rainforest!
+00:42:55:03,00:42:56:24,Ah, Brazil!
+00:42:56:25,00:43:00:22,It is such a wonderful place of|ancient history and adventure.
+00:43:01:01,00:43:02:20,I wish I could come with you.
+00:43:03:10,00:43:04:05,Well ...
+00:43:04:11,00:43:06:13,If you want to ... We can use|all help we can get!
+00:43:06:15,00:43:08:04,Yes! Why don't you join us?
+00:43:08:14,00:43:10:19,Oh, thanks for the offer!
+00:43:10:21,00:43:12:14,But I really can't go with you.
+00:43:12:17,00:43:14:12,I'm an old man myself ...
+00:43:14:13,00:43:18:01,and if I don't stay here and take|care of the museum, who will?
+00:43:19:14,00:43:22:17,Yes, my little one, it's time|to say goodbye.
+00:43:22:24,00:43:25:15,But before you leave,|I've got something for you.
+00:43:26:06,00:43:28:04,Oh, what is it? What is it?
+00:43:28:15,00:43:30:20,Here! Please accept this flask ...
+00:43:30:20,00:43:33:11,of real arabian mocha|as my farewell gift.
+00:43:36:18,00:43:40:05,Thank you ... very much ...|uh ... I ...
+00:43:40:06,00:43:43:20,Hey cool! I owe you one!|That's the good stuff!
+00:43:45:18,00:43:48:04,Thank you Yussef! That's|very kind of you.
+00:43:48:10,00:43:51:05,But we must go now.|To the brazilian rainforest!
+00:43:51:08,00:43:53:04,But how do we get there?
+00:43:53:16,00:43:57:11,Just follow me! I know a secret|passage to the airport.
+00:43:58:08,00:44:00:11,Why am I not surprised ...
+00:44:16:02,00:44:17:18,Something is happening!
+00:44:18:04,00:44:19:16,I don't know what it is ...
+00:44:19:19,00:44:21:14,but I can feel it.
+00:44:21:23,00:44:25:02,My urge to break free is|stronger than ever before.
+00:44:25:10,00:44:26:16,I'm feeling restless.
+00:44:26:23,00:44:29:09,Pacing back and forth in my confinement ...
+00:44:29:08,00:44:30:24,like an animal in it's cage.
+00:44:31:19,00:44:33:14,I wish I could see more clearly.
+00:44:33:25,00:44:36:13,It feels like someone is coming!
+00:44:37:05,00:44:38:10,Could it be possible ...
+00:44:38:11,00:44:40:18,that the key has not been lost but ...
+00:44:40:21,00:44:42:10,merely misplaced?
+00:44:43:02,00:44:44:24,I can feel darkness, but ...
+00:44:45:06,00:44:46:17,there's also light.
+00:44:47:06,00:44:49:04,Are they coming to free me?
+00:44:49:22,00:44:51:18,Or are they coming to kill me?
+00:44:53:05,00:44:54:17,Let them come!
+00:44:55:02,00:44:58:05,I may be old, but I'm not rusty.
+00:44:58:18,00:45:02:13,Be it songs of war,|or songs of love.
+00:45:02:14,00:45:05:02,Just let me sing!
+00:45:41:16,00:45:42:15,Poke?
+00:45:42:21,00:45:43:21,Poke.
+00:45:43:22,00:45:45:23,- Poke!|- What?
+00:45:45:23,00:45:48:22,During the whole flight you've been|listening to the same song ...
+00:45:48:22,00:45:51:18,Over and over and over|and over again!
+00:45:52:20,00:45:55:08,This is making me crazy!
+00:45:55:14,00:45:59:24,I spent my last three bucks on the|licence to put it onto my playlist!
+00:46:00:07,00:46:02:22,However, the licence to remove|it from the playlist would be ...
+00:46:02:22,00:46:04:02,another five bucks!
+00:46:05:08,00:46:06:11,But I'm broke!
+00:46:07:13,00:46:09:04,Alright, alright!
+00:46:09:04,00:46:10:19,For the good of society!
+00:46:11:09,00:46:12:18,Look into your pockets.
+00:46:13:04,00:46:15:04,Does anyone have any|spare change ...
+00:46:15:04,00:46:17:01,so we can make this stop?
+00:46:21:19,00:46:24:20,Okay, here we go.
+00:46:30:16,00:46:33:10,Hello, this is your pilot speaking.
+00:46:33:12,00:46:36:21,We are now above the brazilian|rainforest near São Felix.
+00:46:36:23,00:46:38:07,Get ready to jump!
+00:46:38:06,00:46:41:01,I repeat:|Get ready to jump!
+00:46:42:07,00:46:43:12,What?
+00:46:45:02,00:46:47:07,Get ready to ... jump?
+00:46:48:02,00:46:50:21,Did you really believe|those straps were safety belts?
+00:46:50:22,00:46:52:16,Well, in a way they are.
+00:46:53:13,00:46:55:19,Don't you remember the line|from that book?
+00:46:55:20,00:47:00:08,"And many-a happy-go-lucky saint|has made that long long drop."
+00:47:00:22,00:47:03:24,The management of Poke Arilines|wishes you a pleasant flight!
+00:47:06:17,00:47:09:00,Count to three and pull the cord!
+00:47:09:01,00:47:10:03,One!
+00:47:10:17,00:47:12:00,Two!
+00:47:13:08,00:47:15:11,Three! Hehe!
+00:47:16:10,00:47:18:02,Okay guys, are you ready?
+00:47:18:03,00:47:19:07,Mika? Poke?
+00:47:19:07,00:47:20:19,- Ready!|- Let's rock!
+00:47:41:12,00:47:43:10,Oh, sweet!
+00:47:47:01,00:47:49:02,The one single hole ...
+00:47:49:12,00:47:53:16,in the ground of the entire|goddamn rainforest ...
+00:47:54:02,00:47:56:14,and I step into it at once!
+00:47:58:05,00:48:00:12,Great ... This is just great.
+00:48:00:24,00:48:02:22,A new world record!
+00:48:02:23,00:48:05:20,I chipped eight claws,|deranged my hairdo ...
+00:48:05:23,00:48:08:20,ripped my clothes apart and|dislocated one shoulder ...
+00:48:08:20,00:48:10:14,in less than ten seconds!
+00:48:12:06,00:48:14:17,This is number two on the|top ten worst things ...
+00:48:14:17,00:48:16:02,that have ever happened to me.
+00:48:16:08,00:48:17:18,Right after number one:
+00:48:17:18,00:48:19:23,Being hit over the head|with a tomb stone!
+00:48:21:19,00:48:23:25,And can somebody please|cut off this thing?
+00:48:29:08,00:48:30:23,I want to cry now ...
+00:48:31:09,00:48:33:11,But I'm just too fed up with all this!
+00:48:37:08,00:48:39:14,Having been kicked out of a plane ...
+00:48:40:00,00:48:42:12,crashing into the brazilian|rainforest ...
+00:48:42:14,00:48:44:12,and landing inside this dark cave ...
+00:48:44:12,00:48:46:08,that has obviously no other exit ...
+00:48:46:08,00:48:48:06,than the skylight I fell through,
+00:48:48:08,00:48:50:08,which I can't reach from down here.
+00:48:51:16,00:48:54:19,It can't possibly get any worse|than this.
+00:48:59:06,00:49:00:13,Uh oh ...
+00:49:05:12,00:49:08:22,Oh no! not this time! Not this time!
+00:49:09:08,00:49:10:12,Stop!
+00:49:22:09,00:49:25:14,This is so depressing ...
+00:49:29:07,00:49:32:25,Thousand years of waiting|for the next adventurers ...
+00:49:33:00,00:49:35:21,coming into my cave|to be crushed by me ...
+00:49:36:07,00:49:39:15,And now they don't even run away|from me anymore.
+00:49:40:10,00:49:43:01,This is so depressing.
+00:49:44:17,00:49:47:17,You are not going to crush me?
+00:49:48:05,00:49:51:11,Oh, I can still do it if you want to.
+00:49:52:02,00:49:53:03,Although ...
+00:49:53:05,00:49:55:20,It's not much fun if you|don't run away.
+00:49:56:04,00:49:58:16,Hold still, I'll make it quick.
+00:49:58:20,00:50:00:10,Oh! No, no no nonono!
+00:50:00:10,00:50:02:24,I just changed my mind,|thank you very much.
+00:50:04:02,00:50:05:08,What's your name?
+00:50:05:15,00:50:07:05,Does it matter?
+00:50:07:15,00:50:09:16,To me? Yes, it does.
+00:50:09:22,00:50:11:16,I used to have a name ...
+00:50:11:20,00:50:14:17,but I'm too depressed to remember.
+00:50:16:04,00:50:18:20,What makes you so depressed?
+00:50:18:23,00:50:22:16,Well, are you happy to be down here?
+00:50:23:21,00:50:25:17,Uh, no. Why?
+00:50:25:20,00:50:27:06,See what I mean?
+00:50:27:14,00:50:30:09,They put me in this cave and told me,
+00:50:30:12,00:50:32:16,"Watch over this glowing stone!"
+00:50:32:20,00:50:35:22,"If anyone wants to touch it,|crush them!"
+00:50:36:02,00:50:38:02,They made me believe that it's ...
+00:50:38:02,00:50:40:04,an incredibly honorable task ...
+00:50:40:05,00:50:43:00,and that I'll be richly rewarded|some day.
+00:50:43:08,00:50:44:12,And then they said,
+00:50:44:14,00:50:45:18,"Good bye!" ...
+00:50:45:19,00:50:48:02,and made the entrance|of the cave collapse.
+00:50:48:15,00:50:51:16,I feel so stupid!
+00:50:52:16,00:50:53:24,Have you never tried ...
+00:50:53:24,00:50:56:13,breaking through the barrier|of the cave entrance?
+00:50:56:22,00:50:58:19,I tried that once.
+00:50:59:02,00:51:02:01,The only thing that happened|was a loud "Crunch!"
+00:51:02:09,00:51:04:24,And when I regained my senses|I found out ...
+00:51:05:03,00:51:08:04,that several small parts had|crumbled off me.
+00:51:08:12,00:51:09:18,Mh ... Ouch!
+00:51:09:20,00:51:11:16,That must have hurt badly.
+00:51:11:20,00:51:12:22,It did hurt.
+00:51:13:04,00:51:15:03,But it's not the worst thing.
+00:51:15:18,00:51:17:15,Not? What happened?
+00:51:19:04,00:51:21:11,Papa! Papa!
+00:51:21:13,00:51:23:10,Papa, Papa!
+00:51:23:17,00:51:25:10,- Papa!|- Oh no ...
+00:51:25:22,00:51:28:02,Not again you ...
+00:51:36:09,00:51:39:09,"Papa is a rolling stone!"
+00:51:40:22,00:51:44:10,"Crushing adventurers who|fall in his home."
+00:51:44:16,00:51:46:20,"And when they die,"
+00:51:46:23,00:51:51:10,"All that's left are broken bones."
+00:51:59:16,00:52:02:18,"It was the third of September."
+00:52:03:25,00:52:07:02,"This day I'll always remember."
+00:52:09:14,00:52:11:15,"'Cause that was the day."
+00:52:12:03,00:52:15:08,"When I realized,"
+00:52:18:01,00:52:21:12,"I'll never have a chance to leave here."
+00:52:22:04,00:52:25:24,"I'm dumb like a rock|still I try to break free."
+00:52:26:13,00:52:29:03,"Children I'm depending on you,"
+00:52:29:08,00:52:31:16,"To help me get out."
+00:52:31:19,00:52:34:14,"But no! Instead they keep singing:"
+00:52:34:22,00:52:37:16,"Papa is a rolling stone!"
+00:52:39:05,00:52:42:20,"Crushing adventurers who|fall in his home."
+00:52:43:02,00:52:45:02,"And when they die,"
+00:52:45:07,00:52:49:06,"All that's left are broken bones."
+00:52:51:12,00:52:54:06,"Papa is a rolling stone!"
+00:52:55:25,00:52:59:11,"Crushing adventurers who|fall in his home."
+00:52:59:16,00:53:01:14,"And when they die,"
+00:53:01:21,00:53:06:00,"All that's left are broken bones."
+00:53:26:01,00:53:26:21,See?
+00:53:27:02,00:53:29:10,This is the only song they know.
+00:53:29:14,00:53:31:08,And they've been|singing it every day ...
+00:53:31:08,00:53:33:02,for thousands of years.
+00:53:33:12,00:53:36:04,Man, I'm so depressed.
+00:53:36:18,00:53:38:10,I'm going to crush you now.
+00:53:38:10,00:53:41:02,No! No, no no no,|wait, wait, wait, wait!
+00:53:41:23,00:53:44:22,You remind me of something|I read in a book!
+00:53:46:24,00:53:51:04,"This is the rock that rolls,|not moving too fast or too slow."
+00:53:51:10,00:53:55:13,"This is the rock that rolls,|as soon as it hits you, you'll know."
+00:53:55:20,00:53:58:06,They wrote a book about me?
+00:53:58:06,00:53:58:22,Yes!
+00:53:58:24,00:54:01:15,It's the journal of the|world renowned ...
+00:54:03:01,00:54:04:18,stonaeologist ...
+00:54:04:20,00:54:06:20,Dr. Christopher Scruffycat.
+00:54:07:01,00:54:09:06,You know what? You're famous!
+00:54:09:07,00:54:11:01,That's where I know you from!
+00:54:11:02,00:54:12:16,Oh, great!
+00:54:12:16,00:54:14:07,So, now I'm famous.
+00:54:14:16,00:54:19:06,But what good is that to me|if I can't even leave this place?
+00:54:19:09,00:54:20:09,Thank you.
+00:54:20:09,00:54:23:16,Now I'm even more depressed|than ever before.
+00:54:25:06,00:54:27:22,But you can leave this place!
+00:54:27:24,00:54:30:18,All you have to do is|slam through the barrier!
+00:54:30:22,00:54:33:21,I already tried and I failed.
+00:54:33:21,00:54:35:10,Hey, let me tell you something.
+00:54:35:19,00:54:38:20,Don't let your failures define|who you are!
+00:54:39:06,00:54:41:17,You're only a failure if you|fail to try!
+00:54:42:00,00:54:44:19,- But I tried!|- Then try again!
+00:54:45:10,00:54:47:06,You're a strong piece of rock ...
+00:54:47:06,00:54:48:22,and you're made to roll!
+00:54:50:04,00:54:51:22,Do you really think so?
+00:54:51:25,00:54:54:09,Sure! I must know, I read the book!
+00:54:54:16,00:54:56:16,You're the mightiest rock in the world!
+00:54:56:22,00:54:59:06,Come on! Tell me you can do it!
+00:55:00:02,00:55:01:12,Can I?
+00:55:01:16,00:55:04:02,Come on, I know you can do it!
+00:55:04:02,00:55:05:13,Give me an "R"!
+00:55:05:16,00:55:06:16,"R"?
+00:55:07:00,00:55:08:15,Give me an "O"!
+00:55:08:17,00:55:10:20,- "O"!|- "Give me a "C"!
+00:55:10:20,00:55:12:20,- "C"!|- Give me a "K"!
+00:55:12:21,00:55:13:21,"K"!
+00:55:13:21,00:55:15:14,Who are you?
+00:55:15:15,00:55:18:02,I am "The Rock"!
+00:55:18:02,00:55:18:24,Yes!
+00:55:19:16,00:55:21:10,And now you're going out there ...
+00:55:21:10,00:55:22:16,and show them!
+00:55:22:16,00:55:24:23,- Yes!|- Nobody can stop you!
+00:55:24:24,00:55:27:01,Go, go go!
+00:55:27:02,00:55:30:02,- Let's roll!|- Yeah!
+00:55:37:22,00:55:40:12,Yes! You made it! You're great!
+00:55:40:12,00:55:42:22,- Fantastic!|- Yeah!
+00:55:44:10,00:55:46:21,The powers of positive thinking.
+00:55:49:00,00:55:50:13,There's some truth in the saying,
+00:55:50:12,00:55:51:18,"Being dumb like a rock".
+00:55:51:24,00:55:53:12,I'm free!
+00:55:53:15,00:55:55:07,It's wonderful!
+00:55:55:10,00:55:58:15,The flowers are blooming and|the birds are singing!
+00:55:58:17,00:56:00:20,And ... and ...
+00:56:00:23,00:56:03:06,Oh, I landed on a slope!
+00:56:04:12,00:56:07:01,Out of the way! I can't stop!
+00:56:07:04,00:56:08:17,It's going down!
+00:56:10:02,00:56:12:14,No, no! Not the tree!
+00:56:12:20,00:56:14:10,Incoming!
+00:56:15:01,00:56:16:07,Sorry!
+00:56:16:11,00:56:18:22,Oh no! Be careful, old lady!
+00:56:18:22,00:56:20:04,Out of the way!
+00:56:23:16,00:56:27:08,Oh no, no!|Not the guy with the fruit stand!
+00:56:28:07,00:56:30:22,Vaffanculo! Puttano! Bastardo!|Pompino! Cabeza de mierda!
+00:56:30:22,00:56:32:08,Melonas! Ananas! Bananas!
+00:56:32:10,00:56:33:18,I'm sorry!
+00:56:40:14,00:56:42:10,So this is the little glowing thing ...
+00:56:42:10,00:56:44:06,the rock was supposed to protect.
+00:56:45:04,00:56:47:04,I wonder what it might be good for.
+00:57:04:01,00:57:06:03,And strange sounds it makes.
+00:57:06:15,00:57:09:03,Better I take it with me.|You never know.
+00:57:10:16,00:57:13:06,Oh look! Look!|She's taking the glowing stone!
+00:57:13:07,00:57:14:12,We must crush her!
+00:57:14:23,00:57:16:03,We must crush her!
+00:57:20:00,00:57:21:08,I'll crush her!
+00:57:45:02,00:57:48:09,One! Two! Three!
+00:57:48:09,00:57:49:24,Pull the cord!
+00:57:50:15,00:57:51:20,Nothing's happening!
+00:57:51:20,00:57:54:02,No, Lionel! Pull it again!
+00:57:54:02,00:57:57:07,It won't open! Help! Help!
+00:58:04:07,00:58:05:20,Lionel?
+00:58:05:23,00:58:07:12,Lionel!
+00:58:07:13,00:58:08:19,Can you hear me?
+00:58:08:20,00:58:09:24,Can you hear me?
+00:58:09:24,00:58:11:09,Oh, wake up, Lionel!
+00:58:11:09,00:58:12:22,You must wake up!
+00:58:12:23,00:58:14:15,Oh, Lionel! Please!
+00:58:15:08,00:58:16:22,You must not die!
+00:58:17:06,00:58:19:19,Not here, not now!
+00:58:20:04,00:58:21:19,Lionel!
+00:58:26:04,00:58:27:12,Hello?
+00:58:29:16,00:58:30:21,Where am I?
+00:58:31:21,00:58:33:06,Is anybody here?
+00:58:34:05,00:58:35:12,Am I dead?
+00:58:46:11,00:58:49:08,Hello Lionel!
+00:58:50:06,00:58:52:12,How do you like it down here?
+00:58:52:17,00:58:54:06,Are you comfortable?
+00:58:54:10,00:58:59:01,Because, now it's time|to think, Lionel.
+00:58:59:17,00:59:01:24,Why did you go to Egypt?
+00:59:02:11,00:59:06:01,Was it because you cared|about your father's wishes?
+00:59:06:12,00:59:08:24,Or was it just because you hoped ...
+00:59:09:02,00:59:11:04,your heritage would|contain more ...
+00:59:11:05,00:59:13:18,than just a dusty book?
+00:59:14:15,00:59:17:00,Were you hoping for money?
+00:59:17:02,00:59:19:16,Gold? Treasures?
+00:59:19:24,00:59:22:01,Would you have traveled|all the way ...
+00:59:22:02,00:59:24:16,if you had known|what your heritage was?
+00:59:25:12,00:59:27:00,Come on!
+00:59:27:03,00:59:30:14,You can admit it, now that it's over.
+00:59:31:04,00:59:34:03,Was it worth having one|of your best friends ...
+00:59:34:04,00:59:38:04,kicked out of an airplane|at five thousand feet?
+00:59:39:12,00:59:41:20,Think, Lionel!
+00:59:42:03,00:59:43:25,Think!
+00:59:44:23,00:59:45:19,But ...
+00:59:46:14,00:59:48:16,But, I was ... I was just ...
+00:59:49:22,00:59:51:08,Well ... uh ...
+00:59:52:00,00:59:54:03,Let me explain, please!
+00:59:55:13,00:59:56:18,Lori!
+00:59:58:00,01:00:00:10,Lori, please! No!
+01:00:02:24,01:00:04:09,Let me explain!
+01:00:05:09,01:00:06:19,Poke?
+01:00:07:02,01:00:10:13,Woo-hoo! Lionel!
+01:00:10:22,01:00:12:08,You da man!
+01:00:12:11,01:00:14:14,This crash through the trees!
+01:00:14:14,01:00:16:02,Mar-ve-lous!
+01:00:16:07,01:00:18:14,Your father would have been|proud of you!
+01:00:18:18,01:00:20:15,If you had survived, that is.
+01:00:20:22,01:00:22:04,Hey, come on!
+01:00:22:09,01:00:25:00,Now that it's over nothing|matters anymore.
+01:00:25:02,01:00:26:13,Let's get drunk!
+01:00:26:20,01:00:28:16,I'd like to bring out a toast ...
+01:00:28:16,01:00:32:04,to the marvelous|Lionel Scruffycat.
+01:00:32:07,01:00:35:11,Getting himself killed while|foolishly attempting to make up ...
+01:00:35:11,01:00:38:22,for the failures of a lifetime|in less than a week!
+01:00:38:22,01:00:40:01,Cheers!
+01:00:40:15,01:00:43:12,Poke, Poke! No! It's not true!
+01:00:43:20,01:00:44:20,No ...
+01:00:44:25,01:00:47:18,At least ... It's only partly true.
+01:00:48:04,01:00:49:14,Poke ...
+01:00:50:10,01:00:52:22,Why does nobody listen to me?
+01:00:56:03,01:00:57:04,Dad?
+01:00:57:11,01:00:59:24,Is that you? You're alive?
+01:01:00:18,01:01:03:14,You didn't care for the last|ten years ...
+01:01:03:15,01:01:05:18,so why would you care now?
+01:01:05:24,01:01:07:08,No ... I ...
+01:01:07:10,01:01:09:12,Please ... Listen to me!
+01:01:09:15,01:01:11:08,We don't have much time.
+01:01:11:13,01:01:13:23,You are my son. And for me ...
+01:01:13:24,01:01:15:07,you have always been the most ...
+01:01:15:07,01:01:16:19,precious thing in the world.
+01:01:16:24,01:01:19:24,Leaving you alone like this|was the hardest decision ...
+01:01:20:02,01:01:21:14,I ever had to make.
+01:01:21:15,01:01:23:09,But things were at stake ...
+01:01:23:09,01:01:24:19,that were so important ...
+01:01:24:24,01:01:27:22,not just for you, but for the|entire world ...
+01:01:27:24,01:01:29:22,that I had no other choice!
+01:01:30:04,01:01:32:08,Please, you must trust me!
+01:01:32:10,01:01:34:09,It saddens me to see that you have ...
+01:01:34:10,01:01:35:16,stopped believing in me.
+01:01:35:21,01:01:37:04,But it's not too late!
+01:01:37:10,01:01:39:10,You must fulfill my legacy ...
+01:01:39:10,01:01:41:22,or otherwise the world|may be changed forever!
+01:01:42:01,01:01:44:10,Trust me, Lionel, because ...
+01:01:44:11,01:01:45:16,I am your father.
+01:01:45:22,01:01:47:15,I'm proud of you, Lionel.
+01:01:47:17,01:01:49:05,I always was.
+01:01:49:16,01:01:50:24,I love you.
+01:01:52:08,01:01:54:19,No, Dad Come back!
+01:01:54:22,01:01:56:01,Don't leave me!
+01:01:56:12,01:01:57:24,Don't leave me again ...
+01:01:58:09,01:02:01:04,There's so much I need to tell you|which I never did ...
+01:02:01:04,01:02:02:10,even if I should have.
+01:02:02:16,01:02:04:24,Dad ... please ...
+01:02:11:19,01:02:13:20,Oh, Lionel!
+01:02:13:21,01:02:17:10,Now you see where you got|yourself with logic!
+01:02:17:19,01:02:20:20,If only once you had|followed your heart.
+01:02:21:06,01:02:23:07,Now you put not only yourself ...
+01:02:23:11,01:02:25:22,but all of your friends in danger!
+01:02:26:03,01:02:27:12,And why?
+01:02:27:20,01:02:29:19,Because, you're a coward!
+01:02:30:06,01:02:33:08,The only reason why you never|talked to your father was ...
+01:02:33:11,01:02:36:19,because you were afraid to|confront yourself with him!
+01:02:37:05,01:02:38:24,What are you?
+01:02:39:02,01:02:41:04,A big, strong lion?
+01:02:41:12,01:02:43:09,I will tell you what you are.
+01:02:43:12,01:02:44:20,You're a sheep!
+01:02:44:23,01:02:46:20,Baaaah! Lionel!
+01:02:46:21,01:02:48:19,I bet when you were at school ...
+01:02:48:21,01:02:51:04,you were beaten up by the girls!
+01:02:55:23,01:02:56:20,Ouch!
+01:02:57:00,01:02:58:08,That hurt!
+01:02:58:11,01:03:00:05,Oh now, come on!
+01:03:00:07,01:03:02:07,Do you dare hitting me back?
+01:03:02:08,01:03:05:02,Oh, come on!|You don't dare hitting me?
+01:03:05:07,01:03:08:24,Lionel is a coward!|Lionel is a coward!
+01:03:09:01,01:03:10:06,Baaaah!
+01:03:11:21,01:03:14:05,Mika, no! Stop hitting me, please!
+01:03:15:02,01:03:18:06,You're just getting what|you deserve, Lionel!
+01:03:18:12,01:03:21:02,Sometimes the truth does hurt!
+01:03:21:04,01:03:23:05,Oh, come on! Fight!
+01:03:23:07,01:03:24:09,Fight!
+01:03:24:10,01:03:25:13,You coward!
+01:03:25:14,01:03:27:14,Finally learn how to fight!
+01:03:27:22,01:03:30:16,Nobody messes with Mika!
+01:03:30:24,01:03:33:08,No, no, no! I don't want to!
+01:03:33:08,01:03:36:22,No, please! No! Ouch!
+01:03:37:00,01:03:39:08,No, no! Don't hit me, please!
+01:03:42:15,01:03:43:16,Lionel!
+01:03:43:24,01:03:45:06,Lionel!
+01:03:45:10,01:03:46:21,Wake up!
+01:03:46:24,01:03:48:24,Please! Oh, come on, Lionel!
+01:03:49:01,01:03:50:14,You must not die!
+01:03:50:16,01:03:52:06,Lionel!
+01:03:53:16,01:03:55:08,We've come this far!
+01:03:55:13,01:03:57:04,You can't leave me now!
+01:03:57:07,01:03:58:24,Don't leave me!
+01:04:01:01,01:04:02:10,Oh no ...
+01:04:02:20,01:04:04:13,This can't be true!
+01:04:04:20,01:04:06:04,Oh, Lionel!
+01:04:06:11,01:04:08:11,I can't live without you!
+01:04:08:20,01:04:11:11,And there's so much I wanted|to tell you, but ...
+01:04:11:18,01:04:13:00,but I never dared.
+01:04:13:08,01:04:15:01,Oh, please!
+01:04:16:23,01:04:18:17,I never had the chance to say ...
+01:04:18:17,01:04:20:04,how much I love you!
+01:04:21:14,01:04:23:10,What am I going to do now?
+01:04:23:20,01:04:25:20,Oh, this is so terrible!
+01:04:29:06,01:04:30:18,- Ow!|- Lionel!
+01:04:30:24,01:04:32:18,Lionel! You're alive!
+01:04:32:22,01:04:34:00,Lionel!
+01:04:34:06,01:04:37:02,No! don't hit me please!|Don't hit me!
+01:04:38:01,01:04:39:11,Are you alright?
+01:04:39:23,01:04:42:03,I thought I had lost you forever.
+01:04:44:06,01:04:46:13,My head hurts like hell ...
+01:04:46:13,01:04:49:06,and I'm feeling kinda dizzy.
+01:04:52:15,01:04:55:06,Oh, I'm so glad you're alive!
+01:04:56:24,01:04:58:07,So am I.
+01:04:59:09,01:05:00:14,What happened?
+01:05:00:22,01:05:02:12,Your parachute didn't open.
+01:05:02:18,01:05:04:13,But the tree stopped your fall.
+01:05:10:14,01:05:12:10,I must have been really lucky.
+01:05:12:10,01:05:14:04,No broken bones, I think.
+01:05:16:09,01:05:17:20,Oh, Mika ...
+01:05:17:24,01:05:21:13,Mika, I'm feeling so miserable about|how I treated my father.
+01:05:21:16,01:05:23:08,Oh, come on, Lionel.
+01:05:23:09,01:05:25:05,Don't be so hard on yourself.
+01:05:25:08,01:05:28:10,You are paying your filnal respect|to him after all.
+01:05:28:16,01:05:30:16,And even risked your life for it.
+01:05:30:25,01:05:32:25,What more could a father ask for?
+01:05:33:08,01:05:35:20,No Mika, you don't understand.
+01:05:36:03,01:05:37:19,My father is dead ...
+01:05:38:04,01:05:39:20,Nothing I do today can make up ...
+01:05:39:20,01:05:41:02,for the things I didn't do ...
+01:05:41:02,01:05:42:13,for the last ten years.
+01:05:43:05,01:05:44:20,Don't you realize, Mika?
+01:05:44:22,01:05:49:02,I was the one only thinking|about himself all the time!
+01:05:49:15,01:05:51:02,Even coming here was just ...
+01:05:51:02,01:05:52:24,because of my curiosity.
+01:05:53:09,01:05:56:10,And I even put me and my|best friends in danger!
+01:05:56:13,01:05:57:19,Look at me!
+01:05:57:21,01:06:00:00,The same could have happened to you!
+01:06:00:00,01:06:01:00,Or Poke!
+01:06:01:02,01:06:03:08,Or has possibly happened to Lori!
+01:06:03:14,01:06:06:09,I don't even see them around here!
+01:06:06:11,01:06:08:15,Where are they?|They could be dead ...
+01:06:08:15,01:06:10:25,and it's all my fault!
+01:06:11:00,01:06:14:06,Hush ... hush, Lionel. Shhh ...
+01:06:16:12,01:06:19:13,Hush ... Calm down. It's alright.
+01:06:19:20,01:06:21:13,Don't be so hard on yourself.
+01:06:21:23,01:06:23:06,We're your friends!
+01:06:23:08,01:06:26:02,You didn't force us to come with you,|remember?
+01:06:26:22,01:06:29:05,Yes ... you're right.
+01:06:29:06,01:06:31:07,There, there ...
+01:06:32:01,01:06:34:19,You're alive, and I am alive, too.
+01:06:34:22,01:06:38:02,And I am sure the others|are doing fine as well.
+01:06:38:04,01:06:40:06,Aww ... Come on, don't cry.
+01:06:40:12,01:06:42:02,It's alright.
+01:06:42:10,01:06:43:21,Oh, Mika ...
+01:06:43:21,01:06:46:01,Mika, I'm so glad that you're here.
+01:06:46:08,01:06:48:02,And I am glad that you're here.
+01:06:49:15,01:06:50:21,Mika ...
+01:06:51:05,01:06:52:10,What shall I do?
+01:06:53:04,01:06:54:13,What shall we do?
+01:06:54:21,01:06:57:14,We've crashed into the middle|of the jungle and ...
+01:06:57:19,01:06:59:16,Now I'm all confused.
+01:07:00:19,01:07:04:05,Until now, I always thought I knew|what I should do ...
+01:07:04:09,01:07:06:14,but this time I don't have|any clue at all ...
+01:07:07:08,01:07:08:22,I'm so clueless!
+01:07:10:07,01:07:13:05,What - should - I - do?
+01:07:13:17,01:07:16:22,Stop hitting my trunk|with your head for a start.
+01:07:21:07,01:07:22:14,Who's talking?
+01:07:22:20,01:07:25:06,The one who saved your life!
+01:07:26:23,01:07:29:10,A talking tree?
+01:07:29:16,01:07:32:18,Excellent observation, Mr. Holmes.
+01:07:33:07,01:07:37:00,And don't even think of thanking me|for saving your life ...
+01:07:37:04,01:07:39:24,by sacrificing at least two branches ...
+01:07:40:02,01:07:42:20,a dozen twigs and countless leaves.
+01:07:43:04,01:07:45:21,This will take years to grow back.
+01:07:46:01,01:07:48:03,A talking tree!
+01:07:48:04,01:07:49:06,Lionel!
+01:07:49:07,01:07:50:23,Remember the line from the book?
+01:07:51:06,01:07:54:22,"The trees speak to me|so I listen to them carefully."
+01:07:57:24,01:07:59:18,Then we must be on the right track!
+01:08:00:07,01:08:02:12,Hey, hey tree! Do you have a name?
+01:08:02:24,01:08:04:15,And thanks for saving my life!
+01:08:05:06,01:08:07:15,You can call me "Mr. Tree".
+01:08:10:02,01:08:11:10,And you're welcome.
+01:08:12:06,01:08:14:23,Alright then - uh - Mr. Tree.
+01:08:15:02,01:08:17:12,It seems that we need|your help one more time.
+01:08:17:21,01:08:19:08,We are looking for something ...
+01:08:19:09,01:08:21:14,but we don't know exactly what it is.
+01:08:21:18,01:08:23:20,It might be a map, a hint,
+01:08:23:20,01:08:25:22,an artifact or something else.
+01:08:26:03,01:08:27:22,It was mentoioned in a  book ...
+01:08:27:22,01:08:30:02,referring to a talking tree, like you.
+01:08:30:14,01:08:32:22,Do you know anything that|might be of help?
+01:08:33:00,01:08:36:02,Oh, yes. How do you know?
+01:08:36:09,01:08:40:11,In fact, I am the guardian of a|very mighty artifact.
+01:08:40:20,01:08:44:06,It was given to me more than|a thousand years ago.
+01:08:44:14,01:08:45:24,What is it?
+01:08:46:12,01:08:48:01,I can't tell you ...
+01:08:48:04,01:08:50:02,unless you can prove ...
+01:08:50:02,01:08:52:22,that you're the ones destined|to receive it.
+01:08:52:24,01:08:55:09,And how are we supposed to do that?
+01:08:55:19,01:08:57:22,Well, if you are the ones ...
+01:08:57:24,01:09:00:02,you are supposed to know.
+01:09:00:10,01:09:01:09,Shit!
+01:09:01:17,01:09:03:10,That means we're stuck.
+01:09:04:10,01:09:06:11,Lionel, do you still have the diary?
+01:09:08:24,01:09:10:12,No, I must have lost it ...
+01:09:10:12,01:09:12:10,crashing into our friend, Mr. Tree.
+01:09:14:04,01:09:16:21,Hey! I can't concentrate like this!
+01:09:16:23,01:09:19:08,Will you the heck stop sawing!
+01:09:19:09,01:09:22:08,We're trying to hold a|conversation here!
+01:09:30:01,01:09:31:20,Hey you, are you crazy?
+01:09:31:21,01:09:33:07,What are you doing here?
+01:09:33:08,01:09:35:18,I just wanted to ask you the same thing.
+01:09:35:19,01:09:37:23,Can't you see?|I'm clearing the rain forest.
+01:09:38:08,01:09:39:18,Clearing the ...
+01:09:39:18,01:09:41:06,Chopping down trees, cutting wood,
+01:09:41:06,01:09:42:22,trimming the vegetation, you know?
+01:09:43:15,01:09:46:04,And that one is next. Number "696".
+01:09:46:04,01:09:48:22,Come on, people, get out of the way.|This is dangerous.
+01:09:53:02,01:09:57:09,No, you can't do this! Stop! Please!
+01:09:57:19,01:09:59:16,Put that thing down!
+01:10:01:08,01:10:02:24,Alright, who sent you here?
+01:10:02:24,01:10:05:04,Greenpeace? Robin Wood?|World Wildlife Fund?
+01:10:05:04,01:10:07:00,United Tree-Huggers of|Oklahoma City?
+01:10:07:01,01:10:08:21,The Concerned Parents|of Minnessota?
+01:10:08:22,01:10:10:24,Huh? What are you talking about?
+01:10:10:25,01:10:14:03,We're from the "Museum of|Forgotten Arts" in Cairo.
+01:10:15:05,01:10:18:21,Can't you just cut down a different|tree than this one?
+01:10:18:24,01:10:20:21,Well, there are lots of trees in|the rain forest ...
+01:10:20:21,01:10:22:16,Big ones, small ones,|old ones, young ones,
+01:10:22:16,01:10:24:21,some have more leaves,|some have less leaves, so ...
+01:10:24:22,01:10:28:10,For the highest wood quality we have|to be a tad more specific, you know.
+01:10:31:10,01:10:32:15,Ouch.
+01:10:33:06,01:10:36:10,But you can't do that! He's our friend.
+01:10:37:08,01:10:39:02,He saved my life!
+01:10:39:04,01:10:41:12,Uh ... what the ...
+01:10:41:14,01:10:43:21,Well, I've heard enough. Out of my way!
+01:10:45:14,01:10:46:21,No!
+01:10:48:14,01:10:49:11,No!
+01:10:49:22,01:10:52:12,No! You're not getting near this tree!
+01:10:53:22,01:10:56:10,Mika, I've learned something.
+01:10:56:10,01:10:59:07,There are times where logic|will not get you anywhere.
+01:10:59:09,01:11:03:04,We can give this guy here as many|explanations as we want ...
+01:11:03:04,01:11:05:02,he is not going to understand.
+01:11:06:06,01:11:07:24,Now listen, Panda!
+01:11:08:01,01:11:09:14,You can't chop down this tree ...
+01:11:09:14,01:11:12:01,because I have to fulfill|my father's legacy.
+01:11:12:03,01:11:15:12,I have denied my father long enough,|but I tell you ...
+01:11:15:12,01:11:17:13,I, Lionel C. Scruffycat,
+01:11:17:13,01:11:20:02,am proud to be the son of|Christopher Scruffycat.
+01:11:20:04,01:11:21:18,May he rest in peace!
+01:11:21:19,01:11:24:06,And I am defending this tree ...
+01:11:24:09,01:11:25:20,in the name of my father.
+01:11:25:20,01:11:27:22,And if you want to take it down ...
+01:11:27:22,01:11:30:11,you will have to take me down first.
+01:11:30:12,01:11:33:06,What? You're the son of|Christopher Scruffycat?
+01:11:33:07,01:11:36:00,The Christpoher Scruffycat?|The singer?
+01:11:36:04,01:11:37:08,You knew him?
+01:11:37:09,01:11:38:19,Well, not in person, but ...
+01:11:38:19,01:11:40:17,when I was young, I was a huge fan.
+01:11:40:21,01:11:43:21,I still own all his CDs.|He's a childhood memory.
+01:11:43:23,01:11:46:12,I always wondered what happened|to him, after he quit.
+01:11:46:13,01:11:49:00,Ah, okay ... Okay then ...
+01:11:49:01,01:11:52:09,Listen ... my father passed away|four days ago ...
+01:11:52:10,01:11:54:12,and I'm here to fulfill his last wish.
+01:11:54:20,01:11:57:09,I can't explain it to you, but ...
+01:11:57:12,01:11:59:17,This tree here is part of it.
+01:11:59:19,01:12:01:00,I can't let you kill it.
+01:12:01:09,01:12:02:08,Wow!
+01:12:02:08,01:12:05:08,You're going through all that trouble|just for your father's last will.
+01:12:05:08,01:12:06:18,Pretty impressive.
+01:12:07:00,01:12:10:04,You must have hell of a respect|for your father.
+01:12:12:12,01:12:13:18,Ouch.
+01:12:14:05,01:12:16:15,Well ... I do what I can.
+01:12:16:21,01:12:19:01,You know, I'd really love|to spare this tree but ...
+01:12:19:01,01:12:21:08,I have to follow my orders,|or I lose my job.
+01:12:21:10,01:12:24:23,Mh ... wait ... what number did this|tree have again?
+01:12:25:00,01:12:26:18,"696"?
+01:12:30:02,01:12:31:21,Let's have a look.
+01:12:41:14,01:12:44:11,Ok, look! This must be a mix-up!
+01:12:44:14,01:12:46:17,This tree has the number "969".
+01:12:46:18,01:12:48:10,And "969" is not on my list.
+01:12:48:11,01:12:51:02,Silly me! I nearly cut down|the wrong tree!
+01:12:51:10,01:12:53:14,Uh ... you mean ...
+01:12:53:16,01:12:56:09,Oh, I see! Thank you!
+01:12:57:02,01:12:58:10,Sorry for the misunderstanding.
+01:12:58:10,01:12:59:15,Have a nice day!
+01:13:12:24,01:13:14:22,Phew!
+01:13:15:07,01:13:17:10,That was close!
+01:13:17:17,01:13:19:08,Yes, it was!
+01:13:19:23,01:13:24:16,Okay, this time you saved my life.
+01:13:25:00,01:13:26:08,Thank you!
+01:13:26:18,01:13:28:19,Now I really owe you one.
+01:13:29:00,01:13:31:02,What can I do for you?
+01:13:31:04,01:13:35:07,Well, you said, you were guarding|a certain artifact ...
+01:13:35:16,01:13:37:03,Alright!
+01:13:37:05,01:13:38:15,You shall have it!
+01:13:38:18,01:13:40:19,Nobody wanted it for ages ...
+01:13:40:19,01:13:43:06,So why shouldn't I give it to you.
+01:14:00:06,01:14:02:10,What on earth is that?
+01:14:03:16,01:14:05:20,It's a secret artifact.
+01:14:06:24,01:14:08:10,The thing about secrets is ...
+01:14:08:10,01:14:10:18,that nobody's supposed|to know about them.
+01:14:12:21,01:14:16:13,It was handed to me by some|sort of high priest ...
+01:14:16:18,01:14:19:07,And he simply didn't tell me|what it is.
+01:14:19:09,01:14:21:04,So I can't tell you.
+01:14:21:05,01:14:22:14,I'm sorry.
+01:14:22:20,01:14:24:20,We will find out eventually.
+01:14:24:24,01:14:28:02,But, first we'll have to find|the rest of our party.
+01:14:28:10,01:14:30:06,I bid you farewell, then!
+01:14:30:10,01:14:33:00,And thank you again for|saving my life.
+01:14:33:06,01:14:35:06,I consider you good friends.
+01:14:35:16,01:14:38:11,I hope you will return some day.
+01:14:38:16,01:14:40:02,Goodbye, Mr. Tree!
+01:14:40:04,01:14:41:09,Goodbye!
+01:14:41:15,01:14:43:12,Come on, Mika. Let's go.
+01:14:57:14,01:14:59:21,United Pawcel Service!
+01:15:00:02,01:15:05:07,Package for "Tree, Mr. 696"?
+01:15:10:11,01:15:12:05,Hey, hey!
+01:15:12:05,01:15:14:00,That's for me!
+01:15:14:07,01:15:16:13,Uh, wait! Uh ...
+01:15:31:16,01:15:34:02,- Lori?|- Lori?
+01:15:34:14,01:15:36:16,Lori!
+01:15:37:06,01:15:38:15,Lori!
+01:15:39:03,01:15:42:09,- Lori! Where are you?|- Lori?
+01:15:46:15,01:15:48:09,Lori!
+01:15:49:02,01:15:51:04,- Lori?|- Lori!
+01:15:52:02,01:15:53:01,Lori!
+01:15:54:24,01:15:57:21,Lionel? Mika!
+01:15:58:11,01:16:01:03,Lionel! Where are you?
+01:16:01:06,01:16:03:24,Lionel? Mika!
+01:16:05:04,01:16:06:05,Lori?
+01:16:07:08,01:16:08:17,Lori?
+01:16:11:09,01:16:12:16,Aaah! Lionel!
+01:16:12:16,01:16:15:13,Woman! Woman! Woman! Woman!
+01:16:15:14,01:16:16:13,Mika?
+01:16:16:14,01:16:18:06,Mika!
+01:16:21:10,01:16:22:19,Lionel?
+01:16:23:24,01:16:24:24,Mika!
+01:16:25:04,01:16:26:20,Lionel!
+01:16:27:24,01:16:28:24,Lori?
+01:16:28:24,01:16:30:19,- Lionel?|- Lori!
+01:16:30:20,01:16:32:12,- Lionel!|- Lori!
+01:16:32:12,01:16:34:18,- Lionel!|- Lori!
+01:16:35:24,01:16:36:20,Lionel?
+01:16:36:22,01:16:38:25,- Mika?|- Lionel!
+01:16:39:16,01:16:40:18,Mika!
+01:16:40:19,01:16:42:17,- Lori!|- Mika!
+01:16:46:20,01:16:48:15,Poke?
+01:16:51:18,01:16:55:05,I'm iup here! Here! In the tree!
+01:17:00:00,01:17:01:02,Poke!
+01:17:01:08,01:17:03:04,What are you doing up there?
+01:17:03:10,01:17:05:23,Wow! Outdoor tree bondage!
+01:17:14:23,01:17:16:06,Kinky!
+01:17:17:18,01:17:20:03,What the fuck do you think I'm doing?
+01:17:20:04,01:17:21:20,I've been fucking hanging in this ...
+01:17:21:20,01:17:23:24,fucking tree for three fucking hours!
+01:17:24:02,01:17:25:20,And it's fucking beginning to get ...
+01:17:25:20,01:17:27:05,on my fucking nerves!
+01:17:29:11,01:17:32:18,I can see you balls!
+01:17:38:01,01:17:39:07,Fuck!
+01:17:39:08,01:17:41:18,Will you fucking morons get me the|fuck out of this fucking tree ...
+01:17:41:18,01:17:43:19,so I can cone down and kick|your fucking asses?
+01:17:46:08,01:17:47:21,I'd sure like to!
+01:17:47:21,01:17:49:25,But how are we supposed|to do that, huh?
+01:17:50:00,01:17:52:15,I don't care, just get me down!
+01:17:55:08,01:17:57:24,Alright .. alright.|We've got to make a plan.
+01:17:57:24,01:17:59:10,How do we get him down?
+01:17:59:19,01:18:02:01,Preferably without getting|our asses kicked ...
+01:18:02:01,01:18:03:10,got that, Poke?
+01:18:05:00,01:18:07:02,Can't we just leave him up there?
+01:18:09:02,01:18:11:01,My day has been bad enough already.
+01:18:11:04,01:18:12:10,No,
+01:18:13:02,01:18:14:04,Okay ...
+01:18:14:16,01:18:17:24,How about ... throwing coconuts at him|until he falls down?
+01:18:19:11,01:18:20:16,No way!
+01:18:21:14,01:18:25:00,Okay, then ... We could rig this|tree with dynamite and ...
+01:18:25:00,01:18:26:04,Boom!
+01:18:26:05,01:18:27:18,Instant untangling!
+01:18:27:18,01:18:29:01,- No!|- No!
+01:18:30:03,01:18:31:02,Oh well ...
+01:18:31:02,01:18:32:18,If you don't like my suggestions ...
+01:18:32:18,01:18:34:05,I can just as well shut up.
+01:18:34:06,01:18:36:07,Who is going to listen to me anyway?
+01:18:46:23,01:18:49:04,Lori, don't start it again!
+01:18:49:04,01:18:51:05,I'm completely finished with my nerves,
+01:18:51:05,01:18:53:24,and this is the last thing I need now.
+01:18:54:08,01:18:55:22,- We really should-|- Shh!
+01:18:56:14,01:18:58:01,Did you hear something?
+01:18:58:11,01:19:00:04,I think, someone's coming!
+01:19:02:01,01:19:04:03,Aah, that was a good one!
+01:19:09:19,01:19:12:08,Okay, it was just Poke.
+01:19:12:08,01:19:13:20,Where were we?
+01:19:13:22,01:19:16:13,Well, this completely threw me off.
+01:19:16:16,01:19:18:10,I think, I was about to say-
+01:19:18:10,01:19:19:07,Freeze!
+01:19:19:10,01:19:21:06,This is the THX!
+01:19:29:07,01:19:32:13,Ah, look who we have here!
+01:19:32:18,01:19:35:04,You are under arrest!
+01:19:35:06,01:19:37:15,Don't even think of moving ...
+01:19:37:18,01:19:39:10,or else ...
+01:19:40:19,01:19:45:00,This is really annoying,|Mr. Lionel Scruffycat.
+01:19:45:16,01:19:49:18,No matter what we try, you just|refuse to die.
+01:19:50:00,01:19:52:13,I have no idea how you made it.
+01:19:52:16,01:19:56:01,Your parachute was never|supposed to open.
+01:19:56:06,01:19:59:20,Well, indeed. It didn't.
+01:20:00:04,01:20:02:21,You seem to be a really tough guy.
+01:20:03:01,01:20:06:04,But that will be no longer|of help to you.
+01:20:06:06,01:20:08:16,Because now you're coming with us!
+01:20:08:22,01:20:12:00,Oh you! You tried to kill Lionel?
+01:20:12:02,01:20:13:14,You bastards!
+01:20:13:23,01:20:16:14,Come here!|I'll slit your chests open ...
+01:20:16:14,01:20:17:21,and drink your blood ...
+01:20:17:21,01:20:19:10,while your hearts are still beating!
+01:20:19:10,01:20:22:03,I'll kill you! I will kill you!
+01:20:28:06,01:20:32:03,Ah, felines are so easy to overcome.
+01:20:32:14,01:20:35:12,Just grab them by the|scruff of their neck ...
+01:20:35:14,01:20:39:03,and their carrying reflexes|will kick in.
+01:20:40:10,01:20:42:22,Now, isn't she cute?
+01:20:42:22,01:20:44:15,Kitty! Kitty! Kitty!
+01:20:45:09,01:20:48:08,How on earth did you|manage to follow us ...
+01:20:48:08,01:20:51:06,without a copy of the diary?
+01:20:51:08,01:20:53:13,Well, that's easy.
+01:20:53:14,01:20:57:18,It's true, you did have the only|copy of that book, but ...
+01:20:57:18,01:21:00:13,here is a little hint for your|next adventure.
+01:21:00:16,01:21:03:02,If you browse through|secret documents ...
+01:21:03:03,01:21:04:22,You should rather not do that ...
+01:21:04:22,01:21:07:03,directly underneath a surveillance cam.
+01:21:07:14,01:21:08:22,D'oh!
+01:21:10:19,01:21:12:13,Okay, enough talking!
+01:21:12:13,01:21:15:17,Ladies and Gentlemen,|your vacation ends here.
+01:21:15:22,01:21:18:18,I don't know what the|producer has in mind for you ...
+01:21:18:18,01:21:20:22,but it sure won't be pretty.
+01:21:21:05,01:21:22:10,Now go.
+01:21:22:20,01:21:24:16,I said, "Go"!
+01:21:25:19,01:21:28:24,You can't do that! I'm American!
+01:21:29:02,01:21:30:10,Shut up!
+01:21:30:23,01:21:32:03,Go!
+01:21:45:14,01:22:12:24,The journey continues|on disk 2.

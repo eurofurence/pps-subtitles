@@ -1,0 +1,1476 @@
+//Font select and font size
+$FontName       = Arial
+$FontSize       = 30
+
+//Character attributes (global)
+$Bold           = FALSE
+$UnderLined     = FALSE
+$Italic         = FALSE
+
+//Position Control
+$HorzAlign      = Center
+$VertAlign      = Bottom
+$XOffset        = 0
+$YOffset        = 0
+
+//Contrast Control
+$TextContrast           = 15
+$Outline1Contrast       = 8
+$Outline2Contrast       = 15
+$BackgroundContrast     = 0
+
+//Effects Control
+$ForceDisplay   = FALSE
+$FadeIn         = 0
+$FadeOut        = 0
+
+//Other Controls
+$TapeOffset          = FALSE
+//$SetFilePathToken  = <<:>>
+
+//Colors
+$ColorIndex1    = 0
+$ColorIndex2    = 1
+$ColorIndex3    = 2
+$ColorIndex4    = 3
+
+//Subtitles
+00:00:19:20,00:00:21:11,Einsam.
+00:00:24:12,00:00:26:14,Ich fühle mich so einsam.
+00:00:28:02,00:00:32:09,Tage, Jahre, Jahrhunderte.
+00:00:33:10,00:00:35:24,Ich warte schon so lange ...
+00:00:36:01,00:00:38:13,daß Zeit keine Bedeutung|mehr für mich hat.
+00:00:39:16,00:00:41:18,Das einzige, was mein Herz|noch erwärmt ...
+00:00:42:00,00:00:45:20,sind Erinnerungen an|längst vergangene Zeiten.
+00:00:45:24,00:00:49:18,Damals, als ich der Welt noch|Spaß und Freude brachte.
+00:00:50:09,00:00:52:16,Warum rufen sie mich nicht mehr?
+00:00:53:06,00:00:54:22,Brauchen sie mich nicht mehr?
+00:00:55:15,00:00:57:14,Wollen sie mich nicht mehr?
+00:00:58:16,00:01:02:03,Die Welt muß ein kalter, übler|Ort geworden sein.
+00:01:02:21,00:01:05:04,Welch neues Zeitalter ist angebrochen,
+00:01:05:12,00:01:08:01,jetzt, da das Zeitalter der|Musik zu Ende gegangen scheint?
+00:01:08:22,00:01:10:20,Ist dies mein Ende?
+00:01:11:18,00:01:12:15,Einsam.
+00:01:13:07,00:01:15:18,Ich fühle mich so einsam.
+00:01:16:10,00:01:18:24,Ich will singen!|Ich will tanzen!
+00:01:19:12,00:01:23:08,Ich will ... nein!|Ich muß frei sein!
+00:01:23:08,00:01:24:20,Oh, Sterbliche!
+00:01:25:05,00:01:28:09,Öffnet das Tor und laßt mich frei!
+00:01:28:15,00:01:29:21,Bitte!
+00:01:29:24,00:01:31:23,Vergeßt mich nicht!
+00:01:46:03,00:01:49:00,Sind alle bereit?|Hat jeder was zu trinken?
+00:01:49:02,00:01:50:18,- Ja!|- Klar!
+00:01:51:02,00:01:53:21,Macht das Licht aus!|Macht das Licht aus!
+00:01:54:20,00:01:57:24,- Warte! Hast du die CD eingelegt?|- Schon längst!
+00:02:01:08,00:02:02:15,Schnell, schnell!
+00:02:02:25,00:02:05:22,Er kann jeden Augenblick kommen!
+00:02:06:03,00:02:07:24,Wo ist das Mountain Dew?
+00:02:08:09,00:02:10:06,Im Kühlschrank!
+00:02:13:08,00:02:15:07,Psst! Psst! Ich glaube er kommt!
+00:02:15:12,00:02:18:12,- Wie alt wird er eigentlich?|- Psst! Sei still!
+00:02:21:18,00:02:24:04,Hallo? Hallo?
+00:02:24:15,00:02:25:24,Ist jemand zu Hause?
+00:02:26:06,00:02:27:16,Warum ist das Licht aus?
+00:02:30:16,00:02:34:10,Aua! Was zum ...?|Warum liegt hier ... Ah!
+00:02:34:22,00:02:36:10,Was war das?
+00:02:37:10,00:02:40:17,Zum Geburtstag viel Glück!
+00:02:40:20,00:02:43:14,Zum Geburtstag viel Glück!
+00:02:43:18,00:02:46:24,Zum Geburtstag alles Gute!
+00:02:47:01,00:02:50:10,Zum Geburtstag viel Glück!
+00:02:50:20,00:02:52:18,Alles Gute zum Geburtstag, Lionel!
+00:02:53:06,00:02:54:07,Meine Güte!
+00:02:56:00,00:03:00:14,Toll! Eine Überraschungsparty!|Für mich?
+00:03:00:24,00:03:02:14,Och, das wäre doch wirklich|nicht nötig gewesen!
+00:03:02:20,00:03:05:06,Ich weiß nicht, was ich sagen|soll, ich ...
+00:03:05:12,00:03:06:16,Herzlichen Glückwunsch, Lionel!
+00:03:06:16,00:03:07:14,Danke!
+00:03:07:14,00:03:09:09,Ja, herzlichen Glückwunsch!
+00:03:09:14,00:03:10:06,Danke!
+00:03:11:06,00:03:12:09,Vielen Dank!
+00:03:13:00,00:03:14:02,Wer hat das alles organisiert?
+00:03:14:13,00:03:15:17,Oh, es war Loris Idee.
+00:03:17:06,00:03:18:18,Ich hoffe, es gefällt dir.
+00:03:18:23,00:03:20:20,Ja, Lori, es ist wundervoll!
+00:03:21:06,00:03:22:04,Aber wo ist Poke?
+00:03:22:19,00:03:24:16,Hat er schon wieder meinen|Geburtstag vergessen?
+00:03:25:21,00:03:29:04,Ach, hier steigt eine Party.|Natürlich wird er kommen!
+00:03:29:16,00:03:31:22,Allerdings sagte er, er wird|ein wenig später eintreffen.
+00:03:32:08,00:03:33:12,Ah, in Ordnung.
+00:03:33:22,00:03:36:14,Also dann! Laßt uns Spaß haben!
+00:03:36:20,00:03:39:14,Ja!
+00:03:55:06,00:03:58:14,He, macht mal bitte die Musik leiser!|Da ruft mich gerade jemand an!
+00:04:01:10,00:04:03:21,Äh, Leute? Bitte, es könnte|wichtig sein!
+00:04:06:17,00:04:07:22,Hallo?
+00:04:08:19,00:04:09:16,Ja?
+00:04:10:12,00:04:11:16,Ja, das bin ich.
+00:04:15:10,00:04:16:13,Was?
+00:04:17:03,00:04:19:12,Sind Sie ... Ich ...
+00:04:19:21,00:04:21:05,Oh, Scheiße!
+00:04:21:15,00:04:23:03,Ja, ja, ich verstehe.
+00:04:23:21,00:04:24:13,Wo?
+00:04:25:18,00:04:27:10,Was für ein Museum?
+00:04:28:14,00:04:30:16,Es tut mir leid, ich bin immer noch-
+00:04:31:08,00:04:32:14,Kann ich Sie zurückrufen?
+00:04:32:22,00:04:33:18,Danke.
+00:04:34:00,00:04:36:09,Ja, ich kümmere mich darum.|Auf Wiederhören.
+00:04:40:07,00:04:42:20,Lionel ... was ist mit dir?
+00:04:43:09,00:04:45:21,Ja, hörst dich so an,
+00:04:45:22,00:04:47:17,als wäre etwas passiert.
+00:04:48:05,00:04:51:10,Ja, Lori. In der Tat.
+00:04:51:19,00:04:53:23,Man hat mir gerade mitgeteilt,
+00:04:54:00,00:04:56:04,daß mein Vater letzte Nacht|verstorben ist.
+00:04:58:02,00:05:01:04,Oh, Lionel! Das tut mir so leid!
+00:05:01:22,00:05:04:24,Wenn ... ich irgendwas tun kann ...
+00:05:05:13,00:05:07:18,Nein, nein danke. Danke.
+00:05:07:20,00:05:09:00,Es geht schon.
+00:05:09:02,00:05:11:22,Es hat mich nur ein wenig|überrascht. Macht euch keine Sorgen.
+00:05:12:16,00:05:18:04,Lionel, ich weiß nicht, was ich sagen|soll. Es tut mir so leid ... Ich ...
+00:05:20:08,00:05:22:24,Zum Geburtstag viel Glück!
+00:05:23:12,00:05:25:24,Zum Geburtstag viel Glück!
+00:05:26:11,00:05:30:25,Zum Geburtstag!|Zum Geburtstag viel Glück!
+00:05:30:25,00:05:31:22,He!
+00:05:32:24,00:05:35:20,Lionel! Mein Held!
+00:05:35:22,00:05:38:21,Ein Jahr älter und immer noch|to-tal süß!
+00:05:39:05,00:05:42:01,Hier! Diese Blumen hab|ich für dich geklaut!
+00:05:43:13,00:05:45:00,Poke! Poke, sei still!
+00:05:45:08,00:05:47:12,Oh, Lori! Was ist denn mit dir los?
+00:05:47:15,00:05:51:02,Das ist eine Geburtstagsfeier,|kein Begräbnis, klar?
+00:05:51:02,00:05:52:13,Fei-er!
+00:05:53:04,00:05:55:09,Ich weiß, das ist alles|totales Neuland für dich, aber-
+00:05:55:09,00:05:56:20,Oh, halt die Klappe!
+00:05:58:01,00:06:00:04,Also gut. Was ist passiert?
+00:06:00:14,00:06:02:11,Lionels Vater ist tot.
+00:06:04:13,00:06:06:19,Was soll das heißen, "tot"?
+00:06:06:22,00:06:09:02,Wann ist das passiert? Und wie?
+00:06:09:11,00:06:11:00,Ich habe gerade einen|Anruf bekommen.
+00:06:11:09,00:06:13:14,Er ist letzte Nacht im|Schlaf gestorben.
+00:06:15:14,00:06:19:02,Tut mir leid, Leute.|Die Feier ist vorbei.
+00:06:19:08,00:06:20:18,Danke, daß ihr da wart, aber ...
+00:06:21:00,00:06:23:04,ich denke, Lionel möchte jetzt|lieber alleine sein.
+00:06:23:12,00:06:25:02,Och ...
+00:06:25:03,00:06:28:07,- Tschüs! - Tschüs!|- Bis dann, Leute!
+00:06:32:12,00:06:33:07,Also ...
+00:06:35:14,00:06:36:10,Also ...
+00:06:47:24,00:06:51:10,Also hat der alte Knacker endlich|ins Gras gebissen.
+00:06:52:09,00:06:54:05,Aber das Leben geht weiter.
+00:06:54:07,00:06:55:20,Ich habe immer noch Geburtstag,
+00:06:55:21,00:06:59:02,und ich würde gerne mit euch|feiern, und ...
+00:06:59:24,00:07:00:23,Au weia ...
+00:07:01:06,00:07:03:22,Ich hätte besser meine Klappe|gehalten, oder?
+00:07:03:24,00:07:06:03,Lionel, das ist schockierend!
+00:07:06:05,00:07:09:02,Warum redest du so über ihn?
+00:07:09:02,00:07:12:11,Ja, es hört sich fast so an, als|ob dir sein Tod nichts ausmacht.
+00:07:13:12,00:07:16:02,Nein, das ist es nicht, es ist nur ...
+00:07:16:21,00:07:19:02,Ehrlich gesagt vermisse ich|ihn nicht besonders.
+00:07:19:04,00:07:20:17,Seit er vor mehr als zehn Jahren|fortgegangen ist ...
+00:07:20:17,00:07:23:02,habe ich nichts mehr von|ihm gehört.
+00:07:23:07,00:07:25:01,Aber er gehört zur Familie!
+00:07:25:05,00:07:27:08,Was ist zwischen dir und|ihm denn abgelaufen?
+00:07:27:08,00:07:29:21,Nichts! Das ist genau das Problem!
+00:07:30:05,00:07:31:17,Es ist gar nichts abgelaufen.
+00:07:31:24,00:07:33:14,Er hat sich dazu entschlossen,|mich zurückzulassen,
+00:07:33:14,00:07:35:20,um stattdessen seinen dummen|Hirngespinsten hinterherzujagen.
+00:07:35:24,00:07:38:18,Und ich mußte mir selber|einen Ort zum Leben suchen.
+00:07:38:24,00:07:40:22,Und glaubt mir, das war|nicht leicht ...
+00:07:40:22,00:07:42:17,da er mir kein Geld|hinterlassen hatte.
+00:07:42:20,00:07:45:10,Und alles andere, was er besaß,|hatte er verkauft!
+00:07:45:10,00:07:46:16,Das ist schwer zu glauben.
+00:07:46:16,00:07:49:04,Ja. Äh, warum ist er gegangen?
+00:07:49:18,00:07:51:03,Ich habe keine Ahnung ...
+00:07:51:04,00:07:53:17,Er hat mir gesagt, ich würde es|eines Tages verstehen, aber ...
+00:07:53:17,00:07:55:02,dieser Tag ist nie gekommen.
+00:07:55:10,00:07:57:16,Und jetzt, da er tot ist,|ist es wohl zu spät.
+00:07:58:08,00:08:01:23,Ich hätte der Sohn eines berühmten|Musikers sein können, aber ... Nein!
+00:08:01:23,00:08:04:08,Er zog es vor im Dreck zu wühlen!
+00:08:04:06,00:08:06:05,Im Dreck?
+00:08:06:05,00:08:07:16,Ein Musiker?
+00:08:07:18,00:08:09:10,Was hat er denn gemacht?
+00:08:10:11,00:08:12:06,Er war ein Sänger und Liedermacher.
+00:08:12:08,00:08:14:03,Und er war ziemlich gut!
+00:08:14:11,00:08:17:12,Ich schwöre, sein Durchbruch|war so nahe!
+00:08:17:20,00:08:19:22,Seine Lieder liefen auf allen Sendern!
+00:08:19:22,00:08:22:12,Er hatte seinen großen Vertrag|schon in der Tasche ...
+00:08:22:18,00:08:23:17,Und dann warf er es hin!
+00:08:24:04,00:08:25:18,Stattdessen wurde er ...
+00:08:25:18,00:08:27:07,ein Archäologe!
+00:08:27:12,00:08:29:14,Versteht ihr? Ein Archäologe!
+00:08:29:22,00:08:32:08,Das muß wohl die allerdümmste|Entscheidung gewesen sein ...
+00:08:32:08,00:08:33:12,die je auf Erden getroffen wurde.
+00:08:33:18,00:08:37:17,Er warf eine perfekte Karriere aus|reinem Egoismus über Bord!
+00:08:38:02,00:08:40:22,Es interessierte ihn|überhaupt nicht, was das für mich ...
+00:08:40:22,00:08:42:17,für Konsequenzen haben würde.
+00:08:43:18,00:08:45:25,Und was wollen sie jetzt von dir?
+00:08:46:15,00:08:49:20,Sie wollen, daß ich nach Kairo komme|um mein Erbe anzutreten.
+00:08:50:02,00:08:51:24,Aus irgendeinem Grund bestand|mein Vater darauf,
+00:08:51:24,00:08:54:17,daß ich es persönlich abholen muß.
+00:08:54:17,00:08:56:12,Aber ich bin mir nicht sicher,|ob ich das wirklich will.
+00:08:56:16,00:08:59:23,Ich meine, was könnte mir ein Typ|wie er schon hinterlassen?
+00:09:00:07,00:09:02:02,Einen Eimer Sand und eine Schaufel?
+00:09:03:18,00:09:04:20,Warum Kairo?
+00:09:05:16,00:09:09:16,Offensichtlich war das wohl der Ort|wo er gelebt hatte.
+00:09:09:20,00:09:12:22,Er hatte für das "Museum der|vergessenen Künste" gearbeitet.
+00:09:12:22,00:09:14:16,Was auch immer das sein mag.
+00:09:14:21,00:09:17:12,Von dieser Einrichtung habe ich|noch nie etwas gehört ...
+00:09:17:16,00:09:19:18,aber es klingt ganz nach Papa.
+00:09:20:22,00:09:22:15,Was auch immer du über ihn denkst ...
+00:09:22:15,00:09:24:23,du mußt ihm die letzte Ehre erweisen.
+00:09:25:03,00:09:27:14,Du kannst ihn nicht einfach|so abschreiben.
+00:09:27:14,00:09:30:02,Damit wärst du keinen Deut|besser als er.
+00:09:30:00,00:09:32:18,Und vielleicht lohnt es sich sogar.
+00:09:32:19,00:09:35:20,Ich meine, sie würden dich  nicht|persönlich dorthin bestellen ...
+00:09:35:24,00:09:38:02,wenn es nicht wichtig wäre,|oder was meinst du?
+00:09:38:20,00:09:40:15,Ja! Wir fliegen nach Kairo!
+00:09:40:16,00:09:43:01,Wir werden wie Ägypter geh'n!
+00:09:43:01,00:09:44:24,Wir werden wie Ägypter geh'n!
+00:09:44:24,00:09:46:19,Wir werden wie Ägypter geh'n!
+00:09:47:02,00:09:49:16,Warte, warte! Einen Moment mal!|Wer sagte was von: "Wir"?
+00:09:49:22,00:09:53:00,Ich sagte: "Wir". Ich meine, wir müssen|doch zusammenhalten, oder nicht?
+00:09:53:05,00:09:55:10,Und da gibt es sicher auch|ganz heiße ... äh ...
+00:09:55:14,00:09:58:04,so ganz heiße ... Strände, nicht wahr?
+00:09:58:04,00:09:59:15,Sand, und so weiter ...
+00:10:00:08,00:10:01:11,Poke ...
+00:10:01:20,00:10:03:22,Es gibt keinen Strand in Kairo.
+00:10:04:25,00:10:07:25,Ich wollte schon immer das "Museum|der vergessenen Künste" besuchen!
+00:10:07:25,00:10:12:07,Ach, Lori, vor fünf Minuten wußtest|du nicht einmal, daß es das gibt!
+00:10:12:14,00:10:13:24,Verstehst du es denn nicht?
+00:10:13:24,00:10:16:18,Wir sind deine Freunde, und wir|wollen einfach mit dir mitkommen.
+00:10:17:10,00:10:19:23,Ach, Mika, das ist so lieb.
+00:10:20:22,00:10:22:04,In Ordnung.
+00:10:22:04,00:10:24:04,Ich habe dann wohl|keine andere Wahl.
+00:10:24:04,00:10:26:07,Aber, bitte denkt daran, Leute ...
+00:10:26:07,00:10:29:10,das ist kein Urlaub. Es gibt einige|ernste Angelegenheiten zu erledigen.
+00:10:29:10,00:10:30:19,Packen wir unsere Sachen.
+00:10:31:02,00:10:33:10,Wir werden wie Ägypter geh'n!
+00:10:33:13,00:10:35:07,Wir werden wie Ägypter geh'n!
+00:10:35:10,00:10:37:06,Wir werden wie Ägypter geh'n!
+00:10:37:08,00:10:39:10,Wir werden wie Ägypter geh'n!
+00:11:04:16,00:11:06:04,Mein Produzent!
+00:11:07:13,00:11:08:24,Mein Produzent!
+00:11:12:11,00:11:14:00,Sie haben mich rufen lassen?
+00:11:14:13,00:11:15:22,Ja!
+00:11:16:02,00:11:17:10,Es ist Zeit für die Versammlung!
+00:11:17:17,00:11:20:02,Bring mir die digitalen|Rechteverwalter!
+00:11:26:12,00:11:28:03,Jawohl, mein Produzent!
+00:11:28:23,00:11:29:20,Sofort!
+00:11:29:21,00:11:31:15,Natürlich, mein Produzent!
+00:11:32:00,00:11:34:14,Ich hole sie für Sie,|mein Produzent!
+00:11:55:12,00:11:58:12,Zu Ihren Diensten, o großer Produzent!
+00:12:00:03,00:12:01:07,Nun gut!
+00:12:01:12,00:12:04:19,Meine Herren! Ich habe Sie zu dieser|besonderen Versammlung gerufen ...
+00:12:04:19,00:12:06:20,weil ich schwer enttäuscht bin!
+00:12:07:20,00:12:10:07,Ich habe gerade den letzten|Verkaufsbericht gelesen.
+00:12:10:14,00:12:13:24,Unser Profit ist um fünfzig|Prozent gestiegen ...
+00:12:14:06,00:12:17:14,und das ist weit unterhalb der|Erwartungen für dieses Quartal.
+00:12:18:09,00:12:20:09,Dieser Mangel an Wachstum ist ...
+00:12:20:17,00:12:22:01,beunruhigend.
+00:12:22:25,00:12:26:06,Wie soll ich das denn nun|unseren Aktionären erklären?
+00:12:28:04,00:12:29:18,Mein Produzent ...
+00:12:29:19,00:12:32:06,wir ... vielleicht ... nun ja ...
+00:12:33:04,00:12:36:05,Wir forschen immer noch|sehr viel auf diesem Gebiet ...
+00:12:36:06,00:12:39:23,und es scheint so, als wären die Leute|in letzter Zeit seltsam inspiriert.
+00:12:40:04,00:12:43:09,Seltsam inspiriert, sagen Sie?
+00:12:43:10,00:12:44:22,Das ist schwer zu glauben.
+00:12:44:22,00:12:47:00,Womit können Sie Ihre|Behauptung untermauern?
+00:12:47:08,00:12:50:08,Meine Zahlen deuten darauf hin, daß|viele Leute unlizenziertes Material ...
+00:12:50:09,00:12:53:05,unter der Dusche singen!
+00:12:57:16,00:13:01:06,Und ich bekam gerade einen Bericht|über Fälle, daß Kindern in ...
+00:13:01:06,00:13:04:02,Schulen und Kindergärten gemeinfreie|Kinderlieder beigebracht werden.
+00:13:04:02,00:13:06:12,Ganz offiziell! Von ihren Lehrern!
+00:13:06:12,00:13:07:24,Stellen Sie sich das vor!
+00:13:08:04,00:13:11:02,Das ist ekelhaft!|Was kommt als nächstes?
+00:13:11:02,00:13:14:12,Lehrer, die in ihren Klassen|mp3-Dateien verschenken?
+00:13:17:21,00:13:19:22,Wagen Sie es nicht, das|verbotene Wort auszusprechen!
+00:13:32:18,00:13:35:16,Welches? "mp3"?
+00:13:39:02,00:13:40:03,Sie Idiot!
+00:13:40:06,00:13:43:18,Sagen Sie das nicht noch einmal! Sie|wissen, welche Strafe darauf steht!
+00:13:45:00,00:13:46:17,Jawohl, mein Produzent!
+00:13:48:22,00:13:52:02,Ich dachte, die Regel gilt nicht|für Mitglieder des Konzerns.
+00:13:52:02,00:13:53:21,Seien Sie still! Sie Dummkopf!
+00:13:55:20,00:13:59:08,Was wollte ich sagen?|Ah, richtig!
+00:13:59:20,00:14:03:09,Anscheinend ist die Macht der|Inspiration wieder auf dem Vormarsch.
+00:14:03:22,00:14:07:14,Diese Entwicklung war schon immer|meine größte Sorge.
+00:14:07:18,00:14:10:17,Alle Quellen der Inspiration|sind unter unserer Kontrolle.
+00:14:11:01,00:14:13:02,Ich verstehe nicht, wie das sein kann.
+00:14:13:12,00:14:15:09,Es muß etwas geschehen sein.
+00:14:15:23,00:14:18:00,Vielleicht stimmen die Gerüchte doch.
+00:14:18:14,00:14:20:11,Wie auch immer,
+00:14:20:23,00:14:23:03,wir müssen handeln. Schnellstens.
+00:14:23:22,00:14:26:20,Thema eins: Leute, die unter|der Dusche singen.
+00:14:27:03,00:14:28:21,Verständigen Sie unsere|Rechtsabteilung.
+00:14:28:24,00:14:32:02,Wir müssen unseren Einfluß geltend|machen und neue internationale ...
+00:14:32:02,00:14:35:06,Urheberrechtsgesetze schaffen, die es|uns erlauben, Ausgleichszahlungen ...
+00:14:35:06,00:14:37:10,von Badezimmerausstattern|zu verlangen!
+00:14:41:17,00:14:43:24,Ausgezeichnete Idee, mein Produzent!
+00:14:44:10,00:14:46:09,Thema zwei: die Kinder.
+00:14:46:18,00:14:49:13,Wir müssen unsere Präsenz in Schulen|und Kindergärten verstärken und ...
+00:14:49:20,00:14:52:18,sie lehren, daß das Singen von|gemeinfreien Kinderliedern die hart ...
+00:14:52:18,00:14:54:13,arbeitenden Künstler um das ihnen|von Gott gegebene Recht bringt,
+00:14:54:16,00:14:56:14,davon zu profitieren!
+00:14:57:08,00:15:00:19,Wir müssen ihnen klar machen, daß|Lizenzierung etwas Gutes ...
+00:15:01:01,00:15:03:02,und Tauschen etwas Böses ist.
+00:15:04:04,00:15:05:21,Wie Sie befehlen, mein Produzent!
+00:15:08:05,00:15:11:24,Also ... was machen wir nun mit Ihnen?
+00:15:11:24,00:15:16:20,Was schlagen Sie vor, um die Sache|wieder in Ordnung zu bringen?
+00:15:17:10,00:15:20:19,Ich ... ich bitte um Vergebung,|mein Produzent!
+00:15:20:19,00:15:22:15,Ich wollte keinen Schaden anrichten!
+00:15:22:16,00:15:24:06,Bitte, lassen Sie Gnade walten!
+00:15:24:07,00:15:28:21,Ich habe nur zwei Mal "mp-"|dieses Wort gesagt ...
+00:15:29:02,00:15:30:11,und ... und ...
+00:15:30:13,00:15:32:11,Ja. Und?
+00:15:34:03,00:15:37:04,Und ich schwöre, ich werde nie|wieder "mp3" sagen!
+00:15:40:13,00:15:43:18,Jetzt reicht es! Drei Mal!
+00:15:43:25,00:15:46:00,Ihr Verhalten ist nicht tragbar!
+00:15:46:04,00:15:49:08,- Sie werden Ihre Strafe erhalten!|- Nein!
+00:15:49:11,00:15:52:02,Wie lautet Ihr Urteil, mein Produzent?
+00:15:52:10,00:15:54:15,Die Strafe für die Verwendung des|verbotenen Wortes ist ...
+00:15:54:21,00:15:57:07,Tod|durch Britneys Speer!
+00:16:05:00,00:16:07:10,Nein! Bitte! Nicht das!
+00:16:07:10,00:16:10:03,Welch gerechte Entscheidung,|mein Produzent!
+00:16:10:20,00:16:12:06,Britney!
+00:16:27:16,00:16:29:10,Jawohl, mein Produzent?
+00:16:30:03,00:16:31:04,Töte ihn!
+00:16:31:23,00:16:33:24,Mit Vergnügen, mein Produzent!
+00:17:03:22,00:17:05:08,Ekelhaft!
+00:17:06:16,00:17:08:14,Verkaufen wir solche Musik wirklich?
+00:17:08:14,00:17:12:10,In der Tat. Und genauer gesagt|ist sie sogar ziemlich erfolgreich.
+00:17:12:10,00:17:14:23,Ich hab sie sogar als mp- äh ...
+00:17:14:23,00:17:18:04,ich meine Windows Media, ja,|Windows Media.
+00:17:24:01,00:17:26:17,Mein Produzent! Mein Produzent!
+00:17:27:12,00:17:29:14,Wir haben ein Telefongespräch vom ...
+00:17:29:14,00:17:32:10,"Museum der vergessenen Künste" in|Ägypten abgefangen!
+00:17:33:12,00:17:37:04,Endlich haben wir den Beweis,|daß Ihre Theorie wahr ist.
+00:17:37:14,00:17:39:19,Das Dokument existiert tatsächlich ...
+00:17:39:23,00:17:44:04,und der Sohn des alten Löwen ist schon|auf dem Weg, sein Erbe anzutreten.
+00:17:45:14,00:17:47:10,Wie auf's Stichwort.
+00:17:47:15,00:17:52:03,Also hat Mr. Scruffycat Senior|sie wirklich gefunden.
+00:17:52:10,00:17:53:20,Bemerkenswert.
+00:17:54:04,00:17:57:02,Und nun versucht er sie an|seinen Sohn weiterzugeben.
+00:17:57:12,00:18:01:01,Ich wußte schon immer, daß er kein|Geheimnis für sich behalten konnte.
+00:18:01:10,00:18:04:06,Schlecht für ihn. Aber gut für uns.
+00:18:04:25,00:18:08:18,Schicken Sie zwei unserer besten Leute|nach Kairo und kommen Sie ihm zuvor!
+00:18:08:22,00:18:12:04,Dort liegt der Schlüssel zur Kontrolle|über alle Musik dieses Planeten!
+00:18:12:07,00:18:14:17,Und diese Gelegenheit dürfen wir|uns nicht entgehen lassen!
+00:18:15:04,00:18:16:19,Jawohl, mein Produzent!
+00:18:18:07,00:18:20:18,Christopher Scruffycat!
+00:18:21:14,00:18:25:08,Du hast so oft versucht,|meine Pläne zu durchkreuzen ...
+00:18:25:15,00:18:26:22,Doch dieses Mal nicht!
+00:18:27:11,00:18:31:06,Wenn das alles vorbei ist, werde ich| der reichste Mann der Welt sein!
+00:18:32:04,00:18:34:07,Danke, alter Löwe!
+00:18:34:19,00:18:36:23,Ohne dich hätte ich es niemals|geschafft!
+00:19:14:05,00:19:15:09,Salem Aleikum!
+00:19:15:09,00:19:18:21,Willkommen im "Museum der|vergessenen Künste" verehrte Freunde!
+00:19:18:21,00:19:22:10,Mein Name ist Yussef Al-Kali.|Ich habe auf euch gewartet.
+00:19:22:20,00:19:24:16,Aleikum Salem.
+00:19:24:20,00:19:27:18,Hallo Kumpel! Al-Kali?
+00:19:29:01,00:19:31:14,Bist du nicht der Typ, der das|Duracell-Kaninchen erfunden hat?
+00:19:31:14,00:19:34:06,Als das Ding das letzte mal nicht|mehr gehen wollte, hab ich die ...
+00:19:34:06,00:19:36:18,Batterien umgedreht, und dann|kam es, und kam es, und kam es ...
+00:19:38:07,00:19:41:22,Poke! So begrüßt man doch|keinen Mann wie ihn!
+00:19:41:22,00:19:44:05,Ich zeig dir, wie das geht!
+00:19:46:12,00:19:50:22,Aleikum Salem, Yussef Al-Kali!|Mein Name ist Loreena McFolkmanis ...
+00:19:50:22,00:19:53:17,und meine Freunde und ich danken|Euch für Euer herzliches Willkommen.
+00:19:54:07,00:19:55:23,Das ist doch selbstverständlich.
+00:19:55:23,00:19:58:17,Warum kommt Ihr und Eure Freunde|nicht näher und setzt Euch zu mir?
+00:19:59:00,00:20:02:03,Es ist der Brauch meines Volkes, den|Gästen eine leckere Tasse ...
+00:20:02:03,00:20:04:18,arabischen Mokkas als Zeichen|der Gastfreundschaft anzubieten.
+00:20:04:18,00:20:08:04,Ah, Kaffee! Genau das|brauche ich jetzt!
+00:20:08:05,00:20:09:12,Gib her!
+00:20:09:24,00:20:13:14,Poke, sei vorsichtig, das ist echter|arabischer Mokka.
+00:20:14:19,00:20:17:24,Ja, und das ist die kleinste Tasse|die ich je gesehen habe.
+00:20:18:06,00:20:20:18,Das ist keine Herausforderung für|mich! Nennt mich "Starbuck's"!
+00:20:29:19,00:20:33:01,Ja! So muß das Zeug sein!
+00:20:33:01,00:20:36:06,Da hüpft das Herz und|die Pfoten bleiben schwarz!
+00:20:39:08,00:20:44:11,Oh oh ... das habe ich|noch nie probiert.
+00:20:44:18,00:20:47:02,Wenn ich du wäre, würde ich das|nicht anfassen.
+00:20:47:01,00:20:50:21,Das ist kein fett- und koffeinfreies|Spülwasser, wie du es immer trinkst.
+00:20:51:23,00:20:54:24,Das ist für echte Männer, nicht für|kleine Mädchen wie dich.
+00:20:55:00,00:20:59:08,Jetzt mach mal halblang, Machomann!|Wir starken Frauen können das ab!
+00:20:59:16,00:21:03:07,Und wir wollen ja auch nicht unhöflich|sein, nicht wahr, Lori?
+00:21:06:09,00:21:10:05,Äh ... nein ... wollen wir nicht.
+00:21:11:03,00:21:13:08,Vielleicht ist es ja nicht so schlimm.
+00:21:19:24,00:21:25:12,Oh, das ist wirklich lecker|Ich  ... Ich könnte wirklich ...
+00:21:50:18,00:21:52:14,Möchte sonst noch jemand|etwas Mokka?
+00:21:52:20,00:21:54:14,- Nein!|- Nein!
+00:22:01:19,00:22:07:06,Zwei Würfel Zucker, bitte!
+00:22:10:00,00:22:14:11,Also. Ihr wollt sicher wissen, warum|Ihr persönlich herkommen solltet ...
+00:22:14:11,00:22:16:10,und was Euer Vater Euch|hinterlassen haben mag.
+00:22:16:23,00:22:20:07,Der Tod Eures Vaters war für|uns alle ein großer Verlust.
+00:22:20:15,00:22:24:07,Er hat große Dinge für das Museum|getan und viele Artefakte gefunden ...
+00:22:24:07,00:22:26:23,die seit Jahrhunderten als|verschollen galten.
+00:22:27:12,00:22:31:15,Er widmete sein Leben der|Wissenschaft, doch leider ...
+00:22:31:15,00:22:35:02,segnete Allah ihn nicht mit|dem Erfolg, nach dem er strebte.
+00:22:35:08,00:22:39:17,Ich war ein guter Freund von ihm, und|er bat mich, Euch dies zu geben.
+00:22:47:19,00:22:50:08,Dies sind sein persönliches Tagebuch|und seine Forschungsaufzeichnungen.
+00:22:50:16,00:22:54:06,Er sagte uns, daß es all sein Wissen|und seine Erkenntnisse enthält.
+00:22:54:20,00:22:57:12,Allerdings ergibt der Inhalt|für uns keinen Sinn.
+00:22:57:22,00:23:00:11,Euer Vater hat alles getan, um|sicherzustellen,
+00:23:00:11,00:23:02:24,daß es Euch persönlich|übergeben wird,
+00:23:03:00,00:23:05:24,und daß es niemals in die|falschen Hände geraten würde.
+00:23:06:11,00:23:10:24,Und hier ist es. Er nannte es: "Der|Weg zum Tempel von Wasweißich".
+00:23:16:24,00:23:20:09,In der Tat, das ergibt auch|für mich keinen Sinn.
+00:23:21:04,00:23:22:19,Ist dieses Buch alles, was|er mir hinterlassen hat?
+00:23:23:10,00:23:26:04,Nein, ich habe noch zwei|Dinge für Euch.
+00:23:27:04,00:23:30:17,Laßt mich raten ... Einen Eimer|Sand und eine Schaufel?
+00:23:31:14,00:23:34:18,Nein. Er hinterließ Euch zwei Dinge,|die ihm sehr wichtig waren.
+00:23:34:18,00:23:38:04,Ihr solltet sie in Ehren halten. Er|ging niemals ohne sie fort.
+00:23:43:10,00:23:44:20,Eine Peitsche und ein Hut?
+00:23:46:04,00:23:47:18,Danke, Papa.
+00:24:04:23,00:24:08:15,Psst! Psst! Keine lizenzierte Musik|in den Hallen des Museums!
+00:24:09:13,00:24:11:18,Okay ...
+00:24:12:20,00:24:15:03,Worum geht es in diesem|Museum überhaupt?
+00:24:15:11,00:24:19:17,Dieses Museums beherbergt die|vergessenen Lieder der alten Zeiten.
+00:24:20:08,00:24:24:02,Es gab eine Zeit, in der Musik nicht|von Produzenten produziert ...
+00:24:24:05,00:24:25:22,und von Konsumenten|konsumiert wurde.
+00:24:26:04,00:24:28:15,Musik war in jedermanns Herzen.
+00:24:29:02,00:24:31:14,Die Leute trafen sich und|sangen und tanzten ...
+00:24:31:15,00:24:33:02,und tauschten ihre Lieder aus.
+00:24:33:06,00:24:35:18,Musik war ein Teil|unseres täglichen Lebens ...
+00:24:36:01,00:24:38:15,und es gab Musik für jede Gelegenheit.
+00:24:39:04,00:24:41:09,Das müssen wundervolle|Zeiten gewesen sein.
+00:24:42:06,00:24:45:17,Heutzutage ist Musik zu geistigem|Eigentum geworden ...
+00:24:45:18,00:24:48:06,das offene Herzen in gierige|Geister verwandelt.
+00:24:48:16,00:24:51:22,Und das, was einst eine|Inspiration für alle war ...
+00:24:51:22,00:24:55:16,ist jetzt zu einem Weg geworden,|die Taschen einiger weniger zu füllen.
+00:24:55:20,00:25:00:12,Dieses Museum bewahrt was von den|Liedern der alten Zeiten übrig ist.
+00:25:00:18,00:25:03:02,Oh! Oh, können wir eins davon hören?
+00:25:03:04,00:25:04:17,Natürlich! Folgt mir!
+00:25:20:11,00:25:22:18,Was für eine wunderschöne Melodie!
+00:25:23:16,00:25:25:20,Diese Melodie habe ich|noch nie gehört.
+00:25:28:23,00:25:31:12,Seht Ihr? Das ist der Grund,|warum wir sie bewahren.
+00:25:31:15,00:25:34:18,Es gibt eine Menge alter Lieder|die sehr schön sind ...
+00:25:34:18,00:25:37:10,die aber heutzutage|niemand mehr kennt.
+00:25:37:14,00:25:38:16,Wirklich?
+00:25:38:22,00:25:42:15,Und jeder dieser Kisten beinhaltet|eins der vergessenen Lieder?
+00:25:42:19,00:25:46:08,Oh, das ist so aufregend! Ich kann es|nicht erwarten, sie alle zu hören!
+00:25:46:08,00:25:47:22,Was ist hier drin?
+00:25:48:16,00:25:50:24,Nein! Nein! Faßt die nicht an! Nein!
+00:26:00:01,00:26:02:09,Öffnet diese Kiste nie wieder!
+00:26:02:10,00:26:05:02,Das ist unsere Sammlung an|Ersatzstimmen.
+00:26:05:02,00:26:07:11,Die brauchen wir zu|Restaurierungszwecken.
+00:26:07:24,00:26:11:04,Manchmal finden wir Lieder die|in schlechter Verfassung sind ...
+00:26:11:04,00:26:13:17,und dann benutzen wir|diese als Ersatz.
+00:26:17:09,00:26:19:18,Das tut mir leid, das wußte ich nicht.
+00:26:20:09,00:26:21:17,Darf ich diese hier öffnen?
+00:26:22:01,00:26:23:02,Natürlich!
+00:26:27:25,00:26:30:12,Ooooh!
+00:26:30:14,00:26:33:21,Aaaah!
+00:26:34:17,00:26:36:02,He, wartet mal einen Moment!
+00:26:36:20,00:26:38:21,Das ist ja nur eine Kiste mit|einem Licht drin!
+00:26:41:04,00:26:42:21,Oh, mein Fehler.
+00:26:48:06,00:26:50:00,Nun, wie Ihr seht ...
+00:26:50:00,00:26:53:14,kann man mit all diesem alten Zeug|kein Geld mehr machen.
+00:26:53:15,00:26:55:14,Und genau das ist der Grund ...
+00:26:55:14,00:26:57:04,warum wir ein Dorn im Auge ...
+00:26:57:04,00:26:59:14,der internationalen|Medienkonzerne sind.
+00:26:59:16,00:27:01:23,Wir werden genauestens von|ihnen überwacht.
+00:27:02:01,00:27:05:22,Eine falsche Note und es wird hier|von ihren Leuten nur so wimmeln.
+00:27:10:08,00:27:10:24,Poke!
+00:27:11:20,00:27:13:18,Poke, bitte! Poke!
+00:27:14:15,00:27:16:02,Bist du wahnsinnig?
+00:27:21:06,00:27:23:07,Seht ihr? Sie beobachten uns!
+00:27:27:24,00:27:30:00,Oh nein! Da kommen sie!
+00:27:34:20,00:27:37:11,Hier ist das THX! Soundcheck!
+00:27:37:12,00:27:39:07,Ihr seid Dolby Surrounded!
+00:27:39:13,00:27:41:08,Öffnet die Tür!
+00:27:50:04,00:27:52:22,Ah, da seid ihr!
+00:27:53:02,00:27:56:23,Ihr habt etwas, das uns gehört!
+00:27:56:25,00:27:58:10,Ihr habt die Wahl:
+00:27:58:17,00:28:00:16,Gebt uns das Tagebuch oder ...
+00:28:01:00,00:28:02:20,ihr werdet sterben!
+00:28:02:20,00:28:05:13,Ihr habt fünf Sekunden!
+00:28:05:14,00:28:07:11,Öh, das Tagebuch?
+00:28:07:12,00:28:10:06,Ja, nun, hier! Nehmt es!|Ich brauche es nicht.
+00:28:10:06,00:28:11:11,Nein, nein!
+00:28:12:17,00:28:15:03,Nein! Wagt es euch nicht,|näherzukommen!
+00:28:15:05,00:28:16:21,Ihr werdet es nicht bekommen!
+00:28:17:02,00:28:19:24,- Aber ... aber ... Mika ...|- Nein! Nein, Lionel!
+00:28:20:01,00:28:21:15,Du darfst es ihnen nicht geben!
+00:28:21:17,00:28:24:04,Wir sind nur für dieses Buch den|ganzen Weg nach Ägypten gekommen!
+00:28:24:08,00:28:27:07,Und fünf Minuten später taucht|die Gedankenpolizei auf ...
+00:28:27:07,00:28:28:19,und will es mitnehmen?
+00:28:28:21,00:28:30:20,Da ist doch was faul!
+00:28:31:02,00:28:33:21,In Ordnung. Ihr hattet eure Chance!
+00:28:34:01,00:28:35:24,Jetzt werdet ihr sterben!
+00:28:36:02,00:28:38:01,Zum Angriff!
+00:28:38:22,00:28:40:17,Nehmt das Tagebuch und lauft!
+00:28:40:20,00:28:43:12,Ich halte sie zurück! Lauft! Lauft!
+00:28:43:12,00:28:45:22,Nein, Mika, das ist es nicht wert!
+00:28:45:22,00:28:47:21,Nicht reden! Lauft einfach!
+00:28:50:17,00:28:52:20,Das habe ich kommen sehen ...|Folgt mir!
+00:28:52:21,00:28:54:18,Ich kenne einen geheimen|Weg hinaus!
+00:29:47:23,00:29:50:04,Ah, da sind wir.
+00:29:57:09,00:29:58:16,Endlich!
+00:29:59:07,00:30:01:18,Wir müssen stundenlang|gelaufen sein.
+00:30:02:18,00:30:05:10,Ich dachte schon ich würde niemals|mehr das Tageslicht sehen.
+00:30:05:13,00:30:06:18,Öh, Tageslicht?
+00:30:06:18,00:30:09:18,Es ist Nacht, Schätzchen.|Vollmond.
+00:30:10:13,00:30:12:14,Oh nein! Vollmond?
+00:30:12:14,00:30:13:18,Und ... schaut!
+00:30:14:04,00:30:16:02,Wir sind auf einem Friedhof!
+00:30:16:09,00:30:17:22,Kennt ihr nicht die Geschichten ...
+00:30:17:22,00:30:19:13,über die Dinge, die auf|Friedhöfen passieren ...
+00:30:19:13,00:30:20:16,wenn Vollmond ist?
+00:30:21:07,00:30:22:18,Es könnten Vampire hier sein!
+00:30:22:18,00:30:23:20,Werwölfe!
+00:30:23:20,00:30:24:12,Zombies!
+00:30:24:12,00:30:27:04,Oder andere unheimliche Kreaturen|die aus ihren Gräbern kommen ...
+00:30:27:04,00:30:29:18,und auf unschuldige Opfer|warten, die vorbeikommen!
+00:30:30:04,00:30:33:12,Ja, der Vollmond macht|mich auch immer wuschig.
+00:30:34:23,00:30:37:25,Warum bekommt ihr unschuldigen|Leute immer die guten Dinge ab?
+00:30:38:02,00:30:39:14,Ich will auch ein Opfer sein!
+00:30:41:11,00:30:43:10,Lori! Wann wirst du endlich erwachsen?
+00:30:43:10,00:30:46:13,Vampire und Werwölfe und all die|anderen unheimlichen Kreaturen ...
+00:30:46:13,00:30:48:14,sind nur Produkte deiner Phantasie.
+00:30:48:14,00:30:50:02,Sie existieren nicht.
+00:30:50:02,00:30:52:12,Genauso wie der Weihnachtsmann|oder der Osterhase.
+00:30:54:08,00:30:55:10,Was?
+00:30:56:07,00:30:58:20,Es gibt keinen Osterhasen?
+00:31:01:00,00:31:02:06,Keinen Weihnachtsmann?
+00:31:02:09,00:31:03:10,Aber ...
+00:31:03:20,00:31:06:22,Wer bringt die Geschenke und|versteckt die Eier?
+00:31:09:19,00:31:12:14,Lori ... du glaubst immer noch an ...
+00:31:12:14,00:31:13:17,Ich weiß nicht, was ich sagen-
+00:31:13:17,00:31:17:04,Ha! Haha! Reingelegt! Reingelegt!
+00:31:26:02,00:31:27:21,Na los, gib's zu! Gib's zu!
+00:31:27:21,00:31:30:08,Du hast wirklich gedacht, daß ich|noch an den Weihnachtsmann glaube!
+00:31:30:14,00:31:31:18,Oder?
+00:31:32:14,00:31:34:10,Ja, ja. Da hast du mich|wirklich erwischt.
+00:31:34:11,00:31:35:08,Ich muß zugeben ...
+00:31:35:17,00:31:37:20,es hätte mich nicht überrascht,|wenn es wahr gewesen wäre.
+00:31:38:24,00:31:41:20,Siehst du? Ich bin erwachsener|als du denkst!
+00:31:41:21,00:31:44:21,Wie Mika sagte: Wir starken|Frauen können das ab.
+00:31:44:21,00:31:45:21,Nicht wahr, Mika?
+00:31:46:23,00:31:49:07,Äh ... Mika?
+00:31:50:12,00:31:51:12,Mika?
+00:31:52:01,00:31:53:24,Oh nein! Mika ist weg!
+00:31:54:14,00:31:56:10,Wo ist sie? Wo ist sie?
+00:31:56:17,00:31:58:09,Die Werwölfe haben sie gefressen!
+00:31:58:10,00:31:59:10,Lionel!
+00:32:00:18,00:32:01:20,Tu doch was!
+00:32:01:21,00:32:03:24,Sie ... sie könnte tot sein!
+00:32:04:10,00:32:05:22,Oder schlimmer!
+00:32:12:19,00:32:14:01,Ah, da seid ihr.
+00:32:16:22,00:32:19:04,Seht! Sie ist von den Toten zurück!
+00:32:19:06,00:32:21:12,Die Vampire haben sie in|einen Zombie verwandelt!
+00:32:22:00,00:32:23:11,Wir werden alle sterben!
+00:32:24:01,00:32:26:20,Lori? Wovon redest du?
+00:32:27:06,00:32:29:02,Tut mir leid, daß es so|lange gedauert hat, aber ...
+00:32:29:04,00:32:32:24,ich mußte die THX-Polizei erst mit|den drei Tenören bekannt machen ...
+00:32:32:24,00:32:34:07,bevor ich zu euch kommen konnte.
+00:32:35:25,00:32:38:02,Oh, ich bin so froh, daß du|es geschafft hast.
+00:32:38:12,00:32:39:23,Wir haben uns Sorgen um|dich gemacht.
+00:32:40:00,00:32:41:11,Keine Sorge.
+00:32:41:12,00:32:44:12,Der schwarze Gürtel im Hau-Drauf-Miau|muß doch zu etwas gut sein.
+00:32:45:24,00:32:46:25,Vielen Dank!
+00:32:46:25,00:32:48:18,Ohne dich hätten wir|das nie geschafft.
+00:32:48:19,00:32:50:00,Ach, nicht der Rede wert.
+00:32:52:12,00:32:54:25,Bist du sicher, daß sie nicht doch|ein Zombie oder sowas ist?
+00:32:55:03,00:32:57:02,Jetzt reiß dich mal zusammen!
+00:32:57:06,00:32:59:00,Jetzt schubs mich nicht wieder herum!
+00:32:59:01,00:33:00:21,Lori, beruhige dich bitte!
+00:33:00:21,00:33:03:03,Ich bin ruhig! Völlig ruhig!
+00:33:04:07,00:33:07:00,Weißt du, wie man sich als das jüngste|Mitglied der Gruppe fühlt?
+00:33:07:18,00:33:09:23,Wenn man immer gehänselt|und herumgeschubst wird?
+00:33:09:23,00:33:11:12,Und niemand nimmt einen ernst!
+00:33:11:16,00:33:14:04,Und anscheinend interessiert es|niemanden, was ich zu sagen habe ...
+00:33:14:04,00:33:14:17,Lori!
+00:33:14:18,00:33:16:06,- wenn es drauf ankommt ...|- Lori!
+00:33:16:06,00:33:17:03,Was?
+00:33:26:06,00:33:27:18,Danke, Poke!
+00:33:27:20,00:33:29:00,Das wurde auch Zeit.
+00:33:35:11,00:33:37:14,Ich denke, hier werden wir eine|Weile sicher sein.
+00:33:37:16,00:33:40:11,Die normalen Leute kennen|diesen Friedhof nicht.
+00:33:40:21,00:33:43:13,Lionel? Hast du das Tagebuch noch?
+00:33:43:16,00:33:46:23,Ich bin nämlich neugierig|auf die Notizen deines Vaters.
+00:33:47:04,00:33:50:05,Wenn so viele Leute so sehr|versuchen, es zu bekommen ...
+00:33:50:08,00:33:53:11,und dein Vater so einen Aufstand|um sein Geheimnis gemacht hat ...
+00:33:53:12,00:33:55:09,muß es sehr, sehr wichtig sein.
+00:33:56:05,00:33:57:08,In Ordnung.
+00:33:57:19,00:34:01:07,Also dann. Ich schlage vor, wir|gehen es Zeile für Zeile durch.
+00:34:04:10,00:34:05:17,Okay.
+00:34:06:06,00:34:07:16,Also, der Titel ist:
+00:34:07:18,00:34:10:08,"Wie ich den Weg zum Tempel|von Wasweißich fand".
+00:34:10:19,00:34:12:20,Was auch immer der "Tempel von|Wasweißich" auch sein mag,
+00:34:12:20,00:34:15:01,es scheint ein Ort größter|Wichtigkeit zu sein ...
+00:34:15:08,00:34:17:13,und dieses Buch ist wohl der|Schlüssel, um ihn zu finden.
+00:34:18:18,00:34:20:15,Auf der ersten Seite steht:
+00:34:21:03,00:34:25:17,"Man beschuldigte die Tochter eines|Politikers, Wasser getrunken zu haben."
+00:34:25:18,00:34:30:08,"Kein Tee oder Tomatensaft.|Es gibt keinen Kartoffelsaft."
+00:34:30:12,00:34:31:15,Was?
+00:34:35:16,00:34:38:21,Warte, warte ... Laßt mich weiterlesen.
+00:34:42:08,00:34:47:08,"Es gibt keine Kirschlimonade, denn|sie müssen ihr Soll erfüllen."
+00:34:48:10,00:34:53:02,"Und ihre Eier mit Speck würzen|sie mit Kaffeeketchup."
+00:34:53:12,00:34:55:07,Das ist totaler Schwachsinn!
+00:34:56:15,00:34:58:09,Dann geht es folgendermaßen weiter:
+00:34:58:15,00:35:02:14,"Das ist der rollende Stein,|nicht zu schnell oder zu langsam."
+00:35:02:16,00:35:06:08,"Das ist der rollende Stein,|du weißt es, sobald er dich trifft."
+00:35:06:12,00:35:08:06,Das ist ja noch schlimmer.
+00:35:08:08,00:35:11:12,Wir waren genauso verwirrt, als|wir an diese Stelle kamen.
+00:35:17:18,00:35:19:10,Lori ...
+00:35:20:24,00:35:22:07,Was ist los?
+00:35:25:21,00:35:29:17,Lori, vergiß es. Wenn du dich nicht|beruhigst, bleibt der Maulkorb dran.
+00:35:29:17,00:35:32:15,Jetzt hör auf zu jammern und laß|uns unsere Arbeit machen, ja?
+00:35:38:19,00:35:39:24,Okay.
+00:35:40:18,00:35:43:02,"All die fröhlichen Heiligen kommen|hereinmarschiert."
+00:35:43:16,00:35:48:01,"Und tanzt einer der Heiligen aus der|Reihe, muß er von vorn beginnen."
+00:35:48:16,00:35:51:09,Ich weiß nicht, was dein Vater|geraucht hat, aber ...
+00:35:53:03,00:35:54:19,von dem Zeug will ich auch was.
+00:36:00:03,00:36:04:11,"Jakobs goldene Leiter wird nach|oben hin rutschig."
+00:36:05:24,00:36:09:21,"Und schon viele fröhliche Heilige|stürzten tief, tief hinab."
+00:36:12:12,00:36:15:00,Ich frage mich wirklich, was|das alles bedeuten soll.
+00:36:21:07,00:36:22:07,Lori ...
+00:36:28:09,00:36:30:08,Das ist alles wirklich seltsam.
+00:36:31:08,00:36:34:13,Lori, zum letzten Mal. Bleib sitzen.
+00:36:35:04,00:36:37:17,Es gibt keine Monster, es gibt|keine Vampire ...
+00:36:37:17,00:36:39:12,Werwölfe oder Zombies, klar?
+00:36:39:16,00:36:41:11,Und wir haben hier ernsthaft zu tun.
+00:36:41:11,00:36:42:20,Hast du das verstanden?
+00:36:43:11,00:36:46:12,Oh, ich habe keine Ahnung,|was in sie gefahren ist.
+00:36:46:19,00:36:48:09,Vielleicht liegt es am Vollmond.
+00:36:48:10,00:36:51:15,Ich bin mir ziemlich sicher, daß noch|nie jemand in sie gefahren ist.
+00:36:53:20,00:36:55:03,Also machen wir weiter.
+00:36:56:07,00:37:01:01,"Ein riesiges Trugbild in der Ferne,|die Jagd nach dem Regenbogen."
+00:37:04:18,00:37:07:18,"Ich höre ein Poch-Poch-Pochen|in meiner Brust ..."
+00:37:08:02,00:37:10:16,"Ich höre ein Klopf-klopf-klopfendes|Geräusch."
+00:37:12:08,00:37:15:09,"Klopf-klopf-klopfen an der|Himmelstür."
+00:37:16:17,00:37:19:22,"Die Bäume sprechen zu mir,|also höre ich genau hin."
+00:37:19:23,00:37:22:13,"Ob sie still stehen oder|im Wind wehen ..."
+00:37:22:16,00:37:24:01,"Ich höre, wie sie singen."
+00:37:24:11,00:37:27:18,"Die Bäume sprechen, sie flüstern|eine süße Melodie."
+00:37:27:20,00:37:30:04,"Sie bewahren mehr Wissen als|du und ich."
+00:37:30:04,00:37:31:16,"Also höre ich genau hin."
+00:37:31:21,00:37:32:23,Also gut.
+00:37:33:02,00:37:36:03,Schön. Wir haben jetzt die ersten|vier Seiten gelesen.
+00:37:36:06,00:37:37:06,Und wißt ihr was?
+00:37:37:10,00:37:39:09,Ich habe nicht ein einziges|Wort verstanden!
+00:37:39:14,00:37:41:18,Lionel, bist du sicher,|daß dein Vater ...
+00:37:41:17,00:37:43:20,noch bei Sinnen war?
+00:37:43:24,00:37:45:17,Ich bin mir da nicht mehr so sicher.
+00:37:46:04,00:37:49:09,Äh, Leute? Habt ihr auch was bemerkt?
+00:37:50:02,00:37:51:20,Nein, was meinst du?
+00:37:51:24,00:37:53:24,Lori hat aufgehört zu jammern.
+00:37:54:07,00:37:56:14,He, jetzt, wo du es sagst ...
+00:37:56:16,00:37:58:21,Das wurde aber auch Zeit.
+00:38:00:00,00:38:01:20,Nun ...
+00:38:02:16,00:38:05:02,Du kannst also doch still sein.
+00:38:05:06,00:38:07:20,Siehst du? Das war doch gar|nicht so schwer, oder?
+00:38:09:19,00:38:11:07,Ich nehme dir das Ding mal ab.
+00:38:18:00,00:38:19:22,Also gut, Leute. Wir haben keine Wahl.
+00:38:20:15,00:38:22:09,Wir müssen es nochmal durchgehen.
+00:38:26:01,00:38:28:08,Wir müssen sichergehen, daß wir|nichts übersehen haben.
+00:38:28:12,00:38:30:01,Irgendwas muß es doch bedeuten.
+00:38:31:18,00:38:32:13,Wißt ihr ...
+00:38:32:20,00:38:35:16,Die Gründe meines Vaters mögen|schwer zu verstehen sein, aber ...
+00:38:35:16,00:38:37:11,ich bin mir sicher, daß er|nicht verrückt war.
+00:38:37:13,00:38:39:06,Das muß eine Art|Verschlüsselung sein.
+00:38:41:04,00:38:45:13,"Man beschuldigte die Tochter eines|Politikers, Wasser getrunken zu haben."
+00:38:45:13,00:38:48:11,He! He, ich kenne diese Zeile!
+00:38:49:00,00:38:50:08,- Wirklich?|- Was?
+00:38:50:19,00:38:54:02,Ja! ich wollte es euch sagen, aber|ihr habt mich ja nicht gelassen!
+00:38:55:01,00:38:55:23,Also gut ...
+00:38:57:02,00:38:58:03,Nun ...
+00:38:58:08,00:39:02:00,Weißt du, Lori, das klingt|irgendwie vertraut, aber ...
+00:39:02:00,00:39:03:24,ich kann mich nicht erinnern, wo|ich es zuerst gehört habe.
+00:39:04:02,00:39:05:06,Also, woher kommt es?
+00:39:05:08,00:39:08:04,Das ist ein altes Lied, das|Frank Sinatra gesungen hat.
+00:39:08:14,00:39:10:02,Es heißt: "Das Kaffee-Lied".
+00:39:10:14,00:39:12:14,Und es geht so:
+00:39:25:18,00:39:29:14,"Unten bei den Brasilianern wachsen|Milliarden Kaffeebohnen."
+00:39:29:14,00:39:32:20,"Also müssen sie mehr Tassen|finden, die sie füllen können."
+00:39:33:07,00:39:37:01,"Es gibt eine riesige Menge|Kaffee in Brasilien!"
+00:39:37:22,00:39:41:19,"Es gibt keine Kirschlimonade, denn|sie müssen ihr Soll erfüllen."
+00:39:41:23,00:39:45:02,"Und so wie es aussieht wette ich|sie werden es niemals schaffen."
+00:39:45:13,00:39:49:01,"Es gibt eine riesige Menge|Kaffee in Brasilien!"
+00:39:49:16,00:39:53:09,"Kein Tee oder Tomatensaft."
+00:39:53:21,00:39:57:08,"Es gibt keinen Kartoffelsaft."
+00:39:58:04,00:40:00:20,"Und all die afrikanischen|Bauern rufen:"
+00:40:01:01,00:40:02:08,"Hey! Hey! Hey!"
+00:40:02:09,00:40:06:02,"Man beschuldigte die Tochter eines|Politikers, Wasser getrunken zu haben."
+00:40:06:06,00:40:09:11,"Und sie bekam eine saftige|Strafe von fünfzig Dollar!"
+00:40:09:18,00:40:13:15,"Es gibt eine riesige Menge|Kaffee in Brasilien!"
+00:40:14:06,00:40:17:16,"Kein Tee oder Tomatensaft."
+00:40:18:04,00:40:21:17,"Es gibt keinen Kartoffelsaft."
+00:40:22:15,00:40:24:15,"Und all die afrikanischen|Bauern rufen:"
+00:40:24:18,00:40:26:18,"Hey! Hey! Hey!"
+00:40:26:23,00:40:28:22,"Und ihre Eier mit Speck ..."
+00:40:28:25,00:40:30:24,"würzen sie mit Kaffeeketchup."
+00:40:31:01,00:40:33:16,"Kaffeegurken verkaufen sich|besser als alles Grünzeug."
+00:40:34:04,00:40:37:22,"Es gibt eine riesige Menge|Kaffee in Brasilien!"
+00:40:42:08,00:40:45:23,"Es gibt eine riesige Menge|Kaffee in Brasilien!"
+00:40:46:14,00:40:47:19,"In Brasilien!"
+00:40:48:14,00:40:50:01,"In Brasilien!"
+00:40:50:10,00:40:53:20,"Es gibt eine riesige Menge|Kaffee in Brasilien!"
+00:40:54:04,00:40:55:15,"In Brasilien!"
+00:40:56:16,00:40:57:18,"In Brasilien!"
+00:41:14:05,00:41:15:09,Brasilien!
+00:41:18:18,00:41:19:22,Brasilien!
+00:41:20:15,00:41:22:06,- Brasilien!|- Brasilien!
+00:41:22:10,00:41:24:15,Lori! Brasilien! Das ist es!
+00:41:24:15,00:41:26:06,Oh, gut gemacht, Lori!
+00:41:26:06,00:41:28:08,Du hast den ersten Teil|des Rätsels gelöst!
+00:41:29:05,00:41:32:08,- Habe ich?|- Na bitte ...
+00:41:32:12,00:41:34:11,Also müssen wir nach Brasilien!
+00:41:34:12,00:41:37:02,Aber, Brasilien ist groß.
+00:41:37:02,00:41:39:19,Wir müssen herausfinden, wohin|wir genau gehen müssen.
+00:41:39:25,00:41:43:05,Kennt jemand die Namen der|wichtigsten brasilianischen Städte?
+00:41:43:08,00:41:46:10,Sicher! Das sind Brasilia, São Paulo,
+00:41:46:10,00:41:49:05,Rio de Janiero, Manaus, Natal,
+00:41:49:05,00:41:51:21,- Salvador, São Felix ...|- Äh, Halt, halt, halt!
+00:41:51:22,00:41:53:12,Wie war der letzte Name doch gleich?
+00:41:53:12,00:41:54:19,São Felix?
+00:41:54:24,00:41:58:17,São Felix könnte man frei als|"Der Fröhliche Heilige" übersetzen.
+00:41:58:23,00:42:00:17,Schaut euch diese Zeile|im Buch an:
+00:42:00:23,00:42:05:10,"Und schon viele fröhliche Heilige|stürzten tief, tief hinab."
+00:42:07:19,00:42:10:05,Also, ich muß schon sagen ...|Nicht schlecht!
+00:42:10:09,00:42:12:16,Also müssen wir nach São Felix|in Brasilien!
+00:42:12:24,00:42:15:06,Ah, São Felix.
+00:42:15:07,00:42:18:12,Eine schöne, alte Stadt am Rande|des brasilianischen Regenwaldes.
+00:42:18:21,00:42:21:06,Und was bedeuten die anderen Zeilen?
+00:42:22:15,00:42:25:19,"Ich höre ein Poch-Poch-Pochen|in meiner Brust ..."
+00:42:25:24,00:42:29:16,"Das ist der rollende Stein,|du weißt es, sobald er dich trifft."
+00:42:29:22,00:42:33:08,"Die Bäume sprechen zu mir,|also höre ich genau hin."
+00:42:33:09,00:42:35:08,Ich weiß es nicht, Lori, aber ...
+00:42:35:08,00:42:37:01,wir haben endlich einen Punkt,|an dem wir ansetzen können.
+00:42:37:04,00:42:39:23,Ich hoffe, diese Zeilen ergeben mehr|Sinn, wenn wir erst einmal da sind.
+00:42:41:08,00:42:44:16,Bitte nehmt den Rat eines|erfahrenen Archäologen an:
+00:42:44:18,00:42:46:15,Versucht Euch diese Zeilen zu merken.
+00:42:46:15,00:42:49:00,Ihr könntet getrennt werden,|oder das Buch verlieren.
+00:42:49:23,00:42:53:11,Also ist es entschieden. Wir werden den|brasilianischen Regenwald besuchen!
+00:42:55:03,00:42:56:24,Ah, Brasilien!
+00:42:56:25,00:43:00:22,So ein wundervolles Land voller|alter Geschichte und Abenteuer.
+00:43:01:01,00:43:02:20,Ich wünschte, ich könnte|mit Euch gehen.
+00:43:03:10,00:43:04:05,Nun ...
+00:43:04:11,00:43:06:13,Wenn Ihr wollt ... Wir können jede|Hilfe gut gebrauchen!
+00:43:06:15,00:43:08:04,Ja! Warum kommt Ihr nicht mit uns?
+00:43:08:14,00:43:10:19,Oh, vielen Dank für das Angebot!
+00:43:10:21,00:43:12:14,Aber ich kann wirklich nicht|mit euch gehen.
+00:43:12:17,00:43:14:12,Ich bin ein alter Mann ...
+00:43:14:13,00:43:18:01,und wenn ich nicht hierbleibe, wer wird|dann auf das Museum achtgeben?
+00:43:19:14,00:43:22:17,Ja, Kleines, es ist Zeit,|Abschied zu nehmen.
+00:43:22:24,00:43:25:15,Aber bevor Ihr geht, habe ich|noch etwas für Euch.
+00:43:26:06,00:43:28:04,Oh, was ist es? Was ist es?
+00:43:28:15,00:43:30:20,Hier! Bitte nehmt diese Flasche ...
+00:43:30:20,00:43:33:11,echten arabischen Mokkas als mein|Abschiedsgeschenk an.
+00:43:36:18,00:43:40:05,Vielen ... äh ... Dank ... Ich ...
+00:43:40:06,00:43:43:20,He, toll! Ich schulde dir was!|Das Zeug ist echt gut!
+00:43:45:18,00:43:48:04,Danke, Yussef! Das ist|sehr nett von Euch.
+00:43:48:10,00:43:51:05,Aber wir müssen nun los.|Zum brasilianischen Regenwald!
+00:43:51:08,00:43:53:04,Aber wie kommen wir dort hin?
+00:43:53:16,00:43:57:11,Folgt mir einfach! Ich kenne einen|geheimen Weg zum Flughafen.
+00:43:58:08,00:44:00:11,Warum wundert mich das nicht ...
+00:44:16:02,00:44:17:18,Es passiert etwas!
+00:44:18:04,00:44:19:16,Ich weiß nicht, was es ist ...
+00:44:19:19,00:44:21:14,aber ich spüre es.
+00:44:21:23,00:44:25:02,Mein Verlangen nach Freiheit|ist stärker als jemals zuvor.
+00:44:25:10,00:44:26:16,Ich bekomme keine Ruhe.
+00:44:26:23,00:44:29:09,Ich laufe in meinem|Gefängnis auf und ab ...
+00:44:29:08,00:44:30:24,so wie ein Tier in seinem Käfig.
+00:44:31:19,00:44:33:14,Ich wünschte, ich könnte klarer sehen.
+00:44:33:25,00:44:36:13,Es scheint, als käme jemand!
+00:44:37:05,00:44:38:10,Könnte es sein ...
+00:44:38:11,00:44:40:18,daß der Schlüssel nicht|verloren ging ...
+00:44:40:21,00:44:42:10,sondern nur an den falschen Ort geriet?
+00:44:43:02,00:44:44:24,Ich fühle Dunkelheit, aber ...
+00:44:45:06,00:44:46:17,es gibt auch Licht dort.
+00:44:47:06,00:44:49:04,Kommen sie, um mich zu befreien?
+00:44:49:22,00:44:51:18,Oder kommen sie, um mich zu töten?
+00:44:53:05,00:44:54:17,Sollen sie kommen!
+00:44:55:02,00:44:58:05,Ich mag alt sein, aber ich|bin nicht schwach!
+00:44:58:18,00:45:02:13,Ganz gleich ob Kriegslieder|oder Liebeslieder.
+00:45:02:14,00:45:05:02,Wenn ich nur singen darf!
+00:45:41:16,00:45:42:15,Poke?
+00:45:42:21,00:45:43:21,Poke.
+00:45:43:22,00:45:45:23,- Poke!|- Was?
+00:45:45:23,00:45:48:22,Während des gesamten Fluges|hast du dasselbe Lied ...
+00:45:48:22,00:45:51:18,wieder und wieder und wieder|und wieder gehört!
+00:45:52:20,00:45:55:08,Da wird man ja verrückt bei!
+00:45:55:14,00:45:59:24,Ich hab meine letzten drei Kröten für|die Abspiellizenz ausgegeben!
+00:46:00:07,00:46:02:22,Allerdings würde die Lizenz, um es|wieder von meiner Liste zu löschen ...
+00:46:02:22,00:46:04:02,weitere fünf Mücken kosten!
+00:46:05:08,00:46:06:11,Ich bin aber pleite!
+00:46:07:13,00:46:09:04,Also gut, also gut!
+00:46:09:04,00:46:10:19,Für das Wohl der Gesellschaft!
+00:46:11:09,00:46:12:18,Schaut in eure Taschen.
+00:46:13:04,00:46:15:04,Hat jemand von euch etwas|Kleingeld übrig ...
+00:46:15:04,00:46:17:01,damit wir das beenden können?
+00:46:21:19,00:46:24:20,Gut, dann wollen wir mal.
+00:46:30:16,00:46:33:10,Hallo! Hier spricht Ihr Pilot.
+00:46:33:12,00:46:36:21,Wir sind jetzt über dem brasilianischen|Regenwald nahe São Felix.
+00:46:36:23,00:46:38:07,Machen Sie sich zum Absprung bereit!
+00:46:38:06,00:46:41:01,Ich wiederhole:|Machen Sie sich zum Absprung bereit!
+00:46:42:07,00:46:43:12,Was?
+00:46:45:02,00:46:47:07,Machen Sie sich zum ...|Absprung bereit?
+00:46:48:02,00:46:50:21,Hast du wirklich geglaubt, das|wären Sicherheitsgurte?
+00:46:50:22,00:46:52:16,Na ja, irgendwo sind sie das ja auch.
+00:46:53:13,00:46:55:19,Erinnerst du dich nicht an die|Zeile aus dem Buch?
+00:46:55:20,00:47:00:08,"Und schon viele fröhliche Heilige|stürzten tief, tief hinab."
+00:47:00:22,00:47:03:24,Die Leitung von Flieg-Mit-Poke wünscht|Ihnen einen angenehmen Flug!
+00:47:06:17,00:47:09:00,Zähl bis drei und zieh an der Leine!
+00:47:09:01,00:47:10:03,Eins!
+00:47:10:17,00:47:12:00,Zwei!
+00:47:13:08,00:47:15:11,Drei! Ha ha!
+00:47:16:10,00:47:18:02,In Ordnung, Leute. Seid ihr bereit?
+00:47:18:03,00:47:19:07,Mika? Poke?
+00:47:19:07,00:47:20:19,- Fertig!|- Laß knacken!
+00:47:41:12,00:47:43:10,Oh, wunderbar!
+00:47:47:01,00:47:49:02,Das einzige Loch ...
+00:47:49:12,00:47:53:16,im Boden des gesamten|gottverdammten Regenwaldes ...
+00:47:54:02,00:47:56:14,und ich falle sofort hinein!
+00:47:58:05,00:48:00:12,Großartig ... einfach großartig.
+00:48:00:24,00:48:02:22,Ein neuer Weltrekord!
+00:48:02:23,00:48:05:20,Ich hab mir acht Krallen abgebrochen,|meine Frisur zerstört ...
+00:48:05:23,00:48:08:20,meine Klamotten zerrissen und|eine Schulter ausgerenkt ...
+00:48:08:20,00:48:10:14,und das in weniger als|zehn Sekunden!
+00:48:12:06,00:48:14:17,Das ist Platz zwei auf meiner Liste|der zehn schlimmsten Dinge ...
+00:48:14:17,00:48:16:02,die mir je passiert sind.
+00:48:16:08,00:48:17:18,Gleich hinter Platz eins:
+00:48:17:18,00:48:19:23,Mit einem Grabstein auf den|Kopf geschlagen werden!
+00:48:21:19,00:48:23:25,Und kann jemand mal dieses|Ding abschneiden?
+00:48:29:08,00:48:30:23,Ich würde jetzt gerne heulen ...
+00:48:31:09,00:48:33:11,Aber mir steht das alles bis oben hin!
+00:48:37:08,00:48:39:14,Ich wurde aus einem|Flugzeug geworfen ...
+00:48:40:00,00:48:42:12,bin in den brasilianischen|Regenwald gestürzt ...
+00:48:42:14,00:48:44:12,und in dieser dunklen Höhle gelandet,
+00:48:44:12,00:48:46:08,die offensichtlich keinen|weiteren Ausgang hat,
+00:48:46:08,00:48:48:06,als das Loch, durch|das ich gefallen bin,
+00:48:48:08,00:48:50:08,und das ich von hier unten|nicht erreichen kann.
+00:48:51:16,00:48:54:19,Es kann unmöglich noch|schlimmer werden.
+00:48:59:06,00:49:00:13,Oh oh ...
+00:49:05:12,00:49:08:22,Oh nein! Diesmal nicht! Diesmal nicht!
+00:49:09:08,00:49:10:12,Stopp!
+00:49:22:09,00:49:25:14,Das ist so deprimierend ...
+00:49:29:07,00:49:32:25,Tausend Jahre hab ich gewartet, bis|der nächste Abenteurer ...
+00:49:33:00,00:49:35:21,in meine Höhle kommt, um von mir|zermalmt zu werden ...
+00:49:36:07,00:49:39:15,Und jetzt rennen sie nicht|mal mehr vor mir weg.
+00:49:40:10,00:49:43:01,Das ist so deprimierend.
+00:49:44:17,00:49:47:17,Du wirst mich nicht zermalmen?
+00:49:48:05,00:49:51:11,Oh, das kann ich immer noch|tun, wenn du willst.
+00:49:52:02,00:49:53:03,Obwohl ...
+00:49:53:05,00:49:55:20,Wenn du nicht davonläufst,|macht es keinen großen Spaß.
+00:49:56:04,00:49:58:16,Halt still. Ich mach es kurz.
+00:49:58:20,00:50:00:10,Oh, nein, nein, neinneinnein.
+00:50:00:10,00:50:02:24,Ich hab's mir anders überlegt,|danke vielmals.
+00:50:04:02,00:50:05:08,Wie heißt du?
+00:50:05:15,00:50:07:05,Ist das wichtig?
+00:50:07:15,00:50:09:16,Für mich? Ja, ist es.
+00:50:09:22,00:50:11:16,Ich hatte mal einen Namen ...
+00:50:11:20,00:50:14:17,aber ich bin zu deprimiert, um|mich an ihn zu erinnern.
+00:50:16:04,00:50:18:20,Warum bist du so deprimiert?
+00:50:18:23,00:50:22:16,Nun, bist du froh, hier unten zu sein?
+00:50:23:21,00:50:25:17,Äh, nein. Warum?
+00:50:25:20,00:50:27:06,Siehst du!
+00:50:27:14,00:50:30:09,Sie haben mich hier in die|Höhle gebracht und gesagt:
+00:50:30:12,00:50:32:16,"Paß auf diesen leuchtenden|Stein auf!"
+00:50:32:20,00:50:35:22,"Wenn ihn jemand anfassen will,|zermalme ihn!"
+00:50:36:02,00:50:38:02,Sie redeten mir ein, daß es eine ...
+00:50:38:02,00:50:40:04,unglaublich ehrwürdige Aufgabe sei ...
+00:50:40:05,00:50:43:00,und daß ich eines Tages reich dafür|belohnt werden würde.
+00:50:43:08,00:50:44:12,Und dann sagten sie:
+00:50:44:14,00:50:45:18,"Lebe wohl!" ...
+00:50:45:19,00:50:48:02,und brachten den Eingang der|Höhle zum Einsturz.
+00:50:48:15,00:50:51:16,Ich komme mir so dumm vor!
+00:50:52:16,00:50:53:24,Hast du denn nie versucht ...
+00:50:53:24,00:50:56:13,die Barriere am Höhleneingang|zu durchbrechen?
+00:50:56:22,00:50:58:19,Das habe ich einmal versucht ...
+00:50:59:02,00:51:02:01,Alles, was passierte, war ein lautes|"Knirsch!"
+00:51:02:09,00:51:04:24,Und als ich wieder zur Besinnung|kam, sah ich,
+00:51:05:03,00:51:08:04,daß einige kleine Stücke von|mir abgefallen waren.
+00:51:08:12,00:51:09:18,Hm ... Autsch!
+00:51:09:20,00:51:11:16,Das muß sehr weh getan haben.
+00:51:11:20,00:51:12:22,Es tat weh.
+00:51:13:04,00:51:15:03,Aber das war nicht das Schlimmste.
+00:51:15:18,00:51:17:15,Nicht? Was ist passiert?
+00:51:19:04,00:51:21:11,Papa! Papa!
+00:51:21:13,00:51:23:10,Papa! Papa!
+00:51:23:17,00:51:25:10,- Papa!|- Oh nein ...
+00:51:25:22,00:51:28:02,Nicht ihr schon wieder ...
+00:51:36:09,00:51:39:09,"Papa ist ein rollender Stein!"
+00:51:40:22,00:51:44:10,"Der Abenteurer zermalmt, die in|sein Heim hineinfallen!"
+00:51:44:16,00:51:46:20,"Und wenn sie tot sind,"
+00:51:46:23,00:51:51:10,"Bleiben nur gebrochene|Knochen zurück."
+00:51:59:16,00:52:02:18,"Es war am dritten September."
+00:52:03:25,00:52:07:02,"An diesen Tag werde ich|mich ewig erinnern."
+00:52:09:14,00:52:11:15,"Denn an diesem Tag ..."
+00:52:12:03,00:52:15:08,"verstand ich ..."
+00:52:18:01,00:52:21:12,"Daß ich niemals die Chance bekomme|von hier zu verschwinden."
+00:52:22:04,00:52:25:24,"Ich hab nur Kiesel im Hirn|doch ich versuche zu entkommen."
+00:52:26:13,00:52:29:03,"Kinder ich brauche eure Hilfe,"
+00:52:29:08,00:52:31:16,"um hier herauszukommen!"
+00:52:31:19,00:52:34:14,"Aber nein, stattdessen singen sie:"
+00:52:34:22,00:52:37:16,"Papa ist ein rollender Stein!"
+00:52:39:05,00:52:42:20,"Der Abenteurer zermalmt, die in|sein Heim hineinfallen!"
+00:52:43:02,00:52:45:02,"Und wenn sie tot sind,"
+00:52:45:07,00:52:49:06,"Bleiben nur gebrochene|Knochen zurück."
+00:52:51:12,00:52:54:06,"Papa ist ein rollender Stein!"
+00:52:55:25,00:52:59:11,"Der Abenteurer zermalmt, die in|sein Heim hineinfallen!"
+00:52:59:16,00:53:01:14,"Und wenn sie tot sind,"
+00:53:01:21,00:53:06:00,"Bleiben nur gebrochene|Knochen zurück."
+00:53:26:01,00:53:26:21,Siehst du?
+00:53:27:02,00:53:29:10,Das ist das einzige Lied,|was sie kennen.
+00:53:29:14,00:53:31:08,Und sie singen es jeden Tag ...
+00:53:31:08,00:53:33:02,seit tausenden von Jahren.
+00:53:33:12,00:53:36:04,Mann, ich bin so deprimiert.
+00:53:36:18,00:53:38:10,Ich werde dich jetzt zermalmen.
+00:53:38:10,00:53:41:02,Nein! Nein nein nein,|warte, warte, warte, warte!
+00:53:41:23,00:53:44:22,Du erinnerst mich an etwas,|das ich in einem Buch gelesen habe!
+00:53:46:24,00:53:51:04,"Das ist der rollende Stein,|nicht zu schnell oder zu langsam."
+00:53:51:10,00:53:55:13,"Das ist der rollende Stein,|du weißt es, sobald er dich trifft."
+00:53:55:20,00:53:58:06,Man hat ein Buch über|mich geschrieben?
+00:53:58:06,00:53:58:22,Ja!
+00:53:58:24,00:54:01:15,Es ist das Tagebuch des|weltbekannten ...
+00:54:03:01,00:54:04:18,Steinkundlers ...
+00:54:04:20,00:54:06:20,Dr. Christopher Scruffycat.
+00:54:07:01,00:54:09:06,Weißt du was? Du bist berühmt!
+00:54:09:07,00:54:11:01,Deswegen kenne ich dich!
+00:54:11:02,00:54:12:16,Na großartig!
+00:54:12:16,00:54:14:07,Also bin ich jetzt berühmt.
+00:54:14:16,00:54:19:06,Aber was nützt mir das, wenn|ich hier nicht herauskomme?
+00:54:19:09,00:54:20:09,Danke.
+00:54:20:09,00:54:23:16,Jetzt bin ich noch deprimierter|als jemals zuvor.
+00:54:25:06,00:54:27:22,Aber du kannst hier herauskommen!
+00:54:27:24,00:54:30:18,Du mußt nur die Barriere durchbrechen.
+00:54:30:22,00:54:33:21,Das habe ich schon versucht,|und es war ein Fehlschlag.
+00:54:33:21,00:54:35:10,Jetzt hör mir mal zu!
+00:54:35:19,00:54:38:20,Deine Fehlschläge sollten nicht das|sein, was dich ausmacht!
+00:54:39:06,00:54:41:17,Es ist nur dann ein Fehlschlag|wenn du es nicht versuchst!
+00:54:42:00,00:54:44:19,- Aber ich habe es versucht!|- Dann versuche es nochmal!
+00:54:45:10,00:54:47:06,Du bist ein kräftiger Stein ...
+00:54:47:06,00:54:48:22,und zum rollen gemacht!
+00:54:50:04,00:54:51:22,Glaubst du wirklich?
+00:54:51:25,00:54:54:09,Klar, ich muß es wissen.|Ich habe das Buch gelesen!
+00:54:54:16,00:54:56:16,Du bist der stärkste Stein der Welt!
+00:54:56:22,00:54:59:06,Na los! Sag mir, daß du es kannst!
+00:55:00:02,00:55:01:12,Kann ich?
+00:55:01:16,00:55:04:02,Komm schon! Ich weiß,|daß du es kannst!
+00:55:04:02,00:55:05:13,Gib mir ein "S"!
+00:55:05:16,00:55:06:16,"S"?
+00:55:07:00,00:55:08:15,Gib mir ein "T"!
+00:55:08:17,00:55:10:20,- "T"!|- Gib mir ein "EI"!
+00:55:10:20,00:55:12:20,- "EI"!|- Gib mir ein "N"!
+00:55:12:21,00:55:13:21,"N"!
+00:55:13:21,00:55:15:14,Wer bist du?
+00:55:15:15,00:55:18:02,Ich bin "Der Stein"!
+00:55:18:02,00:55:18:24,Ja!
+00:55:19:16,00:55:21:10,Und jetzt gehst du da raus ...
+00:55:21:10,00:55:22:16,und zeigst es ihnen!
+00:55:22:16,00:55:24:23,- Ja!|- Niemand kann dich aufhalten!
+00:55:24:24,00:55:27:01,Los, los los!
+00:55:27:02,00:55:30:02,- Los geht's!|- Ja!
+00:55:37:22,00:55:40:12,Ja! Du hast es geschafft! Du bist toll!
+00:55:40:12,00:55:42:22,- Fantastisch!|- Ja!
+00:55:44:10,00:55:46:21,Die Macht der positiven Gedanken!
+00:55:49:00,00:55:50:13,Es steckt doch viel Wahrheit in:
+00:55:50:12,00:55:51:18,"Er hat nur Kiesel im Hirn."
+00:55:51:24,00:55:53:12,Ich bin frei!
+00:55:53:15,00:55:55:07,Wie wundervoll!
+00:55:55:10,00:55:58:15,Die Blumen blühen und|die Vögel singen!
+00:55:58:17,00:56:00:20,Und ... und ...
+00:56:00:23,00:56:03:06,Oh, und ich bin auf einem|Abhang gelandet!
+00:56:04:12,00:56:07:01,Aus dem Weg! Ich kann nicht anhalten!
+00:56:07:04,00:56:08:17,Es geht abwärts!
+00:56:10:02,00:56:12:14,Nein, nein! Nicht der Baum!
+00:56:12:20,00:56:14:10,Vorsicht!
+00:56:15:01,00:56:16:07,Entschuldigung!
+00:56:16:11,00:56:18:22,Oh nein! Vorsicht, Mütterchen!
+00:56:18:22,00:56:20:04,Aus dem Weg!
+00:56:23:16,00:56:27:08,Oh nein, nein! Nicht der Kerl|mit dem Obststand!
+00:56:28:07,00:56:30:22,Vaffanculo! Puttano! Bastardo!|Pompino! Cabeza de mierda!
+00:56:30:22,00:56:32:08,Melonas! Ananas! Bananas!
+00:56:32:10,00:56:33:18,Tut mir leid!
+00:56:40:14,00:56:42:10,Das ist also das leuchtende Ding ...
+00:56:42:10,00:56:44:06,das der Stein beschützen sollte.
+00:56:45:04,00:56:47:04,Ich frage mich, wozu es gut sein mag.
+00:57:04:01,00:57:06:03,Und es macht seltsame Geräusche.
+00:57:06:15,00:57:09:03,Ich nehme es besser mit,|man weiß ja nie.
+00:57:10:16,00:57:13:06,Oh schaut! Schaut!|Sie stiehlt den leuchtenden Stein!
+00:57:13:07,00:57:14:12,Wir müssen sie zermalmen!
+00:57:14:23,00:57:16:03,Wir müssen sie zermalmen!
+00:57:20:00,00:57:21:08,Ich werde sie zermalmen!
+00:57:45:02,00:57:48:09,Eins! Zwei! Drei!
+00:57:48:09,00:57:49:24,Zieh an der Leine!
+00:57:50:15,00:57:51:20,Es passiert nichts!
+00:57:51:20,00:57:54:02,Nein, Lionel! Zieh nochmal!
+00:57:54:02,00:57:57:07,Er geht nicht auf! Hilfe! Hilfe!
+00:58:04:07,00:58:05:20,Lionel?
+00:58:05:23,00:58:07:12,Lionel!
+00:58:07:13,00:58:08:19,Kannst du mich hören?
+00:58:08:20,00:58:09:24,Kannst du mich hören?
+00:58:09:24,00:58:11:09,Oh, wach auf, Lionel!
+00:58:11:09,00:58:12:22,Du mußt aufwachen!
+00:58:12:23,00:58:14:15,Oh, bitte, Lionel!
+00:58:15:08,00:58:16:22,Du darfst nicht sterben!
+00:58:17:06,00:58:19:19,Nicht hier, nicht jetzt!
+00:58:20:04,00:58:21:19,Lionel!
+00:58:26:04,00:58:27:12,Hallo?
+00:58:29:16,00:58:30:21,Wo bin ich?
+00:58:31:21,00:58:33:06,Ist hier jemand?
+00:58:34:05,00:58:35:12,Bin ich tot?
+00:58:46:11,00:58:49:08,Hallo Lionel!
+00:58:50:06,00:58:52:12,Wie gefällt es dir hier unten?
+00:58:52:17,00:58:54:06,Fühlst du dich wohl?
+00:58:54:10,00:58:59:01,Denn jetzt ist es an der Zeit|nachzudenken, Lionel!
+00:58:59:17,00:59:01:24,Warum bist du nach|Ägypten geflogen?
+00:59:02:11,00:59:06:01,Etwa, weil du den Wunsch deines|Vaters respektiert hast?
+00:59:06:12,00:59:08:24,Oder eher, weil du gehofft hast,
+00:59:09:02,00:59:11:04,daß dein Erbe mehr|beinhalten würde ...
+00:59:11:05,00:59:13:18,als nur ein staubiges Buch?
+00:59:14:15,00:59:17:00,Hast du auf Geld gehofft?
+00:59:17:02,00:59:19:16,Gold? Schätze?
+00:59:19:24,00:59:22:01,Hättest du den Weg auf dich|genommen ...
+00:59:22:02,00:59:24:16,wenn du gewußt hättest, was|dein Erbe sein würde?
+00:59:25:12,00:59:27:00,Na komm!
+00:59:27:03,00:59:30:14,Jetzt, da alles vorbei ist,|kannst du es zugeben.
+00:59:31:04,00:59:34:03,War es die Sache Wert, daß|einer deiner besten Freunde ...
+00:59:34:04,00:59:38:04,bei 5000 Fuß aus einem|Flugzeug geworfen wurde?
+00:59:39:12,00:59:41:20,Denk nach, Lionel!
+00:59:42:03,00:59:43:25,Denk nach!
+00:59:44:23,00:59:45:19,Aber ...
+00:59:46:14,00:59:48:16,Aber ich ... ich habe nur ...
+00:59:49:22,00:59:51:08,Nun ...
+00:59:52:00,00:59:54:03,Laß mich bitte erklären ...
+00:59:55:13,00:59:56:18,Lori!
+00:59:58:00,01:00:00:10,Lori, bitte! Nein!
+01:00:02:24,01:00:04:09,Laß mich erklären!
+01:00:05:09,01:00:06:19,Poke?
+01:00:07:02,01:00:10:13,Juchu! Lionel!
+01:00:10:22,01:00:12:08,Mein Held!
+01:00:12:11,01:00:14:14,Dieser Sturz durch die Bäume ...
+01:00:14:14,01:00:16:02,Traum-haft!
+01:00:16:07,01:00:18:14,Dein Vater wäre stolz|auf dich gewesen.
+01:00:18:18,01:00:20:15,Das heißt, wenn du|überlebt hättest.
+01:00:20:22,01:00:22:04,Na komm!
+01:00:22:09,01:00:25:00,Jetzt, da es vorbei ist,|ist doch alles egal!
+01:00:25:02,01:00:26:13,Besaufen wir uns!
+01:00:26:20,01:00:28:16,Ich möchte ein Hoch aussprechen ...
+01:00:28:16,01:00:32:04,auf den traumhaften|Lionel Scruffycat!
+01:00:32:07,01:00:35:11,Er kam ums Leben während er|dumm genug war zu versuchen,
+01:00:35:11,01:00:38:22,die Versäumnisse eines ganzen|Lebens in einer Woche nachzuholen.
+01:00:38:22,01:00:40:01,Prost!
+01:00:40:15,01:00:43:12,Poke, Poke! Das ist nicht wahr!
+01:00:43:20,01:00:44:20,Nein ...
+01:00:44:25,01:00:47:18,Zumindest nicht ... ganz.
+01:00:48:04,01:00:49:14,Poke ...
+01:00:50:10,01:00:52:22,Warum hört mir denn niemand zu?
+01:00:56:03,01:00:57:04,Vater?
+01:00:57:11,01:00:59:24,Bist du es? Du lebst?
+01:01:00:18,01:01:03:14,Das hat dich die letzten|zehn Jahre nicht interessiert,
+01:01:03:15,01:01:05:18,also warum interessiert es dich jetzt?
+01:01:05:24,01:01:07:08,Nein, ich ...
+01:01:07:10,01:01:09:12,Hör mich an ... bitte!
+01:01:09:15,01:01:11:08,Wir haben nicht viel Zeit.
+01:01:11:13,01:01:13:23,Du bist mein Sohn, und für mich ...
+01:01:13:24,01:01:15:07,warst du immer das Wertvollste ...
+01:01:15:07,01:01:16:19,auf der ganzen Welt.
+01:01:16:24,01:01:19:24,Daß ich dich so alleine lassen mußte|war die schwerste Entscheidung,
+01:01:20:02,01:01:21:14,die ich jemals treffen mußte.
+01:01:21:15,01:01:23:09,Aber es standen Dinge auf dem Spiel ...
+01:01:23:09,01:01:24:19,die so wichtig waren ...
+01:01:24:24,01:01:27:22,nicht nur für dich, sondern|für die ganze Welt ...
+01:01:27:24,01:01:29:22,daß ich keine andere Wahl hatte.
+01:01:30:04,01:01:32:08,Du mußt mir vertrauen. Bitte!
+01:01:32:10,01:01:34:09,Es macht mich traurig, daß ...
+01:01:34:10,01:01:35:16,du nicht mehr an mich glaubst.
+01:01:35:21,01:01:37:04,Doch es ist nicht zu spät!
+01:01:37:10,01:01:39:10,Du mußt mein Erbe vollenden ...
+01:01:39:10,01:01:41:22,oder die Welt könnte für immer|verändert werden!
+01:01:42:01,01:01:44:10,Vertraue mir, Lionel! Denn ...
+01:01:44:11,01:01:45:16,ich bin dein Vater.
+01:01:45:22,01:01:47:15,Ich bin stolz auf dich, Lionel.
+01:01:47:17,01:01:49:05,Und das war ich immer.
+01:01:49:16,01:01:50:24,Ich liebe dich.
+01:01:52:08,01:01:54:19,Nein! Vater! Komm zurück!
+01:01:54:22,01:01:56:01,Verlaß mich nicht!
+01:01:56:12,01:01:57:24,Verlaß mich nicht wieder.
+01:01:58:09,01:02:01:04,Es gibt so vieles, was ich dir sagen|muß und es nie getan habe ...
+01:02:01:04,01:02:02:10,auch wenn ich es gesollt hätte.
+01:02:02:16,01:02:04:24,Vater ... bitte ...
+01:02:11:19,01:02:13:20,Oh, Lionel!
+01:02:13:21,01:02:17:10,Jetzt siehst du, wohin du dich|mit Logik gebracht hast!
+01:02:17:19,01:02:20:20,Wenn du doch nur einmal|deinem Herzen gefolgt wärst.
+01:02:21:06,01:02:23:07,Jetzt hast du nicht nur dich selbst,
+01:02:23:11,01:02:25:22,sondern all deine Freunde in|Gefahr gebracht!
+01:02:26:03,01:02:27:12,Und warum?
+01:02:27:20,01:02:29:19,Weil du ein Feigling bist!
+01:02:30:06,01:02:33:08,Der einzige Grund, warum du nie mit|deinem Vater gesprochen hast, war ...
+01:02:33:11,01:02:36:19,daß du Angst hattest, dich mit|ihm zu konfrontieren.
+01:02:37:05,01:02:38:24,Was bist du?
+01:02:39:02,01:02:41:04,Ein großer, starker Löwe?
+01:02:41:12,01:02:43:09,Ich werde dir sagen, was du bist:
+01:02:43:12,01:02:44:20,Du bist ein Schaf!
+01:02:44:23,01:02:46:20,Määääh! Lionel!
+01:02:46:21,01:02:48:19,Ich wette, als du in der Schule warst,
+01:02:48:21,01:02:51:04,da haben dich die Mädchen verhauen!
+01:02:55:23,01:02:56:20,Autsch!
+01:02:57:00,01:02:58:08,Das tat weh!
+01:02:58:11,01:03:00:05,Och, jetzt komm!
+01:03:00:07,01:03:02:07,Traust du dich, zurückzuschlagen?
+01:03:02:08,01:03:05:02,Och, komm! Du traust dich|nicht, mich zu schlagen?
+01:03:05:07,01:03:08:24,Lionel ist ein Feigling!|Lionel ist ein Feigling!
+01:03:09:01,01:03:10:06,Määääh!
+01:03:11:21,01:03:14:05,Mika, nicht! Hör bitte auf|mich zu schlagen!
+01:03:15:02,01:03:18:06,Du bekommst nur, was du|verdienst, Lionel!
+01:03:18:12,01:03:21:02,Manchmal tut die|Wahrheit eben weh!
+01:03:21:04,01:03:23:05,Och, komm! Kämpfe!
+01:03:23:07,01:03:24:09,Kämpfe!
+01:03:24:10,01:03:25:13,Du Feigling!
+01:03:25:14,01:03:27:14,Lerne endlich zu kämpfen!
+01:03:27:22,01:03:30:16,Niemand legt sich mit Mika an!
+01:03:30:24,01:03:33:08,Nein, nein, nein! Ich will nicht!
+01:03:33:08,01:03:36:22,Bitte nicht! Nein! Autsch!
+01:03:37:00,01:03:39:08,Nein, nicht! Schlag mich bitte nicht!
+01:03:42:15,01:03:43:16,Lionel!
+01:03:43:24,01:03:45:06,Lionel!
+01:03:45:10,01:03:46:21,Wach auf!
+01:03:46:24,01:03:48:24,Bitte! Komm schon, Lionel!
+01:03:49:01,01:03:50:14,Du darfst nicht sterben!
+01:03:50:16,01:03:52:06,Lionel!
+01:03:53:16,01:03:55:08,Wir sind so weit gekommen!
+01:03:55:13,01:03:57:04,Du darfst mich jetzt nicht verlassen!
+01:03:57:07,01:03:58:24,Verlaß mich nicht!
+01:04:01:01,01:04:02:10,Oh nein ...
+01:04:02:20,01:04:04:13,Das darf nicht wahr sein!
+01:04:04:20,01:04:06:04,Oh, Lionel!
+01:04:06:11,01:04:08:11,Ich kann ohne dich nicht leben!
+01:04:08:20,01:04:11:11,Und es gibt so vieles, was|ich dir sagen wollte, aber ...
+01:04:11:18,01:04:13:00,ich habe mich nie getraut.
+01:04:13:08,01:04:15:01,Oh, bitte!
+01:04:16:23,01:04:18:17,Ich hatte nie die Gelegenheit,|dir zu sagen ...
+01:04:18:17,01:04:20:04,wie sehr ich dich liebe!
+01:04:21:14,01:04:23:10,Was soll ich jetzt tun?
+01:04:23:20,01:04:25:20,Oh, das ist so furchtbar!
+01:04:29:06,01:04:30:18,- Au!|- Lionel!
+01:04:30:24,01:04:32:18,Lionel! Du lebst!
+01:04:32:22,01:04:34:00,Lionel!
+01:04:34:06,01:04:37:02,Nein! Schlag mich nicht!|Bitte! Schlag mich nicht!
+01:04:38:01,01:04:39:11,Bist du in Ordnung?
+01:04:39:23,01:04:42:03,Ich dachte ich hätte dich für|immer verloren!
+01:04:44:06,01:04:46:13,Mein Kopf tut höllisch weh ...
+01:04:46:13,01:04:49:06,und mir ist ziemlich schwindlig.
+01:04:52:15,01:04:55:06,Oh, ich bin so froh, daß|du am Leben bist!
+01:04:56:24,01:04:58:07,Ich auch.
+01:04:59:09,01:05:00:14,Was ist passiert?
+01:05:00:22,01:05:02:12,Dein Fallschirm ging nicht auf.
+01:05:02:18,01:05:04:13,Aber der Baum hat|deinen Sturz gebremst.
+01:05:10:14,01:05:12:10,Ich muß riesiges Glück gehabt haben.
+01:05:12:10,01:05:14:04,Ich glaube, ich habe mir|nichts gebrochen.
+01:05:16:09,01:05:17:20,Oh, Mika ...
+01:05:17:24,01:05:21:13,Mika, ich finde es so furchtbar,|wie ich meinen Vater behandelt habe.
+01:05:21:16,01:05:23:08,Ach komm, Lionel.
+01:05:23:09,01:05:25:05,Mach dich nicht selber fertig.
+01:05:25:08,01:05:28:10,Immerhin erweist du ihm jetzt|die letzte Ehre.
+01:05:28:16,01:05:30:16,Und du hast sogar|dein Leben dafür riskiert.
+01:05:30:25,01:05:32:25,Was könnte ein Vater mehr verlangen?
+01:05:33:08,01:05:35:20,Nein, Mika, du verstehst nicht!
+01:05:36:03,01:05:37:19,Mein Vater ist tot ...
+01:05:38:04,01:05:39:20,Nichts, was ich heute tue|kann das wieder gutmachen,
+01:05:39:20,01:05:41:02,was ich die vergangenen zehn Jahre ...
+01:05:41:02,01:05:42:13,nicht getan habe.
+01:05:43:05,01:05:44:20,Verstehst du nicht, Mika?
+01:05:44:22,01:05:49:02,Ich war derjenige, der die ganze Zeit|nur an sich selbst gedacht hat.
+01:05:49:15,01:05:51:02,Ich bin sogar nur hierhergekommen ...
+01:05:51:02,01:05:52:24,um meine Neugier zu befriedigen.
+01:05:53:09,01:05:56:10,Und damit habe ich mich und meine|besten Freunde in Gefahr gebracht
+01:05:56:13,01:05:57:19,Schau mich an!
+01:05:57:21,01:06:00:00,Dasselbe hätte dir passieren können!
+01:06:00:00,01:06:01:00,Oder Poke!
+01:06:01:02,01:06:03:08,Oder ist vielleicht Lori passiert!
+01:06:03:14,01:06:06:09,Ich sehe sie nicht einmal hier!
+01:06:06:11,01:06:08:15,Wo sind sie? Sie könnten tot sein ...
+01:06:08:15,01:06:10:25,und es ist alles meine Schuld!
+01:06:11:00,01:06:14:06,Ruhig ... ruhig, Lionel ... Schh ...
+01:06:16:12,01:06:19:13,Ruhig ... Beruhige dich.|Es ist schon gut.
+01:06:19:20,01:06:21:13,Mach dich nicht selber fertig.
+01:06:21:23,01:06:23:06,Wir sind deine Freunde!
+01:06:23:08,01:06:26:02,Du hast uns nicht gezwungen, mit|dir zu kommen, erinnerst du dich?
+01:06:26:22,01:06:29:05,Ja ... du hast recht.
+01:06:29:06,01:06:31:07,Siehst du ...
+01:06:32:01,01:06:34:19,Du lebst, und ich lebe auch.
+01:06:34:22,01:06:38:02,Und ich bin sicher, den anderen|geht es ebenfalls gut.
+01:06:38:04,01:06:40:06,Och, komm! Nicht weinen.
+01:06:40:12,01:06:42:02,Es ist gut.
+01:06:42:10,01:06:43:21,Oh, Mika ...
+01:06:43:21,01:06:46:01,Mika, ich bin so froh, daß du da bist.
+01:06:46:08,01:06:48:02,Und ich bin froh, daß du da bist.
+01:06:49:15,01:06:50:21,Mika ...
+01:06:51:05,01:06:52:10,Was soll ich tun?
+01:06:53:04,01:06:54:13,Was sollen wir tun?
+01:06:54:21,01:06:57:14,Wir sind mitten in den Dschungel|gestürzt und ...
+01:06:57:19,01:06:59:16,Jetzt verstehe ich gar nichts mehr.
+01:07:00:19,01:07:04:05,Bisher dachte ich immer, ich wüßte,|was ich tun muß ...
+01:07:04:09,01:07:06:14,aber diesesmal habe ich keinen|blassen Schimmer ...
+01:07:07:08,01:07:08:22,Ich verstehe gar nichts mehr.
+01:07:10:07,01:07:13:05,Was - soll - ich - tun?
+01:07:13:17,01:07:16:22,Zuerst einmal damit aufhören, meinen|Stamm mit deinem Kopf zu bearbeiten.
+01:07:21:07,01:07:22:14,Wer spricht da?
+01:07:22:20,01:07:25:06,Derjenige, der dein Leben gerettet hat.
+01:07:26:23,01:07:29:10,Ein sprechender Baum?
+01:07:29:16,01:07:32:18,Gut beobachtet, Mister Holmes.
+01:07:33:07,01:07:37:00,Und denkt einfach gar nicht daran,|mir für deine Rettung zu danken,
+01:07:37:04,01:07:39:24,für die ich mindestens zwei Äste ...
+01:07:40:02,01:07:42:20,ein Dutzend Zweige und zahllose|Blätter geopfert habe.
+01:07:43:04,01:07:45:21,Es wird Jahre dauern, bis das|nachgewachsen ist.
+01:07:46:01,01:07:48:03,Ein sprechender Baum!
+01:07:48:04,01:07:49:06,Lionel!
+01:07:49:07,01:07:50:23,Erinnerst du dich an die|Zeile aus dem Buch?
+01:07:51:06,01:07:54:22,"Die Bäume sprechen zu mir,|also höre ich genau hin."
+01:07:57:24,01:07:59:18,Dann sind wir auf der|richtigen Fährte!
+01:08:00:07,01:08:02:12,He! He, Baum! Hast du einen Namen?
+01:08:02:24,01:08:04:15,Und danke, daß du mir|das Leben gerettet hast!
+01:08:05:06,01:08:07:15,Ihr könnt mich "Herr Baum" nennen.
+01:08:10:02,01:08:11:10,Und, gerne geschehen.
+01:08:12:06,01:08:14:23,Also dann - äh - Herr Baum.
+01:08:15:02,01:08:17:12,Anscheinend brauchen wir |noch einmal deine Hilfe.
+01:08:17:21,01:08:19:08,Wir suchen etwas ...
+01:08:19:09,01:08:21:14,aber wir wissen nicht|genau, was es ist.
+01:08:21:18,01:08:23:20,Es könnte eine Karte sein,|ein Hinweis,
+01:08:23:20,01:08:25:22,ein Artefakt oder etwas in der Art.
+01:08:26:03,01:08:27:22,Es wurde in einem Buch erwähnt ...
+01:08:27:22,01:08:30:02,und da ging es um einen|sprechenden Baum, wie dich.
+01:08:30:14,01:08:32:22,Weißt du vielleicht irgendwas,|das uns weiterhelfen könnte?
+01:08:33:00,01:08:36:02,Oh, ja. Woher wißt ihr das?
+01:08:36:09,01:08:40:11,In der Tat bin ich der Hüter|eines sehr mächtigen Artefakts.
+01:08:40:20,01:08:44:06,Man gab es mir vor mehr|als tausend Jahren.
+01:08:44:14,01:08:45:24,Was ist es?
+01:08:46:12,01:08:48:01,Das darf ich euch nicht sagen ...
+01:08:48:04,01:08:50:02,es sei denn, ihr könnt beweisen ...
+01:08:50:02,01:08:52:22,daß ihr diejenigen seid,|für die es bestimmt ist.
+01:08:52:24,01:08:55:09,Und wie sollen wir das machen?
+01:08:55:19,01:08:57:22,Nun, wenn ihr es seid ...
+01:08:57:24,01:09:00:02,dann solltet ihr das wissen.
+01:09:00:10,01:09:01:09,Scheiße.
+01:09:01:17,01:09:03:10,Das bedeutet, wir stecken fest.
+01:09:04:10,01:09:06:11,Lionel, hast du das Tagebuch noch?
+01:09:08:24,01:09:10:12,Nein, ich muß es verloren haben ...
+01:09:10:12,01:09:12:10,als ich in Herrn Baum, unserem|Freund, gestürzt bin.
+01:09:14:04,01:09:16:21,He! So kann ich mich|nicht konzentrieren!
+01:09:16:23,01:09:19:08,Hört das Gesäge mal langsam auf?
+01:09:19:09,01:09:22:08,Wir versuchen uns hier|zu unterhalten!
+01:09:30:01,01:09:31:20,Hey ihr! Seid ihr verrückt?
+01:09:31:21,01:09:33:07,Was macht ihr hier?
+01:09:33:08,01:09:35:18,Ich wollte dich gerade dasselbe fragen.
+01:09:35:19,01:09:37:23,Sieht man das nicht?|Ich rode den Regenwald.
+01:09:38:08,01:09:39:18,Du rodest ...
+01:09:39:18,01:09:41:06,Ich fälle Bäume, schlage Holz,
+01:09:41:06,01:09:42:22,lichte das Unterholz und so weiter.
+01:09:43:15,01:09:46:04,Und der da ist der nächste.|Nummer "696".
+01:09:46:04,01:09:48:22,Also dann, Leute, geht aus dem Weg.|Das ist gefährlich.
+01:09:53:02,01:09:57:09,Nein! Das darfst du nicht tun!|Hör auf! Bitte!
+01:09:57:19,01:09:59:16,Leg das Ding weg!
+01:10:01:08,01:10:02:24,Also gut. Wer hat euch geschickt?
+01:10:02:24,01:10:05:04,Greenpeace? Robin Wood?|World Wildlife Fund?
+01:10:05:04,01:10:07:00,Der Baumknuddlerverein|aus Oklahoma City?
+01:10:07:01,01:10:08:21,Die Vereinigung besorgter Eltern|aus Minnesota?
+01:10:08:22,01:10:10:24,Hä? Wovon sprichst du?
+01:10:10:25,01:10:14:03,Wir kommen vom "Museum der|vergessenen Künste" in Kairo.
+01:10:15:05,01:10:18:21,Kannst du nicht einen anderen Baum|als diesen fällen?
+01:10:18:24,01:10:20:21,Nun, es gibt eine Menge|Bäume im Regenwald ...
+01:10:20:21,01:10:22:16,Große, kleine, alte, junge,
+01:10:22:16,01:10:24:21,manche haben mehr Blätter,|andere haben weniger Blätter, also ...
+01:10:24:22,01:10:28:10,müssen wir für die beste Holzqualität|schon etwas genauer herangehen.
+01:10:31:10,01:10:32:15,Autsch.
+01:10:33:06,01:10:36:10,Aber das darfst du nicht tun!|Er ist unser Freund.
+01:10:37:08,01:10:39:02,Er hat mir das Leben gerettet.
+01:10:39:04,01:10:41:12,Äh ... was zum ...
+01:10:41:14,01:10:43:21,Ach, egal. Ich habe genug|gehört. Aus dem Weg!
+01:10:45:14,01:10:46:21,Nein!
+01:10:48:14,01:10:49:11,Nicht!
+01:10:49:22,01:10:52:12,Nein! Du wirst dich diesem|Baum nicht nähern!
+01:10:53:22,01:10:56:10,Mika, ich habe etwas gelernt.
+01:10:56:10,01:10:59:07,Manchmal kommt man mit|Logik einfach nicht weiter.
+01:10:59:09,01:11:03:04,Wir können diesem Kerl hier so viel|erzählen, wie wir wollen ...
+01:11:03:04,01:11:05:02,er wird es nicht verstehen.
+01:11:06:06,01:11:07:24,Jetzt hör mir mal zu, Panda!
+01:11:08:01,01:11:09:14,Du darfst diesen Baum nicht fällen ...
+01:11:09:14,01:11:12:01,weil ich meines Vaters Erbe|erfüllen muß.
+01:11:12:03,01:11:15:12,Ich habe mich zu lange von meinem|Vater distanziert, aber ich sage dir,
+01:11:15:12,01:11:17:13,Ich, Lionel C. Scruffycat,
+01:11:17:13,01:11:20:02,bin stolz darauf, der Sohn von|Christopher Scruffycat zu sein.
+01:11:20:04,01:11:21:18,Möge er in Frieden ruhen!
+01:11:21:19,01:11:24:06,Und ich verteidige diesen Baum ...
+01:11:24:09,01:11:25:20,im Namen meines Vaters.
+01:11:25:20,01:11:27:22,Und wenn du ihn|niederstrecken willst ...
+01:11:27:22,01:11:30:11,mußt du zuerst mich niederstrecken.
+01:11:30:12,01:11:33:06,Was? Du bist der Sohn von|Christopher Scruffycat?
+01:11:33:07,01:11:36:00,Dem Christopher Scruffycat?|Dem Sänger?
+01:11:36:04,01:11:37:08,Du kanntest ihn?
+01:11:37:09,01:11:38:19,Na ja, nicht persönlich, aber ...
+01:11:38:19,01:11:40:17,als ich klein war, war ich|ein großer Fan.
+01:11:40:21,01:11:43:21,Ich besitze immer noch alle seine CDs.|Er ist eine Kindheitserinnerung.
+01:11:43:23,01:11:46:12,Ich habe mich immer gefragt, was nach| seinem Abschied aus ihm geworden ist.
+01:11:46:13,01:11:49:00,Ah, okay ... Okay, dann ...
+01:11:49:01,01:11:52:09,Hör zu ... Mein Vater ist|vor vier Tagen gestorben ...
+01:11:52:10,01:11:54:12,und ich bin hier, um seinen|letzten Willen zu erfüllen.
+01:11:54:20,01:11:57:09,Ich kann es dir nicht|erklären, aber ...
+01:11:57:12,01:11:59:17,Dieser Baum ist ein Teil davon.
+01:11:59:19,01:12:01:00,Ich darf dich ihn nicht töten lassen.
+01:12:01:09,01:12:02:08,Alle Achtung!
+01:12:02:08,01:12:05:08,Du machst das alles hier nur wegen|deines Vaters letzten Willens durch.
+01:12:05:08,01:12:06:18,Ziemlich beeindruckend.
+01:12:07:00,01:12:10:04,Du mußt ja einen Riesenrespekt|vor deinem Vater haben.
+01:12:12:12,01:12:13:18,Autsch.
+01:12:14:05,01:12:16:15,Na ja ... Ich tue was ich kann.
+01:12:16:21,01:12:19:01,WIßt ihr, ich würde diesen Baum|wirklich gerne verschonen, aber ...
+01:12:19:01,01:12:21:08,ich muß mich an meinen Auftrag halten,|oder ich verliere meinen Job.
+01:12:21:10,01:12:24:23,Hm ... wartet ... Welche Nummer|hatte dieser Baum noch gleich?
+01:12:25:00,01:12:26:18,"696"?
+01:12:30:02,01:12:31:21,Laßt mal sehen.
+01:12:41:14,01:12:44:11,Oh, wartet mal! Da muß eine|Verwechslung vorliegen!
+01:12:44:14,01:12:46:17,Dieser Baum hat die Nummer "969".
+01:12:46:18,01:12:48:10,Und "969" steht nicht auf meiner Liste.
+01:12:48:11,01:12:51:02,Ich Dummkopf hätte fast|den falschen Baum gefällt!
+01:12:51:10,01:12:53:14,Äh ... du meinst ...
+01:12:53:16,01:12:56:09,Oh, ich verstehe. Vielen Dank!
+01:12:57:02,01:12:58:10,Entschuldigt das Mißverständnis.
+01:12:58:10,01:12:59:15,Schönen Tag noch!
+01:13:12:24,01:13:14:22,Puh!
+01:13:15:07,01:13:17:10,Das war knapp!
+01:13:17:17,01:13:19:08,In der Tat.
+01:13:19:23,01:13:24:16,Nun gut, dieses Mal habt ihr|mein Leben gerettet.
+01:13:25:00,01:13:26:08,Danke!
+01:13:26:18,01:13:28:19,Jetzt habt ihr etwas gut bei mir.
+01:13:29:00,01:13:31:02,Was kann ich für euch tun?
+01:13:31:04,01:13:35:07,Nun, du sagtest, du wärst der Hüter|eines gewissen Artefaktes ...
+01:13:35:16,01:13:37:03,In Ordnung!
+01:13:37:05,01:13:38:15,Ihr sollt es haben.
+01:13:38:18,01:13:40:19,Es hat schon ewig niemand|mehr danach gefragt.
+01:13:40:19,01:13:43:06,Also warum sollte ich es|euch nicht geben?
+01:14:00:06,01:14:02:10,Was um aller Welt ist das?
+01:14:03:16,01:14:05:20,Es ist ein geheimes Artefakt.
+01:14:06:24,01:14:08:10,Das Problem mit Geheimnissen ist ...
+01:14:08:10,01:14:10:18,daß niemand davon wissen soll.
+01:14:12:21,01:14:16:13,Es wurde mir von sowas wie einem|Hohepriester gegeben ...
+01:14:16:18,01:14:19:07,Und er hat mir einfach nicht gesagt,|was es ist.
+01:14:19:09,01:14:21:04,Also kann ich es euch|auch nicht sagen.
+01:14:21:05,01:14:22:14,Tut mir leid.
+01:14:22:20,01:14:24:20,Wir werden es noch herausfinden.
+01:14:24:24,01:14:28:02,Aber zuerst müssen wir den|Rest unserer Gruppe finden.
+01:14:28:10,01:14:30:06,Dann lebt wohl.
+01:14:30:10,01:14:33:00,Und nochmals vielen Dank dafür,|daß ihr mir das Leben gerettet habt.
+01:14:33:06,01:14:35:06,Ich werde mich als gute Freunde|an euch erinnern.
+01:14:35:16,01:14:38:11,Ich hoffe ihr kommt eines Tages wieder.
+01:14:38:16,01:14:40:02,Auf Wiedersehen, Herr Baum!
+01:14:40:04,01:14:41:09,Auf Wiedersehen!
+01:14:41:15,01:14:43:12,Komm Mika, laß uns gehen.
+01:14:57:14,01:14:59:21,United Pawcel Service!
+01:15:00:02,01:15:05:07,Paket für "Baum, Herr, 696"?
+01:15:10:11,01:15:12:05,He, he!
+01:15:12:05,01:15:14:00,Das ist für mich!
+01:15:14:07,01:15:16:13,Äh, warten Sie! Uff ...
+01:15:31:16,01:15:34:02,- Lori?|- Lori?
+01:15:34:14,01:15:36:16,Lori!
+01:15:37:06,01:15:38:15,Lori!
+01:15:39:03,01:15:42:09,- Lori! Wo bist du?|- Lori?
+01:15:46:15,01:15:48:09,Lori!
+01:15:49:02,01:15:51:04,- Lori?|- Lori!
+01:15:52:02,01:15:53:01,Lori!
+01:15:54:24,01:15:57:21,Lionel? Mika!
+01:15:58:11,01:16:01:03,Lionel! Wo seid ihr?
+01:16:01:06,01:16:03:24,Lionel? Mika!
+01:16:05:04,01:16:06:05,Lori?
+01:16:07:08,01:16:08:17,Lori?
+01:16:11:09,01:16:12:16,Aaah! Lionel!
+01:16:12:16,01:16:15:13,Weibchen! Weibchen! Weibchen!
+01:16:15:14,01:16:16:13,Mika?
+01:16:16:14,01:16:18:06,Mika!
+01:16:21:10,01:16:22:19,Lionel?
+01:16:23:24,01:16:24:24,Mika!
+01:16:25:04,01:16:26:20,Lionel!
+01:16:27:24,01:16:28:24,Lori?
+01:16:28:24,01:16:30:19,- Lionel?|- Lori!
+01:16:30:20,01:16:32:12,- Lionel!|- Lori!
+01:16:32:12,01:16:34:18,- Lionel|- Lori!
+01:16:35:24,01:16:36:20,Lionel?
+01:16:36:22,01:16:38:25,- Mika?|- Lionel!
+01:16:39:16,01:16:40:18,Mika!
+01:16:40:19,01:16:42:17,- Lori!|- Mika!
+01:16:46:20,01:16:48:15,- Poke?|- Poke?
+01:16:51:18,01:16:55:05,Ich bin hier oben! Hier! Im Baum!
+01:17:00:00,01:17:01:02,Poke!
+01:17:01:08,01:17:03:04,Was machst du da oben?
+01:17:03:10,01:17:05:23,Klasse! Baumfesselspiele im Freien!
+01:17:14:23,01:17:16:06,Wie unartig!
+01:17:17:18,01:17:20:03,Was zum Teufel glaubt ihr wohl,|was ich hier mache?
+01:17:20:04,01:17:21:20,Ich hänge seit drei|beschissenen Stunden ...
+01:17:21:20,01:17:23:24,in diesem beschissenen Baum!
+01:17:24:02,01:17:25:20,Und es geht mir langsam ...
+01:17:25:20,01:17:27:05,auf den verdammten Senkel!
+01:17:29:11,01:17:32:18,Ich kann deine Bällchen sehen!
+01:17:38:01,01:17:39:07,Scheiße!
+01:17:39:08,01:17:41:18,Ihr blöden Idioten! Holt mich|gefälligst aus diesem Scheißbaum ...
+01:17:41:18,01:17:43:19,damit ich runterkommen und euch|in eure blöden Ärsche treten kann!
+01:17:46:08,01:17:47:21,Das würde ich gerne tun!
+01:17:47:21,01:17:49:25,Aber wie sollen wir das machen, hä?
+01:17:50:00,01:17:52:15,Mir furzegal, holt mich einfach runter!
+01:17:55:08,01:17:57:24,Also gut, also gut. Wir|müssen uns was einfallen lassen.
+01:17:57:24,01:17:59:10,Wie holen wir ihn da runter?
+01:17:59:19,01:18:02:01,Vorzugsweise ohne Arschtritt ...
+01:18:02:01,01:18:03:10,verstanden, Poke?
+01:18:05:00,01:18:07:02,Können wir ihn nicht|einfach da oben lassen?
+01:18:09:02,01:18:11:01,Mein Tag war so schon schlimm genug.
+01:18:11:04,01:18:12:10,Nein!
+01:18:13:02,01:18:14:04,Na gut ...
+01:18:14:16,01:18:17:24,Wir könnten ... Kokosnüsse|werfen, bis er herunterfällt.
+01:18:19:11,01:18:20:16,Vergiß es!
+01:18:21:14,01:18:25:00,Na gut, dann ... binden wir Dynamit|an den Baum und ...
+01:18:25:00,01:18:26:04,Ka-Wumm!
+01:18:26:05,01:18:27:18,Sofortige Entfesselung!
+01:18:27:18,01:18:29:01,- Nein!|- Nein!
+01:18:30:03,01:18:31:02,Na dann ...
+01:18:31:02,01:18:32:18,Wenn ihr meine|Vorschläge nicht mögt ...
+01:18:32:18,01:18:34:05,kann ich auch gleich die Klappe halten.
+01:18:34:06,01:18:36:07,Mir hört ja sowieso keiner zu.
+01:18:46:23,01:18:49:04,Lori, fang nicht wieder damit an.
+01:18:49:04,01:18:51:05,Ich bin mit meinen Nerven am Ende,
+01:18:51:05,01:18:53:24,und das kann ich jetzt als|allerletztes gebrauchen.
+01:18:54:08,01:18:55:22,- Wir sollten wirklich-|- Psst!
+01:18:56:14,01:18:58:01,Habt ihr das gehört?
+01:18:58:11,01:19:00:04,Ich glaube, da kommt jemand!
+01:19:02:01,01:19:04:03,Aah, der tat gut!
+01:19:09:19,01:19:12:08,Okay, es war nur Poke.
+01:19:12:08,01:19:13:20,Wo waren wir?
+01:19:13:22,01:19:16:13,Also, das hat mich jetzt|total rausgebracht.
+01:19:16:16,01:19:18:10,Ich glaube, ich wollte sagen-
+01:19:18:10,01:19:19:07,Keine Bewegung!
+01:19:19:10,01:19:21:06,Hier ist das THX!
+01:19:29:07,01:19:32:13,Na schau an, wen haben wir denn da?
+01:19:32:18,01:19:35:04,Ihr seid verhaftet!
+01:19:35:06,01:19:37:15,Keine falsche Bewegung ...
+01:19:37:18,01:19:39:10,sonst ...
+01:19:40:19,01:19:45:00,Es ist wirklich ärgerlich,|Mr. Lionel Scruffycat.
+01:19:45:16,01:19:49:18,Was auch immer wir versuchen,|Sie wollen einfach nicht sterben.
+01:19:50:00,01:19:52:13,Ich habe keine Ahnung, wie Sie|es geschafft haben.
+01:19:52:16,01:19:56:01,Ihr Fallschirm hätte sich|niemals öffnen sollen.
+01:19:56:06,01:19:59:20,In der Tat. Das hat er nicht.
+01:20:00:04,01:20:02:21,Sie scheinen ein ziemlich|zäher Bursche zu sein.
+01:20:03:01,01:20:06:04,Aber das wird Ihnen auch|nichts mehr nützen.
+01:20:06:06,01:20:08:16,Denn jetzt werden Sie|mit uns mitkommen!
+01:20:08:22,01:20:12:00,Oh, Sie! Sie haben versucht,|Lionel umzubringen?
+01:20:12:02,01:20:13:14,Sie Mistkerl!
+01:20:13:23,01:20:16:14,Warten Sie nur ab! Ich werde|Ihnen den Bauch aufschlitzen ...
+01:20:16:14,01:20:17:21,und Ihr Blut trinken ...
+01:20:17:21,01:20:19:10,während Ihr Herz noch schlägt!
+01:20:19:10,01:20:22:03,Ich bringe Sie um! Ich bringe Sie um!
+01:20:28:06,01:20:32:03,Ah, Katzen kann man so|leicht überwältigen.
+01:20:32:14,01:20:35:12,Man packt sie einfach im Genick ...
+01:20:35:14,01:20:39:03,und löst die Tragstarre aus.
+01:20:40:10,01:20:42:22,Ach, ist sie nicht süß?
+01:20:42:22,01:20:44:15,Katzitatzischatzi!
+01:20:45:09,01:20:48:08,Wie um alles in der Welt ist es Ihnen|gelungen, uns zu folgen ...
+01:20:48:08,01:20:51:06,ohne eine Kopie des Buches zu haben?
+01:20:51:08,01:20:53:13,Nun, das war einfach.
+01:20:53:14,01:20:57:18,Es ist wahr, Sie haben die einzige|Kopie dieses Buches, aber ...
+01:20:57:18,01:21:00:13,hier ist ein kleiner Tipp|für Ihr nächstes Abenteuer:
+01:21:00:16,01:21:03:02,Wenn Sie sich geheime|Dokumente ansehen ...
+01:21:03:03,01:21:04:22,dann sollte Sie das besser nicht ...
+01:21:04:22,01:21:07:03,direkt unter einer|Überwachungskamera tun.
+01:21:07:14,01:21:08:22,Nein!
+01:21:10:19,01:21:12:13,Nun gut. Genug geredet!
+01:21:12:13,01:21:15:17,Meine Damen und Herren,|Ihre Reise ist hier zu Ende.
+01:21:15:22,01:21:18:18,Ich weiß nicht, was der Produzent|mit Ihnen vor hat ...
+01:21:18:18,01:21:20:22,aber es wird sicher nicht angenehm.
+01:21:21:05,01:21:22:10,Also vorwärts.
+01:21:22:20,01:21:24:16,Ich sagte: "Vorwärts"!
+01:21:25:19,01:21:28:24,Das können Sie nicht machen,|ich bin Amerikanerin!
+01:21:29:02,01:21:30:10,Schnauze!
+01:21:30:23,01:21:32:03,Vorwärts!
+01:21:45:14,01:22:12:24,Die Reise geht weiter|auf DVD 2.
