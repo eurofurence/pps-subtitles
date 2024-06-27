@@ -937,25 +937,25 @@ my Producer!
 At your service, oh mighty Producer!
 
 221
-00:11:59,349 --> 00:12:00,489
+00:11:59,454 --> 00:12:00,489
 Very well!
 
 222
-00:12:00,689 --> 00:12:03,989
+00:12:00,689 --> 00:12:03,924
 Gentlemen, I have called you
 to this special meeting...
 
 223
-00:12:03,989 --> 00:12:06,039
+00:12:03,949 --> 00:12:06,146
 because I'm deeply disappointed!
 
 224
-00:12:07,009 --> 00:12:09,499
+00:12:07,043 --> 00:12:09,499
 I have just read the latest
 sales report.
 
 225
-00:12:09,779 --> 00:12:13,159
+00:12:09,847 --> 00:12:13,159
 Our profit has increased by
 fifty percent...
 
@@ -965,24 +965,24 @@ and this is way below the
 expectations for this quarter.
 
 227
-00:12:17,589 --> 00:12:19,589
+00:12:17,631 --> 00:12:19,589
 I find this lack of growth...
 
 228
-00:12:19,889 --> 00:12:21,269
+00:12:19,934 --> 00:12:21,269
 disturbing.
 
 229
-00:12:22,209 --> 00:12:25,439
+00:12:22,175 --> 00:12:25,439
 How do you expect me to explain
 this to our shareholders?
 
 230
-00:12:27,389 --> 00:12:28,929
+00:12:27,501 --> 00:12:28,918
 My Producer...
 
 231
-00:12:28,979 --> 00:12:31,449
+00:12:28,943 --> 00:12:31,449
 we... perhaps...well...
 
 232
@@ -996,7 +996,7 @@ and it seems, people have become
 strangely inspired lately.
 
 234
-00:12:39,379 --> 00:12:42,569
+00:12:39,414 --> 00:12:42,569
 Strangely inspired, you say...
 
 235
@@ -1004,35 +1004,35 @@ Strangely inspired, you say...
 That's hard to believe.
 
 236
-00:12:44,079 --> 00:12:46,219
+00:12:44,123 --> 00:12:46,219
 What do you have to
 back up your claim?
 
 237
-00:12:46,519 --> 00:12:49,529
+00:12:46,441 --> 00:12:49,493
 My numbers indicate that
 a lot of people are singing...
 
 238
-00:12:49,589 --> 00:12:52,429
+00:12:49,518 --> 00:12:52,429
 unlicenced material under the shower!
 
 239
-00:12:56,869 --> 00:13:00,479
+00:12:57,046 --> 00:13:00,507
 And I just received a report
 of incidences of children...
 
 240
-00:13:00,479 --> 00:13:03,279
+00:13:00,532 --> 00:13:03,450
 in kindergartens being taught
 public domain nursery songs.
 
 241
-00:13:03,279 --> 00:13:05,679
+00:13:03,475 --> 00:13:05,679
 Officially! By their teachers!
 
 242
-00:13:05,679 --> 00:13:07,159
+00:13:05,901 --> 00:13:07,159
 Imagine that!
 
 243
@@ -1058,12 +1058,12 @@ Which one? "mp3"?
 Idiot!
 
 248
-00:13:39,439 --> 00:13:42,929
+00:13:39,488 --> 00:13:42,929
 Don't say this again! You know what
 the punishment is!
 
 249
-00:13:44,219 --> 00:13:45,899
+00:13:44,254 --> 00:13:45,899
 Ja, my Producer!
 
 250
@@ -1076,22 +1076,22 @@ members of the corporation.
 Silence, you fool!
 
 252
-00:13:55,019 --> 00:13:58,529
+00:13:55,079 --> 00:13:58,529
 What was I about to say?
 Ah, yes!
 
 253
-00:13:59,019 --> 00:14:02,579
+00:13:59,113 --> 00:14:02,579
 It seems that the power of inspiration
 is on the rise again.
 
 254
-00:14:03,099 --> 00:14:06,799
+00:14:03,018 --> 00:14:06,799
 This development has always been
 my deepest concern.
 
 255
-00:14:06,949 --> 00:14:09,909
+00:14:07,081 --> 00:14:09,909
 All sources of inspiration are
 under our control.
 
@@ -1100,11 +1100,11 @@ under our control.
 I don't understand how this can be.
 
 257
-00:14:12,679 --> 00:14:14,569
+00:14:12,727 --> 00:14:14,569
 Something must have happened.
 
 258
-00:14:15,129 --> 00:14:17,219
+00:14:15,055 --> 00:14:17,219
 Perhaps the rumors are true.
 
 259
@@ -1112,11 +1112,11 @@ Perhaps the rumors are true.
 But no matter what,
 
 260
-00:14:20,139 --> 00:14:22,339
+00:14:20,033 --> 00:14:22,339
 we must take action. Quickly.
 
 261
-00:14:23,089 --> 00:14:26,029
+00:14:23,026 --> 00:14:26,029
 Firstly, about the people
 singing under the shower.
 
@@ -1153,49 +1153,49 @@ We must increase our presence
 in schools and kindergartens...
 
 269
-00:14:49,039 --> 00:14:51,949
+00:14:49,039 --> 00:14:51,832
 teaching them that singing
 public domain songs...
 
 270
-00:14:51,949 --> 00:14:53,739
+00:14:51,857 --> 00:14:53,739
 means depriving hard working
 artists...
 
 271
-00:14:53,869 --> 00:14:55,799
+00:14:53,837 --> 00:14:55,799
 from their God-given right to profit!
 
 272
-00:14:56,549 --> 00:14:59,979
+00:14:56,631 --> 00:14:59,979
 We must educate them that
 licencing is good...
 
 273
-00:15:00,269 --> 00:15:02,319
-and sharing is evil.
+00:15:00,076 --> 00:15:02,319
+and that sharing is evil.
 
 274
-00:15:03,359 --> 00:15:05,069
+00:15:03,432 --> 00:15:05,069
 As you command, my Producer!
 
 275
-00:15:07,409 --> 00:15:11,179
+00:15:07,813 --> 00:15:11,179
 Okay... Now what are we going
 to do with you?
 
 276
-00:15:11,179 --> 00:15:16,029
+00:15:11,179 --> 00:15:15,599
 What are you suggesting in order
 to redeem yourself?
 
 277
-00:15:16,599 --> 00:15:19,989
+00:15:15,925 --> 00:15:19,989
 I... I beg your forgiveness,
 my Producer!
 
 278
-00:15:19,989 --> 00:15:21,829
+00:15:20,017 --> 00:15:21,829
 I didn't mean to cause any harm!
 
 279
@@ -1207,24 +1207,24 @@ Please! Have mercy!
 I only said "mp..." that word two times...
 
 281
-00:15:28,309 --> 00:15:29,659
+00:15:28,203 --> 00:15:29,659
 and... and...
 
 282
-00:15:29,739 --> 00:15:31,649
+00:15:29,684 --> 00:15:31,649
 Yes. And?
 
 283
-00:15:33,329 --> 00:15:36,369
+00:15:33,403 --> 00:15:36,369
 And I promise, I will never
 say "mp3" again!
 
 284
-00:15:39,749 --> 00:15:42,939
+00:15:39,841 --> 00:15:42,939
 Okay, that's enough! Three times!
 
 285
-00:15:43,209 --> 00:15:45,239
+00:15:43,152 --> 00:15:45,239
 Your behavior is intolerable!
 
 286
@@ -1233,37 +1233,37 @@ Your behavior is intolerable!
 - No!
 
 287
-00:15:48,669 --> 00:15:51,299
+00:15:48,601 --> 00:15:51,299
 What is your verdict, my Producer?
 
 288
-00:15:51,599 --> 00:15:53,829
+00:15:51,554 --> 00:15:53,829
 The punishment for saying the
 forbidden word is...
 
 289
-00:15:54,059 --> 00:15:56,499
+00:15:54,011 --> 00:15:56,451
 Death!
 By Britney's Spear!
 
 290
-00:16:04,219 --> 00:16:06,599
+00:16:04,257 --> 00:16:06,471
 No! No, not that! Please!
 
 291
-00:16:06,599 --> 00:16:09,329
+00:16:06,535 --> 00:16:09,329
 What a just decision, my Producer!
 
 292
-00:16:09,999 --> 00:16:11,459
+00:16:10,067 --> 00:16:11,459
 Britney!
 
 293
-00:16:26,869 --> 00:16:28,609
+00:16:26,959 --> 00:16:28,609
 Ja, my Producer?
 
 294
-00:16:29,349 --> 00:16:30,359
+00:16:29,284 --> 00:16:30,359
 Kill him!
 
 295
@@ -1271,11 +1271,11 @@ Kill him!
 My pleasure, my Producer!
 
 296
-00:17:03,099 --> 00:17:04,549
+00:17:03,116 --> 00:17:04,549
 Despicable!
 
 297
-00:17:05,859 --> 00:17:07,779
+00:17:05,908 --> 00:17:07,779
 Do we really sell this kind of music?
 
 298
@@ -1284,7 +1284,7 @@ Yes, we do. And actually it's
 quite successful!
 
 299
-00:17:11,639 --> 00:17:14,139
+00:17:11,811 --> 00:17:14,139
 I even got it as mp... uh...
 
 300
@@ -1297,30 +1297,30 @@ Windows Media.
 My Producer! My Producer!
 
 302
-00:17:26,679 --> 00:17:28,789
+00:17:26,760 --> 00:17:28,789
 We have tapped into a phone call...
 
 303
-00:17:28,789 --> 00:17:31,639
+00:17:28,917 --> 00:17:31,639
 from the "Museum of Forgotten Arts"
 in Egypt.
 
 304
-00:17:32,719 --> 00:17:36,359
+00:17:32,656 --> 00:17:36,359
 We finally have the proof
 that your theory is true.
 
 305
-00:17:36,789 --> 00:17:38,979
+00:17:36,882 --> 00:17:38,979
 The document really exists...
 
 306
-00:17:39,129 --> 00:17:43,379
+00:17:39,059 --> 00:17:43,379
 and the old Lion's son is already on
 his way to claim his heritage.
 
 307
-00:17:44,759 --> 00:17:46,639
+00:17:44,985 --> 00:17:46,639
 Right on cue!
 
 308
@@ -1329,35 +1329,35 @@ So... Mr. Scruffycat senior
 really found it!
 
 309
-00:17:51,639 --> 00:17:53,019
+00:17:51,669 --> 00:17:53,019
 Remarkable.
 
 310
-00:17:53,399 --> 00:17:56,279
+00:17:53,423 --> 00:17:56,279
 And now he's trying to pass it on
 to his son.
 
 311
-00:17:56,719 --> 00:18:00,249
+00:17:56,967 --> 00:18:00,249
 I always knew he couldn't keep
 a secret to himself.
 
 312
-00:18:00,629 --> 00:18:03,439
+00:18:00,701 --> 00:18:03,439
 Too bad for him. Good for us, though.
 
 313
-00:18:04,209 --> 00:18:07,919
+00:18:04,415 --> 00:18:07,919
 Send two of our best men to Cairo
 and get it before he does!
 
 314
-00:18:08,109 --> 00:18:11,369
+00:18:08,241 --> 00:18:11,369
 It's the key to gaining control over
 all music on this planet!
 
 315
-00:18:11,499 --> 00:18:13,889
+00:18:11,537 --> 00:18:13,889
 And we must not miss this opportunity!
 
 316
@@ -1369,12 +1369,12 @@ Ja, my Producer!
 Christopher Scruffycat!
 
 318
-00:18:20,789 --> 00:18:24,549
+00:18:20,917 --> 00:18:24,549
 You have tried to cross my plans
 so many times...
 
 319
-00:18:24,829 --> 00:18:26,109
+00:18:24,957 --> 00:18:26,109
 but not tis time!
 
 320
@@ -1383,33 +1383,33 @@ When all this is over I'll be
 the richest man in the world!
 
 321
-00:18:31,399 --> 00:18:33,489
+00:18:31,696 --> 00:18:33,489
 Thank you, old Lion.
 
 322
-00:18:33,969 --> 00:18:36,139
+00:18:33,814 --> 00:18:36,139
 I wouldn't have made it without you!
 
 323
-00:19:13,419 --> 00:19:14,569
+00:19:13,539 --> 00:19:14,569
 Salaam Alaykum!
 
 324
-00:19:14,569 --> 00:19:18,059
+00:19:14,645 --> 00:19:18,059
 Welcome to the "Museum of
 Forgotten Arts" my honored friends.
 
 325
-00:19:18,059 --> 00:19:21,639
+00:19:18,200 --> 00:19:21,639
 My name is Yussef Al-Kali.
 I have been waiting for you.
 
 326
-00:19:22,019 --> 00:19:23,859
+00:19:22,155 --> 00:19:23,859
 Alaykum Salaam.
 
 327
-00:19:24,029 --> 00:19:26,929
+00:19:24,125 --> 00:19:26,929
 Hi dude! Al-Kali?
 
 328
@@ -1418,7 +1418,7 @@ Aren't you that guy who invented
 the Energizer Bunny?
 
 329
-00:19:30,779 --> 00:19:33,479
+00:19:30,917 --> 00:19:33,479
 I mean last time I put the
 batteries in backwards...
 
@@ -1433,11 +1433,11 @@ Poke! That's not the way to
 greet a man like him!
 
 332
-00:19:41,119 --> 00:19:43,429
+00:19:41,697 --> 00:19:43,429
 Let me show you how it's done.
 
 333
-00:19:45,709 --> 00:19:50,099
+00:19:45,817 --> 00:19:50,099
 Alaykum Salaam, Yussef Al-Kali!
 My name is Loreena McFolkmanis...
 
