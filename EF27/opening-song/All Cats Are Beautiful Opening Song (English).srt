@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:26,216 --> 00:00:32,625
 I feel this uniform's weight
 
@@ -56,7 +56,7 @@ Dark nights have set me free,
 
 15
 00:02:07,987 --> 00:02:10,893
-Eyes with no light,
+Eyes with no lies,
 
 16
 00:02:11,094 --> 00:02:14,567
@@ -108,7 +108,7 @@ Dark nights have set me free,
 
 28
 00:03:20,340 --> 00:03:23,330
-Eyes with no light,
+Eyes with no lies,
 
 29
 00:03:23,495 --> 00:03:26,875
@@ -116,7 +116,7 @@ In all cats are beautiful
 
 30
 00:03:26,966 --> 00:03:31,995
-With love I can't deny
+With love I can't deny.
 
 31
 00:03:45,890 --> 00:03:50,900
